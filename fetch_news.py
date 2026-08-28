@@ -44,86 +44,9 @@ SOURCES = [
         "default_region": "América do Sul"
     },
     {
-        "id": "estadao_inter",
-        "name": "Estadão",
-        "url": "https://www.estadao.com.br/arc/outboundfeeds/rss/category/internacional/",
-        "is_brazilian": True,
-        "default_region": "América do Sul"
-    },
-    {
-        "id": "folha_mundo",
-        "name": "Folha de S.Paulo",
-        "url": "https://feeds.folha.uol.com.br/mundo/rss091.xml",
-        "is_brazilian": True,
-        "default_region": "América do Sul"
-    },
-    {
-        "id": "correio_braziliense",
-        "name": "Correio Braziliense",
-        "url": "https://www.correiobraziliense.com.br/rss/mundo/rss.xml",
-        "is_brazilian": True,
-        "default_region": "América do Sul"
-    },
-    {
-        "id": "carta_capital",
-        "name": "CartaCapital",
-        "url": "https://www.cartacapital.com.br/mundo/feed/",
-        "is_brazilian": True,
-        "default_region": "América do Sul"
-    },
-    {
-        "id": "exame_mundo",
-        "name": "Exame",
-        "url": "https://exame.com/bussiness/mundo/feed/",
-        "is_brazilian": True,
-        "default_region": "América do Sul"
-    },
-    {
-        "id": "valor_mundo",
-        "name": "Valor Econômico",
-        "url": "https://valor.globo.com/rss/mundo/",
-        "is_brazilian": True,
-        "default_region": "América do Sul"
-    },
-    {
-        "id": "elpais_brasil",
-        "name": "El País Brasil",
-        "url": "https://brasil.elpais.com/rss/brasil/portada.xml",
-        "is_brazilian": True,
-        "default_region": "América do Sul"
-    },
-    {
         "id": "dw_brasil",
         "name": "DW Brasil",
         "url": "https://rss.dw.com/rdf/rss-br-all",
-        "is_brazilian": False,
-        "default_region": "Europa"
-    },
-    {
-        "id": "le_monde_diplomatique",
-        "name": "Le Monde Diplomatique Brasil",
-        "url": "https://diplomatique.org.br/feed/",
-        "is_brazilian": True,
-        "default_region": "América do Sul"
-    },
-    {
-        "id": "onu_news",
-        "name": "ONU News",
-        "url": "https://news.un.org/feed/subscribe/pt/news/all/rss.xml",
-        "is_brazilian": False,
-        "default_region": "Global"
-    },
-    {
-        "id": "jornal_negocios",
-        "name": "Jornal de Negócios",
-        "url": "https://www.jornaldenegocios.pt/rss",
-        "is_brazilian": False,
-        "default_region": "Europa"
-    },
-    {
-        "id": "publico_portugal",
-        "name": "Público",
-        "url": "https://www.publico.pt/nos/rss/mundo",
         "is_brazilian": False,
         "default_region": "Europa"
     },
@@ -135,11 +58,18 @@ SOURCES = [
         "default_region": "Europa"
     },
     {
-        "id": "efe_agro",
-        "name": "EFE Agro",
-        "url": "https://efe.com.br/category/mundo/feed/",
+        "id": "onu_news",
+        "name": "ONU News",
+        "url": "https://news.un.org/feed/subscribe/pt/news/all/rss.xml",
         "is_brazilian": False,
-        "default_region": "Europa"
+        "default_region": "Global"
+    },
+    {
+        "id": "poder360",
+        "name": "Poder360",
+        "url": "https://www.poder360.com.br/feed/",
+        "is_brazilian": True,
+        "default_region": "América do Sul"
     },
     {
         "id": "bbc_world",
@@ -147,20 +77,6 @@ SOURCES = [
         "url": "http://feeds.bbci.co.uk/news/world/rss.xml",
         "is_brazilian": False,
         "default_region": "Global"
-    },
-    {
-        "id": "nytimes_world",
-        "name": "The New York Times",
-        "url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
-        "is_brazilian": False,
-        "default_region": "Global"
-    },
-    {
-        "id": "elpais_internacional",
-        "name": "El País",
-        "url": "https://elpais.com/rss/seccion/internacional",
-        "is_brazilian": False,
-        "default_region": "Europa"
     },
     {
         "id": "dw_english",
@@ -175,6 +91,41 @@ SOURCES = [
         "url": "https://www.aljazeera.com/xml/rss/all.xml",
         "is_brazilian": False,
         "default_region": "Oriente Médio"
+    },
+    {
+        "id": "france24",
+        "name": "France 24",
+        "url": "https://www.france24.com/en/rss",
+        "is_brazilian": False,
+        "default_region": "Europa"
+    },
+    {
+        "id": "npr",
+        "name": "NPR World News",
+        "url": "https://feeds.npr.org/1004/rss.xml",
+        "is_brazilian": False,
+        "default_region": "Global"
+    },
+    {
+        "id": "pbs_newshour",
+        "name": "PBS NewsHour",
+        "url": "https://www.pbs.org/newshour/feeds/rss/world",
+        "is_brazilian": False,
+        "default_region": "Global"
+    },
+    {
+        "id": "rtve",
+        "name": "RTVE Internacional",
+        "url": "https://www.rtve.es/rss/temas_internacional.xml",
+        "is_brazilian": False,
+        "default_region": "Europa"
+    },
+    {
+        "id": "europa_press",
+        "name": "Europa Press",
+        "url": "https://www.europapress.es/rss/rss.aspx?ch=00069",
+        "is_brazilian": False,
+        "default_region": "Europa"
     }
 ]
 
