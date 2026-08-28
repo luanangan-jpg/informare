@@ -308,14 +308,10 @@ def parse_date(date_str):
     return datetime.utcnow().isoformat() + "Z"
 
 def classify_region(title, summary, source_info):
-    """Classifica a notícia por região geográfica."""
-    # Se for fonte brasileira, força para América do Sul de forma rígida
-    if source_info.get("is_brazilian", False):
-        return "América do Sul"
-        
+    """Classifica a notícia por região geográfica baseada no conteúdo."""
     content = (title + " " + summary).lower()
     
-    # Dicionário de termos
+    # Dicionário de termos por região
     terms = {
         "América do Norte": ["eua", "estados unidos", "united states", "washington", "nova york", "biden", "trump", "kamala", "canada", "canadá", "ottawa", "trudeau", "mexico", "méxico", "obrador", "sheinbaum"],
         "América Central": ["cuba", "havana", "haiti", "guatemala", "honduras", "nicaragua", "nicarágua", "costa rica", "panama", "panamá", "jamaica", "bahamas", "el salvador", "bukele"],
@@ -331,22 +327,21 @@ def classify_region(title, summary, source_info):
     scores = {region: 0 for region in terms}
     for region, keywords in terms.items():
         for keyword in keywords:
-            # Procura por palavra inteira ou padrão delimitado
             pattern = r'\b' + re.escape(keyword) + r'\b'
             matches = len(re.findall(pattern, content))
             scores[region] += matches
             
     # Filtra as regiões com maior pontuação
     max_score = 0
-    best_region = "Global"
+    best_region = None
     
     for region, score in scores.items():
         if score > max_score:
             max_score = score
             best_region = region
             
-    # Se não houver correspondência clara, usa a região padrão da fonte internacional ou "Global"
-    if max_score == 0:
+    # Se não houver correspondência clara na matéria, recorre à região padrão da fonte
+    if best_region is None:
         return source_info.get("default_region", "Global")
         
     return best_region
