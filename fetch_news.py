@@ -14,7 +14,6 @@ from bs4 import BeautifulSoup
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
 # Lista de Fontes
-# Cada fonte possui um identificador, nome, URL do feed RSS, se é brasileira, e região padrão (caso BR)
 SOURCES = [
     {
         "id": "agencia_brasil",
@@ -147,69 +146,69 @@ SOURCES = [
 # Imagens de Fallback por Categoria (Curadoria de fotos reais da Unsplash)
 THEME_IMAGES = {
     "Geopolítica e Segurança": [
-        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop", # Mapa/militar
-        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop", # Arame farpado/fronteira
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"  # Painel de controle
+        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
     ],
     "Política Internacional": [
-        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop", # Bandeiras internacionais
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop", # Globo digital
-        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"  # Palanque/tribuna
+        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
     ],
     "Política Brasileira": [
-        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop", # Congresso
-        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop", # Arte abstrata amarela e verde
-        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"  # Vista de Brasília
+        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
     ],
     "Economia Internacional": [
-        "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?q=80&w=800&auto=format&fit=crop", # Dólares
-        "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?q=80&w=800&auto=format&fit=crop", # Gráficos financeiros
-        "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?q=80&w=800&auto=format&fit=crop"  # Bolsa de valores
+        "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?q=80&w=800&auto=format&fit=crop"
     ],
     "Economia Brasileira": [
-        "https://images.unsplash.com/photo-1506744038136-46273834b3fb?q=80&w=800&auto=format&fit=crop", # Moedas/Real
-        "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?q=80&w=800&auto=format&fit=crop", # Mercado de São Paulo
-        "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?q=80&w=800&auto=format&fit=crop"  # Finanças
+        "https://images.unsplash.com/photo-1506744038136-46273834b3fb?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?q=80&w=800&auto=format&fit=crop"
     ],
     "Comércio e Finanças": [
-        "https://images.unsplash.com/photo-1578575437130-527eed3abbec?q=80&w=800&auto=format&fit=crop", # Porto/Containers
-        "https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?q=80&w=800&auto=format&fit=crop", # Logística de comércio
-        "https://images.unsplash.com/photo-1522071820081-009f0129c71c?q=80&w=800&auto=format&fit=crop"  # Reunião de negócios
+        "https://images.unsplash.com/photo-1578575437130-527eed3abbec?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1522071820081-009f0129c71c?q=80&w=800&auto=format&fit=crop"
     ],
     "Meio Ambiente e Clima": [
-        "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?q=80&w=800&auto=format&fit=crop", # Floresta/Montanha
-        "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?q=80&w=800&auto=format&fit=crop", # Terra seca
-        "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?q=80&w=800&auto=format&fit=crop"  # Painel solar/Turbinas
+        "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?q=80&w=800&auto=format&fit=crop"
     ],
     "Ciência, Tecnologia e Inovação": [
-        "https://images.unsplash.com/photo-1518770660439-4636190af475?q=80&w=800&auto=format&fit=crop", # Placa de circuito
-        "https://images.unsplash.com/photo-1507668077129-56e32842fceb?q=80&w=800&auto=format&fit=crop", # Tecnologia/IA
-        "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?q=80&w=800&auto=format&fit=crop"  # Espaço/Satélite
+        "https://images.unsplash.com/photo-1518770660439-4636190af475?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1507668077129-56e32842fceb?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?q=80&w=800&auto=format&fit=crop"
     ],
     "Direitos Humanos, Sociedade e Migrações": [
-        "https://images.unsplash.com/photo-1542810634-71277d95dcbb?q=80&w=800&auto=format&fit=crop", # Refugiados/cerca
-        "https://images.unsplash.com/photo-1489533119213-66a5cd877091?q=80&w=800&auto=format&fit=crop", # Protesto/Paz
-        "https://images.unsplash.com/photo-1531206715517-5c0ba140e2b8?q=80&w=800&auto=format&fit=crop"  # Mão humana/Igualdade
+        "https://images.unsplash.com/photo-1542810634-71277d95dcbb?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1489533119213-66a5cd877091?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1531206715517-5c0ba140e2b8?q=80&w=800&auto=format&fit=crop"
     ],
     "Saúde": [
-        "https://images.unsplash.com/photo-1584515901367-f1c2a12a50ea?q=80&w=800&auto=format&fit=crop", # Hospital/Vacina
-        "https://images.unsplash.com/photo-1505751172876-fa1923c5c528?q=80&w=800&auto=format&fit=crop", # Estetoscópio
-        "https://images.unsplash.com/photo-1584036561566-baf2418a7c21?q=80&w=800&auto=format&fit=crop"  # Laboratório/Ciência médica
+        "https://images.unsplash.com/photo-1584515901367-f1c2a12a50ea?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1505751172876-fa1923c5c528?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1584036561566-baf2418a7c21?q=80&w=800&auto=format&fit=crop"
     ],
     "Direito Internacional e Instituições": [
-        "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?q=80&w=800&auto=format&fit=crop", # Martelo de tribunal/Lei
-        "https://images.unsplash.com/photo-1505664194779-8beaceb93744?q=80&w=800&auto=format&fit=crop", # Biblioteca antiga
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop"  # Símbolo multilateral/Globo
+        "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1505664194779-8beaceb93744?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop"
     ],
     "Cultura, Mídia e Sociedade": [
-        "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?q=80&w=800&auto=format&fit=crop", # Microfone/Mídia
-        "https://images.unsplash.com/photo-1460661419201-fd4cecdf8a8b?q=80&w=800&auto=format&fit=crop", # Artes/Pintura
-        "https://images.unsplash.com/photo-1508700115892-45ecd05ae2ad?q=80&w=800&auto=format&fit=crop"  # Cinema/Cultura
+        "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1460661419201-fd4cecdf8a8b?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1508700115892-45ecd05ae2ad?q=80&w=800&auto=format&fit=crop"
     ],
     "Outros / Multitemático": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop", # Globo
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop", # Fluxo de dados
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"  # Abstrato elegante
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
     ]
 }
 
@@ -217,16 +216,13 @@ def clean_html(text):
     """Remove tags HTML e espaços em branco desnecessários."""
     if not text:
         return ""
-    # Remove tags HTML usando BS4
     soup = BeautifulSoup(text, 'html.parser')
     plain_text = soup.get_text(separator=' ')
-    # Remove múltiplos espaços
     plain_text = re.sub(r'\s+', ' ', plain_text)
     return plain_text.strip()
 
 def extract_image_from_entry(entry):
     """Extrai imagem dos campos de mídia do RSS ou tag enclosure."""
-    # 1. Campo media:content ou media:thumbnail
     if 'media_content' in entry and entry.media_content:
         for media in entry.media_content:
             if 'url' in media and media['url']:
@@ -235,18 +231,14 @@ def extract_image_from_entry(entry):
         for media in entry.media_thumbnail:
             if 'url' in media and media['url']:
                 return media['url']
-
-    # 2. Campo enclosure
     if 'enclosures' in entry and entry.enclosures:
         for enc in entry.enclosures:
             if 'type' in enc and enc['type'].startswith('image/') and 'href' in enc:
                 return enc['href']
             elif 'href' in enc:
-                # Fallback se não tiver tipo mas for extensão de imagem
                 href = enc['href'].lower()
                 if any(ext in href for ext in ['.jpg', '.jpeg', '.png', '.webp', '.gif']):
                     return enc['href']
-    
     return None
 
 def fetch_og_image(url):
@@ -261,12 +253,11 @@ def fetch_og_image(url):
             meta_og = soup.find('meta', property='og:image')
             if meta_og and meta_og.get('content'):
                 return meta_og['content']
-            # Fallback para twitter:image
             meta_tw = soup.find('meta', name='twitter:image')
             if meta_tw and meta_tw.get('content'):
                 return meta_tw['content']
-    except Exception as e:
-        logging.debug(f"Erro ao buscar og:image para {url}: {e}")
+    except Exception:
+        pass
     return None
 
 def parse_date(date_str):
@@ -274,7 +265,6 @@ def parse_date(date_str):
     if not date_str:
         return datetime.utcnow().isoformat() + "Z"
     
-    # Lista de formatos comuns
     formats = [
         "%a, %d %b %Y %H:%M:%S %Z",
         "%a, %d %b %Y %H:%M:%S %z",
@@ -286,7 +276,6 @@ def parse_date(date_str):
         "%d/%m/%Y %H:%M"
     ]
     
-    # Tratamentos manuais comuns para fusos horários brasileiros/portugueses
     date_str_clean = date_str.replace("GMT", "+0000").replace("UTC", "+0000").strip()
     
     for fmt in formats:
@@ -296,7 +285,6 @@ def parse_date(date_str):
         except ValueError:
             continue
             
-    # Se falhar, usa feedparser parser embutido
     try:
         parsed_t = feedparser._parse_date(date_str)
         if parsed_t:
@@ -312,9 +300,6 @@ def classify_region(title, summary, source_info, theme=None):
     t_clean = title.lower()
     s_clean = summary.lower()
     
-    # Comentário de Prevenção/Manutenção:
-    # O dicionário 'terms' mapeia palavras-chave e gentílicos para regiões específicas.
-    # Se adicionar novas regiões ou fontes, certifique-se de que os termos cobrem o país correspondente.
     terms = {
         "América do Norte": [
             "eua", "estados unidos", "united states", "washington", "nova york", "biden", "trump", "kamala", 
@@ -377,30 +362,22 @@ def classify_region(title, summary, source_info, theme=None):
         ]
     }
     
-    # Contagem ponderada de ocorrências
     scores = {region: 0 for region in terms}
     for region, keywords in terms.items():
         for keyword in keywords:
             pattern = r'\b' + re.escape(keyword) + r'\b'
-            # Título tem peso 5 por correspondência
             t_matches = len(re.findall(pattern, t_clean))
-            # Resumo tem peso 1 por correspondência
             s_matches = len(re.findall(pattern, s_clean))
-            
             scores[region] += (t_matches * 5) + s_matches
             
-    # Filtra as regiões com maior pontuação
-    max_score = 0
     best_region = None
-    
+    max_score = 0
     for region, score in scores.items():
         if score > max_score:
             max_score = score
             best_region = region
             
-    # Se não houver correspondência clara na matéria
     if best_region is None:
-        # Se o tema for inerentemente sobre o Brasil, classifica na América do Sul
         if theme in ["Política Brasileira", "Economia Brasileira"]:
             return "América do Sul"
         return "Global"
@@ -411,7 +388,6 @@ def classify_theme(title, summary):
     """Classifica a notícia por área temática."""
     content = (title + " " + summary).lower()
     
-    # Categorias e suas palavras-chave
     categories = {
         "Geopolítica e Segurança": ["guerra", "conflito", "exército", "míssil", "mísseis", "armas", "otan", "defesa", "forças armadas", "bombardeio", "ataque", "invasão", "militar", "geopolítica", "ciberataque", "espionagem", "nuclear", "terrorismo", "pentágono"],
         "Política Internacional": ["eleições", "eleição", "presidente", "chanceler", "diplomacia", "embaixada", "tratado", "acordo bilateral", "líderes", "cúpula", "visita oficial", "parlamento", "governo estrangeiro", "putin", "biden", "trump", "macron", "governo de"],
@@ -430,24 +406,18 @@ def classify_theme(title, summary):
     scores = {cat: 0 for cat in categories}
     for cat, keywords in categories.items():
         for keyword in keywords:
-            # Usando regex para encontrar palavras completas ou expressões exatas
             pattern = r'\b' + re.escape(keyword) + r'\b'
             matches = len(re.findall(pattern, content))
             scores[cat] += matches
             
-    # Filtra categoria com maior score
     max_score = 0
     best_category = "Outros / Multitemático"
-    
-    # Regras de desempate e prioridade
     for cat, score in scores.items():
         if score > max_score:
             max_score = score
             best_category = cat
             
-    # Validações cruzadas de economia / política nacional vs internacional
     if best_category in ["Economia Internacional", "Economia Brasileira", "Política Internacional", "Política Brasileira"]:
-        # Se contiver 'Lula', 'Itamaraty' ou 'Brasil', inclina para variantes brasileiras
         has_brasil_keywords = any(kw in content for kw in ["brasil", "lula", "itamaraty", "brasileiro", "brasileira"])
         if has_brasil_keywords:
             if best_category == "Economia Internacional":
@@ -478,11 +448,9 @@ def deduplicate_news(news_list):
     for item in news_list:
         is_duplicate = False
         for existing in deduplicated:
-            # Compara títulos usando Jaccard Similarity
             similarity = jaccard_similarity(item['title'], existing['title'])
-            if similarity > 0.6:  # 60% de similaridade indica forte redundância
+            if similarity > 0.6:
                 is_duplicate = True
-                # Critério de substituição: prefere o que tem imagem real ou é de fonte prioritária
                 if not existing['image_url'] and item['image_url']:
                     existing['image_url'] = item['image_url']
                 break
@@ -500,7 +468,7 @@ def fetch_single_feed(source):
             logging.warning(f"Nenhuma notícia encontrada para {source['name']}")
             return news_items
             
-        for entry in feed.entries[:15]:  # Pega até 15 notícias mais recentes por feed
+        for entry in feed.entries[:15]:
             title = getattr(entry, 'title', '').strip()
             link = getattr(entry, 'link', '').strip()
             summary = clean_html(getattr(entry, 'summary', ''))
@@ -508,15 +476,11 @@ def fetch_single_feed(source):
             if not title or not link:
                 continue
                 
-            # Extrai e normaliza data de publicação
             pub_date_raw = getattr(entry, 'published', getattr(entry, 'updated', None))
             pub_date = parse_date(pub_date_raw)
             
-            # Classificações
             theme = classify_theme(title, summary)
             region = classify_region(title, summary, source, theme)
-            
-            # Tenta extrair imagem diretamente do RSS
             image_url = extract_image_from_entry(entry)
             
             news_items.append({
@@ -540,8 +504,6 @@ def fetch_single_feed(source):
 def main():
     start_time = time.time()
     
-    # Comentário de Prevenção/Controle:
-    # Valida se todas as fontes possuem as chaves necessárias configuradas de forma explícita na lista SOURCES.
     for src in SOURCES:
         required_keys = ["id", "name", "url", "is_brazilian", "default_region"]
         missing = [k for k in required_keys if k not in src]
@@ -551,7 +513,6 @@ def main():
             
     all_news = []
     
-    # Coleta concorrente dos feeds RSS
     with ThreadPoolExecutor(max_workers=8) as executor:
         futures = {executor.submit(fetch_single_feed, src): src for src in SOURCES}
         for future in as_completed(futures):
@@ -559,11 +520,9 @@ def main():
             
     logging.info(f"Coleta de RSS finalizada. Total bruto de notícias: {len(all_news)}")
     
-    # Deduplicação
     all_news = deduplicate_news(all_news)
     logging.info(f"Total após deduplicação: {len(all_news)}")
     
-    # Busca concorrente de og:image para as notícias que ainda não têm imagem de capa (limite de 30 para economizar recursos)
     news_needing_image = [item for item in all_news if not item['image_url']][:30]
     logging.info(f"Buscando og:image nas páginas originais de {len(news_needing_image)} matérias...")
     
@@ -575,10 +534,8 @@ def main():
             if og_img:
                 item['image_url'] = og_img
                 
-    # Ordena notícias por data de publicação (mais recentes primeiro)
     all_news.sort(key=lambda x: x['published_at'], reverse=True)
     
-    # Estatísticas de validação
     theme_counts = {}
     region_counts = {}
     for item in all_news:
@@ -594,13 +551,11 @@ def main():
         print(f"  {region}: {count}")
     print("------------------------------------\n")
     
-    # Salva dados coletados em arquivo JSON para o frontend ler
     output_data = {
         "updated_at": datetime.utcnow().isoformat() + "Z",
-        "news": all_news[:150]  # Armazena as 150 notícias mais recentes
+        "news": all_news[:150]
     }
     
-    # Cria o diretório de saída se não existir
     os.makedirs('data', exist_ok=True)
     output_path = os.path.join('data', 'news.json')
     with open(output_path, 'w', encoding='utf-8') as f:
