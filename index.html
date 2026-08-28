@@ -209,8 +209,10 @@
 
             <div id="news-grid" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6"></div>
 
+            <!-- Botão Ver Mais -->
             <div id="load-more-container" class="hidden text-center pt-4">
                 <button id="load-more-btn" class="px-6 py-2.5 bg-brand-card hover:bg-brand-border text-brand-textMain rounded-lg border border-brand-border text-sm font-semibold transition inline-flex items-center gap-2">
+                    <i data-lucide="plus-circle" class="w-4 h-4 text-brand-accent animate-pulse"></i>
                     Carregar mais notícias
                 </button>
             </div>
@@ -305,7 +307,10 @@
                     ? item.fallback_images[index % item.fallback_images.length] 
                     : 'https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop';
                 
-                const finalImgUrl = item.image_url || fallbackImg;
+                const hasRealImage = item.image_url && 
+                                     !item.image_url.includes('defaultImage') && 
+                                     item.image_url.trim() !== '';
+                const finalImgUrl = hasRealImage ? item.image_url : fallbackImg;
 
                 slide.innerHTML = `
                     <img 
@@ -386,7 +391,6 @@
             resetCarouselTimer();
         });
 
-        // Função de normalização para evitar quebras por caracteres acentuados ou encodings
         function slugify(text) {
             if (!text) return '';
             return text.toString().toLowerCase()
@@ -454,10 +458,22 @@
                     ? item.fallback_images[index % item.fallback_images.length] 
                     : 'https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop';
                 
+                const hasRealImage = item.image_url && 
+                                     !item.image_url.includes('defaultImage') && 
+                                     item.image_url.trim() !== '';
+                const finalImgUrl = hasRealImage ? item.image_url : fallbackImg;
+                
+                const imgPlaceholder = `
+                    <div class="w-full h-full flex flex-col items-center justify-center bg-brand-border/60 p-4 text-center">
+                        <span class="text-xs font-bold text-brand-accent tracking-wider uppercase">${item.theme}</span>
+                        <span class="text-lg font-extrabold text-brand-textMain mt-1">${item.source_name}</span>
+                    </div>
+                `;
+
                 card.innerHTML = `
                     <div class="relative aspect-video w-full overflow-hidden bg-brand-border/20">
                         <img 
-                            src="${item.image_url || fallbackImg}" 
+                            src="${finalImgUrl}" 
                             alt="${item.title}"
                             class="w-full h-full object-cover hover:scale-105 transition duration-500"
                             loading="lazy"
@@ -478,7 +494,7 @@
                             </h4>
                             
                             <p class="text-xs text-brand-textMuted line-clamp-3 leading-relaxed">
-                                ${item.summary || 'Clique no link para ler os detalhes.'}
+                                ${item.summary || 'Clique no link para ler os detalhes da cobertura completa.'}
                             </p>
                         </div>
 
