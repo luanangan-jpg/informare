@@ -397,15 +397,30 @@ def classify_region(title, summary, source_info, theme=None):
         # Se o tema for inerentemente sobre o Brasil, classifica na América do Sul
         if theme in ["Política Brasileira", "Economia Brasileira"]:
             return "América do Sul"
-        
-        # Caso contrário, se for fonte nacional brasileira, herda América do Sul
-        if source_info.get("is_brazilian", False):
-            return "América do Sul"
-            
-        # Para internacionais, recorre à região padrão ou Global
-        return source_info.get("default_region", "Global")
+        return "Global"
         
     return best_region
+
+def classify_content_tag(title, summary, region, theme):
+    """Classifica se o assunto da notícia é sobre o Brasil ou Internacional."""
+    content = (title + " " + summary).lower()
+    
+    # Se a região identificada for América do Sul, faz um pente fino para ver se é Brasil ou outro país da região
+    if region == "América do Sul":
+        brasil_keywords = ["brasil", "brasília", "lula", "itamaraty", "brasileiro", "brasileira", "brasileiros", "brasileiras"]
+        if any(kw in content for kw in brasil_keywords) or theme in ["Política Brasileira", "Economia Brasileira"]:
+            return "Brasil"
+            
+    # Caso o tema seja explicitamente brasileiro
+    if theme in ["Política Brasileira", "Economia Brasileira"]:
+        return "Brasil"
+        
+    # Se contiver palavras brasileiras marcantes mesmo fora da América do Sul (ex: reunião bilateral com Lula)
+    brasil_keywords_strong = ["brasil", "lula", "itamaraty", "brasileiro", "brasileira"]
+    if any(kw in content for kw in brasil_keywords_strong):
+        return "Brasil"
+        
+    return "Internacional"
 
 def classify_theme(title, summary):
     """Classifica a notícia por área temática."""
@@ -515,6 +530,7 @@ def fetch_single_feed(source):
             # Classificações
             theme = classify_theme(title, summary)
             region = classify_region(title, summary, source, theme)
+            content_tag = classify_content_tag(title, summary, region, theme)
             
             # Tenta extrair imagem diretamente do RSS
             image_url = extract_image_from_entry(entry)
@@ -526,6 +542,7 @@ def fetch_single_feed(source):
                 "published_at": pub_date,
                 "region": region,
                 "theme": theme,
+                "content_tag": content_tag,
                 "source_name": source['name'],
                 "source_id": source['id'],
                 "is_brazilian": source['is_brazilian'],
