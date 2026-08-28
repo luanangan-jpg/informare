@@ -140,10 +140,45 @@ SOURCES = [
         "url": "https://efe.com.br/category/mundo/feed/",
         "is_brazilian": False,
         "default_region": "Europa"
+    },
+    {
+        "id": "bbc_world",
+        "name": "BBC World News",
+        "url": "http://feeds.bbci.co.uk/news/world/rss.xml",
+        "is_brazilian": False,
+        "default_region": "Global"
+    },
+    {
+        "id": "nytimes_world",
+        "name": "The New York Times",
+        "url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+        "is_brazilian": False,
+        "default_region": "Global"
+    },
+    {
+        "id": "elpais_internacional",
+        "name": "El País",
+        "url": "https://elpais.com/rss/seccion/internacional",
+        "is_brazilian": False,
+        "default_region": "Europa"
+    },
+    {
+        "id": "dw_english",
+        "name": "DW World News",
+        "url": "https://rss.dw.com/rdf/rss-en-world",
+        "is_brazilian": False,
+        "default_region": "Europa"
+    },
+    {
+        "id": "aljazeera_english",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/xml/rss/all.xml",
+        "is_brazilian": False,
+        "default_region": "Oriente Médio"
     }
 ]
 
-# Imagens de Fallback por Categoria (Curadoria de fotos reais da Unsplash)
+# Imagens de Fallback por Categoria
 THEME_IMAGES = {
     "Geopolítica e Segurança": [
         "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
@@ -256,8 +291,39 @@ def fetch_og_image(url):
             meta_tw = soup.find('meta', name='twitter:image')
             if meta_tw and meta_tw.get('content'):
                 return meta_tw['content']
-    except Exception:
-        pass
+    except Exception as e:
+        logging.debug(f"Erro ao buscar og:image para {url}: {e}")
+    return None
+
+def extract_loremflickr_query(title):
+    """Extrai palavras-chave do título da notícia para busca de imagem no LoremFlickr."""
+    clean_title = re.sub(r'[^\w\s]', '', title)
+    words = clean_title.lower().split()
+    stop_words = {
+        "a", "o", "os", "as", "um", "uma", "uns", "umas", "de", "do", "da", "dos", "das", "em", "no", "na", 
+        "nos", "nas", "para", "com", "por", "que", "e", "ou", "se", "como", "ao", "aos", "à", "às",
+        "sobre", "sob", "contra", "entre", "lamenta", "promete", "anuncia", "diz", "vê", "é", "são", "foi", 
+        "foram", "será", "serão", "tem", "têm", "tinha", "tinham", "veja", "como", "onde", "quem", "qual", "the", 
+        "of", "in", "to", "for", "with", "on", "at", "by", "from", "about", "el", "la", "los", "las", "un", "una",
+        "en", "para", "con", "por", "que", "y", "o", "su", "sus", "del", "al", "sobre", "entre", "contra",
+        "morre", "morrem", "morte", "mortes", "mata", "matam", "após", "depois", "novo", "nova", "novos", "novas"
+    }
+    keywords = [w for w in words if w not in stop_words and len(w) > 2]
+    tags = keywords[:2]
+    if not tags:
+        return "news"
+    return ",".join(tags)
+
+def fetch_loremflickr_fallback_image(title):
+    """Busca uma foto real no LoremFlickr por meio de redirecionamento HEAD (ultra-rápido)."""
+    query = extract_loremflickr_query(title)
+    url = f"https://loremflickr.com/800/600/{query}"
+    try:
+        response = requests.head(url, allow_redirects=True, timeout=4)
+        if response.status_code == 200:
+            return response.url
+    except Exception as e:
+        logging.debug(f"Erro ao buscar LoremFlickr para '{query}': {e}")
     return None
 
 def parse_date(date_str):
@@ -302,31 +368,33 @@ def classify_region(title, summary, source_info, theme=None):
     
     terms = {
         "América do Norte": [
-            "eua", "estados unidos", "united states", "washington", "nova york", "biden", "trump", "kamala", 
-            "canada", "canadá", "ottawa", "trudeau", "mexico", "méxico", "obrador", "sheinbaum",
-            "americano", "americana", "americanos", "americanas", "canadense", "canadenses", 
-            "mexicano", "mexicana", "mexicanos", "mexicanas", "casa branca", "pentágono"
+            "eua", "estados unidos", "united states", "usa", "us", "washington", "nova york", "new york", "biden", "trump", "kamala", 
+            "harris", "canada", "canadá", "ottawa", "trudeau", "mexico", "méxico", "obrador", "sheinbaum", "mexico city",
+            "americano", "americana", "americanos", "americanas", "american", "canadense", "canadenses", "canadian",
+            "mexicano", "mexicana", "mexicanos", "mexicanas", "mexican", "casa branca", "white house", "pentágono", "pentagon"
         ],
         "América Central": [
             "cuba", "havana", "haiti", "guatemala", "honduras", "nicaragua", "nicarágua", "costa rica", 
             "panama", "panamá", "jamaica", "bahamas", "el salvador", "bukele",
-            "cubano", "cubana", "cubanos", "cubanas", "haitiano", "haitiana", "haitianos", "haitianas"
+            "cubano", "cubana", "cubanos", "cubanas", "cuban", "haitiano", "haitiana", "haitianos", "haitianas", "haitian",
+            "nicaraguan", "salvadoran", "panamanian"
         ],
         "América do Sul": [
-            "brasil", "brasília", "lula", "argentina", "buenos aires", "milei", "venezuela", "caracas", 
+            "brasil", "brazil", "brasília", "lula", "argentina", "buenos aires", "milei", "venezuela", "caracas", 
             "maduro", "colombia", "colômbia", "petro", "chile", "santiago", "boric", "peru", "lima", 
             "bolivia", "bolívia", "equador", "paraguai", "uruguai", "guiana", "suriname",
-            "brasileiro", "brasileira", "brasileiros", "brasileiras", "argentino", "argentina", 
-            "argentinos", "argentinas", "venezuelano", "venezuelana", "venezuelanos", "venezuelanas", 
-            "colombiano", "colombiana", "colombianos", "colombianas", "chileno", "chilena", 
-            "chilenos", "chilenas", "peruano", "peruana", "peruanos", "peruanas"
+            "brasileiro", "brasileira", "brasileiros", "brasileiras", "brazilian", "argentino", "argentina", 
+            "argentinos", "argentinas", "argentinian", "venezuelano", "venezuelana", "venezuelanos", "venezuelanas", "venezuelan",
+            "colombiano", "colombiana", "colombianos", "colombianas", "colombian", "chileno", "chilena", 
+            "chilenos", "chilenas", "chilean", "peruano", "peruana", "peruanos", "peruanas", "peruvian",
+            "ecuadorian", "bolivian", "paraguayan", "uruguayan"
         ],
         "Europa": [
-            "europa", "união europeia", "alemanha", "berlim", "scholz", "frança", "paris", "macron", 
-            "reino unido", "inglaterra", "londres", "starmer", "itália", "roma", "meloni", "espanha", 
-            "madri", "sánchez", "portugal", "lisboa", "rússia", "russia", "moscou", "putin", "ucrânia", 
-            "kiev", "zelensky", "bruxelas", "suíça", "suécia", "noruega", "finlândia", "polônia", 
-            "grécia", "irlanda", "europeu", "europeia", "europeus", "europeias", "alemão", "alemã", 
+            "europa", "europe", "união europeia", "european union", "eu", "alemanha", "germany", "berlim", "berlin", "scholz", "german", "frança", "france", "paris", "macron", "french",
+            "reino unido", "united kingdom", "uk", "inglaterra", "england", "londres", "london", "starmer", "british", "english", "itália", "italy", "roma", "rome", "meloni", "italian", "espanha", "spain",
+            "madri", "madrid", "sánchez", "spanish", "portugal", "lisboa", "lisbon", "portuguese", "rússia", "russia", "moscou", "moscow", "putin", "russian", "ucrânia", "ukraine",
+            "kiev", "kyiv", "zelensky", "ukrainian", "bruxelas", "brussels", "suíça", "switzerland", "suécia", "sweden", "noruega", "norway", "finlândia", "finland", "polônia", "poland",
+            "grécia", "greece", "irlanda", "ireland", "europeu", "europeia", "europeus", "europeias", "alemão", "alemã", 
             "alemães", "francês", "francesa", "franceses", "francesas", "britânico", "britânica", 
             "britânicos", "britânicas", "inglês", "inglesa", "ingleses", "inglesas", "italiano", 
             "italiana", "italianos", "italianas", "espanhol", "espanhola", "espanhóis", "espanholas", 
@@ -334,30 +402,30 @@ def classify_region(title, summary, source_info, theme=None):
             "russas", "ucraniano", "ucraniana", "ucranianos", "ucranianas"
         ],
         "Ásia": [
-            "ásia", "asia", "china", "pequim", "xi jinping", "japão", "tóquio", "coreia", "seul", 
-            "pyongyang", "kim jong", "índia", "india", "nova deli", "modi", "vietnã", "indonésia", 
-            "filipinas", "paquistão", "taiwan", "taipei", "chinês", "chinesa", "chineses", "chinesas", 
+            "ásia", "asia", "asian", "china", "pequim", "beijing", "xi jinping", "chinese", "japão", "japan", "tóquio", "tokyo", "japanese", "coreia", "korea", "seul", "seoul", "korean",
+            "pyongyang", "kim jong", "índia", "india", "nova deli", "new delhi", "modi", "indian", "vietnã", "vietnam", "vietnamese", "indonésia", "indonesia", "indonesian",
+            "filipinas", "philippines", "filipino", "paquistão", "pakistan", "pakistani", "taiwan", "taipei", "taiwanese", "chinês", "chinesa", "chineses", "chinesas", 
             "japonês", "japonesa", "japoneses", "japonesas", "coreano", "coreana", "coreanos", "coreanas", 
-            "indiano", "indiana", "indianos", "indianas", "nepal", "tibete", "himalaia", "tailândia", 
-            "tailandia", "singapura", "vietna", "paquistan", "nepalês", "nepalesa", "tibetano", "tibetana"
+            "indiano", "indiana", "indianos", "indianas", "nepal", "tibete", "tibet", "tibetan", "himalaia", "himalayas", "tailândia", "thailand",
+            "tailandia", "singapura", "singapore", "vietna", "paquistan", "nepalês", "nepalesa", "tibetano", "tibetana"
         ],
         "Oriente Médio": [
-            "oriente médio", "israel", "tel aviv", "jerusalém", "netanyahu", "palestina", "gaza", 
-            "hamas", "irã", "teerã", "arábia saudita", "riad", "síria", "iêmen", "líbano", "beirute", 
-            "hezbollah", "iraque", "turquia", "ancara", "erdogan", "catar", "doha",
+            "oriente médio", "middle east", "israel", "israeli", "tel aviv", "jerusalém", "jerusalem", "netanyahu", "palestina", "palestine", "gaza", "palestinian",
+            "hamas", "irã", "iran", "teerã", "tehran", "iranian", "arábia saudita", "saudi arabia", "saudi", "riad", "riyadh", "síria", "syria", "syrian", "damascus", "iêmen", "yemen", "yemeni", "líbano", "lebanon", "lebanese", "beirute", "beirut",
+            "hezbollah", "iraque", "iraq", "iraqi", "baghdad", "turquia", "turkey", "turkish", "ancara", "ankara", "erdogan", "catar", "qatar", "doha",
             "israelense", "israelenses", "palestino", "palestina", "palestinos", "palestinas", 
             "iraniano", "iraniana", "iranianos", "iranianas", "turco", "turca", "turcos", "turcas", 
             "saudita", "sauditas"
         ],
         "África": [
-            "áfrica", "africa", "áfrica do sul", "egito", "cairo", "nigéria", "abuja", "quênia", 
-            "nairóbi", "etiópia", "líbia", "argélia", "marrocos", "rabat", "angola", "luanda", 
-            "moçambique", "maputo", "sudão", "gana", "senegal", "rdc",
+            "áfrica", "africa", "african", "áfrica do sul", "south africa", "south african", "egito", "egypt", "egyptian", "cairo", "nigéria", "nigeria", "nigerian", "abuja", "quênia", "kenya", "kenyan",
+            "nairóbi", "nairobi", "etiópia", "ethiopia", "ethiopian", "líbia", "libya", "libyan", "argélia", "algeria", "algerian", "marrocos", "morocco", "moroccan", "rabat", "angola", "angolan", "luanda", 
+            "moçambique", "mozambique", "maputo", "sudão", "sudan", "sudanese", "khartoum", "gana", "ghana", "senegal", "senegalese", "rdc", "congo",
             "africano", "africana", "africanos", "africanas", "egípcio", "egípcia", "egípcios", "egípcias", 
             "angolano", "angolana", "angolanos", "angolanas", "sul-africano", "sul-africana"
         ],
         "Oceania": [
-            "oceania", "austrália", "australia", "camberra", "nova zelândia", "wellington",
+            "oceania", "austrália", "australia", "australian", "camberra", "canberra", "nova zelândia", "new zealand", "wellington", "kiwi",
             "australiano", "australiana", "australianos", "australianas"
         ]
     }
@@ -389,18 +457,63 @@ def classify_theme(title, summary):
     content = (title + " " + summary).lower()
     
     categories = {
-        "Geopolítica e Segurança": ["guerra", "conflito", "exército", "míssil", "mísseis", "armas", "otan", "defesa", "forças armadas", "bombardeio", "ataque", "invasão", "militar", "geopolítica", "ciberataque", "espionagem", "nuclear", "terrorismo", "pentágono"],
-        "Política Internacional": ["eleições", "eleição", "presidente", "chanceler", "diplomacia", "embaixada", "tratado", "acordo bilateral", "líderes", "cúpula", "visita oficial", "parlamento", "governo estrangeiro", "putin", "biden", "trump", "macron", "governo de"],
-        "Política Brasileira": ["lula", "itamaraty", "diplomacia brasileira", "governo brasileiro", "ministério das relações exteriores", "congresso brasileiro", "brasília", "planalto", "mre", "mauro vieira"],
-        "Economia Internacional": ["fed", "federal reserve", "banco central europeu", "bce", "inflação nos estados unidos", "pib da china", "crise na argentina", "eurozona", "wall street"],
-        "Economia Brasileira": ["selic", "banco central do brasil", "haddad", "ministério da fazenda", "ipca", "pib brasileiro", "economia brasileira", "mercado financeiro brasileiro", "arcabouço fiscal"],
-        "Comércio e Finanças": ["exportação", "importação", "comércio exterior", "tarifas", "mercosul", "acordo comercial", "câmbio", "dólar", "euro", "bolsa de valores", "bovespa", "omc", "comercial", "finanças", "taxação"],
-        "Meio Ambiente e Clima": ["cop", "aquecimento global", "mudança climática", "mudanças climáticas", "desmatamento", "sustentabilidade", "carbono", "poluição", "energias renováveis", "solar", "eólica", "floresta", "desastre natural", "enchentes", "seca", "amazônia", "meio ambiente"],
-        "Ciência, Tecnologia e Inovação": ["inteligência artificial", " ia ", "tecnologia", "semicondutores", "chips", "espacial", "nasa", "internet", "redes sociais", "inovação", "ciência", "pesquisa", "telescópio", "cibersegurança", "algoritmo", "openai", "google", "meta"],
-        "Direitos Humanos, Sociedade e Migrações": ["refugiados", "migração", "imigrantes", "direitos humanos", "protesto", "manifestação", "racismo", "gênero", "direitos civis", "desigualdade", "pobreza", "discriminação", "ativistas", "fome"],
-        "Saúde": ["oms", "saúde pública", "vacina", "vacinação", "pandemia", "vírus", "mpox", "covid", "gripe", "surto", "vigilância sanitária", "doença", "medicamento", "saúde global"],
-        "Direito Internacional e Instituições": ["onu", "nações unidas", "tribunal de haia", "tpi", "corte internacional", "resoluções", "conselho de segurança", "oea", "tratado internacional", "direitos internacionais"],
-        "Cultura, Mídia e Sociedade": ["cinema", "festival", "música", "literatura", "esporte", "olimpíadas", "copa do mundo", "imprensa", "jornalismo", "patrimônio cultural", "artes", "show", "cultura"]
+        "Geopolítica e Segurança": [
+            "guerra", "conflito", "exército", "míssil", "mísseis", "armas", "otan", "defesa", "forças armadas", "bombardeio", "ataque", "invasão", "militar", "geopolítica", "ciberataque", "espionagem", "nuclear", "terrorismo", "pentágono",
+            "war", "conflict", "army", "military", "missile", "missiles", "weapons", "defense", "forces", "bombing", "attack", "invasion", "cyberattack", "espionage", "terror",
+            "conflicto", "ejército", "misil", "defensa", "fuerzas", "bombardeo", "invasión"
+        ],
+        "Política Internacional": [
+            "eleições", "eleição", "presidente", "chanceler", "diplomacia", "embaixada", "tratado", "acordo bilateral", "líderes", "cúpula", "visita oficial", "parlamento", "governo estrangeiro", "putin", "biden", "trump", "kamala", "macron", "governo de",
+            "election", "elections", "president", "chancellor", "diplomacy", "embassy", "treaty", "summit", "parliament", "government",
+            "elecciones", "elección", "chanciller", "embajada", "cumbre", "gobierno"
+        ],
+        "Política Brasileira": [
+            "lula", "itamaraty", "diplomacia brasileira", "governo brasileiro", "ministério das relações exteriores", "congresso brasileiro", "brasília", "planalto", "mre", "mauro vieira",
+            "brazilian government", "brazilian diplomacy"
+        ],
+        "Economia Internacional": [
+            "fed", "federal reserve", "banco central europeu", "bce", "inflação nos estados unidos", "pib da china", "crise na argentina", "eurozona", "wall street",
+            "ecb", "inflation", "gdp", "central bank", "recession", "economic", "imf",
+            "inflación", "pib", "banco central", "recesión", "crisis"
+        ],
+        "Economia Brasileira": [
+            "selic", "banco central do brasil", "haddad", "ministério da fazenda", "ipca", "pib brasileiro", "economia brasileira", "mercado financeiro brasileiro", "arcabouço fiscal"
+        ],
+        "Comércio e Finanças": [
+            "exportação", "importação", "comércio exterior", "tarifas", "mercosul", "acordo comercial", "câmbio", "dólar", "euro", "bolsa de valores", "bovespa", "omc", "comercial", "finanças", "taxação",
+            "exports", "imports", "trade", "tariffs", "dollar", "stocks", "market", "finance", "commercial",
+            "exportación", "importación", "aranceles", "dólar", "bolsa"
+        ],
+        "Meio Ambiente e Clima": [
+            "cop", "aquecimento global", "mudança climática", "mudanças climáticas", "desmatamento", "sustentabilidade", "carbono", "poluição", "energias renováveis", "solar", "eólica", "floresta", "desastre natural", "enchentes", "seca", "amazônia", "meio ambiente",
+            "climate", "warming", "deforestation", "sustainability", "carbon", "pollution", "renewable", "wind", "forest", "flood", "drought", "environment",
+            "calentamiento", "deforestación", "contaminación", "renovable", "inundación", "sequía", "medio ambiente"
+        ],
+        "Ciência, Tecnologia e Inovação": [
+            "inteligência artificial", " ia ", "tecnologia", "semicondutores", "chips", "espacial", "nasa", "internet", "redes sociais", "inovação", "ciência", "pesquisa", "telescópio", "cibersegurança", "algoritmo", "openai", "google", "meta",
+            "artificial intelligence", " ai ", "technology", "semiconductors", "space", "innovation", "science", "research", "cybersecurity", "algorithm",
+            "tecnología", "innovación", "ciencia", "investigación", "algoritmo"
+        ],
+        "Direitos Humanos, Sociedade e Migrações": [
+            "refugiados", "migração", "imigrantes", "direitos humanos", "protesto", "manifestação", "racismo", "gênero", "direitos civis", "desigualdade", "pobreza", "discriminação", "ativistas", "fome",
+            "refugees", "migration", "migrants", "human rights", "protest", "racism", "gender", "civil rights", "inequality", "poverty", "famine",
+            "refugiados", "migración", "derechos humanos", "protesta"
+        ],
+        "Saúde": [
+            "oms", "saúde pública", "vacina", "vacinação", "pandemia", "vírus", "mpox", "covid", "gripe", "surto", "vigilância sanitária", "doença", "medicamento", "saúde global",
+            "who", "vaccine", "vaccination", "pandemic", "virus", "outbreak", "disease", "health",
+            "vacuna", "pandemia", "salud"
+        ],
+        "Direito Internacional e Instituições": [
+            "onu", "nações unidas", "tribunal de haia", "tpi", "corte internacional", "resoluções", "conselho de segurança", "oea", "tratado internacional", "direitos internacionais",
+            "un", "united nations", "icc", "hague", "security council",
+            "naciones unidas", "consejo de seguridad"
+        ],
+        "Cultura, Mídia e Sociedade": [
+            "cinema", "festival", "música", "literatura", "esporte", "olimpíadas", "copa do mundo", "imprensa", "jornalismo", "patrimônio cultural", "artes", "show", "cultura",
+            "music", "sports", "olympics", "world cup", "press", "journalism", "arts", "culture",
+            "música", "deportes", "prensa", "periodismo", "artes", "cultura"
+        ]
     }
     
     scores = {cat: 0 for cat in categories}
@@ -534,6 +647,19 @@ def main():
             if og_img:
                 item['image_url'] = og_img
                 
+    # Depois de tentar og:image, para as matérias que continuarem sem imagem, busca fallback no LoremFlickr (limite de 25)
+    news_still_needing_image = [item for item in all_news if not item['image_url']][:25]
+    if news_still_needing_image:
+        logging.info(f"Buscando fallback de imagem no LoremFlickr para {len(news_still_needing_image)} matérias...")
+        with ThreadPoolExecutor(max_workers=5) as executor:
+            futures_uns = {executor.submit(fetch_loremflickr_fallback_image, item['title']): item for item in news_still_needing_image}
+            for future in as_completed(futures_uns):
+                item = futures_uns[future]
+                lorem_img = future.result()
+                if lorem_img:
+                    item['image_url'] = lorem_img
+
+    # Ordena notícias por data de publicação (mais recentes primeiro)
     all_news.sort(key=lambda x: x['published_at'], reverse=True)
     
     theme_counts = {}
