@@ -6,7 +6,7 @@
     <title>Informare — O mundo em um só lugar</title>
     <!-- Tailwind CSS -->
     <script src="https://cdn.tailwindcss.com"></script>
-    <!-- Lucide Icons (Globo, busca, setas, etc.) -->
+    <!-- Lucide Icons -->
     <script src="https://unpkg.com/lucide@latest"></script>
     <script>
         tailwind.config = {
@@ -15,10 +15,10 @@
                 extend: {
                     colors: {
                         brand: {
-                            bg: '#050b14',      /* Azul escuro profundo */
-                            card: '#0d1527',    /* Fundo do card */
-                            border: '#1e2d4a',  /* Bordas sutis */
-                            accent: '#0284c7',  /* Destaques */
+                            bg: '#050b14',
+                            card: '#0d1527',
+                            border: '#1e2d4a',
+                            accent: '#0284c7',
                             textMain: '#f8fafc',
                             textMuted: '#94a3b8'
                         }
@@ -33,7 +33,6 @@
             color: #f8fafc;
             font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif;
         }
-        /* Custom scrollbar */
         ::-webkit-scrollbar {
             width: 8px;
             height: 8px;
@@ -48,7 +47,6 @@
         ::-webkit-scrollbar-thumb:hover {
             background: #0284c7;
         }
-        /* Carousel styling */
         .carousel-track {
             display: flex;
             transition: transform 0.5s ease-in-out;
@@ -103,11 +101,11 @@
             <!-- Slides Container -->
             <div class="relative overflow-hidden w-full h-[220px] sm:h-[260px]">
                 <div id="carousel-track" class="carousel-track h-full">
-                    <!-- Slides dinâmicos entrarão aqui -->
+                    <!-- Slides dinâmicos -->
                 </div>
             </div>
 
-            <!-- Navegação do Carrossel -->
+            <!-- Navegação -->
             <button id="carousel-prev" class="absolute left-3 top-1/2 -translate-y-1/2 p-2 rounded-full bg-brand-bg/70 border border-brand-border text-brand-textMain hover:bg-brand-accent transition focus:outline-none z-10">
                 <i data-lucide="chevron-left" class="w-5 h-5"></i>
             </button>
@@ -116,9 +114,7 @@
             </button>
 
             <!-- Indicadores -->
-            <div id="carousel-indicators" class="absolute bottom-3 left-1/2 -translate-x-1/2 flex space-x-1.5 z-10">
-                <!-- Indicadores dinâmicos -->
-            </div>
+            <div id="carousel-indicators" class="absolute bottom-3 left-1/2 -translate-x-1/2 flex space-x-1.5 z-10"></div>
         </section>
 
         <!-- FILTROS INTERATIVOS -->
@@ -146,7 +142,7 @@
                     </select>
                 </div>
 
-                <!-- Filtro de Área Temática -->
+                <!-- Filtro de Tema -->
                 <div class="flex flex-col gap-1.5">
                     <label class="text-xs text-brand-textMuted font-medium">Área Temática</label>
                     <select id="filter-theme" class="bg-brand-bg border border-brand-border rounded-lg px-3 py-2 text-sm text-brand-textMain focus:outline-none focus:border-brand-accent transition cursor-pointer">
@@ -178,7 +174,6 @@
                 </div>
             </div>
             
-            <!-- Resumo do Filtro Ativo -->
             <div id="filter-summary" class="text-xs text-brand-textMuted flex items-center justify-between pt-1">
                 <span>Exibindo todas as notícias.</span>
                 <button id="reset-filters" class="text-brand-accent hover:underline hidden">Limpar filtros</button>
@@ -192,13 +187,11 @@
                 Últimas Notícias Curadas
             </h3>
             
-            <!-- Estado de Carregamento -->
             <div id="loading" class="flex flex-col items-center justify-center py-16 space-y-3">
                 <div class="w-10 h-10 border-4 border-brand-accent/20 border-t-brand-accent rounded-full animate-spin"></div>
                 <p class="text-brand-textMuted text-sm">Carregando feed de notícias...</p>
             </div>
 
-            <!-- Nenhuma Notícia Encontrada -->
             <div id="no-results" class="hidden flex flex-col items-center justify-center py-16 text-center space-y-3 bg-brand-card/50 rounded-xl border border-brand-border border-dashed">
                 <div class="p-3 bg-brand-border/40 rounded-full text-brand-textMuted">
                     <i data-lucide="frown" class="w-8 h-8"></i>
@@ -206,7 +199,7 @@
                 <div>
                     <h4 class="font-semibold text-brand-textMain">Nenhuma notícia encontrada</h4>
                     <p class="text-sm text-brand-textMuted max-w-sm mx-auto mt-1">
-                        Não encontramos resultados que atendam a todos os filtros ativos simultaneamente. Tente remover filtros ou alterar a busca.
+                        Não encontramos resultados que atendam a todos os filtros ativos simultaneamente.
                     </p>
                 </div>
                 <button onclick="resetAllFilters()" class="px-4 py-2 bg-brand-accent hover:bg-brand-accent/80 text-white rounded-lg text-sm transition">
@@ -214,12 +207,8 @@
                 </button>
             </div>
 
-            <!-- Grid de Cards -->
-            <div id="news-grid" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-                <!-- Inserido dinamicamente -->
-            </div>
+            <div id="news-grid" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6"></div>
 
-            <!-- Botão Ver Mais -->
             <div id="load-more-container" class="hidden text-center pt-4">
                 <button id="load-more-btn" class="px-6 py-2.5 bg-brand-card hover:bg-brand-border text-brand-textMain rounded-lg border border-brand-border text-sm font-semibold transition inline-flex items-center gap-2">
                     Carregar mais notícias
@@ -239,7 +228,6 @@
         <p id="last-update">Última atualização: --/--/---- --:--:--</p>
     </footer>
 
-    <!-- LOGICA FRONTEND -->
     <script>
         let newsData = [];
         let filteredNews = [];
@@ -248,7 +236,6 @@
         let currentSlide = 0;
         let carouselInterval;
 
-        // Elementos DOM
         const newsGrid = document.getElementById('news-grid');
         const loading = document.getElementById('loading');
         const noResults = document.getElementById('no-results');
@@ -265,7 +252,6 @@
         const filterSummary = document.getElementById('filter-summary');
         const resetFiltersBtn = document.getElementById('reset-filters');
 
-        // Carrega as notícias
         async function fetchNews() {
             try {
                 const response = await fetch('./data/news.json?t=' + new Date().getTime());
@@ -274,7 +260,6 @@
                 
                 newsData = data.news || [];
                 
-                // Exibe última atualização
                 if (data.updated_at) {
                     const date = new Date(data.updated_at);
                     lastUpdateText.textContent = `Última atualização: ${date.toLocaleString('pt-BR', { timeZone: 'America/Sao_Paulo' })} (Horário de Brasília)`;
@@ -289,21 +274,16 @@
                     <div class="text-center text-red-400 max-w-md space-y-2">
                         <i data-lucide="alert-triangle" class="w-8 h-8 mx-auto"></i>
                         <p class="font-semibold">Erro ao carregar dados</p>
-                        <p class="text-xs text-brand-textMuted">Certifique-se de que a coleta de notícias já foi executada e o arquivo data/news.json existe.</p>
+                        <p class="text-xs text-brand-textMuted">A coleta de notícias ainda está sendo gerada.</p>
                     </div>
                 `;
                 lucide.createIcons();
             }
         }
 
-        // Configuração do carrossel
         function initCarousel() {
-            // Seleciona notícias com imagem recente para compor o carrossel (entre 5 e 8)
-            carouselNews = newsData
-                .filter(item => item.image_url)
-                .slice(0, 7);
+            carouselNews = newsData.filter(item => item.image_url).slice(0, 7);
             
-            // Fallback se não houver matérias suficientes com imagem
             if (carouselNews.length < 3) {
                 carouselNews = newsData.slice(0, 6);
             }
@@ -318,11 +298,9 @@
             carouselIndicators.innerHTML = '';
 
             carouselNews.forEach((item, index) => {
-                // Slide
                 const slide = document.createElement('div');
                 slide.className = 'carousel-slide relative h-full flex flex-col justify-end cursor-pointer group overflow-hidden';
                 
-                // Trata as imagens de fallback usando Array aleatório do tema
                 const fallbackImg = item.fallback_images && item.fallback_images.length > 0 
                     ? item.fallback_images[index % item.fallback_images.length] 
                     : 'https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop';
@@ -357,7 +335,6 @@
                 slide.addEventListener('click', () => window.open(item.link, '_blank'));
                 carouselTrack.appendChild(slide);
 
-                // Indicador
                 const indicator = document.createElement('button');
                 indicator.className = `w-2 h-2 rounded-full transition-all ${index === 0 ? 'bg-brand-accent w-4' : 'bg-brand-border'}`;
                 indicator.addEventListener('click', () => {
@@ -374,8 +351,6 @@
 
         function updateCarouselPosition() {
             carouselTrack.style.transform = `translateX(-${currentSlide * 100}%)`;
-            
-            // Atualiza indicadores
             const indicators = carouselIndicators.querySelectorAll('button');
             indicators.forEach((ind, i) => {
                 if (i === currentSlide) {
@@ -402,7 +377,6 @@
             startCarouselTimer();
         }
 
-        // Navegação Carrossel
         document.getElementById('carousel-prev').addEventListener('click', () => {
             goToSlide(currentSlide - 1);
             resetCarouselTimer();
@@ -412,7 +386,7 @@
             resetCarouselTimer();
         });
 
-
+        // Função de normalização para evitar quebras por caracteres acentuados ou encodings
         function slugify(text) {
             if (!text) return '';
             return text.toString().toLowerCase()
@@ -421,7 +395,6 @@
                 .replace(/[^a-z0-9]/g, '');
         }
 
-        // FILTROS
         function applyFilters() {
             const query = searchInput.value.toLowerCase().trim();
             const region = filterRegion.value;
@@ -429,18 +402,13 @@
             const source = filterSource.value;
 
             filteredNews = newsData.filter(item => {
-                // Filtro de busca
                 const matchQuery = !query || 
                     item.title.toLowerCase().includes(query) || 
                     item.summary.toLowerCase().includes(query);
                 
-                // Filtro de Região (compara slugificado para evitar problemas de acentuação/encoding)
                 const matchRegion = region === 'all' || slugify(item.region) === slugify(region);
-                
-                // Filtro de Tema (compara slugificado)
                 const matchTheme = theme === 'all' || slugify(item.theme) === slugify(theme);
                 
-                // Filtro de Origem
                 let matchSource = true;
                 if (source === 'brazilian') matchSource = item.is_brazilian === true;
                 if (source === 'international') matchSource = item.is_brazilian === false;
@@ -448,26 +416,23 @@
                 return matchQuery && matchRegion && matchTheme && matchSource;
             });
 
-            // Reseta para a primeira página
             limit = 50;
             renderNewsGrid();
 
-            // Mostra resumos e oculta o carrossel se filtros estiverem ativos
             const hasActiveFilters = query || region !== 'all' || theme !== 'all' || source !== 'all';
             if (hasActiveFilters) {
                 filterSummary.firstElementChild.textContent = `Encontradas ${filteredNews.length} notícias com os filtros ativos.`;
                 resetFiltersBtn.classList.remove('hidden');
-                carouselSection.classList.add('hidden'); // Oculta o carrossel quando filtrado
+                carouselSection.classList.add('hidden');
             } else {
                 filterSummary.firstElementChild.textContent = 'Exibindo todas as notícias.';
                 resetFiltersBtn.classList.add('hidden');
                 if (carouselNews.length > 0) {
-                    carouselSection.classList.remove('hidden'); // Mostra o carrossel no estado limpo
+                    carouselSection.classList.remove('hidden');
                 }
             }
         }
 
-        // RENDERIZAÇÃO DA LISTAGEM
         function renderNewsGrid() {
             loading.classList.add('hidden');
             newsGrid.innerHTML = '';
@@ -479,27 +444,16 @@
             }
             
             noResults.classList.add('hidden');
-            
             const slice = filteredNews.slice(0, limit);
             
             slice.forEach((item, index) => {
                 const card = document.createElement('div');
                 card.className = 'bg-brand-card border border-brand-border rounded-xl overflow-hidden hover:border-brand-accent/50 hover:shadow-lg hover:shadow-brand-accent/5 transition duration-300 flex flex-col h-full';
                 
-                // Configura fallbacks de imagem baseados no tema
                 const fallbackImg = item.fallback_images && item.fallback_images.length > 0 
                     ? item.fallback_images[index % item.fallback_images.length] 
                     : 'https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop';
                 
-                // Fallback para tag onerror quando imagem falha
-                const imgPlaceholder = `
-                    <div class="w-full h-full flex flex-col items-center justify-center bg-brand-border/60 p-4 text-center">
-                        <span class="text-xs font-bold text-brand-accent tracking-wider uppercase">${item.theme}</span>
-                        <span class="text-lg font-extrabold text-brand-textMain mt-1">${item.source_name}</span>
-                    </div>
-                `;
-
-                // Layout retangular horizontal (aspect-video)
                 card.innerHTML = `
                     <div class="relative aspect-video w-full overflow-hidden bg-brand-border/20">
                         <img 
@@ -514,24 +468,20 @@
                     
                     <div class="p-5 flex flex-col flex-grow justify-between space-y-4">
                         <div class="space-y-2">
-                            <!-- Etiquetas / Tags -->
                             <div class="flex flex-wrap gap-1.5">
                                 <span class="px-2 py-0.5 bg-brand-accent/15 text-brand-accent text-[9px] font-bold rounded uppercase tracking-wider">${item.region}</span>
                                 <span class="px-2 py-0.5 bg-brand-border/60 text-brand-textMuted text-[9px] font-bold rounded uppercase tracking-wider">${item.theme}</span>
                             </div>
 
-                            <!-- Título -->
                             <h4 class="text-base font-bold text-brand-textMain leading-snug line-clamp-3">
                                 ${item.title}
                             </h4>
                             
-                            <!-- Resumo curto -->
                             <p class="text-xs text-brand-textMuted line-clamp-3 leading-relaxed">
-                                ${item.summary || 'Clique no link para ler os detalhes da cobertura completa.'}
+                                ${item.summary || 'Clique no link para ler os detalhes.'}
                             </p>
                         </div>
 
-                        <!-- Rodapé do Card -->
                         <div class="pt-4 border-t border-brand-border/30 flex items-center justify-between text-[11px]">
                             <div class="flex flex-col">
                                 <span class="font-bold text-brand-accent">${item.source_name}</span>
@@ -553,18 +503,14 @@
                 newsGrid.appendChild(card);
             });
 
-            // Gerencia botão ver mais
             if (filteredNews.length > limit) {
                 loadMoreContainer.classList.remove('hidden');
             } else {
                 loadMoreContainer.classList.add('hidden');
             }
-            
-            // Inicializa ícones do lucide no DOM renderizado
             lucide.createIcons();
         }
 
-        // Fallback robusto para carregamento de imagem quebrado
         function handleImageError(imgElement, theme, sourceName) {
             const container = imgElement.parentElement;
             container.innerHTML = `
@@ -575,7 +521,6 @@
             `;
         }
 
-        // Funções de formatação de data
         function formatDate(isoString) {
             if (!isoString) return '';
             try {
@@ -587,9 +532,7 @@
                     hour: '2-digit',
                     minute: '2-digit'
                 });
-            } catch (e) {
-                return '';
-            }
+            } catch (e) { return ''; }
         }
 
         function formatTimeAgo(isoString) {
@@ -600,17 +543,12 @@
                 const diffMs = now - date;
                 const diffMins = Math.floor(diffMs / 60000);
                 const diffHours = Math.floor(diffMins / 60);
-                
                 if (diffMins < 60) return `há ${diffMins} min`;
                 if (diffHours < 24) return `há ${diffHours}h`;
-                
                 return date.toLocaleDateString('pt-BR', { day: '2-digit', month: '2-digit' });
-            } catch (e) {
-                return '';
-            }
+            } catch (e) { return ''; }
         }
 
-        // Limpa todos os filtros
         function resetAllFilters() {
             searchInput.value = '';
             filterRegion.value = 'all';
@@ -619,7 +557,6 @@
             applyFilters();
         }
 
-        // Event Listeners
         searchInput.addEventListener('input', applyFilters);
         filterRegion.addEventListener('change', applyFilters);
         filterTheme.addEventListener('change', applyFilters);
@@ -631,7 +568,6 @@
             renderNewsGrid();
         });
 
-        // Inicialização
         fetchNews();
     </script>
 </body>
