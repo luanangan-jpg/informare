@@ -96,127 +96,270 @@
     <!-- CONTEÚDO PRINCIPAL -->
     <main class="flex-grow max-w-7xl w-full mx-auto px-4 py-6 space-y-8">
         
-        <!-- CARROSSEL DE DESTAQUES (DINÂMICO) -->
-        <section id="carousel-section" class="relative overflow-hidden rounded-xl border border-brand-border bg-brand-card hidden">
-            <!-- Slides Container -->
-            <div class="relative overflow-hidden w-full h-[220px] sm:h-[260px]">
-                <div id="carousel-track" class="carousel-track h-full">
-                    <!-- Slides dinâmicos -->
-                </div>
-            </div>
-
-            <!-- Navegação -->
-            <button id="carousel-prev" class="absolute left-3 top-1/2 -translate-y-1/2 p-2 rounded-full bg-brand-bg/70 border border-brand-border text-brand-textMain hover:bg-brand-accent transition focus:outline-none z-10">
-                <i data-lucide="chevron-left" class="w-5 h-5"></i>
+        <!-- Abas de Navegação Principal -->
+        <div class="flex border-b border-brand-border/40 gap-4 mb-2 pb-px">
+            <button id="tab-news" class="px-4 py-2 text-sm font-semibold border-b-2 border-brand-accent text-brand-textMain transition flex items-center gap-2">
+                <i data-lucide="newspaper" class="w-4 h-4"></i>
+                Notícias do Dia
             </button>
-            <button id="carousel-next" class="absolute right-3 top-1/2 -translate-y-1/2 p-2 rounded-full bg-brand-bg/70 border border-brand-border text-brand-textMain hover:bg-brand-accent transition focus:outline-none z-10">
-                <i data-lucide="chevron-right" class="w-5 h-5"></i>
+            <button id="tab-pressreader" class="px-4 py-2 text-sm font-semibold border-b-2 border-transparent text-brand-textMuted hover:text-brand-textMain transition flex items-center gap-2">
+                <i data-lucide="book-open" class="w-4 h-4"></i>
+                PressReader UNESP
             </button>
+        </div>
 
-            <!-- Indicadores -->
-            <div id="carousel-indicators" class="absolute bottom-3 left-1/2 -translate-x-1/2 flex space-x-1.5 z-10"></div>
-        </section>
-
-        <!-- FILTROS INTERATIVOS -->
-        <section class="bg-brand-card p-4 rounded-xl border border-brand-border space-y-4">
-            <div class="flex items-center gap-2 text-brand-accent border-b border-brand-border/40 pb-2 mb-2">
-                <i data-lucide="sliders-horizontal" class="w-4 h-4"></i>
-                <h2 class="text-sm font-semibold tracking-wider uppercase">Filtros de Curadoria</h2>
-            </div>
-            
-            <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4">
-                <!-- Filtro de Região -->
-                <div class="flex flex-col gap-1.5">
-                    <label class="text-xs text-brand-textMuted font-medium">Região</label>
-                    <select id="filter-region" class="bg-brand-bg border border-brand-border rounded-lg px-3 py-2 text-sm text-brand-textMain focus:outline-none focus:border-brand-accent transition cursor-pointer">
-                        <option value="all">Todas as Regiões</option>
-                        <option value="América do Sul">América do Sul</option>
-                        <option value="América do Norte">América do Norte</option>
-                        <option value="América Central">América Central</option>
-                        <option value="Europa">Europa</option>
-                        <option value="Ásia">Ásia</option>
-                        <option value="Oriente Médio">Oriente Médio</option>
-                        <option value="África">África</option>
-                        <option value="Oceania">Oceania</option>
-                        <option value="Global">Global</option>
-                    </select>
+        <!-- CONTEÚDO DA ABA: NOTÍCIAS DO DIA -->
+        <div id="news-tab-content" class="space-y-8">
+        
+            <!-- CARROSSEL DE DESTAQUES (DINÂMICO) -->
+            <section id="carousel-section" class="relative overflow-hidden rounded-xl border border-brand-border bg-brand-card hidden">
+                <!-- Slides Container -->
+                <div class="relative overflow-hidden w-full h-[220px] sm:h-[260px]">
+                    <div id="carousel-track" class="carousel-track h-full">
+                        <!-- Slides dinâmicos entrarão aqui -->
+                    </div>
                 </div>
 
-                <!-- Filtro de Tema -->
-                <div class="flex flex-col gap-1.5">
-                    <label class="text-xs text-brand-textMuted font-medium">Área Temática</label>
-                    <select id="filter-theme" class="bg-brand-bg border border-brand-border rounded-lg px-3 py-2 text-sm text-brand-textMain focus:outline-none focus:border-brand-accent transition cursor-pointer">
-                        <option value="all">Todos os Temas</option>
-                        <option value="Geopolítica e Segurança">Geopolítica e Segurança</option>
-                        <option value="Política Internacional">Política Internacional</option>
-                        <option value="Política Brasileira">Política Brasileira</option>
-                        <option value="Economia Internacional">Economia Internacional</option>
-                        <option value="Economia Brasileira">Economia Brasileira</option>
-                        <option value="Comércio e Finanças">Comércio e Finanças</option>
-                        <option value="Meio Ambiente e Clima">Meio Ambiente e Clima</option>
-                        <option value="Ciência, Tecnologia e Inovação">Ciência, Tecnologia e Inovação</option>
-                        <option value="Direitos Humanos, Sociedade e Migrações">Direitos Humanos, Sociedade e Migrações</option>
-                        <option value="Saúde">Saúde</option>
-                        <option value="Direito Internacional e Instituições">Direito Internacional e Instituições</option>
-                        <option value="Cultura, Mídia e Sociedade">Cultura, Mídia e Sociedade</option>
-                        <option value="Outros / Multitemático">Outros / Multitemático</option>
-                    </select>
-                </div>
-
-                <!-- Filtro de Origem da Fonte -->
-                <div class="flex flex-col gap-1.5">
-                    <label class="text-xs text-brand-textMuted font-medium">Origem das Fontes</label>
-                    <select id="filter-source" class="bg-brand-bg border border-brand-border rounded-lg px-3 py-2 text-sm text-brand-textMain focus:outline-none focus:border-brand-accent transition cursor-pointer">
-                        <option value="all">Todas as Fontes</option>
-                        <option value="brazilian">Apenas Brasileiras</option>
-                        <option value="international">Apenas Internacionais</option>
-                    </select>
-                </div>
-            </div>
-            
-            <div id="filter-summary" class="text-xs text-brand-textMuted flex items-center justify-between pt-1">
-                <span>Exibindo todas as notícias.</span>
-                <button id="reset-filters" class="text-brand-accent hover:underline hidden">Limpar filtros</button>
-            </div>
-        </section>
-
-        <!-- LISTAGEM DE NOTÍCIAS (GRID) -->
-        <section class="space-y-4">
-            <h3 class="text-lg font-bold tracking-tight border-b border-brand-border/40 pb-2 text-brand-textMain flex items-center gap-2">
-                <i data-lucide="newspaper" class="w-5 h-5 text-brand-accent"></i>
-                Últimas Notícias Curadas
-            </h3>
-            
-            <div id="loading" class="flex flex-col items-center justify-center py-16 space-y-3">
-                <div class="w-10 h-10 border-4 border-brand-accent/20 border-t-brand-accent rounded-full animate-spin"></div>
-                <p class="text-brand-textMuted text-sm">Carregando feed de notícias...</p>
-            </div>
-
-            <div id="no-results" class="hidden flex flex-col items-center justify-center py-16 text-center space-y-3 bg-brand-card/50 rounded-xl border border-brand-border border-dashed">
-                <div class="p-3 bg-brand-border/40 rounded-full text-brand-textMuted">
-                    <i data-lucide="frown" class="w-8 h-8"></i>
-                </div>
-                <div>
-                    <h4 class="font-semibold text-brand-textMain">Nenhuma notícia encontrada</h4>
-                    <p class="text-sm text-brand-textMuted max-w-sm mx-auto mt-1">
-                        Não encontramos resultados que atendam a todos os filtros ativos simultaneamente.
-                    </p>
-                </div>
-                <button onclick="resetAllFilters()" class="px-4 py-2 bg-brand-accent hover:bg-brand-accent/80 text-white rounded-lg text-sm transition">
-                    Ver todas as notícias
+                <!-- Navegação do Carrossel -->
+                <button id="carousel-prev" class="absolute left-3 top-1/2 -translate-y-1/2 p-2 rounded-full bg-brand-bg/70 border border-brand-border text-brand-textMain hover:bg-brand-accent transition focus:outline-none z-10">
+                    <i data-lucide="chevron-left" class="w-5 h-5"></i>
                 </button>
-            </div>
-
-            <div id="news-grid" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6"></div>
-
-            <!-- Botão Ver Mais -->
-            <div id="load-more-container" class="hidden text-center pt-4">
-                <button id="load-more-btn" class="px-6 py-2.5 bg-brand-card hover:bg-brand-border text-brand-textMain rounded-lg border border-brand-border text-sm font-semibold transition inline-flex items-center gap-2">
-                    <i data-lucide="plus-circle" class="w-4 h-4 text-brand-accent animate-pulse"></i>
-                    Carregar mais notícias
+                <button id="carousel-next" class="absolute right-3 top-1/2 -translate-y-1/2 p-2 rounded-full bg-brand-bg/70 border border-brand-border text-brand-textMain hover:bg-brand-accent transition focus:outline-none z-10">
+                    <i data-lucide="chevron-right" class="w-5 h-5"></i>
                 </button>
+
+                <!-- Indicadores -->
+                <div id="carousel-indicators" class="absolute bottom-3 left-1/2 -translate-x-1/2 flex space-x-1.5 z-10">
+                    <!-- Indicadores dinâmicos -->
+                </div>
+            </section>
+
+            <!-- FILTROS INTERATIVOS -->
+            <section class="bg-brand-card p-4 rounded-xl border border-brand-border space-y-4">
+                <div class="flex items-center gap-2 text-brand-accent border-b border-brand-border/40 pb-2 mb-2">
+                    <i data-lucide="sliders-horizontal" class="w-4 h-4"></i>
+                    <h2 class="text-sm font-semibold tracking-wider uppercase">Filtros de Curadoria</h2>
+                </div>
+                
+                <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4">
+                    <!-- Filtro de Região -->
+                    <div class="flex flex-col gap-1.5">
+                        <label class="text-xs text-brand-textMuted font-medium">Região</label>
+                        <select id="filter-region" class="bg-brand-bg border border-brand-border rounded-lg px-3 py-2 text-sm text-brand-textMain focus:outline-none focus:border-brand-accent transition cursor-pointer">
+                            <option value="all">Todas as Regiões</option>
+                            <option value="América do Sul">América do Sul</option>
+                            <option value="América do Norte">América do Norte</option>
+                            <option value="América Central">América Central</option>
+                            <option value="Europa">Europa</option>
+                            <option value="Ásia">Ásia</option>
+                            <option value="Oriente Médio">Oriente Médio</option>
+                            <option value="África">África</option>
+                            <option value="Oceania">Oceania</option>
+                            <option value="Global">Global</option>
+                        </select>
+                    </div>
+
+                    <!-- Filtro de Tema -->
+                    <div class="flex flex-col gap-1.5">
+                        <label class="text-xs text-brand-textMuted font-medium">Área Temática</label>
+                        <select id="filter-theme" class="bg-brand-bg border border-brand-border rounded-lg px-3 py-2 text-sm text-brand-textMain focus:outline-none focus:border-brand-accent transition cursor-pointer">
+                            <option value="all">Todos os Temas</option>
+                            <option value="Geopolítica e Segurança">Geopolítica e Segurança</option>
+                            <option value="Política Internacional">Política Internacional</option>
+                            <option value="Política Brasileira">Política Brasileira</option>
+                            <option value="Economia Internacional">Economia Internacional</option>
+                            <option value="Economia Brasileira">Economia Brasileira</option>
+                            <option value="Comércio e Finanças">Comércio e Finanças</option>
+                            <option value="Meio Ambiente e Clima">Meio Ambiente e Clima</option>
+                            <option value="Ciência, Tecnologia e Inovação">Ciência, Tecnologia e Inovação</option>
+                            <option value="Direitos Humanos, Sociedade e Migrações">Direitos Humanos, Sociedade e Migrações</option>
+                            <option value="Saúde">Saúde</option>
+                            <option value="Direito Internacional e Instituições">Direito Internacional e Instituições</option>
+                            <option value="Cultura, Mídia e Sociedade">Cultura, Mídia e Sociedade</option>
+                            <option value="Outros / Multitemático">Outros / Multitemático</option>
+                        </select>
+                    </div>
+
+                    <!-- Filtro de Origem da Fonte -->
+                    <div class="flex flex-col gap-1.5">
+                        <label class="text-xs text-brand-textMuted font-medium">Origem das Fontes</label>
+                        <select id="filter-source" class="bg-brand-bg border border-brand-border rounded-lg px-3 py-2 text-sm text-brand-textMain focus:outline-none focus:border-brand-accent transition cursor-pointer">
+                            <option value="all">Todas as Fontes</option>
+                            <option value="brazilian">Apenas Brasileiras</option>
+                            <option value="international">Apenas Internacionais</option>
+                        </select>
+                    </div>
+                </div>
+                
+                <div id="filter-summary" class="text-xs text-brand-textMuted flex items-center justify-between pt-1">
+                    <span>Exibindo todas as notícias.</span>
+                    <button id="reset-filters" class="text-brand-accent hover:underline hidden">Limpar filtros</button>
+                </div>
+            </section>
+
+            <!-- LISTAGEM DE NOTÍCIAS (GRID) -->
+            <section class="space-y-4">
+                <h3 class="text-lg font-bold tracking-tight border-b border-brand-border/40 pb-2 text-brand-textMain flex items-center gap-2">
+                    <i data-lucide="newspaper" class="w-5 h-5 text-brand-accent"></i>
+                    Últimas Notícias Curadas
+                </h3>
+                
+                <!-- Feedback visual de carregamento -->
+                <div id="loading" class="flex flex-col items-center justify-center py-16 space-y-3">
+                    <div class="w-10 h-10 border-4 border-brand-accent/20 border-t-brand-accent rounded-full animate-spin"></div>
+                    <p class="text-brand-textMuted text-sm">Carregando feed de notícias...</p>
+                </div>
+
+                <!-- Estado Sem Resultados -->
+                <div id="no-results" class="hidden flex flex-col items-center justify-center py-16 text-center space-y-3 bg-brand-card/50 rounded-xl border border-brand-border border-dashed">
+                    <div class="p-3 bg-brand-border/40 rounded-full text-brand-textMuted">
+                        <i data-lucide="frown" class="w-8 h-8"></i>
+                    </div>
+                    <div>
+                        <h4 class="font-semibold text-brand-textMain">Nenhuma notícia encontrada</h4>
+                        <p class="text-sm text-brand-textMuted max-w-sm mx-auto mt-1">
+                            Não encontramos resultados que atendam a todos os filtros ativos simultaneamente.
+                        </p>
+                    </div>
+                    <button onclick="resetAllFilters()" class="px-4 py-2 bg-brand-accent hover:bg-brand-accent/80 text-white rounded-lg text-sm transition">
+                        Ver todas as notícias
+                    </button>
+                </div>
+
+                <!-- Grid de Cards -->
+                <div id="news-grid" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+                    <!-- Inserido dinamicamente -->
+                </div>
+
+                <!-- Botão Ver Mais -->
+                <div id="load-more-container" class="hidden text-center pt-4">
+                    <button id="load-more-btn" class="px-6 py-2.5 bg-brand-card hover:bg-brand-border text-brand-textMain rounded-lg border border-brand-border text-sm font-semibold transition inline-flex items-center gap-2">
+                        <i data-lucide="plus-circle" class="w-4 h-4 text-brand-accent animate-pulse"></i>
+                        Carregar mais notícias
+                    </button>
+                </div>
+            </section>
+        </div>
+
+        <!-- CONTEÚDO DA ABA: PRESSREADER UNESP -->
+        <div id="pressreader-tab-content" class="hidden space-y-6">
+            <!-- Aviso de Acesso eduroam / VPN -->
+            <div class="bg-gradient-to-r from-brand-accent/20 to-brand-border/40 p-5 rounded-xl border border-brand-accent/30 space-y-3">
+                <div class="flex items-center gap-3">
+                    <div class="p-2 bg-brand-accent/10 text-brand-accent rounded-lg">
+                        <i data-lucide="wifi" class="w-6 h-6 animate-pulse"></i>
+                    </div>
+                    <div>
+                        <h3 class="text-base font-bold text-brand-textMain flex items-center gap-2">
+                            Acesso Institucional UNESP via eduroam / VPN
+                        </h3>
+                        <p class="text-xs text-brand-textMuted mt-0.5">
+                            Reconhecimento de IP automático ativo para a rede da UNESP. Leia edições impressas e digitais completas de graça.
+                        </p>
+                    </div>
+                </div>
+                <div class="text-xs text-brand-textMuted bg-brand-bg/60 p-3 rounded-lg border border-brand-border/50 leading-relaxed">
+                    <strong>ℹ️ Como funciona:</strong> Estando conectado ao Wi-Fi <strong>eduroam</strong> dentro de qualquer campus da UNESP (ou utilizando a VPN institucional da UNESP no seu computador/celular), o PressReader identificará sua credencial acadêmica por IP e desbloqueará o catálogo de periódicos inteiramente sem custo.
+                </div>
             </div>
-        </section>
+
+            <!-- Grid de Jornais PressReader -->
+            <div class="space-y-4">
+                <h4 class="text-sm font-semibold tracking-wider uppercase text-brand-accent">Periódicos Globais Disponíveis no PressReader</h4>
+                <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+                    <!-- Cards de Jornais -->
+                    <div class="bg-brand-card border border-brand-border rounded-xl p-5 flex flex-col justify-between space-y-4 hover:border-brand-accent/50 transition duration-300">
+                        <div>
+                            <div class="flex items-center justify-between text-[10px] font-bold uppercase tracking-wider text-brand-textMuted">
+                                <span>Estados Unidos</span>
+                                <span>Inglês</span>
+                            </div>
+                            <h3 class="text-base font-bold text-brand-textMain mt-1">The Washington Post</h3>
+                            <p class="text-xs text-brand-textMuted mt-1.5 leading-relaxed">Edição completa digitalizada e atualizada diariamente do jornal da capital norte-americana.</p>
+                        </div>
+                        <a href="https://www.pressreader.com/usa/the-washington-post" target="_blank" rel="noopener noreferrer" class="px-4 py-2 bg-brand-accent hover:bg-brand-accent/80 text-white rounded font-semibold text-xs text-center transition flex items-center justify-center gap-1.5">
+                            Abrir no PressReader 
+                            <i data-lucide="external-link" class="w-3.5 h-3.5"></i>
+                        </a>
+                    </div>
+
+                    <div class="bg-brand-card border border-brand-border rounded-xl p-5 flex flex-col justify-between space-y-4 hover:border-brand-accent/50 transition duration-300">
+                        <div>
+                            <div class="flex items-center justify-between text-[10px] font-bold uppercase tracking-wider text-brand-textMuted">
+                                <span>França</span>
+                                <span>Francês</span>
+                            </div>
+                            <h3 class="text-base font-bold text-brand-textMain mt-1">Le Monde</h3>
+                            <p class="text-xs text-brand-textMuted mt-1.5 leading-relaxed">Referência em jornalismo de análise internacional e geopolítica europeia.</p>
+                        </div>
+                        <a href="https://www.pressreader.com/france/le-monde" target="_blank" rel="noopener noreferrer" class="px-4 py-2 bg-brand-accent hover:bg-brand-accent/80 text-white rounded font-semibold text-xs text-center transition flex items-center justify-center gap-1.5">
+                            Abrir no PressReader 
+                            <i data-lucide="external-link" class="w-3.5 h-3.5"></i>
+                        </a>
+                    </div>
+
+                    <div class="bg-brand-card border border-brand-border rounded-xl p-5 flex flex-col justify-between space-y-4 hover:border-brand-accent/50 transition duration-300">
+                        <div>
+                            <div class="flex items-center justify-between text-[10px] font-bold uppercase tracking-wider text-brand-textMuted">
+                                <span>Espanha / AL</span>
+                                <span>Espanhol</span>
+                            </div>
+                            <h3 class="text-base font-bold text-brand-textMain mt-1">El País</h3>
+                            <p class="text-xs text-brand-textMuted mt-1.5 leading-relaxed">Maior jornal em espanhol do mundo, com cobertura robusta sobre a América Latina e Europa.</p>
+                        </div>
+                        <a href="https://www.pressreader.com/spain/el-pais" target="_blank" rel="noopener noreferrer" class="px-4 py-2 bg-brand-accent hover:bg-brand-accent/80 text-white rounded font-semibold text-xs text-center transition flex items-center justify-center gap-1.5">
+                            Abrir no PressReader 
+                            <i data-lucide="external-link" class="w-3.5 h-3.5"></i>
+                        </a>
+                    </div>
+
+                    <div class="bg-brand-card border border-brand-border rounded-xl p-5 flex flex-col justify-between space-y-4 hover:border-brand-accent/50 transition duration-300">
+                        <div>
+                            <div class="flex items-center justify-between text-[10px] font-bold uppercase tracking-wider text-brand-textMuted">
+                                <span>Reino Unido</span>
+                                <span>Inglês</span>
+                            </div>
+                            <h3 class="text-base font-bold text-brand-textMain mt-1">The Guardian</h3>
+                            <p class="text-xs text-brand-textMuted mt-1.5 leading-relaxed">Renomada cobertura britânica de política global e direitos ambientais.</p>
+                        </div>
+                        <a href="https://www.pressreader.com/uk/the-guardian" target="_blank" rel="noopener noreferrer" class="px-4 py-2 bg-brand-accent hover:bg-brand-accent/80 text-white rounded font-semibold text-xs text-center transition flex items-center justify-center gap-1.5">
+                            Abrir no PressReader 
+                            <i data-lucide="external-link" class="w-3.5 h-3.5"></i>
+                        </a>
+                    </div>
+
+                    <div class="bg-brand-card border border-brand-border rounded-xl p-5 flex flex-col justify-between space-y-4 hover:border-brand-accent/50 transition duration-300">
+                        <div>
+                            <div class="flex items-center justify-between text-[10px] font-bold uppercase tracking-wider text-brand-textMuted">
+                                <span>Brasil</span>
+                                <span>Português</span>
+                            </div>
+                            <h3 class="text-base font-bold text-brand-textMain mt-1">O Estado de S. Paulo</h3>
+                            <p class="text-xs text-brand-textMuted mt-1.5 leading-relaxed">Edição impressa na íntegra de um dos jornais de maior relevância nacional.</p>
+                        </div>
+                        <a href="https://www.pressreader.com/brazil/o-estado-de-s-paulo" target="_blank" rel="noopener noreferrer" class="px-4 py-2 bg-brand-accent hover:bg-brand-accent/80 text-white rounded font-semibold text-xs text-center transition flex items-center justify-center gap-1.5">
+                            Abrir no PressReader 
+                            <i data-lucide="external-link" class="w-3.5 h-3.5"></i>
+                        </a>
+                    </div>
+
+                    <div class="bg-brand-card border border-brand-border rounded-xl p-5 flex flex-col justify-between space-y-4 hover:border-brand-accent/50 transition duration-300">
+                        <div>
+                            <div class="flex items-center justify-between text-[10px] font-bold uppercase tracking-wider text-brand-textMuted">
+                                <span>Brasil</span>
+                                <span>Português</span>
+                            </div>
+                            <h3 class="text-base font-bold text-brand-textMain mt-1">Folha de S.Paulo</h3>
+                            <p class="text-xs text-brand-textMuted mt-1.5 leading-relaxed">Versão impressa digitalizada completa do maior veículo em tiragem do Brasil.</p>
+                        </div>
+                        <a href="https://www.pressreader.com/brazil/folha-de-s-paulo" target="_blank" rel="noopener noreferrer" class="px-4 py-2 bg-brand-accent hover:bg-brand-accent/80 text-white rounded font-semibold text-xs text-center transition flex items-center justify-center gap-1.5">
+                            Abrir no PressReader 
+                            <i data-lucide="external-link" class="w-3.5 h-3.5"></i>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
 
     </main>
 
@@ -238,6 +381,12 @@
         let currentSlide = 0;
         let carouselInterval;
 
+        // Elementos DOM
+        const tabNews = document.getElementById('tab-news');
+        const tabPressReader = document.getElementById('tab-pressreader');
+        const newsTabContent = document.getElementById('news-tab-content');
+        const pressreaderTabContent = document.getElementById('pressreader-tab-content');
+
         const newsGrid = document.getElementById('news-grid');
         const loading = document.getElementById('loading');
         const noResults = document.getElementById('no-results');
@@ -254,6 +403,7 @@
         const filterSummary = document.getElementById('filter-summary');
         const resetFiltersBtn = document.getElementById('reset-filters');
 
+        // Carrega as notícias
         async function fetchNews() {
             try {
                 const response = await fetch('./data/news.json?t=' + new Date().getTime());
@@ -262,6 +412,7 @@
                 
                 newsData = data.news || [];
                 
+                // Exibe última atualização
                 if (data.updated_at) {
                     const date = new Date(data.updated_at);
                     lastUpdateText.textContent = `Última atualização: ${date.toLocaleString('pt-BR', { timeZone: 'America/Sao_Paulo' })} (Horário de Brasília)`;
@@ -283,6 +434,7 @@
             }
         }
 
+        // Inicializa Carrossel
         function initCarousel() {
             carouselNews = newsData.filter(item => item.image_url).slice(0, 7);
             
@@ -303,6 +455,7 @@
                 const slide = document.createElement('div');
                 slide.className = 'carousel-slide relative h-full flex flex-col justify-end cursor-pointer group overflow-hidden';
                 
+                // Trata as imagens de fallback usando Array aleatório do tema
                 const fallbackImg = item.fallback_images && item.fallback_images.length > 0 
                     ? item.fallback_images[index % item.fallback_images.length] 
                     : 'https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop';
@@ -340,6 +493,7 @@
                 slide.addEventListener('click', () => window.open(item.link, '_blank'));
                 carouselTrack.appendChild(slide);
 
+                // Adiciona indicador (pontinho)
                 const indicator = document.createElement('button');
                 indicator.className = `w-2 h-2 rounded-full transition-all ${index === 0 ? 'bg-brand-accent w-4' : 'bg-brand-border'}`;
                 indicator.addEventListener('click', () => {
@@ -354,6 +508,7 @@
             startCarouselTimer();
         }
 
+        // Navegação do Carrossel
         function updateCarouselPosition() {
             carouselTrack.style.transform = `translateX(-${currentSlide * 100}%)`;
             const indicators = carouselIndicators.querySelectorAll('button');
@@ -391,6 +546,7 @@
             resetCarouselTimer();
         });
 
+        // Helper para normalizar caracteres acentuados
         function slugify(text) {
             if (!text) return '';
             return text.toString().toLowerCase()
@@ -399,6 +555,7 @@
                 .replace(/[^a-z0-9]/g, '');
         }
 
+        // Aplica os filtros ativos
         function applyFilters() {
             const query = searchInput.value.toLowerCase().trim();
             const region = filterRegion.value;
@@ -423,6 +580,7 @@
             limit = 50;
             renderNewsGrid();
 
+            // Gerencia visualização do carrossel/resumo
             const hasActiveFilters = query || region !== 'all' || theme !== 'all' || source !== 'all';
             if (hasActiveFilters) {
                 filterSummary.firstElementChild.textContent = `Encontradas ${filteredNews.length} notícias com os filtros ativos.`;
@@ -431,12 +589,14 @@
             } else {
                 filterSummary.firstElementChild.textContent = 'Exibindo todas as notícias.';
                 resetFiltersBtn.classList.add('hidden');
-                if (carouselNews.length > 0) {
+                // Apenas exibe o carrossel se a aba de Notícias estiver ativa
+                if (carouselNews.length > 0 && !newsTabContent.classList.contains('hidden')) {
                     carouselSection.classList.remove('hidden');
                 }
             }
         }
 
+        // Renderiza o grid de notícias filtrado
         function renderNewsGrid() {
             loading.classList.add('hidden');
             newsGrid.innerHTML = '';
@@ -454,6 +614,7 @@
                 const card = document.createElement('div');
                 card.className = 'bg-brand-card border border-brand-border rounded-xl overflow-hidden hover:border-brand-accent/50 hover:shadow-lg hover:shadow-brand-accent/5 transition duration-300 flex flex-col h-full';
                 
+                // Configura fallbacks de imagem baseados no tema
                 const fallbackImg = item.fallback_images && item.fallback_images.length > 0 
                     ? item.fallback_images[index % item.fallback_images.length] 
                     : 'https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop';
@@ -463,6 +624,7 @@
                                      item.image_url.trim() !== '';
                 const finalImgUrl = hasRealImage ? item.image_url : fallbackImg;
                 
+                // Fallback para tag onerror quando imagem falha
                 const imgPlaceholder = `
                     <div class="w-full h-full flex flex-col items-center justify-center bg-brand-border/60 p-4 text-center">
                         <span class="text-xs font-bold text-brand-accent tracking-wider uppercase">${item.theme}</span>
@@ -470,6 +632,7 @@
                     </div>
                 `;
 
+                // Layout retangular horizontal (aspect-video)
                 card.innerHTML = `
                     <div class="relative aspect-video w-full overflow-hidden bg-brand-border/20">
                         <img 
@@ -484,20 +647,24 @@
                     
                     <div class="p-5 flex flex-col flex-grow justify-between space-y-4">
                         <div class="space-y-2">
+                            <!-- Etiquetas / Tags -->
                             <div class="flex flex-wrap gap-1.5">
                                 <span class="px-2 py-0.5 bg-brand-accent/15 text-brand-accent text-[9px] font-bold rounded uppercase tracking-wider">${item.region}</span>
                                 <span class="px-2 py-0.5 bg-brand-border/60 text-brand-textMuted text-[9px] font-bold rounded uppercase tracking-wider">${item.theme}</span>
                             </div>
 
+                            <!-- Título -->
                             <h4 class="text-base font-bold text-brand-textMain leading-snug line-clamp-3">
                                 ${item.title}
                             </h4>
                             
+                            <!-- Resumo -->
                             <p class="text-xs text-brand-textMuted line-clamp-3 leading-relaxed">
                                 ${item.summary || 'Clique no link para ler os detalhes da cobertura completa.'}
                             </p>
                         </div>
 
+                        <!-- Rodapé do Card -->
                         <div class="pt-4 border-t border-brand-border/30 flex items-center justify-between text-[11px]">
                             <div class="flex flex-col">
                                 <span class="font-bold text-brand-accent">${item.source_name}</span>
@@ -519,14 +686,18 @@
                 newsGrid.appendChild(card);
             });
 
+            // Gerencia botão ver mais
             if (filteredNews.length > limit) {
                 loadMoreContainer.classList.remove('hidden');
             } else {
                 loadMoreContainer.classList.add('hidden');
             }
+            
+            // Inicializa ícones do lucide no DOM renderizado
             lucide.createIcons();
         }
 
+        // Fallback robusto para carregamento de imagem quebrado
         function handleImageError(imgElement, theme, sourceName) {
             const container = imgElement.parentElement;
             container.innerHTML = `
@@ -537,6 +708,7 @@
             `;
         }
 
+        // Formatação amigável de datas
         function formatDate(isoString) {
             if (!isoString) return '';
             try {
@@ -548,9 +720,12 @@
                     hour: '2-digit',
                     minute: '2-digit'
                 });
-            } catch (e) { return ''; }
+            } catch (e) {
+                return '';
+            }
         }
 
+        // Formatação de "Tempo decorrido" para carrossel
         function formatTimeAgo(isoString) {
             if (!isoString) return '';
             try {
@@ -559,12 +734,17 @@
                 const diffMs = now - date;
                 const diffMins = Math.floor(diffMs / 60000);
                 const diffHours = Math.floor(diffMins / 60);
+                
                 if (diffMins < 60) return `há ${diffMins} min`;
                 if (diffHours < 24) return `há ${diffHours}h`;
+                
                 return date.toLocaleDateString('pt-BR', { day: '2-digit', month: '2-digit' });
-            } catch (e) { return ''; }
+            } catch (e) {
+                return '';
+            }
         }
 
+        // Limpa todos os filtros
         function resetAllFilters() {
             searchInput.value = '';
             filterRegion.value = 'all';
@@ -573,6 +753,32 @@
             applyFilters();
         }
 
+        // Alternância de Abas
+        function switchTab(activeTab) {
+            if (activeTab === 'news') {
+                tabNews.className = "px-4 py-2 text-sm font-semibold border-b-2 border-brand-accent text-brand-textMain transition flex items-center gap-2";
+                tabPressReader.className = "px-4 py-2 text-sm font-semibold border-b-2 border-transparent text-brand-textMuted hover:text-brand-textMain transition flex items-center gap-2";
+                newsTabContent.classList.remove('hidden');
+                pressreaderTabContent.classList.add('hidden');
+                // Reexibe o carrossel se os filtros estiverem limpos
+                const hasFilters = searchInput.value.trim() || filterRegion.value !== 'all' || filterTheme.value !== 'all' || filterSource.value !== 'all';
+                if (carouselNews.length > 0 && !hasFilters) {
+                    carouselSection.classList.remove('hidden');
+                }
+            } else {
+                tabNews.className = "px-4 py-2 text-sm font-semibold border-b-2 border-transparent text-brand-textMuted hover:text-brand-textMain transition flex items-center gap-2";
+                tabPressReader.className = "px-4 py-2 text-sm font-semibold border-b-2 border-brand-accent text-brand-textMain transition flex items-center gap-2";
+                newsTabContent.classList.add('hidden');
+                pressreaderTabContent.classList.remove('hidden');
+                carouselSection.classList.add('hidden');
+            }
+            lucide.createIcons();
+        }
+
+        tabNews.addEventListener('click', () => switchTab('news'));
+        tabPressReader.addEventListener('click', () => switchTab('pressreader'));
+
+        // Event Listeners
         searchInput.addEventListener('input', applyFilters);
         filterRegion.addEventListener('change', applyFilters);
         filterTheme.addEventListener('change', applyFilters);
@@ -584,6 +790,7 @@
             renderNewsGrid();
         });
 
+        // Inicialização
         fetchNews();
     </script>
 </body>
