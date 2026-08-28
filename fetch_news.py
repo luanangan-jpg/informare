@@ -307,23 +307,75 @@ def parse_date(date_str):
         
     return datetime.utcnow().isoformat() + "Z"
 
-def classify_region(title, summary, source_info):
-    """Classifica a notícia por região geográfica baseada no conteúdo."""
+def classify_region(title, summary, source_info, theme=None):
+    """Classifica a notícia por região geográfica baseada no conteúdo e regras geopolíticas."""
     content = (title + " " + summary).lower()
     
-    # Dicionário de termos por região
+    # Comentário de Prevenção/Manutenção:
+    # Caso precise adicionar novas regiões ou palavras-chave (incluindo nacionalidades, adjetivos pátrios e capitais),
+    # edite o dicionário 'terms' abaixo. Adjetivos pátrios ajudam muito na classificação de manchetes curtas.
     terms = {
-        "América do Norte": ["eua", "estados unidos", "united states", "washington", "nova york", "biden", "trump", "kamala", "canada", "canadá", "ottawa", "trudeau", "mexico", "méxico", "obrador", "sheinbaum"],
-        "América Central": ["cuba", "havana", "haiti", "guatemala", "honduras", "nicaragua", "nicarágua", "costa rica", "panama", "panamá", "jamaica", "bahamas", "el salvador", "bukele"],
-        "América do Sul": ["brasil", "brasília", "lula", "argentina", "buenos aires", "milei", "venezuela", "caracas", "maduro", "colombia", "colômbia", "petro", "chile", "santiago", "boric", "peru", "lima", "bolivia", "bolívia", "equador", "paraguai", "uruguai", "guiana", "suriname"],
-        "Europa": ["europa", "união europeia", "alemanha", "berlim", "scholz", "frança", "paris", "macron", "reino unido", "inglaterra", "londres", "starmer", "itália", "roma", "meloni", "espanha", "madri", "sánchez", "portugal", "lisboa", "rússia", "russia", "moscou", "putin", "ucrânia", "kiev", "zelensky", "bruxelas", "suíça", "suécia", "noruega", "finlândia", "polônia", "grécia", "irlanda"],
-        "Ásia": ["ásia", "asia", "china", "pequim", "xi jinping", "japão", "tóquio", "coreia", "seul", "pyongyang", "kim jong", "índia", "india", "nova deli", "modi", "vietnã", "indonésia", "filipinas", "paquistão", "taiwan", "taipei"],
-        "Oriente Médio": ["oriente médio", "israel", "tel aviv", "jerusalém", "netanyahu", "palestina", "gaza", "hamas", "irã", "teerã", "arábia saudita", "riad", "síria", "iêmen", "líbano", "beirute", "hezbollah", "iraque", "turquia", "ancara", "erdogan", "catar", "doha"],
-        "África": ["áfrica", "africa", "áfrica do sul", "egito", "cairo", "nigéria", "abuja", "quênia", "nairóbi", "etiópia", "líbia", "argélia", "marrocos", "rabat", "angola", "luanda", "moçambique", "maputo", "sudão", "gana", "senegal", "rdc"],
-        "Oceania": ["oceania", "austrália", "australia", "camberra", "nova zelândia", "wellington"]
+        "América do Norte": [
+            "eua", "estados unidos", "united states", "washington", "nova york", "biden", "trump", "kamala", 
+            "canada", "canadá", "ottawa", "trudeau", "mexico", "méxico", "obrador", "sheinbaum",
+            "americano", "americana", "americanos", "americanas", "canadense", "canadenses", 
+            "mexicano", "mexicana", "mexicanos", "mexicanas", "casa branca", "pentágono"
+        ],
+        "América Central": [
+            "cuba", "havana", "haiti", "guatemala", "honduras", "nicaragua", "nicarágua", "costa rica", 
+            "panama", "panamá", "jamaica", "bahamas", "el salvador", "bukele",
+            "cubano", "cubana", "cubanos", "cubanas", "haitiano", "haitiana", "haitianos", "haitianas"
+        ],
+        "América do Sul": [
+            "brasil", "brasília", "lula", "argentina", "buenos aires", "milei", "venezuela", "caracas", 
+            "maduro", "colombia", "colômbia", "petro", "chile", "santiago", "boric", "peru", "lima", 
+            "bolivia", "bolívia", "equador", "paraguai", "uruguai", "guiana", "suriname",
+            "brasileiro", "brasileira", "brasileiros", "brasileiras", "argentino", "argentina", 
+            "argentinos", "argentinas", "venezuelano", "venezuelana", "venezuelanos", "venezuelanas", 
+            "colombiano", "colombiana", "colombianos", "colombianas", "chileno", "chilena", 
+            "chilenos", "chilenas", "peruano", "peruana", "peruanos", "peruanas"
+        ],
+        "Europa": [
+            "europa", "união europeia", "alemanha", "berlim", "scholz", "frança", "paris", "macron", 
+            "reino unido", "inglaterra", "londres", "starmer", "itália", "roma", "meloni", "espanha", 
+            "madri", "sánchez", "portugal", "lisboa", "rússia", "russia", "moscou", "putin", "ucrânia", 
+            "kiev", "zelensky", "bruxelas", "suíça", "suécia", "noruega", "finlândia", "polônia", 
+            "grécia", "irlanda", "europeu", "europeia", "europeus", "europeias", "alemão", "alemã", 
+            "alemães", "francês", "francesa", "franceses", "francesas", "britânico", "britânica", 
+            "britânicos", "britânicas", "inglês", "inglesa", "ingleses", "inglesas", "italiano", 
+            "italiana", "italianos", "italianas", "espanhol", "espanhola", "espanhóis", "espanholas", 
+            "português", "portuguesa", "portugueses", "portuguesas", "russo", "russa", "russos", 
+            "russas", "ucraniano", "ucraniana", "ucranianos", "ucranianas"
+        ],
+        "Ásia": [
+            "ásia", "asia", "china", "pequim", "xi jinping", "japão", "tóquio", "coreia", "seul", 
+            "pyongyang", "kim jong", "índia", "india", "nova deli", "modi", "vietnã", "indonésia", 
+            "filipinas", "paquistão", "taiwan", "taipei", "chinês", "chinesa", "chineses", "chinesas", 
+            "japonês", "japonesa", "japoneses", "japonesas", "coreano", "coreana", "coreanos", "coreanas", 
+            "indiano", "indiana", "indianos", "indianas"
+        ],
+        "Oriente Médio": [
+            "oriente médio", "israel", "tel aviv", "jerusalém", "netanyahu", "palestina", "gaza", 
+            "hamas", "irã", "teerã", "arábia saudita", "riad", "síria", "iêmen", "líbano", "beirute", 
+            "hezbollah", "iraque", "turquia", "ancara", "erdogan", "catar", "doha",
+            "israelense", "israelenses", "palestino", "palestina", "palestinos", "palestinas", 
+            "iraniano", "iraniana", "iranianos", "iranianas", "turco", "turca", "turcos", "turcas", 
+            "saudita", "sauditas"
+        ],
+        "África": [
+            "áfrica", "africa", "áfrica do sul", "egito", "cairo", "nigéria", "abuja", "quênia", 
+            "nairóbi", "etiópia", "líbia", "argélia", "marrocos", "rabat", "angola", "luanda", 
+            "moçambique", "maputo", "sudão", "gana", "senegal", "rdc",
+            "africano", "africana", "africanos", "africanas", "egípcio", "egípcia", "egípcios", "egípcias", 
+            "angolano", "angolana", "angolanos", "angolanas", "sul-africano", "sul-africana"
+        ],
+        "Oceania": [
+            "oceania", "austrália", "australia", "camberra", "nova zelândia", "wellington",
+            "australiano", "australiana", "australianos", "australianas"
+        ]
     }
     
-    # Contagem de ocorrências
+    # Contagem de ocorrências de palavras-chave
     scores = {region: 0 for region in terms}
     for region, keywords in terms.items():
         for keyword in keywords:
@@ -340,8 +392,17 @@ def classify_region(title, summary, source_info):
             max_score = score
             best_region = region
             
-    # Se não houver correspondência clara na matéria, recorre à região padrão da fonte
+    # Se não houver correspondência clara na matéria
     if best_region is None:
+        # Se o tema for inerentemente sobre o Brasil, classifica na América do Sul
+        if theme in ["Política Brasileira", "Economia Brasileira"]:
+            return "América do Sul"
+        
+        # Caso contrário, se for fonte nacional brasileira, herda América do Sul
+        if source_info.get("is_brazilian", False):
+            return "América do Sul"
+            
+        # Para internacionais, recorre à região padrão ou Global
         return source_info.get("default_region", "Global")
         
     return best_region
@@ -452,8 +513,8 @@ def fetch_single_feed(source):
             pub_date = parse_date(pub_date_raw)
             
             # Classificações
-            region = classify_region(title, summary, source)
             theme = classify_theme(title, summary)
+            region = classify_region(title, summary, source, theme)
             
             # Tenta extrair imagem diretamente do RSS
             image_url = extract_image_from_entry(entry)
@@ -478,6 +539,16 @@ def fetch_single_feed(source):
 
 def main():
     start_time = time.time()
+    
+    # Comentário de Prevenção/Controle:
+    # Valida se todas as fontes possuem as chaves necessárias configuradas de forma explícita na lista SOURCES.
+    for src in SOURCES:
+        required_keys = ["id", "name", "url", "is_brazilian", "default_region"]
+        missing = [k for k in required_keys if k not in src]
+        if missing:
+            logging.error(f"FONTE DESCONFIGURADA DETECTADA: {src.get('name', 'Sem Nome')}. Chaves faltando: {missing}")
+            raise ValueError(f"Fonte incompleta na tabela de mapeamento: {src}")
+            
     all_news = []
     
     # Coleta concorrente dos feeds RSS

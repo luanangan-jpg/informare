@@ -444,14 +444,18 @@
             limit = 50;
             renderNewsGrid();
 
-            // Mostra resumos
+            // Mostra resumos e oculta o carrossel se filtros estiverem ativos
             const hasActiveFilters = query || region !== 'all' || theme !== 'all' || source !== 'all';
             if (hasActiveFilters) {
                 filterSummary.firstElementChild.textContent = `Encontradas ${filteredNews.length} notícias com os filtros ativos.`;
                 resetFiltersBtn.classList.remove('hidden');
+                carouselSection.classList.add('hidden'); // Oculta o carrossel quando filtrado
             } else {
                 filterSummary.firstElementChild.textContent = 'Exibindo todas as notícias.';
                 resetFiltersBtn.classList.add('hidden');
+                if (carouselNews.length > 0) {
+                    carouselSection.classList.remove('hidden'); // Mostra o carrossel no estado limpo
+                }
             }
         }
 
@@ -506,6 +510,7 @@
                             <div class="flex flex-wrap gap-1.5">
                                 <span class="px-2 py-0.5 bg-brand-accent/15 text-brand-accent text-[9px] font-bold rounded uppercase tracking-wider">${item.region}</span>
                                 <span class="px-2 py-0.5 bg-brand-border/60 text-brand-textMuted text-[9px] font-bold rounded uppercase tracking-wider">${item.theme}</span>
+                                <span class="px-2 py-0.5 ${item.is_brazilian ? 'bg-green-500/10 text-green-400 border border-green-500/20' : 'bg-purple-500/10 text-purple-400 border border-purple-500/20'} text-[9px] font-bold rounded uppercase tracking-wider">${item.is_brazilian ? 'Nacional' : 'Internacional'}</span>
                             </div>
 
                             <!-- Título -->
