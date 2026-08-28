@@ -308,12 +308,13 @@ def parse_date(date_str):
     return datetime.utcnow().isoformat() + "Z"
 
 def classify_region(title, summary, source_info, theme=None):
-    """Classifica a notícia por região geográfica baseada no conteúdo e regras geopolíticas."""
-    content = (title + " " + summary).lower()
+    """Classifica a notícia por região geográfica baseada no conteúdo, pesando mais o título."""
+    t_clean = title.lower()
+    s_clean = summary.lower()
     
     # Comentário de Prevenção/Manutenção:
-    # Caso precise adicionar novas regiões ou palavras-chave (incluindo nacionalidades, adjetivos pátrios e capitais),
-    # edite o dicionário 'terms' abaixo. Adjetivos pátrios ajudam muito na classificação de manchetes curtas.
+    # O dicionário 'terms' mapeia palavras-chave e gentílicos para regiões específicas.
+    # Se adicionar novas regiões ou fontes, certifique-se de que os termos cobrem o país correspondente.
     terms = {
         "América do Norte": [
             "eua", "estados unidos", "united states", "washington", "nova york", "biden", "trump", "kamala", 
@@ -352,7 +353,8 @@ def classify_region(title, summary, source_info, theme=None):
             "pyongyang", "kim jong", "índia", "india", "nova deli", "modi", "vietnã", "indonésia", 
             "filipinas", "paquistão", "taiwan", "taipei", "chinês", "chinesa", "chineses", "chinesas", 
             "japonês", "japonesa", "japoneses", "japonesas", "coreano", "coreana", "coreanos", "coreanas", 
-            "indiano", "indiana", "indianos", "indianas"
+            "indiano", "indiana", "indianos", "indianas", "nepal", "tibete", "himalaia", "tailândia", 
+            "tailandia", "singapura", "vietna", "paquistan", "nepalês", "nepalesa", "tibetano", "tibetana"
         ],
         "Oriente Médio": [
             "oriente médio", "israel", "tel aviv", "jerusalém", "netanyahu", "palestina", "gaza", 
@@ -375,13 +377,17 @@ def classify_region(title, summary, source_info, theme=None):
         ]
     }
     
-    # Contagem de ocorrências de palavras-chave
+    # Contagem ponderada de ocorrências
     scores = {region: 0 for region in terms}
     for region, keywords in terms.items():
         for keyword in keywords:
             pattern = r'\b' + re.escape(keyword) + r'\b'
-            matches = len(re.findall(pattern, content))
-            scores[region] += matches
+            # Título tem peso 5 por correspondência
+            t_matches = len(re.findall(pattern, t_clean))
+            # Resumo tem peso 1 por correspondência
+            s_matches = len(re.findall(pattern, s_clean))
+            
+            scores[region] += (t_matches * 5) + s_matches
             
     # Filtra as regiões com maior pontuação
     max_score = 0
@@ -400,27 +406,6 @@ def classify_region(title, summary, source_info, theme=None):
         return "Global"
         
     return best_region
-
-def classify_content_tag(title, summary, region, theme):
-    """Classifica se o assunto da notícia é sobre o Brasil ou Internacional."""
-    content = (title + " " + summary).lower()
-    
-    # Se a região identificada for América do Sul, faz um pente fino para ver se é Brasil ou outro país da região
-    if region == "América do Sul":
-        brasil_keywords = ["brasil", "brasília", "lula", "itamaraty", "brasileiro", "brasileira", "brasileiros", "brasileiras"]
-        if any(kw in content for kw in brasil_keywords) or theme in ["Política Brasileira", "Economia Brasileira"]:
-            return "Brasil"
-            
-    # Caso o tema seja explicitamente brasileiro
-    if theme in ["Política Brasileira", "Economia Brasileira"]:
-        return "Brasil"
-        
-    # Se contiver palavras brasileiras marcantes mesmo fora da América do Sul (ex: reunião bilateral com Lula)
-    brasil_keywords_strong = ["brasil", "lula", "itamaraty", "brasileiro", "brasileira"]
-    if any(kw in content for kw in brasil_keywords_strong):
-        return "Brasil"
-        
-    return "Internacional"
 
 def classify_theme(title, summary):
     """Classifica a notícia por área temática."""
@@ -530,7 +515,6 @@ def fetch_single_feed(source):
             # Classificações
             theme = classify_theme(title, summary)
             region = classify_region(title, summary, source, theme)
-            content_tag = classify_content_tag(title, summary, region, theme)
             
             # Tenta extrair imagem diretamente do RSS
             image_url = extract_image_from_entry(entry)
@@ -542,7 +526,6 @@ def fetch_single_feed(source):
                 "published_at": pub_date,
                 "region": region,
                 "theme": theme,
-                "content_tag": content_tag,
                 "source_name": source['name'],
                 "source_id": source['id'],
                 "is_brazilian": source['is_brazilian'],

@@ -413,6 +413,14 @@
         });
 
 
+        function slugify(text) {
+            if (!text) return '';
+            return text.toString().toLowerCase()
+                .normalize('NFD')
+                .replace(/[\u0300-\u036f]/g, '')
+                .replace(/[^a-z0-9]/g, '');
+        }
+
         // FILTROS
         function applyFilters() {
             const query = searchInput.value.toLowerCase().trim();
@@ -426,11 +434,11 @@
                     item.title.toLowerCase().includes(query) || 
                     item.summary.toLowerCase().includes(query);
                 
-                // Filtro de Região
-                const matchRegion = region === 'all' || item.region === region;
+                // Filtro de Região (compara slugificado para evitar problemas de acentuação/encoding)
+                const matchRegion = region === 'all' || slugify(item.region) === slugify(region);
                 
-                // Filtro de Tema
-                const matchTheme = theme === 'all' || item.theme === theme;
+                // Filtro de Tema (compara slugificado)
+                const matchTheme = theme === 'all' || slugify(item.theme) === slugify(theme);
                 
                 // Filtro de Origem
                 let matchSource = true;
@@ -510,7 +518,6 @@
                             <div class="flex flex-wrap gap-1.5">
                                 <span class="px-2 py-0.5 bg-brand-accent/15 text-brand-accent text-[9px] font-bold rounded uppercase tracking-wider">${item.region}</span>
                                 <span class="px-2 py-0.5 bg-brand-border/60 text-brand-textMuted text-[9px] font-bold rounded uppercase tracking-wider">${item.theme}</span>
-                                <span class="px-2 py-0.5 ${item.content_tag === 'Brasil' ? 'bg-green-600/20 text-green-400 border border-green-500/30' : 'bg-blue-600/10 text-brand-textMuted border border-brand-border'} text-[9px] font-bold rounded uppercase tracking-wider">${item.content_tag}</span>
                             </div>
 
                             <!-- Título -->
