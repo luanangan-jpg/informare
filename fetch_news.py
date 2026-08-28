@@ -3,7 +3,7 @@ import re
 import json
 import logging
 import urllib.parse
-from datetime import datetime
+from datetime import datetime, timezone
 import time
 from concurrent.futures import ThreadPoolExecutor, as_completed
 import feedparser
@@ -326,11 +326,30 @@ def fetch_loremflickr_fallback_image(title):
         logging.debug(f"Erro ao buscar LoremFlickr para '{query}': {e}")
     return None
 
+def parse_struct_time(struct_t):
+    """Converte time.struct_time do feedparser para string ISO 8601 UTC."""
+    if not struct_t:
+        return None
+    try:
+        dt = datetime(
+            year=struct_t.tm_year,
+            month=struct_t.tm_mon,
+            day=struct_t.tm_mday,
+            hour=struct_t.tm_hour,
+            minute=struct_t.tm_min,
+            second=struct_t.tm_sec,
+            tzinfo=timezone.utc
+        )
+        return dt.isoformat().replace("+00:00", "Z")
+    except Exception:
+        return None
+
 def parse_date(date_str):
     """Normaliza datas de publicação para ISO format."""
     if not date_str:
         return datetime.utcnow().isoformat() + "Z"
     
+    # Lista de formatos comuns
     formats = [
         "%a, %d %b %Y %H:%M:%S %Z",
         "%a, %d %b %Y %H:%M:%S %z",
@@ -342,6 +361,7 @@ def parse_date(date_str):
         "%d/%m/%Y %H:%M"
     ]
     
+    # Tratamentos manuais comuns para fusos horários brasileiros/portugueses
     date_str_clean = date_str.replace("GMT", "+0000").replace("UTC", "+0000").strip()
     
     for fmt in formats:
@@ -351,6 +371,7 @@ def parse_date(date_str):
         except ValueError:
             continue
             
+    # Se falhar, usa feedparser parser embutido
     try:
         parsed_t = feedparser._parse_date(date_str)
         if parsed_t:
@@ -387,7 +408,7 @@ def classify_region(title, summary, source_info, theme=None):
             "argentinos", "argentinas", "argentinian", "venezuelano", "venezuelana", "venezuelanos", "venezuelanas", "venezuelan",
             "colombiano", "colombiana", "colombianos", "colombianas", "colombian", "chileno", "chilena", 
             "chilenos", "chilenas", "chilean", "peruano", "peruana", "peruanos", "peruanas", "peruvian",
-            "ecuadorian", "bolivian", "paraguayan", "uruguayan"
+            "ecuadorian", "bolivian", "paraguayan", "uruyan"
         ],
         "Europa": [
             "europa", "europe", "união europeia", "european union", "eu", "alemanha", "germany", "berlim", "berlin", "scholz", "german", "frança", "france", "paris", "macron", "french",
@@ -561,9 +582,11 @@ def deduplicate_news(news_list):
     for item in news_list:
         is_duplicate = False
         for existing in deduplicated:
+            # Compara títulos usando Jaccard Similarity
             similarity = jaccard_similarity(item['title'], existing['title'])
-            if similarity > 0.6:
+            if similarity > 0.6:  # 60% de similaridade indica forte redundância
                 is_duplicate = True
+                # Critério de substituição: prefere o que tem imagem real
                 if not existing['image_url'] and item['image_url']:
                     existing['image_url'] = item['image_url']
                 break
@@ -581,7 +604,7 @@ def fetch_single_feed(source):
             logging.warning(f"Nenhuma notícia encontrada para {source['name']}")
             return news_items
             
-        for entry in feed.entries[:15]:
+        for entry in feed.entries[:15]:  # Pega até 15 notícias mais recentes por feed
             title = getattr(entry, 'title', '').strip()
             link = getattr(entry, 'link', '').strip()
             summary = clean_html(getattr(entry, 'summary', ''))
@@ -589,11 +612,19 @@ def fetch_single_feed(source):
             if not title or not link:
                 continue
                 
-            pub_date_raw = getattr(entry, 'published', getattr(entry, 'updated', None))
-            pub_date = parse_date(pub_date_raw)
+            # Extrai e normaliza data de publicação (prioriza struct_time pré-processada pelo feedparser)
+            pub_date_struct = getattr(entry, 'published_parsed', getattr(entry, 'updated_parsed', None))
+            if pub_date_struct:
+                pub_date = parse_struct_time(pub_date_struct)
+            else:
+                pub_date_raw = getattr(entry, 'published', getattr(entry, 'updated', None))
+                pub_date = parse_date(pub_date_raw)
             
+            # Classificações
             theme = classify_theme(title, summary)
             region = classify_region(title, summary, source, theme)
+            
+            # Tenta extrair imagem diretamente do RSS
             image_url = extract_image_from_entry(entry)
             
             news_items.append({
@@ -617,6 +648,8 @@ def fetch_single_feed(source):
 def main():
     start_time = time.time()
     
+    # Comentário de Prevenção/Controle:
+    # Valida se todas as fontes possuem as chaves necessárias configuradas de forma explícita na lista SOURCES.
     for src in SOURCES:
         required_keys = ["id", "name", "url", "is_brazilian", "default_region"]
         missing = [k for k in required_keys if k not in src]
@@ -624,31 +657,50 @@ def main():
             logging.error(f"FONTE DESCONFIGURADA DETECTADA: {src.get('name', 'Sem Nome')}. Chaves faltando: {missing}")
             raise ValueError(f"Fonte incompleta na tabela de mapeamento: {src}")
             
+    # Carrega notícias pré-existentes do cache JSON local (para histórico cumulativo)
+    existing_news = []
+    output_dir = 'data'
+    output_path = os.path.join(output_dir, 'news.json')
+    if os.path.exists(output_path):
+        try:
+            with open(output_path, 'r', encoding='utf-8') as f:
+                old_data = json.load(f)
+                existing_news = old_data.get('news', [])
+                logging.info(f"Carregadas {len(existing_news)} notícias pré-existentes do cache local.")
+        except Exception as e:
+            logging.warning(f"Não foi possível carregar notícias pré-existentes: {e}")
+
     all_news = []
     
+    # Coleta concorrente dos feeds RSS
     with ThreadPoolExecutor(max_workers=8) as executor:
         futures = {executor.submit(fetch_single_feed, src): src for src in SOURCES}
         for future in as_completed(futures):
             all_news.extend(future.result())
             
-    logging.info(f"Coleta de RSS finalizada. Total bruto de notícias: {len(all_news)}")
+    logging.info(f"Coleta de RSS finalizada. Total bruto de notícias novas: {len(all_news)}")
     
-    all_news = deduplicate_news(all_news)
-    logging.info(f"Total após deduplicação: {len(all_news)}")
+    # Mescla notícias recém-coletadas com as notícias históricas em cache
+    combined_news = all_news + existing_news
     
-    news_needing_image = [item for item in all_news if not item['image_url']][:30]
-    logging.info(f"Buscando og:image nas páginas originais de {len(news_needing_image)} matérias...")
+    # Remove duplicatas (preservando o primeiro registro e a data real original)
+    combined_news = deduplicate_news(combined_news)
+    logging.info(f"Total após mesclagem e deduplicação: {len(combined_news)}")
     
-    with ThreadPoolExecutor(max_workers=5) as executor:
-        futures_og = {executor.submit(fetch_og_image, item['link']): item for item in news_needing_image}
-        for future in as_completed(futures_og):
-            item = futures_og[future]
-            og_img = future.result()
-            if og_img:
-                item['image_url'] = og_img
+    # Busca concorrente de og:image para as notícias que ainda não têm imagem de capa (limite de 30 para economizar recursos)
+    news_needing_image = [item for item in combined_news if not item['image_url']][:30]
+    if news_needing_image:
+        logging.info(f"Buscando og:image nas páginas originais de {len(news_needing_image)} matérias...")
+        with ThreadPoolExecutor(max_workers=5) as executor:
+            futures_og = {executor.submit(fetch_og_image, item['link']): item for item in news_needing_image}
+            for future in as_completed(futures_og):
+                item = futures_og[future]
+                og_img = future.result()
+                if og_img:
+                    item['image_url'] = og_img
                 
-    # Depois de tentar og:image, para as matérias que continuarem sem imagem, busca fallback no LoremFlickr (limite de 25)
-    news_still_needing_image = [item for item in all_news if not item['image_url']][:25]
+    # Depois de tentar og:image, para as matérias que continuarem sem imagem, busca fallback no LoremFlickr (limite de 25 para evitar lentidão)
+    news_still_needing_image = [item for item in combined_news if not item['image_url']][:25]
     if news_still_needing_image:
         logging.info(f"Buscando fallback de imagem no LoremFlickr para {len(news_still_needing_image)} matérias...")
         with ThreadPoolExecutor(max_workers=5) as executor:
@@ -659,12 +711,13 @@ def main():
                 if lorem_img:
                     item['image_url'] = lorem_img
 
-    # Ordena notícias por data de publicação (mais recentes primeiro)
-    all_news.sort(key=lambda x: x['published_at'], reverse=True)
+    # Ordena notícias por data de publicação real (mais recentes primeiro)
+    combined_news.sort(key=lambda x: x['published_at'], reverse=True)
     
+    # Estatísticas de validação
     theme_counts = {}
     region_counts = {}
-    for item in all_news:
+    for item in combined_news[:150]:
         theme_counts[item['theme']] = theme_counts.get(item['theme'], 0) + 1
         region_counts[item['region']] = region_counts.get(item['region'], 0) + 1
         
@@ -677,13 +730,14 @@ def main():
         print(f"  {region}: {count}")
     print("------------------------------------\n")
     
+    # Salva dados coletados em arquivo JSON para o frontend ler
     output_data = {
         "updated_at": datetime.utcnow().isoformat() + "Z",
-        "news": all_news[:150]
+        "news": combined_news[:150]  # Armazena as 150 notícias mais recentes
     }
     
-    os.makedirs('data', exist_ok=True)
-    output_path = os.path.join('data', 'news.json')
+    # Cria o diretório de saída se não existir
+    os.makedirs(output_dir, exist_ok=True)
     with open(output_path, 'w', encoding='utf-8') as f:
         json.dump(output_data, f, ensure_ascii=False, indent=2)
         
