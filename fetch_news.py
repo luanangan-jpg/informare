@@ -402,54 +402,66 @@ def classify_region(title, summary, source_info, theme=None):
         ]
     }
     
+    # Contagem ponderada de ocorrências
     scores = {region: 0 for region in terms}
     for region, keywords in terms.items():
         for keyword in keywords:
             pattern = r'\b' + re.escape(keyword) + r'\b'
+            # Título tem peso 5 por correspondência
             t_matches = len(re.findall(pattern, t_clean))
+            # Resumo tem peso 1 por correspondência
             s_matches = len(re.findall(pattern, s_clean))
+            
             scores[region] += (t_matches * 5) + s_matches
             
-    best_region = None
+    # Filtra as regiões com maior pontuação
     max_score = 0
+    best_region = None
     for region, score in scores.items():
         if score > max_score:
             max_score = score
             best_region = region
             
+    # Se não houver correspondência clara na matéria
     if best_region is None:
+        # Se o tema for inerentemente sobre o Brasil, classifica na América do Sul
         if theme in ["Política Brasileira", "Economia Brasileira"]:
             return "América do Sul"
-        return "Global"
+        # Se a fonte for brasileira e não houver menção explícita de outra região, assume América do Sul como padrão
+        if source_info.get("is_brazilian"):
+            return "América do Sul"
+        return source_info.get("default_region", "Global")
         
     return best_region
 
-def classify_theme(title, summary):
-    """Classifica a notícia por área temática."""
+def classify_theme(title, summary, source_info):
+    """Classifica a notícia por área temática, dando mais peso ao título."""
+    t_clean = title.lower()
+    s_clean = summary.lower()
     content = (title + " " + summary).lower()
     
     categories = {
         "Geopolítica e Segurança": [
-            "guerra", "conflito", "exército", "míssil", "mísseis", "armas", "otan", "defesa", "forças armadas", "bombardeio", "ataque", "invasão", "militar", "geopolítica", "ciberataque", "espionagem", "nuclear", "terrorismo", "pentágono",
-            "war", "conflict", "army", "military", "missile", "missiles", "weapons", "defense", "forces", "bombing", "attack", "invasion", "cyberattack", "espionage", "terror",
-            "conflicto", "ejército", "misil", "defensa", "fuerzas", "bombardeo", "invasión"
+            "guerra", "conflito", "exército", "míssil", "mísseis", "armas", "otan", "defesa", "forças armadas", "bombardeio", "ataque", "invasão", "militar", "geopolítica", "ciberataque", "espionagem", "nuclear", "terrorismo", "pentágono", "hezbollah", "hamas", "escalada", "tensão", "sanções",
+            "war", "conflict", "army", "military", "missile", "missiles", "weapons", "defense", "forces", "bombing", "attack", "invasion", "cyberattack", "espionage", "terror", "tensions", "sanctions",
+            "conflicto", "ejército", "misil", "defensa", "fuerzas", "bombardeo", "invasión", "sanciones"
         ],
         "Política Internacional": [
-            "eleições", "eleição", "presidente", "chanceler", "diplomacia", "embaixada", "tratado", "acordo bilateral", "líderes", "cúpula", "visita oficial", "parlamento", "governo estrangeiro", "putin", "biden", "trump", "kamala", "macron", "governo de",
-            "election", "elections", "president", "chancellor", "diplomacy", "embassy", "treaty", "summit", "parliament", "government",
-            "elecciones", "elección", "chanciller", "embajada", "cumbre", "gobierno"
+            "eleições", "eleição", "presidente", "chanceler", "diplomacia", "embaixada", "tratado", "acordo bilateral", "líderes", "cúpula", "visita oficial", "parlamento", "governo estrangeiro", "putin", "biden", "trump", "kamala", "macron", "governo de", "premiê", "primeiro-ministro", "parlamentar", "votação", "decreto",
+            "election", "elections", "president", "chancellor", "diplomacy", "embassy", "treaty", "summit", "parliament", "government", "prime minister", "senate", "house of representatives", "cabinet",
+            "elecciones", "elección", "chanciller", "embajada", "cumbre", "gobierno", "primer ministro"
         ],
         "Política Brasileira": [
             "lula", "itamaraty", "diplomacia brasileira", "governo brasileiro", "ministério das relações exteriores", "congresso brasileiro", "brasília", "planalto", "mre", "mauro vieira",
-            "brazilian government", "brazilian diplomacy"
+            "stf", "supremo tribunal", "alexandre de moraes", "congresso", "senado", "câmara dos deputados", "câmara federal", "parlamentar", "votação", "tse", "pf", "polícia federal", "plenário", "bolsonaro", "ministro do stf", "agu", "pgr", "palácio do planalto", "esplanada", "governadores", "senador", "deputado"
         ],
         "Economia Internacional": [
-            "fed", "federal reserve", "banco central europeu", "bce", "inflação nos estados unidos", "pib da china", "crise na argentina", "eurozona", "wall street",
-            "ecb", "inflation", "gdp", "central bank", "recession", "economic", "imf",
+            "fed", "federal reserve", "banco central europeu", "bce", "inflação nos estados unidos", "pib da china", "crise na argentina", "eurozona", "wall street", "juros", "inflação", "banco central", "fmi", "banco mundial",
+            "ecb", "inflation", "gdp", "central bank", "recession", "economic", "imf", "world bank", "interest rates",
             "inflación", "pib", "banco central", "recesión", "crisis"
         ],
         "Economia Brasileira": [
-            "selic", "banco central do brasil", "haddad", "ministério da fazenda", "ipca", "pib brasileiro", "economia brasileira", "mercado financeiro brasileiro", "arcabouço fiscal"
+            "selic", "banco central do brasil", "haddad", "ministério da fazenda", "ipca", "pib brasileiro", "economia brasileira", "mercado financeiro brasileiro", "arcabouço fiscal", "receita federal", "arcabouço", "tributária", "déficit", "superávit", "bndes", "reforma tributária"
         ],
         "Comércio e Finanças": [
             "exportação", "importação", "comércio exterior", "tarifas", "mercosul", "acordo comercial", "câmbio", "dólar", "euro", "bolsa de valores", "bovespa", "omc", "comercial", "finanças", "taxação",
@@ -457,9 +469,9 @@ def classify_theme(title, summary):
             "exportación", "importación", "aranceles", "dólar", "bolsa"
         ],
         "Meio Ambiente e Clima": [
-            "cop", "aquecimento global", "mudança climática", "mudanças climáticas", "desmatamento", "sustentabilidade", "carbono", "poluição", "energias renováveis", "solar", "eólica", "floresta", "desastre natural", "enchentes", "seca", "amazônia", "meio ambiente",
-            "climate", "warming", "deforestation", "sustainability", "carbon", "pollution", "renewable", "wind", "forest", "flood", "drought", "environment",
-            "calentamiento", "deforestación", "contaminación", "renovable", "inundación", "sequía", "medio ambiente"
+            "cop", "aquecimento global", "mudança climática", "mudanças climáticas", "desmatamento", "sustentabilidade", "carbono", "poluição", "energias renováveis", "solar", "eólica", "floresta", "desastre natural", "enchentes", "seca", "amazônia", "meio ambiente", "desastre", "clima", "chuvas", "tempestade", "incêndios",
+            "climate", "warming", "deforestation", "sustainability", "carbon", "pollution", "renewable", "wind", "forest", "flood", "drought", "environment", "storm",
+            "calentamiento", "deforestación", "contaminación", "renovable", "inundación", "sequía", "medio ambiente", "clima"
         ],
         "Ciência, Tecnologia e Inovação": [
             "inteligência artificial", " ia ", "tecnologia", "semicondutores", "chips", "espacial", "nasa", "internet", "redes sociais", "inovação", "ciência", "pesquisa", "telescópio", "cibersegurança", "algoritmo", "openai", "google", "meta",
@@ -492,24 +504,32 @@ def classify_theme(title, summary):
     for cat, keywords in categories.items():
         for keyword in keywords:
             pattern = r'\b' + re.escape(keyword) + r'\b'
-            matches = len(re.findall(pattern, content))
-            scores[cat] += matches
+            # Título tem peso 5 por correspondência
+            t_matches = len(re.findall(pattern, t_clean))
+            # Resumo tem peso 1 por correspondência
+            s_matches = len(re.findall(pattern, s_clean))
+            scores[cat] += (t_matches * 5) + s_matches
             
     max_score = 0
     best_category = "Outros / Multitemático"
+    
     for cat, score in scores.items():
         if score > max_score:
             max_score = score
             best_category = cat
             
+    # Validações cruzadas de economia / política nacional vs internacional baseada nas fontes e termos
     if best_category in ["Economia Internacional", "Economia Brasileira", "Política Internacional", "Política Brasileira"]:
-        has_brasil_keywords = any(kw in content for kw in ["brasil", "lula", "itamaraty", "brasileiro", "brasileira"])
-        if has_brasil_keywords:
+        is_source_brazilian = source_info.get("is_brazilian", False)
+        # Verifica se há palavras chaves internacionais fortes na matéria
+        has_intl_keywords = any(kw in content for kw in ["eua", "usa", "trump", "biden", "china", "pequim", "rússia", "ucrânia", "putin", "europa", "frança", "macron", "alemanha", "reino unido", "argentina", "milei", "venezuela", "maduro"])
+        
+        if is_source_brazilian and not has_intl_keywords:
             if best_category == "Economia Internacional":
                 best_category = "Economia Brasileira"
             elif best_category == "Política Internacional":
                 best_category = "Política Brasileira"
-        else:
+        elif not is_source_brazilian:
             if best_category == "Economia Brasileira":
                 best_category = "Economia Internacional"
             elif best_category == "Política Brasileira":
@@ -572,7 +592,7 @@ def fetch_single_feed(source):
                 pub_date = parse_date(pub_date_raw)
             
             # Classificações
-            theme = classify_theme(title, summary)
+            theme = classify_theme(title, summary, source)
             region = classify_region(title, summary, source, theme)
             
             # Tenta extrair imagem diretamente do RSS
