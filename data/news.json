@@ -1,17 +1,221 @@
 {
-  "updated_at": "2026-08-29T12:03:17.179438Z",
+  "updated_at": "2026-08-29T13:02:57.064624Z",
   "news": [
     {
-      "title": "At least 37 dead and hundreds evacuated after strike on Kyiv warehouse",
-      "link": "https://www.bbc.co.uk/news/articles/c86xwqez4npo?at_medium=RSS&at_campaign=rss",
-      "summary": "An investigation has been launched into whether ammunition was being stored at the site.",
-      "published_at": "2026-08-29T11:53:37Z",
+      "title": "Como memórias da guerra e do passado nazista estão no centro de disputa eleitoral na Alemanha",
+      "link": "https://www.bbc.com/portuguese/articles/c70lz2ky0rvo?at_medium=RSS&at_campaign=rss",
+      "summary": "O partido de extrema-direita AfD acredita que o país deve adotar uma visão mais positiva de seu passado. Pela primeira vez, a legenda pode ganhar poder significativo na Alemanha no período pós-guerra.",
+      "published_at": "2026-08-29T13:00:28Z",
+      "region": "Europa",
+      "theme": "Geopolítica e Segurança",
+      "source_name": "BBC News Brasil",
+      "source_id": "bbc_brasil",
+      "is_brazilian": true,
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/55a5/live/2323ca40-a15b-11f1-92f3-2381193e5eb4.png",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Empresa que liga Careca do INSS a amiga de Lulinha movimentou R$ 6,1 mi",
+      "link": "https://www.poder360.com.br/poder-justica/empresa-que-liga-careca-do-inss-a-amiga-de-lulinha-movimentou-r-61-mi/",
+      "summary": "World Cannabis também tentou enviar 70.000 euros para uma empresa na Espanha na época em que Lulinha consolidou sua mudança para o país, mostra relatório do Coaf",
+      "published_at": "2026-08-29T13:00:27Z",
       "region": "Europa",
       "theme": "Outros / Multitemático",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2026/08/arte-careca-inss-lulinha-luchsinger-1200x675.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Gaza farmer returns to the grapevines he couldn’t bear to abandon",
+      "link": "https://www.aljazeera.com/features/longform/2026/8/29/gaza-farmer-returns-to-the-grapevines-he-couldnt-bear-to-abandon?traffic_source=rss",
+      "summary": "After nearly three years of war, a farmer returns to Sheikh Ijlin’s renowned grape fields.",
+      "published_at": "2026-08-29T12:56:27Z",
+      "region": "Oriente Médio",
+      "theme": "Geopolítica e Segurança",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/08/873A4619-copy-1787937585.jpg?resize=1920%2C1440",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "At least 37 dead and hundreds evacuated after strike on Kyiv weapons depot",
+      "link": "https://www.bbc.co.uk/news/articles/c86xwqez4npo?at_medium=RSS&at_campaign=rss",
+      "summary": "An investigation has begun into the storage of weapons for Ukraine's military near a residential area.",
+      "published_at": "2026-08-29T12:55:39Z",
+      "region": "Europa",
+      "theme": "Geopolítica e Segurança",
       "source_name": "BBC World News",
       "source_id": "bbc_world",
       "is_brazilian": false,
       "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b20a/live/57878280-a391-11f1-8dd3-ff568f69d772.png",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Referendum on EU membership: An ‘existential question’ for Icelanders",
+      "link": "https://www.france24.com/en/referendum-on-eu-membership-an-existential-question-for-icelanders",
+      "summary": "As Icelanders head to the polls on Saturday to vote in a referendum on whether the country should resume talks with the EU over membership, FRANCE 24 speaks to Eiríkur Bergmann, Professor of Politics at Bifröst University, for more insight into the vote.",
+      "published_at": "2026-08-29T12:46:29Z",
+      "region": "Europa",
+      "theme": "Outros / Multitemático",
+      "source_name": "France 24",
+      "source_id": "france24",
+      "is_brazilian": false,
+      "image_url": "https://s.france24.com/media/display/06cf40de-a3a6-11f1-805e-005056a97e36/w:1024/p:16x9/EN-20260829-131129-132509-CS.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Indonesia sets up shelters for babies, children affected by wildfire smoke",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/29/indonesia-sets-up-shelters-for-babies-children-affected-by-wildfire-smoke?traffic_source=rss",
+      "summary": "Indonesia sets up shelters for babies, children affected by wildfire smoke",
+      "published_at": "2026-08-29T12:45:48Z",
+      "region": "Ásia",
+      "theme": "Outros / Multitemático",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1788007540.jpg?resize=1920%2C1080&quality=80",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Rescue operations ongoing as death toll continues to rise",
+      "link": "https://www.france24.com/en/rescue-operations-ongoing-as-death-toll-continues-to-rise",
+      "summary": "Most arrive with nothing except the clothes they are wearing. As rescue efforts in communities buried by catastrophic flash floods along the border between Nepal and China entered their fourth day Saturday, authorities continued finding survivors and transporting them to safety. At relief centers, as some arrive, families wait anxiously for news of their loved ones as the death toll and the number of people unaccounted for continued to rise.",
+      "published_at": "2026-08-29T12:37:17Z",
+      "region": "Ásia",
+      "theme": "Outros / Multitemático",
+      "source_name": "France 24",
+      "source_id": "france24",
+      "is_brazilian": false,
+      "image_url": "https://s.france24.com/media/display/9d702860-a3a5-11f1-80c0-005056bf30b7/w:1024/p:16x9/EN-20260829-140548-140738-CS.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Warehouse hit by Russian attack stored munitions, Zelensky says",
+      "link": "https://www.france24.com/en/warehouse-hit-by-russian-attack-stored-munitions-zelensky-says",
+      "summary": "A depot that exploded in a Russian strike overnight was owned by the Ukrainian military and stored shells, drones, and other munitions, Ukrainian President Volodymyr Zelensky said Saturday. FRANCE 24's Emmanuelle Chaze reports.",
+      "published_at": "2026-08-29T12:35:42Z",
+      "region": "Europa",
+      "theme": "Geopolítica e Segurança",
+      "source_name": "France 24",
+      "source_id": "france24",
+      "is_brazilian": false,
+      "image_url": "https://s.france24.com/media/display/26f67d2e-a3a5-11f1-85f9-005056bfb2b6/w:1024/p:16x9/EN-20260829-140323-140513-CS.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Brasil cria plano para emergências na saúde por mudanças climáticas",
+      "link": "https://www.poder360.com.br/poder-saude/brasil-cria-plano-para-emergencias-na-saude-por-mudancas-climaticas/",
+      "summary": "Impactos climáticos ameaçam a saúde pública e sobrecarregam o SUS",
+      "published_at": "2026-08-29T12:35:39Z",
+      "region": "América do Sul",
+      "theme": "Meio Ambiente e Clima",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2026/08/termometro-marcando-39-graus-min-1200x675.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Formula One champion Lando Norris extends McLaren contract until 2030",
+      "link": "https://www.aljazeera.com/sports/2026/8/29/formula-one-champion-lando-norris-extends-mclaren-contract-until-2030?traffic_source=rss",
+      "summary": "Last season, 26-year-old Norris delivered McLaren's first drivers' title since Lewis Hamilton won it in 2008.",
+      "published_at": "2026-08-29T12:34:03Z",
+      "region": "Oriente Médio",
+      "theme": "Outros / Multitemático",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/08/reuters_6a92ccbf-1788005567.jpg?resize=1920%2C1440",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Niger's junta says 'regaining control' after clashes in capital",
+      "link": "https://www.france24.com/en/niger-s-junta-says-regaining-control-after-clashes-in-capital",
+      "summary": "Niger's ​defense ​ministry said the armed forces were ​progressively ‌retaking ⁠control ‌of sites targeted in ⁠an overnight attack on ​the ‌capital Niamey, according to a ‌statement read ​on state television, which resumed broadcasting ​on ​Saturday after ​temporarily going ​offline.",
+      "published_at": "2026-08-29T12:33:03Z",
+      "region": "Europa",
+      "theme": "Geopolítica e Segurança",
+      "source_name": "France 24",
+      "source_id": "france24",
+      "is_brazilian": false,
+      "image_url": "https://s.france24.com/media/display/f4cff7f8-a3a4-11f1-a6e7-005056bfb2b6/w:1024/p:16x9/EN-20260829-140055-140232-CS.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Astrônoma conta como é observar as estrelas como profissão",
+      "link": "https://www.poder360.com.br/poder-tech/astronoma-conta-como-e-observar-as-estrelas-como-profissao/",
+      "summary": "Alix Freckelton conta que o cotidiano é muito diferente do que sugerem os filmes de Hollywood mas que há uma sensação tranquila e de constante de alegria por estar catalogando e compreendendo as estrelas",
+      "published_at": "2026-08-29T12:24:26Z",
+      "region": "América do Sul",
+      "theme": "Outros / Multitemático",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2026/08/astronomia-galaxia-estrelas-1200x675.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Zimbabwe minibus carrying church members crashes, killing at least 27",
+      "link": "https://www.aljazeera.com/news/2026/8/29/zimbabwe-minibus-carrying-church-members-crashes-killing-at-least-27?traffic_source=rss",
+      "summary": "The crash occurred when a truck overtook another vehicle and struck the minibus, police say.",
+      "published_at": "2026-08-29T12:02:57Z",
+      "region": "Oriente Médio",
+      "theme": "Outros / Multitemático",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/08/WEB-MAP-ZIMBABWE-CHIVHU-1000X562-1788001102.jpg?resize=1200%2C675",
       "fallback_images": [
         "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
@@ -138,6 +342,23 @@
       ]
     },
     {
+      "title": "La UE trabaja ya en ofrecer a España el refuerzo de Frontex y Europol ante la todavía \"compleja\" situación de Ceuta",
+      "link": "https://www.europapress.es/internacional/noticia-ue-trabaja-ya-ofrecer-espana-refuerzo-frontex-europol-todavia-compleja-situacion-ceuta-20260829132822.html",
+      "summary": "El comisario europeo de Migración promete una \"decisión rápida\" al respecto y celebra las medidas adicionales tomadas por el Gobierno",
+      "published_at": "2026-08-29T11:28:22Z",
+      "region": "Europa",
+      "theme": "Política Internacional",
+      "source_name": "Europa Press",
+      "source_id": "europa_press",
+      "is_brazilian": false,
+      "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260829132822_120.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
       "title": "Por que as imagens das inundações no Nepal e no Tibete não são mostradas na China e se sabe pouco sobre as vítimas no país",
       "link": "https://www.bbc.com/portuguese/articles/cz7zqqnw5pjo?at_medium=RSS&at_campaign=rss",
       "summary": "Algumas das imagens mais dramáticas das enchentes ocorridas na quarta-feira (26/8) são escondidas do público na China",
@@ -189,9 +410,9 @@
       ]
     },
     {
-      "title": "Russian attack on warehouse near Ukraine’s Kyiv kills at least 27",
+      "title": "Russian attack on warehouse near Ukraine’s Kyiv kills at least 37",
       "link": "https://www.aljazeera.com/news/2026/8/29/russian-attack-on-warehouse-near-ukraines-kyiv-kills-at-least-27?traffic_source=rss",
-      "summary": "Zelenskyy says a warehouse was struck outside Kyiv, 'followed by a detonation', triggering a major fire and explosions.",
+      "summary": "Ukraine's President Zelenskyy says warehouse was struck, 'followed by a detonation', causing a major fire.",
       "published_at": "2026-08-29T10:36:11Z",
       "region": "Europa",
       "theme": "Geopolítica e Segurança",
@@ -679,6 +900,23 @@
         "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Russian strikes hit homes, warehouse, shopping mall across Ukraine",
+      "link": "https://www.france24.com/en/russian-strikes-hit-homes-warehouse-shopping-mall-across-ukraine",
+      "summary": "A Russian drone strike triggered a major fire and explosions at a warehouse on the outskirts of Ukraine's capital Kyiv, forcing hundreds to evacuate the region, authorities said early Saturday.",
+      "published_at": "2026-08-29T08:51:53Z",
+      "region": "Europa",
+      "theme": "Outros / Multitemático",
+      "source_name": "France 24",
+      "source_id": "france24",
+      "is_brazilian": false,
+      "image_url": "https://s.france24.com/media/display/a0d4b4c0-a383-11f1-8544-005056a90284/w:1024/p:16x9/EN-20260829-100534-100718-CS.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
       ]
     },
     {
@@ -2311,244 +2549,6 @@
         "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Before and after images show catastrophic impact of Nepal flash floods",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/28/08-28-26-nepal-b4-and-after-sv-mp4?traffic_source=rss",
-      "summary": "Before-and-after satellite images reveal the scale of destruction from Nepal’s catastrophic flash floods.",
-      "published_at": "2026-08-28T21:26:32Z",
-      "region": "Ásia",
-      "theme": "Cultura, Mídia e Sociedade",
-      "source_name": "Al Jazeera",
-      "source_id": "aljazeera_english",
-      "is_brazilian": false,
-      "image_url": "https://loremflickr.com/cache/resized/2406_2124644285_1feab509a2_800_600_nofilter.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1460661419201-fd4cecdf8a8b?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1508700115892-45ecd05ae2ad?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "RSS chief’s US visit faces protests over Hindu nationalism",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/28/28-08-sv-hr-groups-against-the-rss-fm?traffic_source=rss",
-      "summary": "Indian Hindu leader Mohan Bhagwat is due to speak in New York as human rights groups protest his visit.",
-      "published_at": "2026-08-28T21:25:15Z",
-      "region": "América do Norte",
-      "theme": "Direitos Humanos, Sociedade e Migrações",
-      "source_name": "Al Jazeera",
-      "source_id": "aljazeera_english",
-      "is_brazilian": false,
-      "image_url": "https://loremflickr.com/cache/resized/defaultImage.small_800_600_nofilter.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1542810634-71277d95dcbb?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1489533119213-66a5cd877091?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1531206715517-5c0ba140e2b8?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Why Putin Is Fighting On, Even as His Problems Multiply",
-      "link": "https://www.nytimes.com/2026/08/28/world/europe/russia-ukraine-war-putin.html",
-      "summary": "There is little sign that public exhaustion, economic headwinds or increased Ukrainian strikes are changing the Russian leader’s view that he will eventually achieve victory.",
-      "published_at": "2026-08-28T21:22:41Z",
-      "region": "Europa",
-      "theme": "Política Internacional",
-      "source_name": "The New York Times",
-      "source_id": "nytimes_world",
-      "is_brazilian": false,
-      "image_url": "https://static01.nyt.com/images/2026/08/28/multimedia/28int-russia-putin-01-gwkp/28int-russia-putin-01-gwkp-mediumSquareAt3X.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Brasileira Amelie Voigt é a bilionária mais jovem do mundo, diz Forbes",
-      "link": "https://www.poder360.com.br/poder-economia/brasileira-amelie-voigt-e-a-bilionaria-mais-jovem-do-mundo-diz-forbes/",
-      "summary": "Além de Amelie, família Voigt possui mais 4 herdeiros na lista de bilionários mais jovens",
-      "published_at": "2026-08-28T21:22:05Z",
-      "region": "América do Sul",
-      "theme": "Outros / Multitemático",
-      "source_name": "Poder360",
-      "source_id": "poder360",
-      "is_brazilian": true,
-      "image_url": "https://static.poder360.com.br/uploads/2026/08/weg-2026-1200x675.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "De Luís 14 ao TikTok: por que 'farmamos aura' há séculos",
-      "link": "https://www.bbc.com/portuguese/articles/cp3056gnw5no?at_medium=RSS&at_campaign=rss",
-      "summary": "Embora pareça uma tendência recente, a obsessão por parecer interessante sem muito esforço está longe de ser nova.",
-      "published_at": "2026-08-28T21:18:39Z",
-      "region": "América do Sul",
-      "theme": "Outros / Multitemático",
-      "source_name": "BBC News Brasil",
-      "source_id": "bbc_brasil",
-      "is_brazilian": true,
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/fe53/live/bab96170-a2ce-11f1-941c-8741c1a72471.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Flávio vai ao TSE contra fala de Lula sobre contas de Bolsonaro",
-      "link": "https://www.poder360.com.br/poder-eleicoes-2026/flavio-vai-ao-tse-contra-fala-de-lula-sobre-contas-de-bolsonaro/",
-      "summary": "Campanha pede direito de resposta após presidente dizer que recebeu governo com deficit fiscal de 2,8%; ação também contesta dados sobre PIB",
-      "published_at": "2026-08-28T21:17:14Z",
-      "region": "América do Sul",
-      "theme": "Política Brasileira",
-      "source_name": "Poder360",
-      "source_id": "poder360",
-      "is_brazilian": true,
-      "image_url": "https://static.poder360.com.br/uploads/2026/08/Lula-e-jornalistas-da-Globo-27ago2026-1200x675.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Ebola outbreak in Congo spreads to 2 new health zones, bringing total to 60 areas affected",
-      "link": "https://www.pbs.org/newshour/health/ebola-outbreak-in-congo-spreads-to-2-new-health-zones-bringing-total-to-60-areas-affected",
-      "summary": "The two new zones affected are Biena and Manguredjipa in Congo's North Kivu province, where the case fatality rate is much higher than the overall rate of 48%, due in part to delayed response efforts, according to Congo's Ministry of Health data.",
-      "published_at": "2026-08-28T21:16:59Z",
-      "region": "África",
-      "theme": "Saúde",
-      "source_name": "PBS NewsHour",
-      "source_id": "pbs_newshour",
-      "is_brazilian": false,
-      "image_url": "https://d3i6fh83elv35t.cloudfront.net/static/2026/08/2026-08-04T094621Z_2055939036_RC2CULAL037V_RTRMADP_3_HEALTH-EBOLA-WHO-1024x683.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1584515901367-f1c2a12a50ea?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1505751172876-fa1923c5c528?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1584036561566-baf2418a7c21?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Far-right British provocateur Milo Yiannopoulos arrested by ICE in New Orleans",
-      "link": "https://www.pbs.org/newshour/world/far-right-british-provocateur-milo-yiannopoulos-arrested-by-ice-in-new-orleans",
-      "summary": "U.S. immigration officials arrested controversial British far-right commentator Milo Yiannopoulos on Thursday in New Orleans, according to the Department of Homeland Security.",
-      "published_at": "2026-08-28T21:07:26Z",
-      "region": "Europa",
-      "theme": "Outros / Multitemático",
-      "source_name": "PBS NewsHour",
-      "source_id": "pbs_newshour",
-      "is_brazilian": false,
-      "image_url": "https://d3i6fh83elv35t.cloudfront.net/static/2026/08/2021-11-16T181145Z_734307531_RC2UVQ9L08ES_RTRMADP_3_USA-ABORTION-CATHOLICS-1024x724.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Especialistas explicam por que era tão difícil prever as enchentes devastadoras no Nepal",
-      "link": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/mundo/2026/08/especialistas-explicam-por-que-era-tao-dificil-prever-as-enchentes-devastadoras-no-nepal.shtml",
-      "summary": "Foi uma muralha de água e lama que avançou de forma rápida e engoliu prédios em segundos. Após o desastre provocado pelas enchentes no Nepal , surgiram questionamentos sobre se a torrente mortal poderia ter sido prevista ou detectada, dando às comunidades mais tempo para que fossem esvaziadas. Leia mais (08/28/2026 - 18h04)",
-      "published_at": "2026-08-28T21:04:00Z",
-      "region": "Ásia",
-      "theme": "Meio Ambiente e Clima",
-      "source_name": "Folha de S.Paulo",
-      "source_id": "folha_mundo",
-      "is_brazilian": true,
-      "image_url": "https://f.i.uol.com.br/fotografia/2026/08/28/17879456716a91e2c7368c6_1787945671_3x2_rt.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "8-year-old Nepal flood survivor reunited with mother after rescue",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/28/8-year-old-nepal-flood-survivor-reunited-with-mother-after-rescue?traffic_source=rss",
-      "summary": "Eight-year-old Nepal flood survivor reunited with mother after rescue",
-      "published_at": "2026-08-28T21:01:41Z",
-      "region": "Ásia",
-      "theme": "Meio Ambiente e Clima",
-      "source_name": "Al Jazeera",
-      "source_id": "aljazeera_english",
-      "is_brazilian": false,
-      "image_url": "https://loremflickr.com/cache/resized/defaultImage.small_800_600_nofilter.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Forced birth control in Greenland violated women’s rights, experts find",
-      "link": "https://www.aljazeera.com/news/2026/8/28/forced-birth-control-in-greenland-violated-womens-rights-experts-find?traffic_source=rss",
-      "summary": "Truth commission to be established after two expert reports failed to agree whether scheme constituted genocide.",
-      "published_at": "2026-08-28T20:54:35Z",
-      "region": "Oriente Médio",
-      "theme": "Outros / Multitemático",
-      "source_name": "Al Jazeera",
-      "source_id": "aljazeera_english",
-      "is_brazilian": false,
-      "image_url": "https://loremflickr.com/cache/resized/defaultImage.small_800_600_nofilter.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Haaland and Cherki doubles send Man City to EPL win at Crystal Palace",
-      "link": "https://www.aljazeera.com/sports/2026/8/28/cherki-double-sends-man-city-to-win-at-crystal-palace-in-premier-league?traffic_source=rss",
-      "summary": "Manchester City make it back-to-back wins to start the Premier League season as Crystal Palace slip to another defeat.",
-      "published_at": "2026-08-28T20:53:51Z",
-      "region": "Oriente Médio",
-      "theme": "Outros / Multitemático",
-      "source_name": "Al Jazeera",
-      "source_id": "aljazeera_english",
-      "is_brazilian": false,
-      "image_url": "https://loremflickr.com/cache/resized/defaultImage.small_800_600_nofilter.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "What lessons can be learned from the Nepal-Tibet flood disaster?",
-      "link": "https://www.aljazeera.com/video/inside-story/2026/8/28/what-lessons-can-be-learned-from-the-nepal-tibet-flood?traffic_source=rss",
-      "summary": "Scientists are looking into cause and possible link to climate change.",
-      "published_at": "2026-08-28T20:44:41Z",
-      "region": "Ásia",
-      "theme": "Meio Ambiente e Clima",
-      "source_name": "Al Jazeera",
-      "source_id": "aljazeera_english",
-      "is_brazilian": false,
-      "image_url": "https://loremflickr.com/cache/resized/defaultImage.small_800_600_nofilter.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "DRC President Tshisekedi calls for national dialogue excluding M23 rebels",
-      "link": "https://www.france24.com/en/tv-shows/eye-on-africa/20260828-drc-president-tshisekedi-calls-for-national-dialogue-excluding-m23-rebels",
-      "summary": "In the Democratic Republic of Congo, President Félix Tshisekedi calls for a national dialogue to ease tensions, while excluding M23 rebels from taking part, as the government plans to suspend 11 public universities in rebel-controlled areas. Meanwhile, in Ghana, 23 people, including 11 children, have died after falling into abandoned illegal gold-mining pits, as the country faces an unprecedented surge in galamsey operations. Finally, in Cameroon, US deportees face uncertainty and fears of persecution as they await decisions on their asylum claims, following controversial deals by Washington with at least 30 countries to accept people it cannot legally deport directly to their home countries.",
-      "published_at": "2026-08-28T20:36:41Z",
-      "region": "América do Norte",
-      "theme": "Política Internacional",
-      "source_name": "France 24",
-      "source_id": "france24",
-      "is_brazilian": false,
-      "image_url": "https://s.france24.com/media/display/57c93cba-a31f-11f1-88eb-005056a90284/w:1024/p:16x9/capture-16681304016a91eff34f8497-63123742.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
       ]
     }
   ]
