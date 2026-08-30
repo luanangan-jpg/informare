@@ -1,6 +1,74 @@
 {
-  "updated_at": "2026-08-30T06:03:01.538418Z",
+  "updated_at": "2026-08-30T07:02:49.452126Z",
   "news": [
+    {
+      "title": "One killed, five injured in shooting at rave in Switzerland",
+      "link": "https://www.france24.com/en/europe/20260830-one-killed-five-injured-in-shooting-at-rave-in-switzerland",
+      "summary": "One person was killed and five others injured, some seriously, in a shooting at a rave in the northern Swiss city of Aarau, police and local media reported Sunday. A major police operation is underway at the scene, with authorities urging residents to stay away from the area.",
+      "published_at": "2026-08-30T06:52:02Z",
+      "region": "Europa",
+      "theme": "Outros / Multitemático",
+      "source_name": "France 24",
+      "source_id": "france24",
+      "is_brazilian": false,
+      "image_url": "https://s.france24.com/media/display/368e6a4a-a43f-11f1-a6fc-005056a97e36/w:1024/p:16x9/AP26242243077736.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Manhunt after one killed and five injured in Swiss shooting, police say",
+      "link": "https://www.bbc.co.uk/news/articles/c9qr750je1go?at_medium=RSS&at_campaign=rss",
+      "summary": "A major police operation has been launched after the shooting at an event near Zurich overnight.",
+      "published_at": "2026-08-30T06:43:26Z",
+      "region": "Global",
+      "theme": "Outros / Multitemático",
+      "source_name": "BBC World News",
+      "source_id": "bbc_world",
+      "is_brazilian": false,
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fe9b/live/618de8d0-a438-11f1-8b59-3de1e8d7e523.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Senado Verifica reforça atuação contra desinformação nas eleições",
+      "link": "https://www.poder360.com.br/poder-eleicoes-2026/senado-verifica-reforca-atuacao-contra-desinformacao-nas-eleicoes/",
+      "summary": "Criado em 2020, o canal verifica afirmações, consulta fontes oficiais e áreas técnicas e apresenta os esclarecimentos",
+      "published_at": "2026-08-30T06:30:04Z",
+      "region": "América do Sul",
+      "theme": "Política Brasileira",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2024/10/apuracao-urnas-eletronicas-eleicoes-votacao-6-out-2024.png",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Hrgovic wins IBF world heavyweight boxing title as Itauma hospitalised",
+      "link": "https://www.aljazeera.com/sports/2026/8/30/hrgovic-wins-ibf-world-heavyweight-boxing-title-as-itauma-hospitalised?traffic_source=rss",
+      "summary": "Filip Hrgovic is the first Croatian to become a world heavyweight boxing champion after beating Briton Moses Itauma.",
+      "published_at": "2026-08-30T05:58:28Z",
+      "region": "Oriente Médio",
+      "theme": "Outros / Multitemático",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/08/2026-08-29T224656Z_1864948735_UP1EM8T1RA6V2_RTRMADP_3_BOXING-HEAVYWEIGHT-ITAUMA-HRGOVIC-1788068219.jpg?resize=1920%2C1440",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
     {
       "title": "Putin, Xi set for Central Asia summit as Russia, China seek to counter Western influence",
       "link": "https://www.france24.com/en/asia-pacific/20260830-putin-xi-set-for-central-asia-summit-as-russia-china-seek-to-counter-western-influence",
@@ -36,7 +104,7 @@
       ]
     },
     {
-      "title": "Mapping the Iran war’s strikes on Gulf energy – and what comes next for oil",
+      "title": "Mapping Iran war’s strikes on Gulf energy – and what comes next for oil",
       "link": "https://www.aljazeera.com/news/2026/8/30/mapping-the-iran-wars-strikes-on-gulf-energy-and-what-comes-next-for-oil?traffic_source=rss",
       "summary": "US energy companies have reaped billions from rising oil price, but their assets in the region remain at risk.",
       "published_at": "2026-08-30T05:09:11Z",
@@ -410,7 +478,7 @@
       ]
     },
     {
-      "title": "Canada installs large Lake Ontario sign in latest jab at US",
+      "title": "Large Lake Ontario sign installed in Canada in latest jab at US",
       "link": "https://www.bbc.co.uk/news/articles/cpq09594vw7o?at_medium=RSS&at_campaign=rss",
       "summary": "Ontario Premier Doug Ford unveiled a billboard on Canada's shoreline with the message: \"Lake Ontario. Now and Always.\"",
       "published_at": "2026-08-30T00:17:25Z",
@@ -492,6 +560,23 @@
         "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Iran war live: Khamenei calls for Muslim world to confront ‘real enemy’",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/8/30/iran-war-live-iran-pledges-to-stand-firm-against-unjust-us-sanctions?traffic_source=rss",
+      "summary": "Iran’s Supreme Leader Mojtaba Khamenei has urged against any action that could divide Muslims.",
+      "published_at": "2026-08-30T00:00:00Z",
+      "region": "Oriente Médio",
+      "theme": "Geopolítica e Segurança",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/03/AFP__20260308__A2FW8NQ__v2__HighRes__TopshotFilesIranUsIsraelWarSupremeLeader-1773036516.jpg?resize=1920%2C1440",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
       ]
     },
     {
@@ -2460,91 +2545,6 @@
       "source_id": "aljazeera_english",
       "is_brazilian": false,
       "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/08/Korean-borders-final-1787964192.jpg?resize=1620%2C1080&quality=80",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Negar o aquecimento global é “amadorismo irresponsável”, diz Lula",
-      "link": "https://www.poder360.com.br/poder-eleicoes-2026/negar-o-aquecimento-global-e-amadorismo-irresponsavel-diz-lula/",
-      "summary": "A publicação do presidente nas redes sociais vem depois de fala do senador Flávio Bolsonaro (PL) em sabatina na \"TV Globo\"",
-      "published_at": "2026-08-29T13:40:37Z",
-      "region": "América do Sul",
-      "theme": "Política Brasileira",
-      "source_name": "Poder360",
-      "source_id": "poder360",
-      "is_brazilian": true,
-      "image_url": "https://static.poder360.com.br/uploads/2026/08/Lula-Flavio-entrevistas-Globo-ago2026-1200x675.png",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Exames indicam que cães diferenciam medo e tristeza em humanos",
-      "link": "https://www.poder360.com.br/poder-saude/exames-indicam-que-caes-diferenciam-medo-e-tristeza-em-humanos/",
-      "summary": "Estudo analisou cérebros de cachorros enquanto eles observavam fotos de rostos humanos",
-      "published_at": "2026-08-29T13:36:13Z",
-      "region": "América do Sul",
-      "theme": "Outros / Multitemático",
-      "source_name": "Poder360",
-      "source_id": "poder360",
-      "is_brazilian": true,
-      "image_url": "https://static.poder360.com.br/uploads/2026/08/cachorro-colo-mulher-1200x675.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Mladic died a happy man. He won",
-      "link": "https://www.aljazeera.com/opinions/2026/8/29/mladic-died-a-happy-man-he-won?traffic_source=rss",
-      "summary": "He fought for fascism to triumph. And it did.",
-      "published_at": "2026-08-29T13:30:56Z",
-      "region": "Oriente Médio",
-      "theme": "Outros / Multitemático",
-      "source_name": "Al Jazeera",
-      "source_id": "aljazeera_english",
-      "is_brazilian": false,
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/08/AP25155570622127-1788010119.jpg?resize=1920%2C1440",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "El Niño: Brasil deve ter ao menos 6 ondas de calor até o fim do ano",
-      "link": "https://www.poder360.com.br/poder-sustentavel/el-nino-brasil-deve-ter-ao-menos-6-ondas-de-calor-ate-o-fim-do-ano/",
-      "summary": "Segundo informações do Cemaden, o fenômeno favorece a alta das temperaturas e da seca, além de chuvas intensas",
-      "published_at": "2026-08-29T13:28:39Z",
-      "region": "América do Sul",
-      "theme": "Meio Ambiente e Clima",
-      "source_name": "Poder360",
-      "source_id": "poder360",
-      "is_brazilian": true,
-      "image_url": "https://static.poder360.com.br/uploads/2026/08/Planeta-Terra-1080-1200x675.png",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Desenrola Brasil: Renegociação de dívidas termina na próxima 2ª feira",
-      "link": "https://www.poder360.com.br/poder-economia/desenrola-brasil-renegociacao-de-dividas-termina-na-proxima-2a-feira/",
-      "summary": "Prazo que terminaria em 2 de agosto foi prorrogado até o fim deste mês; Não há previsão de uma nova extensão",
-      "published_at": "2026-08-29T13:26:46Z",
-      "region": "América do Sul",
-      "theme": "Outros / Multitemático",
-      "source_name": "Poder360",
-      "source_id": "poder360",
-      "is_brazilian": true,
-      "image_url": "https://static.poder360.com.br/uploads/2026/05/dinheiro-agencia-brasil-marcello-casal-jr-png.png",
       "fallback_images": [
         "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
