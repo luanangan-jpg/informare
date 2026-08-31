@@ -1,11 +1,96 @@
 {
-  "updated_at": "2026-08-31T20:02:41.168659Z",
+  "updated_at": "2026-08-31T21:02:57.016149Z",
   "news": [
     {
-      "title": "Kim Kataguiri diz que decisão de Toffoli sobre Renan Santos é ilegal",
-      "link": "https://www.poder360.com.br/poder-eleicoes-2026/kim-kataguiri-diz-que-decisao-de-toffoli-sobre-renan-santos-e-ilegal/",
-      "summary": "Coordenador da campanha afirma que medida de Toffoli é “retaliação” por críticas à relação entre o ministro e Daniel Vorcaro",
-      "published_at": "2026-08-31T20:01:48Z",
+      "title": "Grupo Refit tem falência decretada por decisão judicial",
+      "link": "https://www.poder360.com.br/poder-justica/grupo-refit-tem-falencia-decretada-por-decisao-judicial/",
+      "summary": "Juiz ordenou bloqueio de contas e bens após investigações indicarem fraude fiscal e descumprimento de parcelamentos",
+      "published_at": "2026-08-31T20:58:35Z",
+      "region": "América do Sul",
+      "theme": "Outros / Multitemático",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2026/08/refit-1200x675.png",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Toffoli suspende campanha digital de Wilson Grassi",
+      "link": "https://www.poder360.com.br/poder-justica/toffoli-suspende-campanha-digital-de-wilson-grassi/",
+      "summary": "Assim como Renan Santos, decisão considera que candidato omitiu dados dos perfis nas redes eleitorais",
+      "published_at": "2026-08-31T20:55:34Z",
+      "region": "América do Sul",
+      "theme": "Outros / Multitemático",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2026/08/wilson-grassi-min.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Two dead and more than a dozen missing after 'terrifying' flash flood hits Grand Canyon",
+      "link": "https://www.bbc.co.uk/news/articles/clylkjyez1do?at_medium=RSS&at_campaign=rss",
+      "summary": "\"It was a beautiful day - and then people were screaming,\" one hiker tells the BBC, as 14 people are missing.",
+      "published_at": "2026-08-31T20:47:38Z",
+      "region": "Global",
+      "theme": "Meio Ambiente e Clima",
+      "source_name": "BBC World News",
+      "source_id": "bbc_world",
+      "is_brazilian": false,
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4ff7/live/2c0e39a0-a4bd-11f1-aed2-8d6da8d75094.png",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "‘Nothing is usable’: Nepal residents return to flood-ravaged homes",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/31/nothing-is-usable-nepal-residents-return-to-flood-ravaged-homes?traffic_source=rss",
+      "summary": "Residents in Nepal are returning to flood-ravaged homes, sifting through mud and debris to salvage whatever they can.",
+      "published_at": "2026-08-31T20:43:58Z",
+      "region": "Ásia",
+      "theme": "Meio Ambiente e Clima",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": "https://loremflickr.com/cache/resized/defaultImage.small_800_600_nofilter.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "US Supreme Court clears way for Trump to keep building White House ballroom",
+      "link": "https://www.bbc.co.uk/news/articles/c9w457e7ydlo?at_medium=RSS&at_campaign=rss",
+      "summary": "The National Trust for Historic Preservation argued the president did not have authority to proceed with construction.",
+      "published_at": "2026-08-31T20:43:25Z",
+      "region": "América do Norte",
+      "theme": "Política Internacional",
+      "source_name": "BBC World News",
+      "source_id": "bbc_world",
+      "is_brazilian": false,
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ead3/live/f03f27e0-a57a-11f1-9648-5fefd339ae88.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Renan Santos diz que decisão de Toffoli é “injusta e ilegal”",
+      "link": "https://www.poder360.com.br/poder-eleicoes-2026/renan-santos-diz-que-decisao-de-toffoli-e-injusta-e-ilegal/",
+      "summary": "Candidato do Missão chama medida de persecutória e faz apelo a seguidores antes de ter contas suspensas; diz que está \"pagando o preço por ter defendido\" manifestações contra o ministro",
+      "published_at": "2026-08-31T20:38:16Z",
       "region": "América do Sul",
       "theme": "Outros / Multitemático",
       "source_name": "Poder360",
@@ -16,6 +101,227 @@
         "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Dólar cai 0,31% e fecha a R$ 5,180; Ibovespa sobe 1%",
+      "link": "https://www.poder360.com.br/poder-economia/dolar-cai-031-e-fecha-a-r-5180-ibovespa-sobe-1/",
+      "summary": "O mercado reagiu ao ataque dos Estados Unidos contra o Irã; investidores também aguardam o Projeto de Lei Orçamentária Anual de 2027",
+      "published_at": "2026-08-31T20:37:43Z",
+      "region": "América do Norte",
+      "theme": "Comércio e Finanças",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2026/08/valor-dolar-trajetoria-diaria-31-ago-2026-02-1200x675.png",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1578575437130-527eed3abbec?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1522071820081-009f0129c71c?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Trump threatens to ‘hit Iran hard’ as strikes resume after month-long lull",
+      "link": "https://www.france24.com/en/middle-east/20260831-trump-threatens-to-hit-iran-hard-as-strikes-resume-after-month-long-lull",
+      "summary": "President Donald Trump said Monday that the US would hit back against Iranian attacks on US targets in the Middle East, according to a Fox News reporter. The Iranian attacks were themselves a response to US strikes on an island in the Strait of Hormuz, the first flare-up in a month.",
+      "published_at": "2026-08-31T20:36:16Z",
+      "region": "América do Norte",
+      "theme": "Política Internacional",
+      "source_name": "France 24",
+      "source_id": "france24",
+      "is_brazilian": false,
+      "image_url": "https://s.france24.com/media/display/6620eaf0-a51e-11f1-b104-005056bfb2b6/w:1024/p:16x9/2026-08-31T085336Z-115528668-RC2J9NAP5OBK-RTRMADP-3-IRAN-CRISIS-STRIKE.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Kenya airport staff strike delays thousands of passengers",
+      "link": "https://www.france24.com/en/kenya-airport-staff-strike-delays-thousands-of-passengers",
+      "summary": "In tonight's edition, a workers' strike at Kenya's main airport leaves travelers grounded. Also, Ghanaian cocoa farmers are ramping up their pushback against a new law preventing them from using their land for anything else without permission. And in Tunisia, Sidi Bou Said's been recognized by UNESCO as being important to global heritage.",
+      "published_at": "2026-08-31T20:20:32Z",
+      "region": "África",
+      "theme": "Outros / Multitemático",
+      "source_name": "France 24",
+      "source_id": "france24",
+      "is_brazilian": false,
+      "image_url": "https://s.france24.com/media/display/c6e5a218-a578-11f1-8eec-005056bf30b7/w:1024/p:16x9/WB220715-O-01-20260831-01.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Renan Santos 'não é charlatão', diz The Economist sobre candidato e 'sua visão ousada' para o Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/ckgx0m38jkzo?at_medium=RSS&at_campaign=rss",
+      "summary": "Texto publicado nesta segunda-feira (31/08) pela revista britânica destaca as propostas do candidato à economia.",
+      "published_at": "2026-08-31T20:20:21Z",
+      "region": "América do Sul",
+      "theme": "Outros / Multitemático",
+      "source_name": "BBC News Brasil",
+      "source_id": "bbc_brasil",
+      "is_brazilian": true,
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7fc9/live/56b66a90-a578-11f1-a291-b542ee92de7c.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Operário propõe ao Cade recompra de 10% dos direitos por R$ 2,2 mi",
+      "link": "https://www.poder360.com.br/poder-sportsmkt/operario-propoe-ao-cade-recompra-de-10-dos-direitos-por-r-22-mi/",
+      "summary": "Clube diz que não recebeu o cálculo da operação e apresenta o valor próprio para a recompra",
+      "published_at": "2026-08-31T20:17:23Z",
+      "region": "América do Sul",
+      "theme": "Outros / Multitemático",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2026/08/Operario-1200x675.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Dono da União Química doa R$ 500 mil para campanha de Tarcísio",
+      "link": "https://www.poder360.com.br/poder-eleicoes-2026/dono-da-uniao-quimica-doa-r-500-mil-para-campanha-de-tarcisio/",
+      "summary": "Empresário é conhecido apoiador do bolsonarismo e já tentou vaga no Senado em 2018",
+      "published_at": "2026-08-31T20:14:49Z",
+      "region": "América do Sul",
+      "theme": "Política Brasileira",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2026/08/dono-uniao-quimica-1200x675.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "How will the Mecca agreement become an operational framework?",
+      "link": "https://www.aljazeera.com/video/inside-story/2026/8/31/how-will-the-mecca-agreement-become-an-operational-framework?traffic_source=rss",
+      "summary": "Officials from Turkiye, Saudi Arabia and Pakistan meet to discuss implementing the pact.",
+      "published_at": "2026-08-31T20:13:18Z",
+      "region": "Oriente Médio",
+      "theme": "Outros / Multitemático",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": "https://loremflickr.com/cache/resized/1496_24460886814_f793d16817_800_600_nofilter.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Por que Renan Santos teve campanha à Presidência suspensa pelo TSE; especialistas veem excesso em decisão de Dias Toffoli",
+      "link": "https://www.bbc.com/portuguese/articles/cx2zq49q2nzo?at_medium=RSS&at_campaign=rss",
+      "summary": "Ministro José Antonio Dias Toffoli suspendeu o uso do fundo partidário, a participação em debates e qualquer presença na internet, porque Renan não informou, ao registrar a candidatura, os perfis em redes sociais da campanha.",
+      "published_at": "2026-08-31T20:05:44Z",
+      "region": "América do Sul",
+      "theme": "Política Brasileira",
+      "source_name": "BBC News Brasil",
+      "source_id": "bbc_brasil",
+      "is_brazilian": true,
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3ce5/live/ea668d80-a567-11f1-86d4-95b193638b63.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Ministro do TCU defende mais intervenção do governo em 5G nas escolas",
+      "link": "https://www.poder360.com.br/poder-infra/ministro-do-tcu-defende-mais-intervencao-do-governo-em-5g-nas-escolas/",
+      "summary": "Benjamin Zymler vê espaço para “nível de intervenção maior do poder público” na fiscalização da estrutura de financiamento estipulada no leilão",
+      "published_at": "2026-08-31T20:05:31Z",
+      "region": "América do Sul",
+      "theme": "Outros / Multitemático",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2026/08/zymler-tcu-1200x675.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Coletivo judaico lança manifesto em apoio à reeleição de Lula",
+      "link": "https://www.poder360.com.br/poder-eleicoes-2026/coletivo-judaico-lanca-manifesto-em-apoio-a-reeleicao-de-lula/",
+      "summary": "Petição reúne 1.200 assinaturas e foi adiantada após Flávio Bolsonaro anunciar Cláudio Lottenberg como ministro da Saúde",
+      "published_at": "2026-08-31T20:05:22Z",
+      "region": "América do Sul",
+      "theme": "Política Brasileira",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2026/07/lula-palacio-do-planalto-27-jul-2026-min.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Anvisa aprova novo medicamento para câncer colorretal metastático",
+      "link": "https://www.poder360.com.br/poder-saude/anvisa-aprova-novo-medicamento-para-cancer-colorretal-metastatico/",
+      "summary": "Fruzaqla é indicado para adultos que já passaram por outros tratamentos e atua reduzindo a formação de vasos que alimentam o tumor",
+      "published_at": "2026-08-31T20:04:58Z",
+      "region": "América do Sul",
+      "theme": "Saúde",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2025/08/Fachada-Anvisa-1080.png",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1584515901367-f1c2a12a50ea?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1505751172876-fa1923c5c528?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1584036561566-baf2418a7c21?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Marine Le Pen's National Rally plans to \"sanction\" the wearing of the veil with a fine",
+      "link": "https://www.france24.com/en/marine-le-pen-s-national-rally-plans-to-sanction-the-wearing-of-the-veil-with-a-fine",
+      "summary": "The National Rally plans to \"penalize the wearing of the Islamic veil\" with \"a fine\" if it comes to power, MP Jean-Philippe Tanguy, Marine Le Pen's lieutenant in the presidential election, stated on Sunday. \"We will obviously fight Islamist ideology and we will penalize the wearing of the veil, also in solidarity with all the women around the world who are forced to wear it and who die for this freedom,\" the MP said. FRANCE 24's Monte Francis reports.",
+      "published_at": "2026-08-31T20:01:16Z",
+      "region": "Europa",
+      "theme": "Saúde",
+      "source_name": "France 24",
+      "source_id": "france24",
+      "is_brazilian": false,
+      "image_url": "https://s.france24.com/media/display/84518dfc-a52a-11f1-984c-005056bf30b7/w:1024/p:16x9/2026-08-27T154621Z-1088021487-RC237NAUVKIC-RTRMADP-3-FRANCE-BUSINESS-POLITICS.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1584515901367-f1c2a12a50ea?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1505751172876-fa1923c5c528?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1584036561566-baf2418a7c21?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Nepal disaster: fake and AI images flood social media as deaths mount",
+      "link": "https://www.france24.com/en/nepal-disaster-fake-and-ai-images-flood-social-media-as-deaths-mount",
+      "summary": "As deadly floods hit the Nepal-China border, social media is being flooded with fake and misleading footage. In Truth or Fake, Vedika Bahl goes through viral videos falsely linked to the disaster, including AI-generated content and old recycled footage from India, Chile and Alaska. Some posts have racked up millions of views online, exploiting the tragedy to drive engagement for easy clicks or further perpetuate conspiracy theories.",
+      "published_at": "2026-08-31T20:00:12Z",
+      "region": "Ásia",
+      "theme": "Meio Ambiente e Clima",
+      "source_name": "France 24",
+      "source_id": "france24",
+      "is_brazilian": false,
+      "image_url": "https://s.france24.com/media/display/3e5ae9d8-a570-11f1-9682-005056bf30b7/w:1024/p:16x9/capture-499210196a95d2ac205d05-65537713.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?q=80&w=800&auto=format&fit=crop"
       ]
     },
     {
@@ -33,6 +339,23 @@
         "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Ukrainians mourn community leader killed in Russian strike on Myla",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/31/ukrainians-mourn-community-leader-killed-in-russian-strike-on-myla?traffic_source=rss",
+      "summary": "Ukrainians gathered to mourn Taras Didych, who was killed while rushing to help after a Russian strike.",
+      "published_at": "2026-08-31T19:51:46Z",
+      "region": "Europa",
+      "theme": "Saúde",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": "https://loremflickr.com/cache/resized/defaultImage.small_800_600_nofilter.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1584515901367-f1c2a12a50ea?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1505751172876-fa1923c5c528?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1584036561566-baf2418a7c21?q=80&w=800&auto=format&fit=crop"
       ]
     },
     {
@@ -271,23 +594,6 @@
         "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Two dead and more than a dozen missing after 'terrifying' flash flood hits Grand Canyon",
-      "link": "https://www.bbc.co.uk/news/articles/clylkjyez1do?at_medium=RSS&at_campaign=rss",
-      "summary": "\"It was a beautiful day - and then people were screaming,\" one hiker tells the BBC, as 14 people are missing.",
-      "published_at": "2026-08-31T18:58:16Z",
-      "region": "Global",
-      "theme": "Meio Ambiente e Clima",
-      "source_name": "BBC World News",
-      "source_id": "bbc_world",
-      "is_brazilian": false,
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4ff7/live/2c0e39a0-a4bd-11f1-aed2-8d6da8d75094.png",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?q=80&w=800&auto=format&fit=crop"
       ]
     },
     {
@@ -2243,312 +2549,6 @@
         "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Tariffs spat: Carney bets Canada can defy Trump",
-      "link": "https://www.dw.com/en/tariffs-spat-carney-bets-canada-can-defy-trump/a-78542754?maca=en-rss-en-world-4025-rdf",
-      "summary": "Canada is facing new US import penalties after Prime Minister Mark Carney refused to match US tariffs on China. Other countries are watching as the Trump trade clash turns into a fight over economic sovereignty.",
-      "published_at": "2026-08-31T13:38:00Z",
-      "region": "América do Norte",
-      "theme": "Política Internacional",
-      "source_name": "DW World News",
-      "source_id": "dw_english",
-      "is_brazilian": false,
-      "image_url": "https://static.dw.com/image/78500420_6.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Deficit de estatais federais chega a R$ 8,3 bi em 2026",
-      "link": "https://www.poder360.com.br/poder-economia/deficit-de-estatais-federais-chega-a-r-83-bi-em-2026/",
-      "summary": "Considerando empresas públicas de Estados e municípios, rombo atinge R$ 10 bilhões até julho",
-      "published_at": "2026-08-31T13:37:21Z",
-      "region": "América do Sul",
-      "theme": "Outros / Multitemático",
-      "source_name": "Poder360",
-      "source_id": "poder360",
-      "is_brazilian": true,
-      "image_url": "https://static.poder360.com.br/uploads/2026/08/correios.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Receita paga último lote de restituição do IR 2026 nesta 2ª feira",
-      "link": "https://www.poder360.com.br/poder-economia/receita-paga-ultimo-lote-de-restituicao-do-ir-2026-nesta-2a-feira/",
-      "summary": "Ao todo, 521.935 contribuintes receberão R$ 1,24 bilhão; pagamento também inclui restituições residuais de anos anteriores",
-      "published_at": "2026-08-31T13:35:00Z",
-      "region": "América do Sul",
-      "theme": "Outros / Multitemático",
-      "source_name": "Poder360",
-      "source_id": "poder360",
-      "is_brazilian": true,
-      "image_url": "https://static.poder360.com.br/uploads/2024/07/ReceitaFederal-MinisterioDaFazenda-7-scaled.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Com foco em negociação, FecomercioSP propõe ajustes na PEC 6 X 1",
-      "link": "https://www.poder360.com.br/poder-economia/com-foco-em-negociacao-fecomerciosp-propoe-ajustes-na-pec-6-x-1/",
-      "summary": "Federação sugeriu ao Senado também a necessidade de uma transição gradual da redução da jornada de trabalho",
-      "published_at": "2026-08-31T13:33:06Z",
-      "region": "América do Sul",
-      "theme": "Política Brasileira",
-      "source_name": "Poder360",
-      "source_id": "poder360",
-      "is_brazilian": true,
-      "image_url": "https://static.poder360.com.br/uploads/2026/07/Carteira-Trabalho-1080.png",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Backstage at Rock en Seine 2026 with up-and-coming British singer Sekou",
-      "link": "https://www.france24.com/en/tv-shows/arts24/20260831-backstage-at-rock-en-seine-2026-with-up-and-coming-british-singer-sekou",
-      "summary": "In this edition of our Arts24 music show, Jennifer Ben Brahim takes us backstage at this year's Rock en Seine music festival. More than 180,000 music lovers descended on the grounds just outside of Paris to see 80 live shows. Headliners this year included the likes of American hip-hop star Tyler, The Creator, Australian rockers Nick Cave and the Bad Seeds as well as Britrock legends The Cure, who closed out the weekend in style.",
-      "published_at": "2026-08-31T13:25:24Z",
-      "region": "Europa",
-      "theme": "Cultura, Mídia e Sociedade",
-      "source_name": "France 24",
-      "source_id": "france24",
-      "is_brazilian": false,
-      "image_url": "https://s.france24.com/media/display/2206d3e0-a53f-11f1-aad0-005056a90284/w:1024/p:16x9/capture-13112062666a958047426b45-92077381.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1460661419201-fd4cecdf8a8b?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1508700115892-45ecd05ae2ad?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "France and Sweden look to boost European sovereignty through stronger defence ties",
-      "link": "https://www.france24.com/en/france-and-sweden-look-to-boost-european-sovereignty-through-stronger-defence-ties",
-      "summary": "French President Emmanuel Macron is visiting Sweden on August 31. The aim of the trip is to strengthen the strategic partnership between the two countries. Boosting defence ties is expected to top the agenda, as the war in Ukraine continues and the threat from Russia persists. The newest member of NATO has also expressed interest in joining France's nuclear deterrence initiative.",
-      "published_at": "2026-08-31T13:22:50Z",
-      "region": "Europa",
-      "theme": "Geopolítica e Segurança",
-      "source_name": "France 24",
-      "source_id": "france24",
-      "is_brazilian": false,
-      "image_url": "https://s.france24.com/media/display/ea2a337c-a53e-11f1-9c98-005056a97e36/w:1024/p:16x9/capture-13517109716a957fe9a180a3-87110240.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "La Policía detiene al presunto autor del tiroteo en una 'rave' en el norte de Suiza",
-      "link": "https://www.europapress.es/internacional/noticia-policia-detiene-presunto-autor-tiroteo-rave-norte-suiza-20260831151902.html",
-      "summary": "La Policía de la localidad suiza de Aarau, ubicada en el norte del país europeo, ha detenido a un hombre de 43 años por ser el presunto autor del tiroteo en una fiesta de música electrónica, un incidente que ha dejado una persona muerta y otras cinco heridas.",
-      "published_at": "2026-08-31T13:19:02Z",
-      "region": "Europa",
-      "theme": "Direito Internacional e Instituições",
-      "source_name": "Europa Press",
-      "source_id": "europa_press",
-      "is_brazilian": false,
-      "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260831151902_120.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1505664194779-8beaceb93744?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "🔴 Football: French forward Bradley Barcola joins Liverpool from PSG in record-breaking Ligue 1 transfer",
-      "link": "https://www.france24.com/en/sport/20260831-bradley-barcola-joins-liverpool-from-psg-for-record-fee",
-      "summary": "",
-      "published_at": "2026-08-31T13:18:35Z",
-      "region": "Europa",
-      "theme": "Outros / Multitemático",
-      "source_name": "France 24",
-      "source_id": "france24",
-      "is_brazilian": false,
-      "image_url": "https://loremflickr.com/cache/resized/65535_48672850507_a680b6deea_b_800_600_nofilter.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Bradley Barcola joins Liverpool from PSG for record fee",
-      "link": "https://www.france24.com/en/sport/20260831-bradley-barcola-joins-liverpool-from-psg-for-record-fee",
-      "summary": "Liverpool ⁠have signed ​France forward Bradley Barcola ​from European champions Paris Saint-Germain on a long-term contract, ​the ‌Premier League ⁠club said on Monday, making ‌him the latest marquee addition ⁠to their frontline. The whopping fee is estimated to be around £120 million and makes him the most expensive player to leave the French league.",
-      "published_at": "2026-08-31T13:17:35Z",
-      "region": "Europa",
-      "theme": "Outros / Multitemático",
-      "source_name": "France 24",
-      "source_id": "france24",
-      "is_brazilian": false,
-      "image_url": "https://s.france24.com/media/display/aff6b69a-a53d-11f1-b0df-005056a90284/w:1024/p:16x9/000-A2AZ8LZ.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Bolsa de Valores do Rio deve começar a operar em 2027, diz novo CEO",
-      "link": "https://www.poder360.com.br/poder-economia/bolsa-de-valores-do-rio-deve-comecar-a-operar-em-2027-diz-novo-ceo/",
-      "summary": "Base Exchange aguarda aprovação do BC e da CVM; sistemas já foram desenvolvidos e testados",
-      "published_at": "2026-08-31T13:13:36Z",
-      "region": "América do Sul",
-      "theme": "Comércio e Finanças",
-      "source_name": "Poder360",
-      "source_id": "poder360",
-      "is_brazilian": true,
-      "image_url": "https://static.poder360.com.br/uploads/2026/01/Bolsa-Valores-1080.png",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1578575437130-527eed3abbec?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1522071820081-009f0129c71c?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Tesouro dos EUA avalia que queda do iene está “bem contida”",
-      "link": "https://www.poder360.com.br/poder-internacional/tesouro-dos-eua-avalia-que-queda-do-iene-esta-bem-contida/",
-      "summary": "Scott Bessent afirma que oscilações da moeda japonesa não justificam nova intervenção conjunta com o Japão",
-      "published_at": "2026-08-31T13:13:26Z",
-      "region": "América do Norte",
-      "theme": "Outros / Multitemático",
-      "source_name": "Poder360",
-      "source_id": "poder360",
-      "is_brazilian": true,
-      "image_url": "https://static.poder360.com.br/uploads/2026/08/scott-bessent-1200x675.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Man arrested after Swiss rave shooting that killed woman",
-      "link": "https://www.bbc.co.uk/news/articles/cddv92n194vo?at_medium=RSS&at_campaign=rss",
-      "summary": "A 22-year-old Italian woman was killed and several injured at a techno rave in Aarau.",
-      "published_at": "2026-08-31T13:11:35Z",
-      "region": "Europa",
-      "theme": "Outros / Multitemático",
-      "source_name": "BBC World News",
-      "source_id": "bbc_world",
-      "is_brazilian": false,
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2dc4/live/0a7a6950-a466-11f1-b370-b9b7934350c8.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Nepal grapples with destruction and loss in wake of deadly floods",
-      "link": "https://www.france24.com/en/nepal-grapples-with-destruction-and-loss-in-wake-of-deadly-floods",
-      "summary": "Authorities in Nepal have warned of possible fresh flooding after water levels rose in the Bhotekoshi River. The floods took place after a glacier collapse. They have killed at least 900 people - with more than 4,000 others missing in Nepal and Tibet. Now, a massive rescue effort continues and communities grapple with devastation and loss.",
-      "published_at": "2026-08-31T13:10:04Z",
-      "region": "Ásia",
-      "theme": "Outros / Multitemático",
-      "source_name": "France 24",
-      "source_id": "france24",
-      "is_brazilian": false,
-      "image_url": "https://s.france24.com/media/display/2ed2d33c-a4de-11f1-abad-005056a97e36/w:1024/p:16x9/2026-08-30T164052Z-1845982200-RC2Y8NALSAGW-RTRMADP-3-NEPAL-FLOODS.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Pé-de-Meia: nascidos em novembro e dezembro recebem parcela de R$ 200",
-      "link": "https://www.poder360.com.br/poder-educacao/pe-de-meia-nascidos-em-novembro-e-dezembro-recebem-parcela-de-r-200/",
-      "summary": "Beneficiário pode consultar histórico de pagamentos em página virtual",
-      "published_at": "2026-08-31T13:05:24Z",
-      "region": "América do Sul",
-      "theme": "Outros / Multitemático",
-      "source_name": "Poder360",
-      "source_id": "poder360",
-      "is_brazilian": true,
-      "image_url": "https://static.poder360.com.br/uploads/2026/08/Estudantes-1080-1200x675.png",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Manchester City sign Brazilian winger Allan Elias from Palmeiras",
-      "link": "https://www.aljazeera.com/sports/2026/8/31/manchester-city-sign-brazilian-winger-allan-elias-from-palmeiras?traffic_source=rss",
-      "summary": "Elias joins the Premier League club on a five-year contract, their sixth signing in the summer transfer window.",
-      "published_at": "2026-08-31T13:03:40Z",
-      "region": "América do Sul",
-      "theme": "Outros / Multitemático",
-      "source_name": "Al Jazeera",
-      "source_id": "aljazeera_english",
-      "is_brazilian": false,
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/08/GettyImages-2260957870-1788179337.jpg?resize=1920%2C1440",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Can Iran use rockets to mine the Strait of Hormuz, as US claims?",
-      "link": "https://www.aljazeera.com/news/2026/8/31/can-iran-use-rockets-to-mine-the-strait-of-hormuz-as-us-claims?traffic_source=rss",
-      "summary": "Analysts say it's implausible but Iran is well-versed in adapting conventional weapons to suit its needs.",
-      "published_at": "2026-08-31T13:00:10Z",
-      "region": "Oriente Médio",
-      "theme": "Geopolítica e Segurança",
-      "source_name": "Al Jazeera",
-      "source_id": "aljazeera_english",
-      "is_brazilian": false,
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/08/2026-03-10T232545Z_807056762_RC2Z1KA6JEX2_RTRMADP_3_IRAN-CRISIS-USA-HORMUZ-ESCORT-1788167903.jpg?resize=1920%2C1440",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Pakistan, Saudi Arabia, Turkiye meet: What’s next for their defence pact?",
-      "link": "https://www.aljazeera.com/news/2026/8/31/pakistan-saudi-arabia-turkiye-meet-whats-next-for-their-defence-pact?traffic_source=rss",
-      "summary": "As US-Iran strikes resume, Pakistan, Saudi Arabia and Turkiye test their pact's substance, and who might join next.",
-      "published_at": "2026-08-31T12:57:49Z",
-      "region": "Oriente Médio",
-      "theme": "Saúde",
-      "source_name": "Al Jazeera",
-      "source_id": "aljazeera_english",
-      "is_brazilian": false,
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/08/2026-08-31T101712Z_806527458_RC2L9NAVWSOD_RTRMADP_3_TURKEY-SAUDI-PAKISTAN-MEETING-1788171832.jpg?resize=1920%2C1440",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1584515901367-f1c2a12a50ea?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1505751172876-fa1923c5c528?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1584036561566-baf2418a7c21?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Trump afirma que Irán es \"una nación fallida\" y pide juzgar a sus líderes por \"crímenes contra la humanidad\"",
-      "link": "https://www.europapress.es/internacional/noticia-trump-afirma-iran-nacion-fallida-pide-juzgar-lideres-crimenes-contra-humanidad-20260831145253.html",
-      "summary": "El presidente de Estados Unidos, Donald Trump, ha afirmado este lunes que \"Irán es oficialmente una nación fallida\" y ha reclamado juzgar a sus líderes por \"crímenes contra la humanidad\", horas después de un nuevo intercambio de ataques por una serie de bombardeos estadounidenses contra el país asiático.",
-      "published_at": "2026-08-31T12:52:53Z",
-      "region": "América do Norte",
-      "theme": "Política Internacional",
-      "source_name": "Europa Press",
-      "source_id": "europa_press",
-      "is_brazilian": false,
-      "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260831145253_120.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
       ]
     }
   ]
