@@ -1,8 +1,297 @@
 {
-  "updated_at": "2026-08-31T12:03:02.191807Z",
+  "updated_at": "2026-08-31T13:02:57.062182Z",
   "news": [
     {
-      "title": "Police arrest Swiss man over after deadly rave shooting",
+      "title": "One dead and more than a dozen missing after 'terrifying' flash flood hits Grand Canyon",
+      "link": "https://www.bbc.co.uk/news/articles/clylkjyez1do?at_medium=RSS&at_campaign=rss",
+      "summary": "\"It was a beautiful day - and then people were screaming,\" one hiker tells the BBC, as 15 people are missing.",
+      "published_at": "2026-08-31T12:55:25Z",
+      "region": "Global",
+      "theme": "Meio Ambiente e Clima",
+      "source_name": "BBC World News",
+      "source_id": "bbc_world",
+      "is_brazilian": false,
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4ff7/live/2c0e39a0-a4bd-11f1-aed2-8d6da8d75094.png",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Trump afirma que Irán es \"una nación fallida\" y pide juzgar a sus líderes por \"crímenes contra la humanidad\"",
+      "link": "https://www.europapress.es/internacional/noticia-trump-afirma-iran-nacion-fallida-pide-juzgar-lideres-crimenes-contra-humanidad-20260831145253.html",
+      "summary": "El presidente de Estados Unidos, Donald Trump, ha afirmado este lunes que \"Irán es oficialmente una nación fallida\" y ha reclamado juzgar a sus líderes por \"crímenes contra la humanidad\", horas después de un nuevo intercambio de ataques por una serie de bombardeos estadounidenses contra el país asiático.",
+      "published_at": "2026-08-31T12:52:53Z",
+      "region": "América do Norte",
+      "theme": "Política Internacional",
+      "source_name": "Europa Press",
+      "source_id": "europa_press",
+      "is_brazilian": false,
+      "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260831145253_120.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "São Paulo fará concurso para contratar 5.000 professores",
+      "link": "https://www.poder360.com.br/poder-brasil/sao-paulo-fara-concurso-para-contratar-5-000-professores/",
+      "summary": "Serão 3.000 vagas com jornada de 40 horas semanais e 2.000 com carga de 25 horas; edital ainda será divulgado",
+      "published_at": "2026-08-31T12:52:20Z",
+      "region": "América do Sul",
+      "theme": "Outros / Multitemático",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2026/08/secretaria-educacao-de-sao-paulo-1200x675.jpeg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Inflação da Alemanha sobe para 2,9% em agosto, indica estimativa",
+      "link": "https://www.poder360.com.br/poder-economia/inflacao-da-alemanha-sobe-para-29-em-agosto-indica-estimativa/",
+      "summary": "Dado preliminar divulgado nesta 2ª feira (31.ago) aponta a energia como principal vetor de pressão",
+      "published_at": "2026-08-31T12:43:27Z",
+      "region": "Europa",
+      "theme": "Economia Internacional",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2026/08/bandeira-alemanha-pexels.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Nepal races to find its missing as flood area remains largely inaccessible",
+      "link": "https://www.france24.com/en/nepal-races-to-find-its-missing-as-flood-area-remains-largely-inaccessible",
+      "summary": "Nepal's rescuers are racing against the clock to find the over 4,000 people missing after the flash floods that devastated an area in the north of the country on August 26. Rescue operations include one where workers are trying to save hundreds believed to be stuck inside a blocked hydropower project. Meanwhile, authorities have started burying unclaimed bodies. FRANCE 24's Shahzaib Wahlah tells us more.",
+      "published_at": "2026-08-31T12:41:19Z",
+      "region": "Ásia",
+      "theme": "Meio Ambiente e Clima",
+      "source_name": "France 24",
+      "source_id": "france24",
+      "is_brazilian": false,
+      "image_url": "https://s.france24.com/media/display/f65b05c8-a538-11f1-bfa5-005056a97e36/w:1024/p:16x9/2026-08-31T110221Z-1880862988-RC2L9NASZHK5-RTRMADP-3-NEPAL-FLOODS.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "More value in Cairo’s trash, but less for those who collect it",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/31/more-value-in-cairos-trash-but-less-for-those-who-collect-it?traffic_source=rss",
+      "summary": "War on Iran disrupts imports, driving demand for Cairo’s recycled waste, but rising costs squeeze recyclers.",
+      "published_at": "2026-08-31T12:39:53Z",
+      "region": "África",
+      "theme": "Saúde",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1788179973.jpg?resize=1918%2C1080&quality=80",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1584515901367-f1c2a12a50ea?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1505751172876-fa1923c5c528?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1584036561566-baf2418a7c21?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Equipes do Nepal procuram centenas de pessoas presas em túneis",
+      "link": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-08/equipes-do-nepal-procuram-centenas-de-pessoas-presas-em-tuneis",
+      "summary": "Equipes de resgate do Nepal, com a ajuda de especialistas chineses e indianos, intensificaram os esforços nesta segunda-feira (31) para chegar a centenas de pessoas que se acredita estarem presas dentro de túneis bloqueados de projetos hidrelétricos. A enchente na região do Himalaia, na semana passada, deixou um rastro de destruição nas cidades e vilarejos dos vales do país, bem como do outro lado da fronteira, na China. A enxurrada sem precedentes de gelo, rochas, lama e detritos na fronteira entre o Nepal e o Tibete na quarta-feira (26) — atribuída ao colapso de uma geleira — matou mais de 900 pessoas, e quase 5 mil ainda estão desaparecidas. Notícias relacionadas: Nepal apela por \"esforço global\" para combater alterações climáticas. Nepal retoma operações de resgate e busca captar bilhões de dólares. Nepal monitora dois lagos; risco de enchentes persiste. Centenas de corpos, muitos deles não identificados, foram enterrados em valas rasas, pois começaram a se decompor devido ao clima úmido nas planícies do país. Eles foram arrastados montanha abaixo pela torrente. Autoridades nepalesas afirmaram que o foco está em resgatar os 933 trabalhadores que se acredita estarem presos em 11 projetos hidrelétricos, incluindo muitos que trabalhavam em cerca de meia dúzia de túneis, nos dois distritos mais atingidos: Rasuwa e Nuwakot. Fotos e vídeos compartilhados pelas equipes de resgate mostravam máquinas de terraplenagem escavando e removendo lama e rochas sob a luz de holofotes na escuridão da noite. Soldados usavam lanternas em um grande buraco que haviam cavado para procurar um espaço que lhes permitisse entrar em um dos túneis. O Exército nepalês informou que as equipes de busca e resgate estavam utilizando explosões controladas, escavadeiras e holofotes para remover a água e a lama e alcançar as pessoas presas . Os socorristas recuperaram três corpos após entrarem em dois túneis, enquanto outras seções permaneciam soterradas na lama e ainda estavam sendo vasculhadas. “Uma grande quantidade de escombros se acumulou, o que está representando enorme desafio para abrirmos os túneis”, disse o porta-voz do Exército do Nepal, Raja Ram Basnet, à Reuters. “Nosso foco principal é abrir os túneis.” Projetos hidrelétricos Autoridades nepalesas informaram, nesta segunda-feira, que 903 pessoas morreram e 4.247 estavam desaparecidas, incluindo as 933 em projetos hidrelétricos. Do lado chinês, as autoridades informaram que 16 pessoas morreram no condado de Gyirong e 546 estavam desaparecidas. A Cruz Vermelha estimou que mais de 90 mil pessoas provavelmente foram afetadas pelo desastre, que a China atribuiu aos efeitos das mudanças climáticas. Desde a virada do século, tem havido um boom de projetos hidrelétricos no Nepal, à medida que o país montanhoso busca aproveitar seus recursos hídricos do Himalaia para lidar com a escassez crônica de energia no mercado interno e explorar as perspectivas de venda de eletricidade à vizinha Índia, ao sul. Os projetos hidrelétricos nas montanhas do Nepal precisam de túneis para conduzir a água por meio do terreno íngreme, permitindo que se aproveite a acentuada queda de altitude entre os rios do Himalaia e as usinas para gerar eletricidade. O primeiro-ministro Balendra Shah disse que a enchente foi um “desastre natural sem precedentes e devastador” e que ainda era difícil compilar uma avaliação completa dos danos. Pequim informou que 261 cidadãos estrangeiros de 23 países estavam desaparecidos Ro Tibete, próximo a um importante ponto de passagem de fronteira com o Nepal. Embora o Nepal tenha afirmado que não precisa de ajuda estrangeira para as operações gerais de resgate e busca, o país tem contado com seus gigantescos vizinhos, Índia e China, por sua expertise em resgate em túneis. As operações de resgate foram suspensas várias vezes devido ao mau tempo e às preocupações de que um lago formado na fronteira entre o Nepal e a China pelo desastre pudesse provocar novas inundações depois que começou a transbordar para os rios do Nepal. A televisão estatal chinesa CCTV informou que as geleiras ao redor de uma cratera de impacto, formada perto do local do colapso da geleira na semana passada, no lado nepalês, continuavam correndo risco de desabamento. * ( Reportagem adicional de Sahana Bajracharya, Navesh Chitrakar, Ethan Wang, Qiaoyi Li, Liz Lee, Shilpa Jamkhandikar e Hritam Mukherjee ) * É proibida a reprodução deste conteúdo.",
+      "published_at": "2026-08-31T12:30:00Z",
+      "region": "Ásia",
+      "theme": "Meio Ambiente e Clima",
+      "source_name": "Agência Brasil",
+      "source_id": "agencia_brasil",
+      "is_brazilian": true,
+      "image_url": "https://imagens.ebc.com.br/zALO7zmFHcIgquRjPK0XdxlfxE0=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/08/31/2026-08-31t114441z_1_lynxmpem7u0uh_rtroptp_4_nepal-floods.jpg?itok=gqmKmzzr",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Israel acusa a Sánchez de lanzar \"mentiras descaradas\" tras vincularle a la crisis de Ceuta",
+      "link": "https://www.europapress.es/internacional/noticia-israel-acusa-sanchez-lanzar-mentiras-descaradas-vincularle-crisis-ceuta-20260831142301.html",
+      "summary": "El ministro de Exteriores de Israel, Gideon Saar, ha acusado este lunes al presidente del Gobierno de España, Pedro Sánchez, de lanzar \"mentiras descaradas\" por vincular a Tel Aviv a la crisis migratoria en Ceuta, tras incidir en que se propagaron bulos en redes sociales en cuentas \"asociadas tanto a Rusia como a Israel\" que en última estancia están detrás del incidente en la frontera.",
+      "published_at": "2026-08-31T12:23:01Z",
+      "region": "Oriente Médio",
+      "theme": "Economia Internacional",
+      "source_name": "Europa Press",
+      "source_id": "europa_press",
+      "is_brazilian": false,
+      "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260831142301_120.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Trump diz que EUA perdem mais de US$ 60 bi por ano com o Canadá",
+      "link": "https://www.poder360.com.br/poder-internacional/trump-diz-que-eua-perdem-mais-de-us-60-bi-por-ano-com-o-canada/",
+      "summary": "Declaração é feita dias após o Canadá anunciar tarifas retaliatórias de até 50% sobre produtos norte-americanos",
+      "published_at": "2026-08-31T12:15:47Z",
+      "region": "América do Norte",
+      "theme": "Política Internacional",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2026/08/donald-trump-4jun2026-1-1200x675.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Campanha de Lula pede resposta por falas de Flávio na Globo",
+      "link": "https://www.poder360.com.br/poder-eleicoes-2026/campanha-de-lula-pede-resposta-por-falas-de-flavio-na-globo/",
+      "summary": "Ação no TSE contesta declarações sobre urnas, 8 de Janeiro, Vorcaro, tarifaço e salário mínimo",
+      "published_at": "2026-08-31T12:14:47Z",
+      "region": "América do Sul",
+      "theme": "Política Brasileira",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2026/08/Flavio-Bolsonaro-e-Renata-Vasconcellos-Globo-28ago2026-1200x675.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Comissão Europeia enquadra ChatGPT em fiscalização ampliada",
+      "link": "https://www.poder360.com.br/poder-tech/comissao-europeia-enquadra-chatgpt-em-fiscalizacao-ampliada/",
+      "summary": "Ferramenta é classificada como mecanismo de busca on-line de grande dimensão; tem 4 meses para cumprir as novas exigências",
+      "published_at": "2026-08-31T12:07:24Z",
+      "region": "Europa",
+      "theme": "Outros / Multitemático",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2026/08/chatgpt-1200x675.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Setor público tem superavit de R$ 1,4 bi em julho, diz BC",
+      "link": "https://www.poder360.com.br/poder-economia/setor-publico-tem-superavit-de-r-14-bi-em-julho-diz-bc/",
+      "summary": "Resultado reverte deficit de R$ 66,6 bilhões registrado no mesmo mês de 2025, mas dívida pública segue em alta",
+      "published_at": "2026-08-31T12:04:49Z",
+      "region": "América do Sul",
+      "theme": "Outros / Multitemático",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2026/07/moedas-848x477-1.webp",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Aumentan a cinco los palestinos muertos en bombardeos de Israel contra el norte de la Franja de Gaza",
+      "link": "https://www.europapress.es/internacional/noticia-mueren-dos-palestinos-bombardeo-israel-contra-parque-norte-franja-gaza-20260831140353.html",
+      "summary": "Al menos cinco palestinos han muerto este lunes a causa de nuevos bombardeos ejecutados por el Ejército de Israel contra la ciudad de Gaza (norte), a pesar del alto el fuego pactado en octubre de 2025 para aplicar la propuesta de Estados Unidos para el futuro del enclave, aceptada por las autoridades israelíes y el Movimiento de Resistencia Islámica (Hamás).",
+      "published_at": "2026-08-31T12:03:53Z",
+      "region": "Oriente Médio",
+      "theme": "Geopolítica e Segurança",
+      "source_name": "Europa Press",
+      "source_id": "europa_press",
+      "is_brazilian": false,
+      "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260831140353_120.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "The political year ahead in France and the US with analyst Hind Ziane",
+      "link": "https://www.france24.com/en/tv-shows/perspective/20260831-political-year-ahead-france-us-analyst-hind-ziane-midterms-presidential-election",
+      "summary": "As FRANCE 24 kicks off its new season of programmes, we've been looking ahead to perhaps the two most anticipated events to come in the year ahead. In two months' time the US will vote in midterm elections, and in just over six months' time France will vote in presidential elections. In Perspective, we spoke to geopolitical analyst, entrepreneur and international speaker Hind Ziane. She says the midterms will be a real test for US President Donald Trump, while in France it is the parties with clear presidential candidates in place that are currently dominating the opinion polls.",
+      "published_at": "2026-08-31T12:03:16Z",
+      "region": "América do Norte",
+      "theme": "Política Internacional",
+      "source_name": "France 24",
+      "source_id": "france24",
+      "is_brazilian": false,
+      "image_url": "https://s.france24.com/media/display/7a2a60a6-a52f-11f1-a203-005056bf30b7/w:1024/p:16x9/capture-14602235876a956603305ef3-42179556.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Brasil se reúne com EUA e não espera acordo sobre tarifaço agora",
+      "link": "https://www.poder360.com.br/poder-governo/brasil-se-reune-com-eua-e-nao-espera-acordo-sobre-tarifaco-agora/",
+      "summary": "Governo vê no encontro entre Márcio Elias Rosa e Jamieson Greer a reabertura das negociações; é a 1ª reunião após ligação Lula-Trump",
+      "published_at": "2026-08-31T12:03:13Z",
+      "region": "América do Norte",
+      "theme": "Política Internacional",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2026/05/lula-trump-reuniao-7-mai-20262.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Modi-Putin meeting at SCO: Can India-Russia ties hold?",
+      "link": "https://www.dw.com/en/modi-putin-meeting-at-sco-can-india-russia-ties-hold/a-78575121?maca=en-rss-en-world-4025-rdf",
+      "summary": "Indian PM Modi meets Russia's President Putin at the SCO summit in Bishkek as Moscow and New Delhi face rising tensions with Washington — Russia over war-related sanctions, and India over its energy and trade choices.",
+      "published_at": "2026-08-31T12:02:00Z",
+      "region": "Europa",
+      "theme": "Política Internacional",
+      "source_name": "DW World News",
+      "source_id": "dw_english",
+      "is_brazilian": false,
+      "image_url": "https://static.dw.com/image/75034604_6.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Who are the economic winners and losers of the US-Israel war on Iran?",
+      "link": "https://www.aljazeera.com/economy/2026/8/31/who-are-the-economic-winners-and-losers-of-the-us-israel-war-on-iran?traffic_source=rss",
+      "summary": "Airlines and automakers have taken a hit, while banks and energy firms have raked in big profits.",
+      "published_at": "2026-08-31T12:01:18Z",
+      "region": "Oriente Médio",
+      "theme": "Geopolítica e Segurança",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/08/SoH-1788139711_506973-1788161471.jpeg?resize=1200%2C630&quality=80",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Police arrest Swiss man after deadly rave shooting",
       "link": "https://www.france24.com/en/europe/20260831-police-arrest-swiss-man-over-after-deadly-rave-shooting",
       "summary": "Swiss police on Monday said they had arrested a 43-year-old man on suspicion of having carried out a deadly shooting at a rave in the town of Aargau Sunday morning. The attack killed a 22-year-old Italian woman and wounded five other people.",
       "published_at": "2026-08-31T12:01:13Z",
@@ -67,6 +356,40 @@
         "https://images.unsplash.com/photo-1542810634-71277d95dcbb?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1489533119213-66a5cd877091?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1531206715517-5c0ba140e2b8?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Rescuers search for 18 missing after boat capsizes off Northern Cyprus",
+      "link": "https://www.aljazeera.com/news/2026/8/31/rescue-teams-continue-search-for-missing-after-north-cyprus-ferry-sinking?traffic_source=rss",
+      "summary": "The captain and crew of the ferry have been brought before a judge and placed under formal arrest.",
+      "published_at": "2026-08-31T11:59:37Z",
+      "region": "Oriente Médio",
+      "theme": "Outros / Multitemático",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/08/reuters_6a954fdb-1788170203.jpg?resize=1920%2C1440",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Fire breaks out after unidentified explosions at oil refinery in Baghdad",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/31/fire-breaks-out-after-unidentified-explosions-at-oil-refinery-in-baghdad-2?traffic_source=rss",
+      "summary": "A fire broke out following unidentified explosions at the Al-Dora power plant south of the Iraqi capital, Baghdad.",
+      "published_at": "2026-08-31T11:58:57Z",
+      "region": "Oriente Médio",
+      "theme": "Outros / Multitemático",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1788170888.jpg?resize=1920%2C1080&quality=80",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
       ]
     },
     {
@@ -155,6 +478,23 @@
       ]
     },
     {
+      "title": "Turkiye, Saudi Arabia, Pakistan hold first Mecca defence pact meeting",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/31/turkiye-saudi-arabia-pakistan-hold-first-mecca-defence-pact-meeting?traffic_source=rss",
+      "summary": "Turkiye, Saudi Arabia, Pakistan hold first Mecca defence pact meeting",
+      "published_at": "2026-08-31T11:49:03Z",
+      "region": "Oriente Médio",
+      "theme": "Outros / Multitemático",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/08/MECCA-PACT-1788176934.jpg?resize=1920%2C1417",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
       "title": "Eduardo Bolsonaro chama ex-comandante da FAB de “escória da nação”",
       "link": "https://www.poder360.com.br/poder-gente/eduardo-bolsonaro-chama-ex-comandante-da-fab-de-escoria-da-nacao/",
       "summary": "Ex-deputado reage a críticas de Carlos de Almeida Baptista Júnior ao irmão Flávio e chama o militar de “covarde”",
@@ -203,23 +543,6 @@
         "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1460661419201-fd4cecdf8a8b?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1508700115892-45ecd05ae2ad?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Modi-Putin meeting at SCO: Can India-Russia ties hold?",
-      "link": "https://www.dw.com/en/modi-putin-meeting-at-sco-can-india-russia-ties-hold/a-78575121?maca=en-rss-en-world-4025-rdf",
-      "summary": "Indian PM Modi meets Russia's President Putin at the SCO summit in Bishkek as Moscow and New Delhi face rising tensions with Washington — Russia over war-related sanctions, and India over its energy and trade choices.",
-      "published_at": "2026-08-31T11:47:00Z",
-      "region": "Europa",
-      "theme": "Política Internacional",
-      "source_name": "DW World News",
-      "source_id": "dw_english",
-      "is_brazilian": false,
-      "image_url": "https://static.dw.com/image/75034604_6.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
       ]
     },
     {
@@ -801,16 +1124,16 @@
       ]
     },
     {
-      "title": "Fire breaks out after unidentified explosions at oil refinery in Baghdad",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/31/fire-breaks-out-after-unidentified-explosions-at-oil-refinery-in-baghdad?traffic_source=rss",
-      "summary": "A fire broke out following unidentified explosions at the Al-Dora power plant south of the Iraqi capital, Baghdad.",
-      "published_at": "2026-08-31T10:11:59Z",
+      "title": "Attacks flare between the U.S. and Iran after a monthlong pause",
+      "link": "https://www.npr.org/2026/08/31/g-s1-141175/attacks-flare-us-iran",
+      "summary": "U.S. threats erupt into attacks in the Strait of Hormuz, and Iran retaliates against U.S. targets in the United Arab Emirates and Jordan in the first exchange of fire since July 29.",
+      "published_at": "2026-08-31T10:04:30Z",
       "region": "Oriente Médio",
       "theme": "Outros / Multitemático",
-      "source_name": "Al Jazeera",
-      "source_id": "aljazeera_english",
+      "source_name": "NPR World News",
+      "source_id": "npr",
       "is_brazilian": false,
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1788170888.jpg?resize=1920%2C1080&quality=80",
+      "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x3375+0+313/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F29%2Ffd%2F5217d77844848219593a4f0b61ba%2Fap26243261413105.jpg",
       "fallback_images": [
         "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
@@ -1073,9 +1396,9 @@
       ]
     },
     {
-      "title": "Artificial Intelligence in Europe: does advanced AI have a glass ceiling?",
+      "title": "Artificial intelligence in Europe: Does advanced AI have a glass ceiling?",
       "link": "https://www.france24.com/en/tv-shows/people-profit/20260831-artificial-intelligence-in-europe-does-advanced-ai-have-a-glass-ceiling",
-      "summary": "What does Europe lose if advanced AI adoption stays at current levels? A report commissioned by US tech giant Amazon Web Services finds that skills shortages and regulatory uncertainty are hindering AI adoption in Europe and 38% of European startups are looking to move abroad. Charles Pellegrin talks to Sasha Rubel, AWS's head of generative AI policy for Europe, the Middle East and Africa.",
+      "summary": "What does Europe lose if advanced AI adoption stays at current levels? A report commissioned by US tech giant Amazon Web Services finds that skills shortages and regulatory uncertainty are hindering AI adoption in Europe and 38 percent of European startups are looking to move abroad. Charles Pellegrin talks to Sasha Rubel, AWS's head of generative AI policy for Europe, the Middle East and Africa.",
       "published_at": "2026-08-31T09:39:28Z",
       "region": "Europa",
       "theme": "Ciência, Tecnologia e Inovação",
@@ -1532,7 +1855,7 @@
       ]
     },
     {
-      "title": "Xi, Modi and Putin set to meet for SCO summit: What’s on the agenda?",
+      "title": "Xi, Modi and Putin attend SCO summit: What’s on the agenda?",
       "link": "https://www.aljazeera.com/news/2026/8/31/xi-modi-and-putin-set-to-meet-for-sco-summit-whats-on-the-agenda?traffic_source=rss",
       "summary": "The two-day summit aims to promote a vision of a multipolar world and mutual trade ties amid Trump's unilateralism.",
       "published_at": "2026-08-31T08:47:03Z",
@@ -1614,23 +1937,6 @@
         "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "One dead and more than a dozen missing after 'terrifying' flash flood hits Grand Canyon",
-      "link": "https://www.bbc.co.uk/news/articles/clylkjyez1do?at_medium=RSS&at_campaign=rss",
-      "summary": "\"It was a beautiful day - and then people were screaming,\" one hiker tells the BBC, as 15 people are missing.",
-      "published_at": "2026-08-31T08:17:25Z",
-      "region": "Global",
-      "theme": "Meio Ambiente e Clima",
-      "source_name": "BBC World News",
-      "source_id": "bbc_world",
-      "is_brazilian": false,
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4ff7/live/2c0e39a0-a4bd-11f1-aed2-8d6da8d75094.png",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?q=80&w=800&auto=format&fit=crop"
       ]
     },
     {
@@ -2243,312 +2549,6 @@
         "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Iran targets Jordan after first US attack in a month",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/31/iran-targets-jordan-after-first-us-attack-in-a-month?traffic_source=rss",
-      "summary": "The US has launched its first strikes on Iran in a month, hitting sites on Larak Island. Iran hit back targeting bases h",
-      "published_at": "2026-08-31T03:06:56Z",
-      "region": "Oriente Médio",
-      "theme": "Geopolítica e Segurança",
-      "source_name": "Al Jazeera",
-      "source_id": "aljazeera_english",
-      "is_brazilian": false,
-      "image_url": "https://loremflickr.com/cache/resized/defaultImage.small_800_600_nofilter.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Brasil levaria até 30 anos para compensar jornada menor",
-      "link": "https://www.poder360.com.br/poder-economia/brasil-levaria-ate-30-anos-para-compensar-jornada-menor/",
-      "summary": "Projeção da CNI considera cenário em que empresas absorvem diminuição nas horas trabalhadas sem desconto na remuneração",
-      "published_at": "2026-08-31T03:02:49Z",
-      "region": "América do Sul",
-      "theme": "Outros / Multitemático",
-      "source_name": "Poder360",
-      "source_id": "poder360",
-      "is_brazilian": true,
-      "image_url": "https://static.poder360.com.br/uploads/2026/07/Carteira-Trabalho-1080.png",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "NATO's Arctic activity poses 'direct threat' to Russia, Lavrov warns",
-      "link": "https://www.france24.com/en/europe/20260831-nato-arctic-activity-direct-threat-russia-lavrov",
-      "summary": "Russia views NATO’s growing activity in the Arctic as a direct security threat, Foreign Minister Sergei Lavrov said on Monday. NATO launched its Arctic Sentry mission in February to strengthen its presence in the region amid tensions with Moscow and US President Donald Trump’s push to acquire Greenland.",
-      "published_at": "2026-08-31T02:40:17Z",
-      "region": "Europa",
-      "theme": "Política Internacional",
-      "source_name": "France 24",
-      "source_id": "france24",
-      "is_brazilian": false,
-      "image_url": "https://s.france24.com/media/display/bfc2ed56-795e-11f1-953f-005056bf30b7/w:1024/p:16x9/2026-06-26T081740Z-1497385753-RC2E2KA9A876-RTRMADP-3-ARCTIC-SECURITY-NATO.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "China reconstrói estrada destruída em deslizamento e inundação",
-      "link": "https://www.poder360.com.br/poder-china/china-reconstroi-estrada-destruida-em-deslizamento-e-inundacao/",
-      "summary": "Estrada é uma das vias de acesso ao porto de Gyirong, corredor estratégico de comércio entre a China e o sul da Ásia",
-      "published_at": "2026-08-31T02:34:26Z",
-      "region": "Ásia",
-      "theme": "Outros / Multitemático",
-      "source_name": "Poder360",
-      "source_id": "poder360",
-      "is_brazilian": true,
-      "image_url": "https://static.poder360.com.br/uploads/2026/08/reconstrucao-de-rodovia-no-Tibet-1-1200x675.png",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "What Argentina gets right about youth soccer — and what the U.S. gets wrong",
-      "link": "https://www.npr.org/2026/08/30/nx-s1-5924666/what-argentina-gets-right-about-youth-soccer-and-what-the-u-s-gets-wrong",
-      "summary": "Argentina has produced some of the world's greatest soccer players. Could its youth system offer lessons for the United States?",
-      "published_at": "2026-08-31T02:27:49Z",
-      "region": "América do Sul",
-      "theme": "Outros / Multitemático",
-      "source_name": "NPR World News",
-      "source_id": "npr",
-      "is_brazilian": false,
-      "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5126x2883+0+267/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F7c%2Fa4%2Fe84805c04008bce2436595d04546%2Fgettyimages-963426734.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Niger mutiny puts Russia’s expanding role in the Sahel to the test",
-      "link": "https://www.aljazeera.com/news/2026/8/31/niger-mutiny-puts-russias-expanding-role-in-the-sahel-to-the-test?traffic_source=rss",
-      "summary": "Failed uprising in Niamey exposed tensions in Niger’s military, and the role of the Africa Corps in suppressing unrest.",
-      "published_at": "2026-08-31T02:15:35Z",
-      "region": "Europa",
-      "theme": "Geopolítica e Segurança",
-      "source_name": "Al Jazeera",
-      "source_id": "aljazeera_english",
-      "is_brazilian": false,
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2023/09/33U94LZ-highres-1693718660.jpg?resize=1920%2C1440",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Tunisia swelters as power cuts disrupt water supplies",
-      "link": "https://www.aljazeera.com/news/2026/8/31/tunisia-swelters-as-power-cuts-disrupt-water-supplies?traffic_source=rss",
-      "summary": "Near 50C temperatures are driving record electricity demand, disrupting water supplies and straining health services.",
-      "published_at": "2026-08-31T02:11:35Z",
-      "region": "Oriente Médio",
-      "theme": "Saúde",
-      "source_name": "Al Jazeera",
-      "source_id": "aljazeera_english",
-      "is_brazilian": false,
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/08/AFP__20260824__C6EG8F8__v1__HighRes__TunisiaWeatherClimateHeatwave-1788079286.jpg?resize=1920%2C1440",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1584515901367-f1c2a12a50ea?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1505751172876-fa1923c5c528?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1584036561566-baf2418a7c21?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "US plans to sanction another bank to keep economic pressure on Iran",
-      "link": "https://www.aljazeera.com/news/2026/8/31/us-plans-to-sanction-another-bank-to-keep-economic-pressure-on-iran?traffic_source=rss",
-      "summary": "Washington has recently stepped up efforts to economically pressure Tehran amid the deadlocked truce talks.",
-      "published_at": "2026-08-31T02:08:46Z",
-      "region": "América do Norte",
-      "theme": "Economia Internacional",
-      "source_name": "Al Jazeera",
-      "source_id": "aljazeera_english",
-      "is_brazilian": false,
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/08/AP26242764454014-1788139016.jpg?resize=1920%2C1440",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "TSE manda Lula suspender comercial com “currículo” de Flávio",
-      "link": "https://www.poder360.com.br/poder-justica/tse-manda-lula-suspender-comercial-com-curriculo-de-flavio/",
-      "summary": "Ministra Estela Aranha afirmou que propaganda “Conheça o currículo de Flávio Bolsonaro” ultrapassou os limites da crítica política",
-      "published_at": "2026-08-31T01:59:49Z",
-      "region": "América do Sul",
-      "theme": "Política Brasileira",
-      "source_name": "Poder360",
-      "source_id": "poder360",
-      "is_brazilian": true,
-      "image_url": "https://static.poder360.com.br/uploads/2026/08/FACHADA-TSE-1200x675.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "De la Espriella anuncia un plan de recuperación para el Tolima (Colombia) tras los fuegos \"deliberadamente provocados\"",
-      "link": "https://www.europapress.es/internacional/noticia-espriella-anuncia-plan-recuperacion-tolima-colombia-fuegos-deliberadamente-provocados-20260831035608.html",
-      "summary": "El presidente de Colombia, Abelardo de la Espriella, ha anunciado este domingo un plan especial de recuperación ambiental, productiva, rural y de seguridad para el departamento del Tolima, en el oeste del país, tras los incendios que, ha sostenido, han sido \"en gran parte (...) deliberadamente provocados\", dejando un saldo de \"más de 50.000 hectáreas\" calcinadas.",
-      "published_at": "2026-08-31T01:56:08Z",
-      "region": "América do Sul",
-      "theme": "Direito Internacional e Instituições",
-      "source_name": "Europa Press",
-      "source_id": "europa_press",
-      "is_brazilian": false,
-      "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260831035608_120.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1505664194779-8beaceb93744?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Venezuela’s Maduro shares first photos from US detention",
-      "link": "https://www.aljazeera.com/news/2026/8/31/venezuelas-maduro-shares-first-photos-from-us-detention?traffic_source=rss",
-      "summary": "Abducted Venezuelan leader's post appears to show him in US detention, published two days after US-Venezuela oil deal.",
-      "published_at": "2026-08-31T01:54:58Z",
-      "region": "América do Sul",
-      "theme": "Cultura, Mídia e Sociedade",
-      "source_name": "Al Jazeera",
-      "source_id": "aljazeera_english",
-      "is_brazilian": false,
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/08/Screenshot-2026-08-31-at-8.37.39-AM-1788137191.jpg?resize=1200%2C675",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1460661419201-fd4cecdf8a8b?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1508700115892-45ecd05ae2ad?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "One dead and around 15 missing as flash flood strikes Grand Canyon National Park",
-      "link": "https://www.france24.com/en/americas/20260831-grand-canyon-national-park-flash-flood-missing",
-      "summary": "At least one person is dead and more than 15 people may be missing after flash floods struck Grand Canyon National Park in Arizona, the National Park Service said on Sunday. Flooding hit the Bright Angel Canyon and Phantom Ranch area on Saturday, prompting authorities to evacuate visitors and search for people who remain unaccounted for.",
-      "published_at": "2026-08-31T01:38:50Z",
-      "region": "Europa",
-      "theme": "Meio Ambiente e Clima",
-      "source_name": "France 24",
-      "source_id": "france24",
-      "is_brazilian": false,
-      "image_url": "https://s.france24.com/media/display/b4ac9a16-a4bf-11f1-bc9a-005056bf30b7/w:1024/p:16x9/AP26242727343846.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Flash flood in Grand Canyon National Park leaves about 15 missing",
-      "link": "https://www.france24.com/en/americas/20260831-grand-canyon-national-park-flash-flood-missing",
-      "summary": "More than 15 people may be missing after flash floods struck Grand Canyon National Park in Arizona, the National Park Service said on Sunday. Flooding hit the Bright Angel Canyon and Phantom Ranch area on Saturday, prompting authorities to evacuate visitors and search for people who remain unaccounted for.",
-      "published_at": "2026-08-31T01:38:50Z",
-      "region": "Europa",
-      "theme": "Meio Ambiente e Clima",
-      "source_name": "France 24",
-      "source_id": "france24",
-      "is_brazilian": false,
-      "image_url": "https://s.france24.com/media/display/b4ac9a16-a4bf-11f1-bc9a-005056bf30b7/w:1024/p:16x9/AP26242727343846.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Vai depender dele, diz Flávio sobre Bolsonaro ser ministro",
-      "link": "https://www.poder360.com.br/poder-eleicoes-2026/vai-depender-dele-diz-flavio-sobre-bolsonaro-ser-ministro/",
-      "summary": "Senador afirma que tem o pai como um \"conselheiro\", mas que nunca falou com ele sobre participação em eventual governo",
-      "published_at": "2026-08-31T01:20:57Z",
-      "region": "América do Sul",
-      "theme": "Política Brasileira",
-      "source_name": "Poder360",
-      "source_id": "poder360",
-      "is_brazilian": true,
-      "image_url": "https://static.poder360.com.br/uploads/2026/08/Flavio-Bolsonaro-Record-30.ago_.2026-1200x675.png",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Muere una persona y unas 15 son dadas por desaparecidas por una riada en el Parque Nacional del Gran Cañón",
-      "link": "https://www.europapress.es/internacional/noticia-menos-15-desaparecidos-mas-60-evacuados-inundaciones-repentinas-parque-nacional-gran-canon-eeuu-20260831025242.html",
-      "summary": "Las autoridades prevén tormentas y lluvias y alertan de posibles nuevas \"crecidas repentinas, deslizamientos de tierra y desprendimientos de rocas\"",
-      "published_at": "2026-08-31T00:52:42Z",
-      "region": "Europa",
-      "theme": "Outros / Multitemático",
-      "source_name": "Europa Press",
-      "source_id": "europa_press",
-      "is_brazilian": false,
-      "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260831025242_120.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Al menos 15 desaparecidos y más de 60 evacuados tras inundaciones repentinas en el Parque Nacional Gran Cañón de EEUU",
-      "link": "https://www.europapress.es/internacional/noticia-menos-15-desaparecidos-mas-60-evacuados-inundaciones-repentinas-parque-nacional-gran-canon-eeuu-20260831025242.html",
-      "summary": "Las autoridades prevén tormentas y lluvias y alertan de posibles nuevas \"crecidas repentinas, deslizamientos de tierra y desprendimientos de rocas\"",
-      "published_at": "2026-08-31T00:52:42Z",
-      "region": "Europa",
-      "theme": "Outros / Multitemático",
-      "source_name": "Europa Press",
-      "source_id": "europa_press",
-      "is_brazilian": false,
-      "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260831025242_120.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "What are the implications of the US-Venezuela oil deal?",
-      "link": "https://www.aljazeera.com/video/inside-story/2026/8/31/what-are-the-implications-of-the-us-venezuela-oil-deal?traffic_source=rss",
-      "summary": "Opposition in Venezuela as interim leader insists the deal with Washington will help with the country's recovery.",
-      "published_at": "2026-08-31T00:41:12Z",
-      "region": "América do Norte",
-      "theme": "Outros / Multitemático",
-      "source_name": "Al Jazeera",
-      "source_id": "aljazeera_english",
-      "is_brazilian": false,
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1788133141.jpg?resize=1920%2C1080&quality=80",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "One dead and about 15 people missing after flash flood in Grand Canyon",
-      "link": "https://www.aljazeera.com/news/2026/8/31/dozens-evacuated-and-about-15-missing-after-grand-canyon-flash-flood?traffic_source=rss",
-      "summary": "Dozens evacuated from US national park after flash flood hits the area of Bright Angel Canyon and Phantom Ranch.",
-      "published_at": "2026-08-31T00:31:51Z",
-      "region": "América do Norte",
-      "theme": "Meio Ambiente e Clima",
-      "source_name": "Al Jazeera",
-      "source_id": "aljazeera_english",
-      "is_brazilian": false,
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/08/AP26242727343846-1788133032.jpg?resize=1920%2C1440",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?q=80&w=800&auto=format&fit=crop"
       ]
     }
   ]
