@@ -1,8 +1,195 @@
 {
-  "updated_at": "2026-09-01T02:03:47.769187Z",
+  "updated_at": "2026-09-01T03:05:03.683792Z",
   "news": [
     {
-      "title": "Ação contra SBT e Celso Portiolli por maus-tratos a rã pode ter perícia",
+      "title": "“Tarcísio perdeu o comando da segurança pública”, diz Haddad",
+      "link": "https://www.poder360.com.br/poder-eleicoes-2026/tarcisio-perdeu-o-comando-da-seguranca-publica-diz-haddad/",
+      "summary": "Candidato do PT diz que crime organizado atua além de São Paulo e defende maior participação da União no combate às facções",
+      "published_at": "2026-09-01T03:04:20Z",
+      "region": "América do Sul",
+      "theme": "Economia Brasileira",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2026/08/haddad-roda-viva-31.ago_.2026-1200x675.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1506744038136-46273834b3fb?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "STJD suspende diretores do Vasco por confusão em jogo contra o Vitória",
+      "link": "https://www.poder360.com.br/poder-sportsmkt/stjd-suspende-diretores-do-vasco-por-confusao-em-jogo-contra-o-vitoria/",
+      "summary": "Clube também foi condenado a pagar multa de R$ 20 mil por comportamento da torcida",
+      "published_at": "2026-09-01T02:35:17Z",
+      "region": "América do Sul",
+      "theme": "Outros / Multitemático",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2026/08/gol-do-vasco-1200x550.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Quem é Duane Davis, declarado culpado pelo assassinato do rapper Tupac Shakur há 30 anos (e o papel de um livro na condenação)",
+      "link": "https://www.bbc.com/portuguese/articles/c4g79xy0y8xo?at_medium=RSS&at_campaign=rss",
+      "summary": "Três décadas após o crime mais importante da história do hip-hop, caso Tupac Shakur tem sua primeira condenação.",
+      "published_at": "2026-09-01T02:33:41Z",
+      "region": "América do Sul",
+      "theme": "Outros / Multitemático",
+      "source_name": "BBC News Brasil",
+      "source_id": "bbc_brasil",
+      "is_brazilian": true,
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/248e/live/4a12b8a0-9a53-11f1-91df-51cf0e9cd98b.png",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "What it was like inside court for Tupac Shakur’s murder trial verdict",
+      "link": "https://www.bbc.co.uk/news/videos/cz6zp2pwzx5o?at_medium=RSS&at_campaign=rss",
+      "summary": "BBC presenter Anoushka Mutanda-Dougherty describes what it was like when Duane \"Keffe D\" Davis was found guilty of murdering the famous rapper.",
+      "published_at": "2026-09-01T02:30:45Z",
+      "region": "Global",
+      "theme": "Outros / Multitemático",
+      "source_name": "BBC World News",
+      "source_id": "bbc_world",
+      "is_brazilian": false,
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0869/live/c74d0eb0-a5ac-11f1-b109-879e35c24276.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Russian missile and drone attack on Kyiv kills at least four",
+      "link": "https://www.france24.com/en/europe/20260901-russian-missile-and-drone-attack-on-kyiv-kills-at-least-four",
+      "summary": "A massive Russian missile and drone attack on Kyiv and its surrounding region killed at least four people and wounded more than a dozen overnight, Ukrainian officials said Tuesday, as children prepared to return to school amid heightened fears of further strikes.",
+      "published_at": "2026-09-01T02:26:54Z",
+      "region": "Europa",
+      "theme": "Geopolítica e Segurança",
+      "source_name": "France 24",
+      "source_id": "france24",
+      "is_brazilian": false,
+      "image_url": "https://s.france24.com/media/display/b3254e58-a5ab-11f1-a88b-005056bfb2b6/w:1024/p:16x9/AP26242478432296.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "US brings back Russia’s Siluanov to G20 finance talks, angering Europe",
+      "link": "https://www.aljazeera.com/news/2026/9/1/us-brings-back-russias-siluanov-to-g20-finance-talks-angering-europe?traffic_source=rss",
+      "summary": "Anton Siluanov holds talks with US counterpart as European officials object to Russia's return to G20 talks.",
+      "published_at": "2026-09-01T02:23:03Z",
+      "region": "Europa",
+      "theme": "Comércio e Finanças",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": "https://loremflickr.com/cache/resized/3492_3294530192_0dfa79e513_b_800_600_nofilter.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1578575437130-527eed3abbec?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1522071820081-009f0129c71c?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Nepal rescuers blast hillside in search of hydropower workers as families wait anxiously",
+      "link": "https://www.bbc.co.uk/news/articles/c5ylvgq9q71o?at_medium=RSS&at_campaign=rss",
+      "summary": "Rescuers have resorted to explosives as they struggle to reach trapped workers, as the flooding death toll reaches 939.",
+      "published_at": "2026-09-01T02:18:26Z",
+      "region": "Ásia",
+      "theme": "Outros / Multitemático",
+      "source_name": "BBC World News",
+      "source_id": "bbc_world",
+      "is_brazilian": false,
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6dce/live/98bb2c90-a556-11f1-b109-879e35c24276.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Alcolumbre indica Pacheco para ocupar vaga de Bruno Dantas no TCU",
+      "link": "https://www.poder360.com.br/poder-congresso/alcolumbre-indica-pacheco-para-ocupar-vaga-de-bruno-dantas-no-tcu/",
+      "summary": "Senador precisa de no mínimo de 41 votos favoráveis para ser aprovado; votação em plenário será realizada até 4ª feira",
+      "published_at": "2026-09-01T02:08:28Z",
+      "region": "América do Sul",
+      "theme": "Política Brasileira",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2026/08/Design-sem-nome-58-1200x675.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Empresários do etanol doam R$ 200 mil para a campanha de Salles",
+      "link": "https://www.poder360.com.br/poder-eleicoes-2026/empresarios-do-etanol-doam-r-200-mil-para-a-campanha-de-salles/",
+      "summary": "Dono da União Química também fez aporte de R$ 100 mil ao candidato ao Senado por São Paulo",
+      "published_at": "2026-09-01T02:07:34Z",
+      "region": "América do Sul",
+      "theme": "Política Brasileira",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2023/05/RicardoSalles-24mai20233-scaled.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Justiça no EUA questiona empresa que recebeu R$ 2,8 bi do Master",
+      "link": "https://www.poder360.com.br/poder-justica/justica-no-eua-questiona-empresa-que-recebeu-r-28-bi-do-master/",
+      "summary": "Empresa de cripto OWS tem histórico de apurações no Brasil perante a PF, o Congresso e a Justiça",
+      "published_at": "2026-09-01T02:07:10Z",
+      "region": "América do Norte",
+      "theme": "Política Brasileira",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2025/11/bancomaster-scaled-e1768667826136.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Toxic haze from Indonesian fires chokes Malaysian Borneo",
+      "link": "https://www.aljazeera.com/news/2026/9/1/toxic-haze-from-indonesian-fires-chokes-malaysian-borneo?traffic_source=rss",
+      "summary": "Respiratory illnesses surge as hazardous air settles over Sarawak in the region's worst haze crisis in a decade.",
+      "published_at": "2026-09-01T02:06:01Z",
+      "region": "Ásia",
+      "theme": "Economia Internacional",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": "https://loremflickr.com/cache/resized/2069_5822753924_30c11428f9_h_800_600_nofilter.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Ação contra “SBT” e Portiolli por maus-tratos a rã pode ter perícia",
       "link": "https://www.poder360.com.br/poder-justica/acao-contra-sbt-e-celso-portiolli-por-maus-tratos-a-ra-pode-ter-pericia/",
       "summary": "Animal vivo foi utilizado em quadro do programa “Domingo Legal\", apresentado por Celso Portiolli",
       "published_at": "2026-09-01T01:57:19Z",
@@ -2178,23 +2365,6 @@
       ]
     },
     {
-      "title": "Nepal rescuers blast hillside in search of hydropower workers as families wait anxiously",
-      "link": "https://www.bbc.co.uk/news/articles/c5ylvgq9q71o?at_medium=RSS&at_campaign=rss",
-      "summary": "Rescuers have resorted to explosives as they struggle to reach trapped workers, as the flooding death toll reaches 939.",
-      "published_at": "2026-08-31T17:30:47Z",
-      "region": "Ásia",
-      "theme": "Outros / Multitemático",
-      "source_name": "BBC World News",
-      "source_id": "bbc_world",
-      "is_brazilian": false,
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6dce/live/98bb2c90-a556-11f1-b109-879e35c24276.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
       "title": "Setores defendem compensação tributária para taxa das blusinhas",
       "link": "https://www.poder360.com.br/conteudo-de-marca/setores-defendem-compensacao-tributaria-para-taxa-das-blusinhas/",
       "summary": "Medida busca proteger a concorrência e os empregos, diante da retirada do imposto sobre importação para produtos de até US$ 50",
@@ -2375,176 +2545,6 @@
       "source_id": "aljazeera_english",
       "is_brazilian": false,
       "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/08/2026-08-31T065503Z_34737426_RC209NARHB14_RTRMADP_3_NEPAL-FLOODS-1788188549.jpg?resize=1920%2C1440",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Iran could face economic collapse in months, US Treasury’s Bessent warns",
-      "link": "https://www.aljazeera.com/economy/2026/8/31/iran-could-face-economic-collapse-in-months-us-treasurys-bessent-warns?traffic_source=rss",
-      "summary": "Treasury Secretary Scott Bessent weighs in on the US's economic pressure campaign at a meeting of G20 finance ministers.",
-      "published_at": "2026-08-31T17:04:24Z",
-      "region": "América do Norte",
-      "theme": "Economia Internacional",
-      "source_name": "Al Jazeera",
-      "source_id": "aljazeera_english",
-      "is_brazilian": false,
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/08/reuters_6a95a470-1788191856.jpg?resize=1920%2C1440",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "29% dizem usar IA quase ou todos os dias no Brasil",
-      "link": "https://www.poder360.com.br/poder-tech/29-dizem-usar-ia-quase-ou-todos-os-dias-no-brasil/",
-      "summary": "Ao todo, 92% dos usuários de internet usam a ferramenta em maior ou menor frequência, de acordo com pesquisa do Comitê Gestor da Internet no Brasil",
-      "published_at": "2026-08-31T17:00:42Z",
-      "region": "América do Sul",
-      "theme": "Ciência, Tecnologia e Inovação",
-      "source_name": "Poder360",
-      "source_id": "poder360",
-      "is_brazilian": true,
-      "image_url": "https://static.poder360.com.br/uploads/2025/10/ia-inteligenciaartificial-semicondutores-chips.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1518770660439-4636190af475?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1507668077129-56e32842fceb?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Tentativa de golpe na internet atinge 32% dos brasileiros, diz estudo",
-      "link": "https://www.poder360.com.br/poder-tech/tentativa-de-golpe-na-internet-atinge-32-dos-brasileiros-diz-estudo/",
-      "summary": "Outros 20% foram de fato vítimas dessas fraudes com dados pessoais, de acordo com pesquisa do Comitê Gestor da Internet no Brasil",
-      "published_at": "2026-08-31T17:00:14Z",
-      "region": "América do Sul",
-      "theme": "Ciência, Tecnologia e Inovação",
-      "source_name": "Poder360",
-      "source_id": "poder360",
-      "is_brazilian": true,
-      "image_url": "https://static.poder360.com.br/uploads/2020/05/hacker.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1518770660439-4636190af475?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1507668077129-56e32842fceb?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Ao vivo: Lula assina decreto sobre comercialização de ingressos",
-      "link": "https://www.poder360.com.br/poder-governo/ao-vivo-lula-assina-decreto-sobre-comercializacao-de-ingressos/",
-      "summary": "Uma das medidas, voltada à proteção do consumidor, regulamenta práticas relacionadas à venda de ingressos e ao chamado cambismo digital",
-      "published_at": "2026-08-31T17:00:03Z",
-      "region": "América do Sul",
-      "theme": "Política Brasileira",
-      "source_name": "Poder360",
-      "source_id": "poder360",
-      "is_brazilian": true,
-      "image_url": "https://static.poder360.com.br/uploads/2026/08/Lula-questiona-quem-e-Milei-1200x675.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Raising the Altalena: Netanyahu digs up sunken 1948 arms ship in ‘pre-election stunt’",
-      "link": "https://www.france24.com/en/middle-east/20260831-raising-altalena-netanyahu-digs-up-sunken-1948-arms-ship-irgun-pre-election-stunt",
-      "summary": "A ship carrying arms for a right-wing militia, the Altalena was sunk 78 years ago off the coast of Tel Aviv at the orders of Israel’s founders. The discovery of its wreckage last week has given the country’s right-wing government ammunition to target the left and attempt to redirect the campaign for legislative elections in October.",
-      "published_at": "2026-08-31T16:54:13Z",
-      "region": "Oriente Médio",
-      "theme": "Política Internacional",
-      "source_name": "France 24",
-      "source_id": "france24",
-      "is_brazilian": false,
-      "image_url": "https://s.france24.com/media/display/0ab78be2-a2bc-11f1-a8e8-005056bfb2b6/w:1024/p:16x9/Altalena-off-Tel-Aviv-beach.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "A corrida contra o tempo para resgatar mais de 600 trabalhadores presos em túneis após avalanche no Nepal e no Tibete",
-      "link": "https://www.bbc.com/portuguese/articles/cr503rrgg6mo?at_medium=RSS&at_campaign=rss",
-      "summary": "Equipes de resgate começaram a realizar explosões controladas para liberar as galerias onde podem estar presos operários das usinas hidrelétricas da região, segundo as autoridades nepalesas.",
-      "published_at": "2026-08-31T16:50:29Z",
-      "region": "Ásia",
-      "theme": "Outros / Multitemático",
-      "source_name": "BBC News Brasil",
-      "source_id": "bbc_brasil",
-      "is_brazilian": true,
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0a6f/live/9c782c00-a53f-11f1-8689-6589354d0f8e.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Tunisia protests: Water, power cuts and rising anger",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/31/tunisia-protests-water-power-cuts-and-rising-anger?traffic_source=rss",
-      "summary": "Tunisia protests: Water, power cuts and rising anger",
-      "published_at": "2026-08-31T16:47:34Z",
-      "region": "Oriente Médio",
-      "theme": "Outros / Multitemático",
-      "source_name": "Al Jazeera",
-      "source_id": "aljazeera_english",
-      "is_brazilian": false,
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1788194808.jpg?resize=1920%2C1080&quality=80",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Rusia niega cualquier implicación en la entrada de migrantes en Ceuta",
-      "link": "https://www.europapress.es/internacional/noticia-rusia-niega-cualquier-implicacion-entrada-migrantes-ceuta-20260831184628.html",
-      "summary": "La Presidencia rusa ha rechazado este lunes cualquier tipo de implicación en la entrada de decenas de miles de migrantes desde territorio marroquí a Ceuta después de que el presidente del Gobierno, Pedro Sánchez, denunciara la propagación de bulos en redes sociales en cuentas \"asociadas tanto a Rusia como a Israel\".",
-      "published_at": "2026-08-31T16:46:28Z",
-      "region": "Europa",
-      "theme": "Política Internacional",
-      "source_name": "Europa Press",
-      "source_id": "europa_press",
-      "is_brazilian": false,
-      "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260831184628_120.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Lionel Messi says he's retiring from playing internationally for Argentina",
-      "link": "https://www.npr.org/2026/08/31/nx-s1-5950427/lionel-messi-retires-international-soccer",
-      "summary": "The soccer star is ending 21 years of Argentine national-team duty but will continue to play at club level with Inter Miami in U.S. Major League Soccer.",
-      "published_at": "2026-08-31T16:37:05Z",
-      "region": "América do Sul",
-      "theme": "Outros / Multitemático",
-      "source_name": "NPR World News",
-      "source_id": "npr",
-      "is_brazilian": false,
-      "image_url": "https://d3i6fh83elv35t.cloudfront.net/static/2026/08/2026-08-31T155626Z_1025260360_RC2A5Y99GW65_RTRMADP_3_SOCCER-ARG-MESSI-1024x713.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Messi anuncia aposentadoria da seleção argentina",
-      "link": "https://www.poder360.com.br/poder-sportsmkt/messi-anuncia-aposentadoria-da-selecao-argentina/",
-      "summary": "Atacante diz que tomou a decisão 2 dias depois da final da Copa, em que os argentinos foram derrotados pelos espanhóis",
-      "published_at": "2026-08-31T16:34:53Z",
-      "region": "América do Sul",
-      "theme": "Outros / Multitemático",
-      "source_name": "Poder360",
-      "source_id": "poder360",
-      "is_brazilian": true,
-      "image_url": "https://static.poder360.com.br/uploads/2026/08/copa-2026-lionel-messi-1200x675.webp",
       "fallback_images": [
         "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
