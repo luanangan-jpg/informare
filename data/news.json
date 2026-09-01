@@ -1,21 +1,191 @@
 {
-  "updated_at": "2026-09-01T16:34:41.866409Z",
+  "updated_at": "2026-09-01T17:04:56.086901Z",
   "news": [
     {
-      "title": "Germany says Russia behind Leipzig airport drone attack",
-      "link": "https://www.bbc.co.uk/news/articles/c5ylm3m67n2o?at_medium=RSS&at_campaign=rss",
-      "summary": "A drone carrying an explosive device was discovered at the airport close to Ukrainian cargo planes on 4 August.",
-      "published_at": "2026-09-01T16:31:43Z",
+      "title": "Germany blames Russia for Leipzig airport drone attack, orders Russian consulate closed",
+      "link": "https://www.france24.com/en/europe/20260901-germany-blames-russia-for-leipzig-airport-drone-attack-orders-russian-consulate-closed",
+      "summary": "Germany's government on Tuesday blamed Russia for an attempted attack at Leipzig/Halle Airport on 4 August using an explosive-laden drone, and announced that it would shut down a Russian consulate among other measures against Moscow. NATO Secretary-General Mark Rutte and EU chief Ursula von der Leyen vowed \"full solidarity\" with Berlin in response.",
+      "published_at": "2026-09-01T17:00:58Z",
       "region": "Europa",
       "theme": "Geopolítica e Segurança",
-      "source_name": "BBC World News",
-      "source_id": "bbc_world",
+      "source_name": "France 24",
+      "source_id": "france24",
       "is_brazilian": false,
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a6b5/live/bf0d1e90-a618-11f1-9ca2-a3e18de91b7b.jpg",
+      "image_url": "https://s.france24.com/media/display/79b2ea30-a61a-11f1-b028-005056a90284/w:1024/p:16x9/2026-08-08T101129Z-1947811119-RC2CSMA5SMYP-RTRMADP-3-GERMANY-SECURITY-DRONES.jpg",
       "fallback_images": [
         "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "U.S. military says it's hitting new targets in Iran again",
+      "link": "https://www.pbs.org/newshour/world/u-s-military-says-its-hitting-new-targets-in-iran-again",
+      "summary": "President Donald Trump acknowledged Monday that more strikes might be necessary.",
+      "published_at": "2026-09-01T16:58:49Z",
+      "region": "Oriente Médio",
+      "theme": "Geopolítica e Segurança",
+      "source_name": "PBS NewsHour",
+      "source_id": "pbs_newshour",
+      "is_brazilian": false,
+      "image_url": "https://d3i6fh83elv35t.cloudfront.net/static/2026/09/2026-09-01T125155Z_426143640_RC2M7NAV0V49_RTRMADP_3_IRAN-CRISIS-IRAN-OIL-1024x576.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Mendonça retira sigilo de ação sobre Vorcaro e Moraes",
+      "link": "https://www.poder360.com.br/poder-justica/mendonca-retira-sigilo-de-acao-sobre-vorcaro-e-moraes/",
+      "summary": "Ministro diz que novos elementos apresentados pela PF serão analisados pelo Plenário do STF em sessão pública",
+      "published_at": "2026-09-01T16:58:22Z",
+      "region": "América do Sul",
+      "theme": "Política Brasileira",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2026/08/GilmarMendes-CarmenLucia-DiasToffoli-Luiz-Fux-AlexandreDeMoraes-NunesMarques-AndreMendonca-CristianoZanin-STF-22-1200x675.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Ousted UK Prime Minister Keir Starmer to quit domestic politics",
+      "link": "https://www.aljazeera.com/news/2026/9/1/ousted-uk-prime-minister-keir-starmer-to-quit-domestic-politics?traffic_source=rss",
+      "summary": "Departed Labour Party leader now plans to focus on international affairs.",
+      "published_at": "2026-09-01T16:56:08Z",
+      "region": "Europa",
+      "theme": "Política Internacional",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/09/afp_6a96e8c045eb-1788274880.jpg?resize=1920%2C1440",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Leia conversas de Vorcaro com Moraes antes de prisão",
+      "link": "https://www.poder360.com.br/poder-justica/leia-conversas-de-vorcaro-com-moraes-antes-de-prisao/",
+      "summary": "Mensagens reveladas pelo Estadão mostram banqueiro questionando ministro do STF sobre investigação da PF dias antes de ser preso",
+      "published_at": "2026-09-01T16:56:03Z",
+      "region": "América do Sul",
+      "theme": "Política Brasileira",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2026/09/alexandre-moraes-stf-1200x675.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "US launches new strikes against Iran as war escalates",
+      "link": "https://www.aljazeera.com/news/2026/9/1/us-military-says-launching-new-attacks-on-iran?traffic_source=rss",
+      "summary": "This is a breaking news story.",
+      "published_at": "2026-09-01T16:45:56Z",
+      "region": "América do Norte",
+      "theme": "Geopolítica e Segurança",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/08/AFP__20260808__C48X6WE__v1__HighRes__IranUsIsraelWar-1787251656.jpg?resize=1920%2C1440",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Destroyed desalination plant worsens Gaza’s drinking water crisis",
+      "link": "https://www.aljazeera.com/features/2026/9/1/destroyed-desalination-plant-worsens-gazas-drinking-water-crisis?traffic_source=rss",
+      "summary": "After a newly built desalination plant was destroyed, displaced families in northern Gaza struggle to find clean water.",
+      "published_at": "2026-09-01T16:45:35Z",
+      "region": "Oriente Médio",
+      "theme": "Economia Internacional",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/09/873A7676-copy-1788278695.jpg?resize=1920%2C1440",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "CAE aprova alíquotas previdenciárias municipais conforme PIB per capita",
+      "link": "https://www.poder360.com.br/poder-congresso/cae-aprova-aliquotas-previdenciarias-municipais-conforme-pib-per-capita/",
+      "summary": "O presidente da CCJ, senador Otto Alencar (PSD-BA), se comprometeu a realizar audiência pública na comissão para aprofundar a análise da proposta",
+      "published_at": "2026-09-01T16:42:01Z",
+      "region": "América do Sul",
+      "theme": "Economia Brasileira",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2026/09/senado-cae-aliquota-prividenciario-1200x675.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1506744038136-46273834b3fb?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Trump says US position on Falklands 'one of many' under review",
+      "link": "https://www.bbc.co.uk/news/articles/cm2q1qgg542o?at_medium=RSS&at_campaign=rss",
+      "summary": "The UK says Falkland islanders \"are British with a right to determine their own future\".",
+      "published_at": "2026-09-01T16:35:28Z",
+      "region": "América do Norte",
+      "theme": "Política Internacional",
+      "source_name": "BBC World News",
+      "source_id": "bbc_world",
+      "is_brazilian": false,
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3261/live/b6217ad0-a5e4-11f1-a291-b542ee92de7c.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Vorcaro perguntou a Moraes se deveria fugir 2 dias antes da prisão",
+      "link": "https://www.poder360.com.br/poder-justica/vorcaro-perguntou-a-moraes-se-deveria-fugir-2-dias-antes-da-prisao/",
+      "summary": "Mensagens reveladas pelo \"Estadão\" mostram conversas entre banqueiro e ministro do STF sobre investigação da PF; \"Acha que 2ª tenho que estar fora?\", questionou",
+      "published_at": "2026-09-01T16:34:03Z",
+      "region": "América do Sul",
+      "theme": "Política Brasileira",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2026/09/daniel-vorcaro-alexandre-de-moraes-1200x675.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Pistol in a lake gives hope for French cold case",
+      "link": "https://www.bbc.co.uk/news/articles/c74eklrm344o?at_medium=RSS&at_campaign=rss",
+      "summary": "Saad al-Hilli was shot dead with his wife and mother-in-law while holidaying in eastern France in September 2012.",
+      "published_at": "2026-09-01T16:33:29Z",
+      "region": "Europa",
+      "theme": "Outros / Multitemático",
+      "source_name": "BBC World News",
+      "source_id": "bbc_world",
+      "is_brazilian": false,
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e60e/live/059e82e0-a61e-11f1-aed2-8d6da8d75094.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
       ]
     },
     {
@@ -70,6 +240,23 @@
       ]
     },
     {
+      "title": "Germany accuses Russia of drone attack on Leipzig airport",
+      "link": "https://www.aljazeera.com/news/2026/9/1/germany-accuses-russia-of-drone-attack-on-leipzig-airport?traffic_source=rss",
+      "summary": "The findings come as European countries report an increase in sabotage attacks and attempts that they blame on Russia.",
+      "published_at": "2026-09-01T16:24:36Z",
+      "region": "Europa",
+      "theme": "Geopolítica e Segurança",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/08/afp_6a7334e1b027-1785935073.jpg?resize=1200%2C630",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
       "title": "Juros, Galípolo e Trump: saiba como foi o jantar de Lula com empresários",
       "link": "https://www.poder360.com.br/poder-eleicoes-2026/juros-galipolo-e-trump-saiba-como-foi-o-jantar-de-lula-com-empresarios/",
       "summary": "Presidente negou ter sido traído pelo chefe do BC e ouviu defesa de ajuste fiscal para reduzir os juros",
@@ -121,20 +308,37 @@
       ]
     },
     {
-      "title": "Trump says US position on Falklands 'one of many' under review",
-      "link": "https://www.bbc.co.uk/news/articles/cm2q1qgg542o?at_medium=RSS&at_campaign=rss",
-      "summary": "The UK says Falkland islanders \"are British with a right to determine their own future\".",
-      "published_at": "2026-09-01T16:13:03Z",
-      "region": "América do Norte",
-      "theme": "Política Internacional",
+      "title": "UK Foreign Secretary condemns Israeli settlements in the occupied West Bank",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/1/uk-foreign-secretary-condemns-israeli-settlements-in-the-occupied-west-bank?traffic_source=rss",
+      "summary": "UK Foreign Secretary condemns Israeli settlements in the occupied West Bank",
+      "published_at": "2026-09-01T16:15:01Z",
+      "region": "Europa",
+      "theme": "Outros / Multitemático",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/09/UK-fs-Ed-miliband-horizontal-thumb-1788279133.jpg?resize=1920%2C1080&quality=80",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "River water smashed into tunnel and chased me for 20 minutes, Nepal worker tells BBC",
+      "link": "https://www.bbc.co.uk/news/articles/cg49590v6k1o?at_medium=RSS&at_campaign=rss",
+      "summary": "Major efforts to rescue hydropower workers continue as Nepal's death toll exceeds 1,000.",
+      "published_at": "2026-09-01T16:11:18Z",
+      "region": "Ásia",
+      "theme": "Outros / Multitemático",
       "source_name": "BBC World News",
       "source_id": "bbc_world",
       "is_brazilian": false,
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3261/live/b6217ad0-a5e4-11f1-a291-b542ee92de7c.jpg",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7e90/live/d5de0800-a618-11f1-aed2-8d6da8d75094.jpg",
       "fallback_images": [
-        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
       ]
     },
     {
@@ -249,7 +453,7 @@
       "source_name": "BBC World News",
       "source_id": "bbc_world",
       "is_brazilian": false,
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b7fe/live/8a46f870-a5fa-11f1-8348-fb0cb1cd9761.jpg",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9530/live/716ad1b0-a626-11f1-b384-1f35d0eeee9d.jpg",
       "fallback_images": [
         "https://images.unsplash.com/photo-1584515901367-f1c2a12a50ea?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1505751172876-fa1923c5c528?q=80&w=800&auto=format&fit=crop",
@@ -291,6 +495,23 @@
       ]
     },
     {
+      "title": "Germany says Russia behind attempted drone attack at Leipzig airport",
+      "link": "https://www.dw.com/en/germany-says-russia-behind-attempted-drone-attack-at-leipzig-airport/a-78584589?maca=en-rss-en-world-4025-rdf",
+      "summary": "Investigators believe an explosives-laden drone was deliberately targeting a Ukrainian cargo aircraft at Leipzig/Halle airport in early August. The German government said on Tuesday that it held Russia \"responsible.\"",
+      "published_at": "2026-09-01T15:40:00Z",
+      "region": "Europa",
+      "theme": "Geopolítica e Segurança",
+      "source_name": "DW World News",
+      "source_id": "dw_english",
+      "is_brazilian": false,
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a6b5/live/bf0d1e90-a618-11f1-9ca2-a3e18de91b7b.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
       "title": "Melhoria na regulação está na prática, não em novas leis, diz Dudena",
       "link": "https://www.poder360.com.br/poder-economia/melhoria-na-regulacao-esta-na-pratica-nao-em-novas-leis-diz-dudena/",
       "summary": "Secretário de Reformas Econômicas defende que eventuais mudanças na legislação são bem-vindas, mas o mais relevante é executar as normas",
@@ -308,6 +529,23 @@
       ]
     },
     {
+      "title": "What to know about the new UK PM's agenda as he faces lawmakers",
+      "link": "https://www.france24.com/en/what-to-know-about-the-new-uk-pm-s-agenda-as-he-faces-lawmakers",
+      "summary": "Since taking office on July 20, Burnham has traveled around the country promising to deliver renewed national optimism after the downbeat two-year tenure of his predecessor Keir Starmer. Now, it's time for him to face lawmakers for the first time since he has taken office after an unusually long time without having to do so due to the summer recess. FRANCE 24's Benedicte Paviot tells us what to know from his speech.",
+      "published_at": "2026-09-01T15:39:39Z",
+      "region": "Europa",
+      "theme": "Outros / Multitemático",
+      "source_name": "France 24",
+      "source_id": "france24",
+      "is_brazilian": false,
+      "image_url": "https://s.france24.com/media/display/0cc3533c-8438-11f1-98fd-005056a97e36/w:1024/p:16x9/2026-07-20T120731Z-1505653970-RC2NHMAGF2Z5-RTRMADP-3-BRITAIN-POLITICS.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
       "title": "Mansouri rocked by Israeli strikes as residents flee again",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/9/1/mansouri-rocked-by-israeli-strikes-as-residents-flee-again?traffic_source=rss",
       "summary": "A large explosion shook Mansouri in southern Lebanon on Tuesday amid renewed Israeli airstrikes",
@@ -318,6 +556,23 @@
       "source_id": "aljazeera_english",
       "is_brazilian": false,
       "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1788276957.jpg?resize=1920%2C1080&quality=80",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Germany set to blame Russia for airport explosive-laden drone incident",
+      "link": "https://www.france24.com/en/video/20260901-germany-set-to-blame-russia-for-airport-explosive-laden-drone-incident",
+      "summary": "Berlin is set to formally blame Russia for an incident involving drones at a strategic airport on the night of August 4-5, including one that was found carrying explosives. Foreign Minister Johann Wadephul and Interior Minister Alexander Dobrindt are expected to accuse a Russian intelligence service of being behind the incident. It would be the first time Germany formally blames Moscow for an incident like this one.",
+      "published_at": "2026-09-01T15:35:40Z",
+      "region": "Europa",
+      "theme": "Outros / Multitemático",
+      "source_name": "France 24",
+      "source_id": "france24",
+      "is_brazilian": false,
+      "image_url": "https://s.france24.com/media/display/79b2ea30-a61a-11f1-b028-005056a90284/w:1024/p:16x9/2026-08-08T101129Z-1947811119-RC2CSMA5SMYP-RTRMADP-3-GERMANY-SECURITY-DRONES.jpg",
       "fallback_images": [
         "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
@@ -407,6 +662,23 @@
         "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Replay: UK PM Andy Burnham faces lawmakers for first time since taking office",
+      "link": "https://www.france24.com/en/replay-uk-pm-andy-burnham-faces-lawmakers-for-first-time-since-taking-office",
+      "summary": "Rewatch UK Prime Minister Andy Burnham's first speech to parliament since taking office six weeks prior.",
+      "published_at": "2026-09-01T15:22:49Z",
+      "region": "Europa",
+      "theme": "Política Internacional",
+      "source_name": "France 24",
+      "source_id": "france24",
+      "is_brazilian": false,
+      "image_url": "https://s.france24.com/media/display/80a63c86-a618-11f1-b626-005056bf30b7/w:1024/p:16x9/capture-1891369266a96ecf6cd7717-90115964.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
       ]
     },
     {
@@ -1209,23 +1481,6 @@
       ]
     },
     {
-      "title": "Live: UK PM Andy Burnham faces MPs for first time since taking office",
-      "link": "https://www.france24.com/en/europe/20260901-live-uk-pm-andy-burnham-faces-mps-for-first-time-since-taking-office",
-      "summary": "The United Kingdom's new Prime Minister Andy Burnham will face lawmakers in the House of Commons on Tuesday for the first time since taking office six weeks ago. Burnham has promised to deliver renewed national optimism after the downbeat two-year tenure of predecessor Keir Starmer, who announced Tuesday that he would resign his seat in Parliament after 11 years.Watch his speech live on FRANCE 24 at 16:30pm (GMT+2).",
-      "published_at": "2026-09-01T13:21:58Z",
-      "region": "Europa",
-      "theme": "Política Internacional",
-      "source_name": "France 24",
-      "source_id": "france24",
-      "is_brazilian": false,
-      "image_url": "https://s.france24.com/media/display/a20bd6ae-8432-11f1-9d23-005056bf30b7/w:1024/p:16x9/AP26201431350183.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
       "title": "UN sounds climate alarm as China-Taiwan row threatens to overshadow forum",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/9/1/un-sounds-climate-alarm-as-china-taiwan-row-threatens-to-overshadow-forum?traffic_source=rss",
       "summary": "The UN has raised fresh alarm over the climate crisis at the Pacific Islands Forum in Palau, amid China-Taiwan tensions.",
@@ -1430,7 +1685,7 @@
       ]
     },
     {
-      "title": "PIB perde força no 2º tri: os 3 desafios para o próximo presidente na economia",
+      "title": "PIB do Brasil perde força no 2º tri: os 3 desafios para o próximo presidente na economia",
       "link": "https://www.bbc.com/portuguese/articles/c62m7637g9ro?at_medium=RSS&at_campaign=rss",
       "summary": "PIB cresce 0,5% no segundo trimestre, enquanto endividamento das famílias, situação das contas públicas e El Niño criam cenário desafiador para próximo governo em 2027.",
       "published_at": "2026-09-01T12:48:31Z",
@@ -2294,261 +2549,6 @@
         "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "US irks Germany, Europe with Russian G20 invite, press bans",
-      "link": "https://www.dw.com/en/us-irks-germany-europe-with-russian-g20-invite-press-bans/a-78583919?maca=en-rss-en-world-4025-rdf",
-      "summary": "Russia's finance minister is at the G20 meeting in Asheville but some key US press corps members are not. The mood was already tense amid the lengthy Iran war and Trump's renewed beef with neighbor Canada.",
-      "published_at": "2026-09-01T10:23:00Z",
-      "region": "Europa",
-      "theme": "Cultura, Mídia e Sociedade",
-      "source_name": "DW World News",
-      "source_id": "dw_english",
-      "is_brazilian": false,
-      "image_url": "https://static.dw.com/image/78580680_6.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1460661419201-fd4cecdf8a8b?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1508700115892-45ecd05ae2ad?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "‘This is systemic’: Parents demand accountability over child abuse in French childcare system",
-      "link": "https://www.france24.com/en/this-is-systemic-parents-demand-accountability-over-child-abuse-in-french-childcare-system",
-      "summary": "Eve Irvine is pleased to welcome Anne, the co-founder of SOS Périscolaire in French. She argues that the controversy surrounding France’s after-school childcare system should be understood as a systemic failure of institutional accountability on the local level. The fragmented structure becomes particularly consequential when warnings about violence are known but fail to produce adequate institutional change. The result, she argues, is a system in which children may speak clearly, repeatedly, or even physically through behavioural changes, yet still struggle to be heard by institutions designed to protect them.",
-      "published_at": "2026-09-01T10:18:39Z",
-      "region": "Europa",
-      "theme": "Outros / Multitemático",
-      "source_name": "France 24",
-      "source_id": "france24",
-      "is_brazilian": false,
-      "image_url": "https://s.france24.com/media/display/5d4c3566-a5e5-11f1-9d3e-005056bf30b7/w:1024/p:16x9/EN-20260901-080552-081627-CS.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Back-to-school season in France sees tighter rules on mobile phones",
-      "link": "https://www.france24.com/en/tv-shows/press-review/20260901-back-to-school-season-in-france-sees-tighter-rules-on-mobile-phones",
-      "summary": "PRESS REVIEW – Tuesday, September 1: It's back-to-school season in France, this time with tighter rules on mobile phones. In other news, local opposition to data centres across the US and Europe could be a spanner in the works of the AI revolution. Finally, in footballing news, Lionel Messi retires from the Argentinian national team, and some English men play football in a river.",
-      "published_at": "2026-09-01T10:12:00Z",
-      "region": "Europa",
-      "theme": "Ciência, Tecnologia e Inovação",
-      "source_name": "France 24",
-      "source_id": "france24",
-      "is_brazilian": false,
-      "image_url": "https://s.france24.com/media/display/d2d48086-a5db-11f1-b913-005056a97e36/w:1024/p:16x9/capture-15541642626a968729504718-26528484.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1518770660439-4636190af475?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1507668077129-56e32842fceb?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Tunisia's iconic Sidi Bou Said town added to UNESCO world heritage list",
-      "link": "https://www.france24.com/en/tunisia-s-iconic-sidi-bou-said-town-added-to-unesco-world-heritage-list",
-      "summary": "In Tunisia, UNESCO recognised the town of Sidi Bou Said as a world heritage site this July. The designation marks a new period in the cultural preservation of this historic tourist site. The special status may help as it battles erosion, like in the floods this last January, but it will also help boost its lesser known Sufi mystical traditions. FRANCE 24's Lilia Blaise and Hamdi Tlili were there to report on the Kharja ceremonies, which run in the town from mid-august til the end of September.",
-      "published_at": "2026-09-01T10:07:32Z",
-      "region": "Europa",
-      "theme": "Outros / Multitemático",
-      "source_name": "France 24",
-      "source_id": "france24",
-      "is_brazilian": false,
-      "image_url": "https://s.france24.com/media/display/8e0762b4-a5ec-11f1-b2ed-005056a90284/w:1024/p:16x9/capture-9848547386a96a33b66a998-82826885.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Rusia descarta indicios sobre su presunta implicación en la crisis de Ceuta: \"Las acusaciones hay que probarlas\"",
-      "link": "https://www.europapress.es/internacional/noticia-rusia-descarta-indicios-presunta-implicacion-crisis-ceuta-acusaciones-hay-probarlas-20260901120542.html",
-      "summary": "Las autoridades de Rusia han descartado este martes que existan indicios que apunten a una posible implicación de Moscú en la entrada masiva de migrantes a Ceuta a finales del pasado mes de julio y han hecho hincapié en que \"las acusaciones hay que probarlas\".",
-      "published_at": "2026-09-01T10:05:42Z",
-      "region": "Europa",
-      "theme": "Economia Internacional",
-      "source_name": "Europa Press",
-      "source_id": "europa_press",
-      "is_brazilian": false,
-      "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260901120542_120_v2.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Plenário do Senado: saiba quais ações estão na pauta desta 3ª",
-      "link": "https://www.poder360.com.br/poder-congresso/plenario-do-senado-saiba-quais-acoes-estao-na-pauta-desta-3a-2/",
-      "summary": "Taxa das blusinhas, regras para motoboys, datacenters e orçamento do Mercosul pautam votações no Senado",
-      "published_at": "2026-09-01T10:05:10Z",
-      "region": "América do Sul",
-      "theme": "Política Brasileira",
-      "source_name": "Poder360",
-      "source_id": "poder360",
-      "is_brazilian": true,
-      "image_url": "https://static.poder360.com.br/uploads/2026/07/capas-posts-agenda-Lula-eleicoes-ministros-STF-STJ-indicadores-site-Poder360-06-scaled.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "A Hezbollah hideout stuffed with cash? Nope, this video was AI-generated",
-      "link": "https://www.france24.com/en/middle-east/20260901-hezbollah-hideout-stuffed-cash-ai-generated",
-      "summary": "A number of pro-Israel social media accounts have shared a video they claim shows wads of cash and stacks of gold bars in a cache belonging to a deceased Hezbollah leader. There's only one issue: the footage was created using AI. The original video was shared by an Egyptian satirical site.",
-      "published_at": "2026-09-01T10:01:45Z",
-      "region": "Oriente Médio",
-      "theme": "Geopolítica e Segurança",
-      "source_name": "France 24",
-      "source_id": "france24",
-      "is_brazilian": false,
-      "image_url": "https://s.france24.com/media/display/c754a294-a5dc-11f1-885a-005056bf30b7/w:1024/p:16x9/Mode%CC%80le-1920-x-1080-14.png",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Shein valued at $26bn after long-awaited stock market debut",
-      "link": "https://www.bbc.co.uk/news/articles/c3v0qrz7z25o?at_medium=RSS&at_campaign=rss",
-      "summary": "The firm's Hong Kong listing on Tuesday comes after a years-long quest to sell shares in New York and London.",
-      "published_at": "2026-09-01T10:01:26Z",
-      "region": "América do Norte",
-      "theme": "Comércio e Finanças",
-      "source_name": "BBC World News",
-      "source_id": "bbc_world",
-      "is_brazilian": false,
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb85/live/c4b57840-a5ca-11f1-8543-aba44f51f79c.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1578575437130-527eed3abbec?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1522071820081-009f0129c71c?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Saiba o que os candidatos ao Planalto farão nesta 3ª feira",
-      "link": "https://www.poder360.com.br/poder-eleicoes-2026/saiba-o-que-os-candidatos-ao-planalto-farao-nesta-3a-feira-3/",
-      "summary": "Discussão sobre apostas esportivas, segurança e educação e compromissos em SP, SC, RS e MG movimentam o dia",
-      "published_at": "2026-09-01T10:00:34Z",
-      "region": "América do Sul",
-      "theme": "Política Brasileira",
-      "source_name": "Poder360",
-      "source_id": "poder360",
-      "is_brazilian": true,
-      "image_url": "https://static.poder360.com.br/uploads/2026/07/agenda-candidatos-pre-candidatos-eleicoes-2026.png",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Governo Lula: leia a agenda de ministros do governo nesta 3ª feira",
-      "link": "https://www.poder360.com.br/poder-governo/governo-lula-leia-a-agenda-de-ministros-do-governo-nesta-3a-feira-5/",
-      "summary": "Reuniões com setores industrial e financeiro e compromissos no exterior e no Brasil movimentam o dia",
-      "published_at": "2026-09-01T10:00:26Z",
-      "region": "América do Sul",
-      "theme": "Política Brasileira",
-      "source_name": "Poder360",
-      "source_id": "poder360",
-      "is_brazilian": true,
-      "image_url": "https://static.poder360.com.br/uploads/2026/07/capas-posts-agenda-Lula-eleicoes-ministros-STF-STJ-indicadores-site-Poder360-09-scaled.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Saiba quais pesquisas eleitorais podem sair nesta 3ª feira",
-      "link": "https://www.poder360.com.br/poder-eleicoes-2026/saiba-quais-pesquisas-eleitorais-podem-sair-nesta-3a-feira-6/",
-      "summary": "Tribunal Superior Eleitoral autoriza a divulgação de levantamentos sobre pleito nacional e em 10 Estados",
-      "published_at": "2026-09-01T10:00:24Z",
-      "region": "América do Sul",
-      "theme": "Outros / Multitemático",
-      "source_name": "Poder360",
-      "source_id": "poder360",
-      "is_brazilian": true,
-      "image_url": "https://static.poder360.com.br/uploads/2026/08/capa-pesquisas-eleitorais.png",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Agenda de Lula: leia os compromissos do presidente nesta 3ª",
-      "link": "https://www.poder360.com.br/poder-governo/agenda-de-lula-leia-os-compromissos-do-presidente-nesta-3a/",
-      "summary": "Despachos no Alvorada, reuniões com a Casa Civil e debate sobre bets movimentam o dia",
-      "published_at": "2026-09-01T10:00:23Z",
-      "region": "América do Sul",
-      "theme": "Política Brasileira",
-      "source_name": "Poder360",
-      "source_id": "poder360",
-      "is_brazilian": true,
-      "image_url": "https://static.poder360.com.br/uploads/2026/07/capas-posts-agenda-Lula-eleicoes-ministros-STF-STJ-indicadores-site-Poder360-01-scaled.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Mobile phone ban greets French teenagers going back to high school",
-      "link": "https://www.france24.com/en/mobile-phone-ban-greets-french-teenagers-going-back-to-high-school",
-      "summary": "Millions of teenagers are going back to school in France, with one major change: mobile phones are now banned in high school, in a bid by the government to improve pupils to focus on their study, as it is concerned that passing too much time on their phone is arresting their development. But for schools, a major issue is how the measure can effectively be implemented.",
-      "published_at": "2026-09-01T10:00:22Z",
-      "region": "Europa",
-      "theme": "Política Internacional",
-      "source_name": "France 24",
-      "source_id": "france24",
-      "is_brazilian": false,
-      "image_url": "https://s.france24.com/media/display/a2ba3124-a5eb-11f1-868d-005056a90284/w:1024/p:16x9/2026-08-14T145649Z-1482533621-RC2TPJAMFX3J-RTRMADP-3-FRANCE-SOCIALMEDIA.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Transfer deadline day live: Premier League, La Liga news and done deals",
-      "link": "https://www.aljazeera.com/sports/liveblog/2026/9/1/transfer-deadline-day-2026-live-updates-barcola-alvarez-gakpo?traffic_source=rss",
-      "summary": "Live updates and news from all signings as Premier League targets Alvarez, Balogun and Gakpo are expected to move.",
-      "published_at": "2026-09-01T09:59:55Z",
-      "region": "Oriente Médio",
-      "theme": "Outros / Multitemático",
-      "source_name": "Al Jazeera",
-      "source_id": "aljazeera_english",
-      "is_brazilian": false,
-      "image_url": "https://loremflickr.com/cache/resized/defaultImage.small_800_600_nofilter.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Fintechs aumentaram PIB em R$ 1,6 tri de 2016 a 2026, diz estudo",
-      "link": "https://www.poder360.com.br/poder-economia/fintechs-aumentaram-pib-em-r-16-tri-de-2016-a-2026-diz-estudo/",
-      "summary": "Pesquisa do Reglab, com apoio da Zetta, atribui avanço à maior concorrência no crédito e nos serviços",
-      "published_at": "2026-09-01T09:58:12Z",
-      "region": "América do Sul",
-      "theme": "Economia Brasileira",
-      "source_name": "Poder360",
-      "source_id": "poder360",
-      "is_brazilian": true,
-      "image_url": "https://static.poder360.com.br/uploads/2026/08/celular-pix-1200x675.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1506744038136-46273834b3fb?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?q=80&w=800&auto=format&fit=crop"
       ]
     }
   ]
