@@ -1,6 +1,380 @@
 {
-  "updated_at": "2026-09-01T12:05:50.638957Z",
+  "updated_at": "2026-09-01T13:04:53.223382Z",
   "news": [
+    {
+      "title": "Ao vivo: Flávio vai à Comissão de Segurança Pública do Senado",
+      "link": "https://www.poder360.com.br/poder-congresso/ao-vivo-flavio-vai-a-comissao-de-seguranca-publica-do-senado/",
+      "summary": "Durante a sessão, devem ser analisados projetos de lei relacionados à segurança pública, ao combate à violência e ao porte de armas",
+      "published_at": "2026-09-01T13:00:19Z",
+      "region": "América do Sul",
+      "theme": "Política Brasileira",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2026/08/Flavio-Bolsonaro-na-sabatina-na-Globo-26-ago-2026-1200x675.png",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Por que as reservas estratégicas de petróleo dos EUA estão no nível mais baixo desde 1983 e como isso influi no acordo com a Venezuela",
+      "link": "https://www.bbc.com/portuguese/articles/cp802e0rk5po?at_medium=RSS&at_campaign=rss",
+      "summary": "Estados Unidos mantêm milhões de barris de petróleo armazenados para enfrentar situações de crise, mas reservas caíram com guerra na Ucrânia e, recentemente, a guerra no Irã; com o acordo com a Venezuela, Donald Trump pretende reforçar a reserva.",
+      "published_at": "2026-09-01T12:59:27Z",
+      "region": "América do Norte",
+      "theme": "Geopolítica e Segurança",
+      "source_name": "BBC News Brasil",
+      "source_id": "bbc_brasil",
+      "is_brazilian": true,
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/25ce/live/bc36fbc0-a576-11f1-942f-072f487bf0ca.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Israel says senior Hamas member seized as strikes kill three during Gaza raid",
+      "link": "https://www.bbc.co.uk/news/articles/c1wxex4vg35o?at_medium=RSS&at_campaign=rss",
+      "summary": "Reports say the Israeli military carried out strikes after a raid by Israeli special forces and Israel-backed Palestinian militiamen was discovered.",
+      "published_at": "2026-09-01T12:58:44Z",
+      "region": "Oriente Médio",
+      "theme": "Geopolítica e Segurança",
+      "source_name": "BBC World News",
+      "source_id": "bbc_world",
+      "is_brazilian": false,
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f736/live/6f9ca000-a5e7-11f1-a019-f3ea5e194221.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Meirelles defende controle fiscal como “única saída” para economia",
+      "link": "https://www.poder360.com.br/poder-economia/meirelles-defende-controle-fiscal-como-unica-saida-para-economia/",
+      "summary": "Ex-ministro da Fazenda e ex-presidente do BC aponta ajuste como crucial para reduzir juros e impulsionar crescimento",
+      "published_at": "2026-09-01T12:58:09Z",
+      "region": "América do Sul",
+      "theme": "Política Brasileira",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2026/09/Henrique-Meirelles-1200x675.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "PIB perde força no 2º tri: os 3 desafios para o próximo presidente na economia",
+      "link": "https://www.bbc.com/portuguese/articles/c62m7637g9ro?at_medium=RSS&at_campaign=rss",
+      "summary": "PIB cresce 0,5% no segundo trimestre, enquanto endividamento das famílias, situação das contas públicas e El Niño criam cenário desafiador para próximo governo em 2027.",
+      "published_at": "2026-09-01T12:48:31Z",
+      "region": "América do Sul",
+      "theme": "Economia Brasileira",
+      "source_name": "BBC News Brasil",
+      "source_id": "bbc_brasil",
+      "is_brazilian": true,
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0190/live/9a151570-a591-11f1-99cc-29bfdc6830e7.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1506744038136-46273834b3fb?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "“Dark Horse”: novo pagamento eleva repasses de Vorcaro a R$ 65 mi",
+      "link": "https://www.poder360.com.br/poder-justica/dark-horse-novo-pagamento-eleva-repasses-de-vorcaro-a-r-65-mi/",
+      "summary": "Segundo a revista Piauí, relatório do Coaf mostra que transferência foi feita 8 dias depois de Flávio Bolsonaro cobrar parcelas atrasadas do fundador do Banco Master",
+      "published_at": "2026-09-01T12:48:02Z",
+      "region": "América do Sul",
+      "theme": "Política Brasileira",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2026/03/Daniel-Vorcaro-Esfera-Brasil-1080.png",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Mendonça pede informações sobre mensagem de Vorcaro a Moraes, diz site",
+      "link": "https://www.poder360.com.br/poder-justica/mendonca-pede-informacoes-sobre-mensagem-de-vorcaro-a-moraes-diz-site/",
+      "summary": "Fundador do Master pedia “proteção” a “Andrei” e “Paulo”; segundo a PF, eles seriam o diretor-geral da corporação e o procurador-geral",
+      "published_at": "2026-09-01T12:40:45Z",
+      "region": "América do Sul",
+      "theme": "Política Brasileira",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2026/08/imigrantes-protesto-ceuta-1.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Lula amarra apoio do Centrão no Congresso, mas isso garante votos na eleição?",
+      "link": "https://www.bbc.com/portuguese/articles/cly7ny7r5pno?at_medium=RSS&at_campaign=rss",
+      "summary": "Lideranças acenam a Lula, Kassab diz que bloco está com o petista, mas os partidos não fizeram alianças formais com ninguém. Para analistas, pragmatismo do Centrão pode dar lugar a ideologia com o avanço do orçamento destinado às emendas parlamentares.",
+      "published_at": "2026-09-01T12:40:08Z",
+      "region": "América do Sul",
+      "theme": "Política Brasileira",
+      "source_name": "BBC News Brasil",
+      "source_id": "bbc_brasil",
+      "is_brazilian": true,
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c245/live/b89d8180-a0b9-11f1-b8cc-1bd2cc322bf4.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Will Bangladesh join the Mecca defense pact?",
+      "link": "https://www.dw.com/en/will-bangladesh-join-the-mecca-defense-pact/a-78613944?maca=en-rss-en-world-4025-rdf",
+      "summary": "While Bangladesh is weighing the risks of joining the Mecca mutual defense alliance, experts warn that any move to join the pact could complicate relations with neighboring India.",
+      "published_at": "2026-09-01T12:40:00Z",
+      "region": "Ásia",
+      "theme": "Geopolítica e Segurança",
+      "source_name": "DW World News",
+      "source_id": "dw_english",
+      "is_brazilian": false,
+      "image_url": "https://static.dw.com/image/78578025_6.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Zambia's president sworn in for second term while opponent detained",
+      "link": "https://www.bbc.co.uk/news/articles/c62m7vp5895o?at_medium=RSS&at_campaign=rss",
+      "summary": "Hakainde Hichilema swept to victory, but his main rival is now in custody charged with treason.",
+      "published_at": "2026-09-01T12:37:36Z",
+      "region": "Global",
+      "theme": "Política Internacional",
+      "source_name": "BBC World News",
+      "source_id": "bbc_world",
+      "is_brazilian": false,
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0b6c/live/335c6910-a5f9-11f1-aed2-8d6da8d75094.png",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "What to know about the US primary election in Massachusetts",
+      "link": "https://www.aljazeera.com/news/2026/9/1/what-to-know-about-the-us-primary-election-in-massachusetts?traffic_source=rss",
+      "summary": "Competitive House races and a Senate showdown will put US Democrats’ progressive-moderate divide to the test.",
+      "published_at": "2026-09-01T12:36:28Z",
+      "region": "América do Norte",
+      "theme": "Política Internacional",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/08/AP26241523289937-1788196489.jpg?resize=1920%2C1440",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Troyjo diz que cenário global favorece Brasil, mas dívida é “perigosa”",
+      "link": "https://www.poder360.com.br/poder-economia/troyjo-diz-que-cenario-global-favorece-brasil-mas-divida-e-perigosa/",
+      "summary": "Economista afirma que cenário externo favorece país, mas dívida, juros e falta de reformas ameaçam avanço interno",
+      "published_at": "2026-09-01T12:33:26Z",
+      "region": "América do Sul",
+      "theme": "Economia Brasileira",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2024/12/MarcosTroyjo-PoderEntrevista-7-scaled.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1506744038136-46273834b3fb?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Ao vivo: comissão analisa relatório da MP que põe fim à taxa das blusinhas",
+      "link": "https://www.poder360.com.br/poder-congresso/ao-vivo-comissao-analisa-relatorio-da-mp-que-poe-fim-a-taxa-das-blusinhas/",
+      "summary": "O parecer ainda precisa ser alinhado com o presidente da Câmara, Hugo Motta, e do Senado, Davi Alcolumbre",
+      "published_at": "2026-09-01T12:30:39Z",
+      "region": "América do Sul",
+      "theme": "Política Brasileira",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2026/07/taxa-das-blusinhas-caiu.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Pakistan wins Indus waters battle at The Hague, but India threat remains",
+      "link": "https://www.aljazeera.com/news/2026/9/1/pakistan-wins-indus-waters-battle-at-the-hague-but-india-threat-remains?traffic_source=rss",
+      "summary": "The Permanent Court of Arbitration says the treaty remains binding. But India has rejected the findings.",
+      "published_at": "2026-09-01T12:25:28Z",
+      "region": "Ásia",
+      "theme": "Direito Internacional e Instituições",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/09/2025-05-06T064134Z_1109423457_RC24CEAYAORZ_RTRMADP_3_INDIA-PAKISTAN-WATER-1788257018.jpg?resize=1920%2C1440",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1505664194779-8beaceb93744?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Expert warns of 'hotter summers, more wildfires, more drought and more floods'",
+      "link": "https://www.france24.com/en/tv-shows/perspective/20260901-expert-warns-of-hotter-summers-more-wildfires-more-drought-and-more-floods",
+      "summary": "One of the world's leading climate scientists has spoken to FRANCE 24 about the extreme heat events of this summer, and in the wake of the catastrophic flooding in Nepal, how other similar events are all but inevitable. Diana Ürge-Vorsatz is professor of environmental studies at the Central European University and vice-chair of the UN's Intergovernmental Panel on Climate Change.",
+      "published_at": "2026-09-01T12:24:19Z",
+      "region": "Europa",
+      "theme": "Meio Ambiente e Clima",
+      "source_name": "France 24",
+      "source_id": "france24",
+      "is_brazilian": false,
+      "image_url": "https://s.france24.com/media/display/a5de1f20-a5e4-11f1-a80b-005056a90284/w:1024/p:16x9/capture-8721353306a9695f7713187-29639545.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Pakistan urged to declare femicide emergency amid surge in killings",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/1/09-01-pakistan-femicide-sv?traffic_source=rss",
+      "summary": "The brutal killing of Pakistani media professional Hina Javed has caused uproar over violence against women.",
+      "published_at": "2026-09-01T12:23:20Z",
+      "region": "Ásia",
+      "theme": "Outros / Multitemático",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1788265319.jpg?resize=1623%2C1080&quality=80",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Norway's new King Haakon VIII takes oath in parliament",
+      "link": "https://www.dw.com/en/norway-s-new-king-haakon-viii-takes-oath-in-parliament/a-78606923?maca=en-rss-en-world-4025-rdf",
+      "summary": "The new king swore to uphold the constitution in parliament in Oslo, the first major institutional step of his reign. Haakon VIII's wife Queen Mette-Marit had to skip the event in the aftermath of her lung transplant.",
+      "published_at": "2026-09-01T12:23:00Z",
+      "region": "Europa",
+      "theme": "Política Internacional",
+      "source_name": "DW World News",
+      "source_id": "dw_english",
+      "is_brazilian": false,
+      "image_url": "https://static.dw.com/image/78608530_6.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Joesley pediu a Trump redução de tarifa sobre carne, diz “WSJ”",
+      "link": "https://www.poder360.com.br/poder-economia/joesley-pediu-a-trump-reducao-de-tarifa-sobre-carne-diz-wsj/",
+      "summary": "Dono da JBS se reuniu com presidente dos EUA um dia antes do anúncio de plano para aumentar importações",
+      "published_at": "2026-09-01T12:20:32Z",
+      "region": "América do Norte",
+      "theme": "Política Internacional",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2026/09/joeslei-batista-1200x675.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "DRC: Ebola fears grow as children return to school",
+      "link": "https://www.aljazeera.com/news/2026/9/1/drc-ebola-fears-grow-as-children-return-to-school?traffic_source=rss",
+      "summary": "Parents fear school could fuel Ebola spread as authorities shift high-risk pupils to home learning.",
+      "published_at": "2026-09-01T12:12:30Z",
+      "region": "Oriente Médio",
+      "theme": "Outros / Multitemático",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/08/Pupils-in-Goma-1-1788194570.png?resize=1200%2C675",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Pesquisa Real Time Big Data confirma crescimento de Augusto Cury",
+      "link": "https://www.poder360.com.br/poder-eleicoes-2026/pesquisa-real-time-big-data-confirma-crescimento-de-augusto-cury/",
+      "summary": "Levantamento mostra o candidato à Presidência pelo Avante com 10% e 11% das intenções de voto em cenários de 1º turno",
+      "published_at": "2026-09-01T12:11:52Z",
+      "region": "América do Sul",
+      "theme": "Ciência, Tecnologia e Inovação",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2026/08/augusto-cury-em-convencao-do-avante.png",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1518770660439-4636190af475?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1507668077129-56e32842fceb?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "PIB do Brasil cresce 0,5% no 2º trimestre e 1,9% no semestre",
+      "link": "https://www.poder360.com.br/poder-economia/pib-do-brasil-cresce-05-no-2o-trimestre-e-19-no-semestre/",
+      "summary": "Economia perde ritmo depois de avançar 1,1% nos primeiros 3 meses do ano",
+      "published_at": "2026-09-01T12:09:29Z",
+      "region": "América do Sul",
+      "theme": "Economia Brasileira",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2026/06/navio-rj-petroleo-848x477-1.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1506744038136-46273834b3fb?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Capacidade instalada de energia solar supera o carvão na China",
+      "link": "https://www.poder360.com.br/poder-china/capacidade-instalada-de-energia-solar-supera-o-carvao-na-china/",
+      "summary": "Até o final de julho, a energia fotovoltaica instalada representava 31,5% da capacidade total de geração de energia do país",
+      "published_at": "2026-09-01T12:06:16Z",
+      "region": "Ásia",
+      "theme": "Meio Ambiente e Clima",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2026/09/paineis-solares-wenzhou-1200x675.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
     {
       "title": "Saiba quem são os 16 empresários que jantaram com Lula no Alvorada",
       "link": "https://www.poder360.com.br/poder-eleicoes/saiba-quem-sao-os-16-empresarios-que-jantaram-com-lula-no-alvorada/",
@@ -138,6 +512,40 @@
       ]
     },
     {
+      "title": "Haakon VIII presta juramento en el Parlamento noruego como nuevo monarca",
+      "link": "https://www.europapress.es/internacional/noticia-haakon-viii-presta-juramento-parlamento-noruego-nuevo-monarca-20260901135723.html",
+      "summary": "El rey Haakon VIII de Noruega ha prestado este martes juramento en el Parlamento nacional como nuevo monarca del país nórdico, después de que falleciera su padre, el rey Harald V, el pasado viernes tras lo cual pasó automáticamente a ocupar el trono noruego.",
+      "published_at": "2026-09-01T11:57:23Z",
+      "region": "Europa",
+      "theme": "Política Internacional",
+      "source_name": "Europa Press",
+      "source_id": "europa_press",
+      "is_brazilian": false,
+      "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260901135723_120.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Damascus goes car-free for 24 hours",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/1/damascus-goes-car-free-for-24-hours?traffic_source=rss",
+      "summary": "Damascus’ Old City went car-free for 24 hours, giving residents a rare chance to walk its streets without traffic.",
+      "published_at": "2026-09-01T11:53:53Z",
+      "region": "Oriente Médio",
+      "theme": "Outros / Multitemático",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/09/syriamama-1788263580.jpg?resize=1920%2C1080&quality=80",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
       "title": "Governo Lula é desaprovado por 51% e aprovado por 45%, diz pesquisa",
       "link": "https://www.poder360.com.br/poder-eleicoes-2026/governo-lula-e-desaprovado-por-51-e-aprovado-por-45-diz-pesquisa/",
       "summary": "Levantamento Real Time Big Data também mostra que 39% dos entrevistados consideram a gestão petista como \"ruim/péssima\"",
@@ -186,6 +594,23 @@
         "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Two killed after ammunition-laden vehicle explodes in Syria’s Idlib",
+      "link": "https://www.aljazeera.com/news/2026/9/1/two-killed-in-explosion-of-ammunition-laden-vehicle-in-syrias-idlib?traffic_source=rss",
+      "summary": "Several people injured in the incident that took place in the Idlib countryside, state media reports.",
+      "published_at": "2026-09-01T11:43:28Z",
+      "region": "Oriente Médio",
+      "theme": "Outros / Multitemático",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2022/06/WEB-1000x562-SYRIA-IDLIB-DAMASCUS.jpg?resize=1200%2C675",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
       ]
     },
     {
@@ -390,23 +815,6 @@
         "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Zambia's president sworn in for second term while opponent detained",
-      "link": "https://www.bbc.co.uk/news/articles/c62m7vp5895o?at_medium=RSS&at_campaign=rss",
-      "summary": "Hakainde Hichilema swept to victory, but his main rival is now in custody charged with treason.",
-      "published_at": "2026-09-01T10:51:23Z",
-      "region": "Global",
-      "theme": "Política Internacional",
-      "source_name": "BBC World News",
-      "source_id": "bbc_world",
-      "is_brazilian": false,
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0b6c/live/335c6910-a5f9-11f1-aed2-8d6da8d75094.png",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
       ]
     },
     {
@@ -815,6 +1223,23 @@
         "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Can new Apple CEO John Ternus fix the tech giant's AI woes?",
+      "link": "https://www.dw.com/en/can-new-apple-ceo-john-ternus-fix-the-tech-giant-s-ai-woes/a-78575898?maca=en-rss-en-world-4025-rdf",
+      "summary": "John Ternus is just the third Apple CEO in 30 years. His primary challenge is to correct the company's faltering AI strategy to preserve its position as a big tech leader.",
+      "published_at": "2026-09-01T09:49:00Z",
+      "region": "Europa",
+      "theme": "Ciência, Tecnologia e Inovação",
+      "source_name": "DW World News",
+      "source_id": "dw_english",
+      "is_brazilian": false,
+      "image_url": "https://static.dw.com/image/76873332_6.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1518770660439-4636190af475?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1507668077129-56e32842fceb?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?q=80&w=800&auto=format&fit=crop"
       ]
     },
     {
@@ -1549,23 +1974,6 @@
       ]
     },
     {
-      "title": "Lula amarra apoio do Centrão no Congresso, mas isso garante votos na eleição?",
-      "link": "https://www.bbc.com/portuguese/articles/cly7ny7r5pno?at_medium=RSS&at_campaign=rss",
-      "summary": "Lideranças acenam a Lula, Kassab diz que bloco está com o petista, mas os partidos não fizeram alianças formais com ninguém. Para analistas, pragmatismo do Centrão pode dar lugar a ideologia com o avanço do orçamento destinado às emendas parlamentares.",
-      "published_at": "2026-09-01T07:27:12Z",
-      "region": "América do Sul",
-      "theme": "Política Brasileira",
-      "source_name": "BBC News Brasil",
-      "source_id": "bbc_brasil",
-      "is_brazilian": true,
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c245/live/b89d8180-a0b9-11f1-b8cc-1bd2cc322bf4.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
       "title": "Duolingo D-Day: Iranians question latest US sanctions targeting education",
       "link": "https://www.aljazeera.com/news/2026/9/1/duolingo-d-day-iranians-question-latest-us-sanctions-targeting-education?traffic_source=rss",
       "summary": "Many Iranians inside the country feel they are being unjustly erased from the international community.",
@@ -1602,7 +2010,7 @@
     {
       "title": "Hindu pilgrims, on arduous trek, among Nepal's missing",
       "link": "https://www.npr.org/2026/09/01/g-s1-141349/hindu-pilgrims-on-arduous-trek-among-nepals-missing",
-      "summary": "Among the hundreds still missing on Nepal's border with China are Hindus from India and beyond, participating in a journey of devotion to a sacred mountain",
+      "summary": "Among the hundreds still missing on Nepal's border with China are Hindus from India and beyond, participating in a journey of devotion to a sacred mountain.",
       "published_at": "2026-09-01T07:08:12Z",
       "region": "Ásia",
       "theme": "Outros / Multitemático",
@@ -2141,414 +2549,6 @@
         "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "John Ternus to lead Apple into the age of AI",
-      "link": "https://www.aljazeera.com/economy/2026/9/1/john-ternus-to-lead-apple-into-the-age-of-ai?traffic_source=rss",
-      "summary": "Incoming CEO inherits company that leads the smartphone market but trails rivals in AI.",
-      "published_at": "2026-09-01T03:20:25Z",
-      "region": "Oriente Médio",
-      "theme": "Comércio e Finanças",
-      "source_name": "Al Jazeera",
-      "source_id": "aljazeera_english",
-      "is_brazilian": false,
-      "image_url": "https://loremflickr.com/cache/resized/defaultImage.small_800_600_nofilter.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1578575437130-527eed3abbec?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1522071820081-009f0129c71c?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Ascienden a doce los muertos por los últimos ataques de Rusia contra Ucrania, incluidos cuatro en Kiev",
-      "link": "https://www.europapress.es/internacional/noticia-mueren-tres-personas-otras-cinco-resultan-heridas-ataques-aereos-rusos-contra-kiev-20260901051922.html",
-      "summary": "El balance de muertos a causa de la última oleada de ataques por parte del Ejército de Rusia contra Ucrania ha ascendido a doce, incluidos cuatro en la capital, Kiev, según ha denunciado este martes el presidente ucraniano, Volodimir Zelenski.",
-      "published_at": "2026-09-01T03:19:22Z",
-      "region": "Europa",
-      "theme": "Geopolítica e Segurança",
-      "source_name": "Europa Press",
-      "source_id": "europa_press",
-      "is_brazilian": false,
-      "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260901051922_120.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Mueren tres personas y otras cinco resultan heridas en ataques aéreos rusos contra Kiev",
-      "link": "https://www.europapress.es/internacional/noticia-mueren-tres-personas-otras-cinco-resultan-heridas-ataques-aereos-rusos-contra-kiev-20260901051922.html",
-      "summary": "Al menos tres personas han fallecido y otras cinco han resultado heridas en ataques perpetrados por el Ejército ruso contra Kiev, capital de Ucrania, en la madrugada de este martes, con drones y misiles balísticos.",
-      "published_at": "2026-09-01T03:19:22Z",
-      "region": "Europa",
-      "theme": "Geopolítica e Segurança",
-      "source_name": "Europa Press",
-      "source_id": "europa_press",
-      "is_brazilian": false,
-      "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260901051922_120.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Muere el ex primer ministro francés Édouard Balladur (1993-1995) a los 97 años",
-      "link": "https://www.europapress.es/internacional/noticia-muere-ex-primer-ministro-frances-edouard-balladur-1993-1995-97-anos-20260901050534.html",
-      "summary": "El ex primer ministro francés Édouard Balladur (1993-1995) ha fallecido este lunes a los 97 años, veinte años después de su retiro de la política, a la que dedicó más de la mitad de su vida llegando también a ejercer como ministro de Estado y de Economía entre 1986 y 1988.",
-      "published_at": "2026-09-01T03:05:34Z",
-      "region": "Europa",
-      "theme": "Política Internacional",
-      "source_name": "Europa Press",
-      "source_id": "europa_press",
-      "is_brazilian": false,
-      "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260901050534_120.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "“Tarcísio perdeu o comando da segurança pública”, diz Haddad",
-      "link": "https://www.poder360.com.br/poder-eleicoes-2026/tarcisio-perdeu-o-comando-da-seguranca-publica-diz-haddad/",
-      "summary": "Candidato do PT diz que crime organizado atua além de São Paulo e defende maior participação da União no combate às facções",
-      "published_at": "2026-09-01T03:04:20Z",
-      "region": "América do Sul",
-      "theme": "Economia Brasileira",
-      "source_name": "Poder360",
-      "source_id": "poder360",
-      "is_brazilian": true,
-      "image_url": "https://static.poder360.com.br/uploads/2026/08/haddad-roda-viva-31.ago_.2026-1200x675.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1506744038136-46273834b3fb?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Vance sostiene que EEUU está en fase de \"garantizar la libre circulación del comercio\" en Ormuz tras los últimos ataques",
-      "link": "https://www.europapress.es/internacional/noticia-vance-sostiene-eeuu-fase-garantizar-libre-circulacion-comercio-ormuz-ultimos-ataques-20260901044347.html",
-      "summary": "El vicepresidente de Estados Unidos, JD Vance, ha señalado este martes que Washington ahora está en una fase de, principalmente, \"garantizar la libre circulación del comercio\" en el estrecho de Ormuz, después de la última andanada de ataques perpetrada por su Ejército, en la víspera, contra la isla iraní de Larek.",
-      "published_at": "2026-09-01T02:43:47Z",
-      "region": "América do Norte",
-      "theme": "Geopolítica e Segurança",
-      "source_name": "Europa Press",
-      "source_id": "europa_press",
-      "is_brazilian": false,
-      "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260901044347_120.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "STJD suspende diretores do Vasco por confusão em jogo contra o Vitória",
-      "link": "https://www.poder360.com.br/poder-sportsmkt/stjd-suspende-diretores-do-vasco-por-confusao-em-jogo-contra-o-vitoria/",
-      "summary": "Clube também foi condenado a pagar multa de R$ 20 mil por comportamento da torcida",
-      "published_at": "2026-09-01T02:35:17Z",
-      "region": "América do Sul",
-      "theme": "Outros / Multitemático",
-      "source_name": "Poder360",
-      "source_id": "poder360",
-      "is_brazilian": true,
-      "image_url": "https://static.poder360.com.br/uploads/2026/08/gol-do-vasco-1200x550.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Quem é Duane Davis, declarado culpado pelo assassinato do rapper Tupac Shakur há 30 anos (e o papel de um livro na condenação)",
-      "link": "https://www.bbc.com/portuguese/articles/c4g79xy0y8xo?at_medium=RSS&at_campaign=rss",
-      "summary": "Três décadas após o crime mais importante da história do hip-hop, caso Tupac Shakur tem sua primeira condenação.",
-      "published_at": "2026-09-01T02:33:41Z",
-      "region": "América do Sul",
-      "theme": "Outros / Multitemático",
-      "source_name": "BBC News Brasil",
-      "source_id": "bbc_brasil",
-      "is_brazilian": true,
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/248e/live/4a12b8a0-9a53-11f1-91df-51cf0e9cd98b.png",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "What it was like inside court for Tupac Shakur’s murder trial verdict",
-      "link": "https://www.bbc.co.uk/news/videos/cz6zp2pwzx5o?at_medium=RSS&at_campaign=rss",
-      "summary": "BBC presenter Anoushka Mutanda-Dougherty describes what it was like when Duane \"Keffe D\" Davis was found guilty of murdering the famous rapper.",
-      "published_at": "2026-09-01T02:30:45Z",
-      "region": "Global",
-      "theme": "Outros / Multitemático",
-      "source_name": "BBC World News",
-      "source_id": "bbc_world",
-      "is_brazilian": false,
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0869/live/c74d0eb0-a5ac-11f1-b109-879e35c24276.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Russian missile and drone attack on Kyiv kills at least eight",
-      "link": "https://www.france24.com/en/europe/20260901-russian-missile-and-drone-attack-on-kyiv-kills-at-least-four",
-      "summary": "A massive Russian missile and drone attack on Kyiv and its surrounding region killed at least eight people and wounded more than a dozen overnight, Ukrainian officials said Tuesday, as children prepared to return to school amid heightened fears of further strikes.",
-      "published_at": "2026-09-01T02:26:54Z",
-      "region": "Europa",
-      "theme": "Geopolítica e Segurança",
-      "source_name": "France 24",
-      "source_id": "france24",
-      "is_brazilian": false,
-      "image_url": "https://s.france24.com/media/display/b3254e58-a5ab-11f1-a88b-005056bfb2b6/w:1024/p:16x9/AP26242478432296.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "US brings back Russia’s Siluanov to G20 finance talks, angering Europe",
-      "link": "https://www.aljazeera.com/news/2026/9/1/us-brings-back-russias-siluanov-to-g20-finance-talks-angering-europe?traffic_source=rss",
-      "summary": "Anton Siluanov holds talks with US counterpart as European officials object to Russia's return to G20 talks.",
-      "published_at": "2026-09-01T02:23:03Z",
-      "region": "Europa",
-      "theme": "Comércio e Finanças",
-      "source_name": "Al Jazeera",
-      "source_id": "aljazeera_english",
-      "is_brazilian": false,
-      "image_url": "https://loremflickr.com/cache/resized/3492_3294530192_0dfa79e513_b_800_600_nofilter.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1578575437130-527eed3abbec?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1522071820081-009f0129c71c?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Nepal rescuers blast hillside in search of hydropower workers as families wait anxiously",
-      "link": "https://www.bbc.co.uk/news/articles/c5ylvgq9q71o?at_medium=RSS&at_campaign=rss",
-      "summary": "Rescuers have resorted to explosives as they struggle to reach trapped workers, as the flooding death toll reaches 939.",
-      "published_at": "2026-09-01T02:18:26Z",
-      "region": "Ásia",
-      "theme": "Outros / Multitemático",
-      "source_name": "BBC World News",
-      "source_id": "bbc_world",
-      "is_brazilian": false,
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6dce/live/98bb2c90-a556-11f1-b109-879e35c24276.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Alcolumbre indica Pacheco para ocupar vaga de Bruno Dantas no TCU",
-      "link": "https://www.poder360.com.br/poder-congresso/alcolumbre-indica-pacheco-para-ocupar-vaga-de-bruno-dantas-no-tcu/",
-      "summary": "Senador precisa de no mínimo de 41 votos favoráveis para ser aprovado; votação em plenário será realizada até 4ª feira",
-      "published_at": "2026-09-01T02:08:28Z",
-      "region": "América do Sul",
-      "theme": "Política Brasileira",
-      "source_name": "Poder360",
-      "source_id": "poder360",
-      "is_brazilian": true,
-      "image_url": "https://static.poder360.com.br/uploads/2026/08/Design-sem-nome-58-1200x675.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Empresários do etanol doam R$ 200 mil para a campanha de Salles",
-      "link": "https://www.poder360.com.br/poder-eleicoes-2026/empresarios-do-etanol-doam-r-200-mil-para-a-campanha-de-salles/",
-      "summary": "Dono da União Química também fez aporte de R$ 100 mil ao candidato ao Senado por São Paulo",
-      "published_at": "2026-09-01T02:07:34Z",
-      "region": "América do Sul",
-      "theme": "Política Brasileira",
-      "source_name": "Poder360",
-      "source_id": "poder360",
-      "is_brazilian": true,
-      "image_url": "https://static.poder360.com.br/uploads/2023/05/RicardoSalles-24mai20233-scaled.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Justiça no EUA questiona empresa que recebeu R$ 2,8 bi do Master",
-      "link": "https://www.poder360.com.br/poder-justica/justica-no-eua-questiona-empresa-que-recebeu-r-28-bi-do-master/",
-      "summary": "Empresa de cripto OWS tem histórico de apurações no Brasil perante a PF, o Congresso e a Justiça",
-      "published_at": "2026-09-01T02:07:10Z",
-      "region": "América do Norte",
-      "theme": "Política Brasileira",
-      "source_name": "Poder360",
-      "source_id": "poder360",
-      "is_brazilian": true,
-      "image_url": "https://static.poder360.com.br/uploads/2025/11/bancomaster-scaled-e1768667826136.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Toxic haze from Indonesian forest fires chokes Malaysian Borneo",
-      "link": "https://www.aljazeera.com/news/2026/9/1/toxic-haze-from-indonesian-fires-chokes-malaysian-borneo?traffic_source=rss",
-      "summary": "Respiratory illnesses surge as smoke settles over Malaysia's Sarawak in the region's worst haze crisis in a decade.",
-      "published_at": "2026-09-01T02:06:01Z",
-      "region": "Ásia",
-      "theme": "Meio Ambiente e Clima",
-      "source_name": "Al Jazeera",
-      "source_id": "aljazeera_english",
-      "is_brazilian": false,
-      "image_url": "https://loremflickr.com/cache/resized/2069_5822753924_30c11428f9_h_800_600_nofilter.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Toxic haze from Indonesian fires chokes Malaysia’s Sarawak",
-      "link": "https://www.aljazeera.com/news/2026/9/1/toxic-haze-from-indonesian-fires-chokes-malaysian-borneo?traffic_source=rss",
-      "summary": "Respiratory illnesses surge as smoke settles over Malaysia's Sarawak in the region's worst haze crisis in a decade.",
-      "published_at": "2026-09-01T02:06:01Z",
-      "region": "Ásia",
-      "theme": "Economia Internacional",
-      "source_name": "Al Jazeera",
-      "source_id": "aljazeera_english",
-      "is_brazilian": false,
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-08-12T034754Z_984175113_RC2QWMAEHLGN_RTRMADP_3_ASIA-WEATHER-MALAYSIA-1788225681.jpg?resize=1920%2C1440",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Ação contra “SBT” e Portiolli por maus-tratos a rã pode ter perícia",
-      "link": "https://www.poder360.com.br/poder-justica/acao-contra-sbt-e-celso-portiolli-por-maus-tratos-a-ra-pode-ter-pericia/",
-      "summary": "Animal vivo foi utilizado em quadro do programa “Domingo Legal\", apresentado por Celso Portiolli",
-      "published_at": "2026-09-01T01:57:19Z",
-      "region": "América do Sul",
-      "theme": "Outros / Multitemático",
-      "source_name": "Poder360",
-      "source_id": "poder360",
-      "is_brazilian": true,
-      "image_url": "https://static.poder360.com.br/uploads/2026/08/celso-portiolli-2026-1200x675.jpeg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "La agencia libanesa NNA informa de un ataque israelí con \"proyectiles de fósforo prohibidos\" en el sur del país",
-      "link": "https://www.europapress.es/internacional/noticia-agencia-libanesa-nna-informa-ataque-israeli-proyectiles-fosforo-prohibidos-sur-pais-20260901035523.html",
-      "summary": "La agencia libanesa de noticias NNA ha denunciado este lunes ataques israelíes en el sur de Líbano que, en un caso, habrían incluido el uso de \"proyectiles de fósforo prohibidos internacionalmente\", una acusación que se ha repetido en varias ocasiones durante el último mes y que también recuerda la denuncia en marzo de la ONG Human Rights Watch (HRW) del uso por parte del Ejército de Israel de fósforo blanco en áreas residenciales en el sur de Líbano, en violación del Derecho Internacional.",
-      "published_at": "2026-09-01T01:55:23Z",
-      "region": "Oriente Médio",
-      "theme": "Geopolítica e Segurança",
-      "source_name": "Europa Press",
-      "source_id": "europa_press",
-      "is_brazilian": false,
-      "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260901035523_120.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Casas Bahia faz leilão de 330 lotes de eletrodomésticos até 6ª feira",
-      "link": "https://www.poder360.com.br/poder-brasil/casas-bahia-faz-leilao-de-330-lotes-de-eletrodomesticos-ate-6a-feira/",
-      "summary": "Itens são vendidos sem garantia de funcionamento e podem ter danos ou peças faltantes",
-      "published_at": "2026-09-01T01:35:00Z",
-      "region": "América do Sul",
-      "theme": "Outros / Multitemático",
-      "source_name": "Poder360",
-      "source_id": "poder360",
-      "is_brazilian": true,
-      "image_url": "https://static.poder360.com.br/uploads/2026/08/casas-bahia-1-1200x675.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "MP Eleitoral pede retirada de imagem de Bolsonaro em campanha de Bove",
-      "link": "https://www.poder360.com.br/poder-eleicoes-2026/mp-eleitoral-pede-retirada-de-imagem-de-bolsonaro-em-campanha-de-bove/",
-      "summary": "Procuradoria diz que material de candidato estadual do PL-SP viola decisão do STF sobre manifestações eleitorais de Jair Bolsonaro",
-      "published_at": "2026-09-01T01:29:00Z",
-      "region": "América do Sul",
-      "theme": "Política Brasileira",
-      "source_name": "Poder360",
-      "source_id": "poder360",
-      "is_brazilian": true,
-      "image_url": "https://static.poder360.com.br/uploads/2026/08/banner-bove-bolsonaro-1200x675.png",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "New York police kill knife-wielding woman in Times Square",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/1/09-01-26-times-square-stabbing-minisv?traffic_source=rss",
-      "summary": "A woman has been shot dead by police in New York’s Times Square. Police say she was armed with knives.",
-      "published_at": "2026-09-01T01:19:34Z",
-      "region": "América do Norte",
-      "theme": "Outros / Multitemático",
-      "source_name": "Al Jazeera",
-      "source_id": "aljazeera_english",
-      "is_brazilian": false,
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1788225470.jpg?resize=1920%2C1080&quality=80",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "African NGOs demand probe into six bodies found in Guinea mass grave",
-      "link": "https://www.aljazeera.com/news/2026/9/1/african-ngos-demand-probe-into-six-bodies-found-in-guinea-mass-grave?traffic_source=rss",
-      "summary": "The bodies were found bound and blindfolded in the Forecariah administrative prefecture on August 24.",
-      "published_at": "2026-09-01T01:17:59Z",
-      "region": "África",
-      "theme": "Outros / Multitemático",
-      "source_name": "Al Jazeera",
-      "source_id": "aljazeera_english",
-      "is_brazilian": false,
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/08/1000x562-GUINEA-FORECARIAH-1788221094.jpg?resize=1200%2C675",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Irán denuncia que la UE está \"cediendo a la coerción estadounidense\" tras el apoyo a la ofensiva económica de EEUU",
-      "link": "https://www.europapress.es/internacional/noticia-iran-denuncia-ue-cediendo-coercion-estadounidense-apoyo-ofensiva-economica-eeuu-20260901031615.html",
-      "summary": "Denuncia que ese respaldo es incompatible con \"buscar la desescalada y la estabilidad\" y advierte que \"cada Estado miembro será responsable de las consecuencias\"",
-      "published_at": "2026-09-01T01:16:15Z",
-      "region": "Europa",
-      "theme": "Outros / Multitemático",
-      "source_name": "Europa Press",
-      "source_id": "europa_press",
-      "is_brazilian": false,
-      "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260901031615_120.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
       ]
     }
   ]
