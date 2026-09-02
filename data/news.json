@@ -1,9 +1,366 @@
 {
-  "updated_at": "2026-09-02T15:09:58.528978Z",
+  "updated_at": "2026-09-02T16:04:54.168736Z",
   "news": [
     {
+      "title": "Nepal intensifies relief and recovery efforts after deadly floods, UN says",
+      "link": "https://www.bbc.co.uk/news/articles/c8xk45k9r1go?at_medium=RSS&at_campaign=rss",
+      "summary": "More than 1,200 people have died and thousands are missing, as rescue efforts continue and aid is airlifted to villages.",
+      "published_at": "2026-09-02T15:57:13Z",
+      "region": "Ásia",
+      "theme": "Direito Internacional e Instituições",
+      "source_name": "BBC World News",
+      "source_id": "bbc_world",
+      "is_brazilian": false,
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bf1d/live/babee4c0-a6b5-11f1-bf9b-4185c128a665.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1505664194779-8beaceb93744?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Dólar cai 0,92% e Bolsa dispara 3,20%",
+      "link": "https://www.poder360.com.br/poder-economia/dolar-cai-092-e-bolsa-dispara-320/",
+      "summary": "Moeda norte-americana cotada em R$ 5,10 às 12h27; Ibovespa, principal índice da B3, registrava 185.637 pontos no mesmo horário",
+      "published_at": "2026-09-02T15:55:25Z",
+      "region": "América do Norte",
+      "theme": "Comércio e Finanças",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2025/06/dolares.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1578575437130-527eed3abbec?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1522071820081-009f0129c71c?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Lula sanciona lei para ampliar atendimento a infartos no SUS",
+      "link": "https://www.poder360.com.br/poder-governo/lula-sanciona-lei-para-ampliar-atendimento-a-infartos-no-sus/",
+      "summary": "Medida estabelece urgências cardiovasculares e uso de trombolíticos em UPAs; presidente diz que saúde não é gasto, mas investimento",
+      "published_at": "2026-09-02T15:54:58Z",
+      "region": "América do Sul",
+      "theme": "Política Brasileira",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2026/09/Lula-urgencias-cardiovasculares-02-set-2026-3-1200x675.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Irán incauta un buque con 382.000 litros de combustible de contrabando en aguas cercanas al golfo Pérsico",
+      "link": "https://www.europapress.es/internacional/noticia-iran-incauta-buque-382000-litros-combustible-contrabando-aguas-cercanas-golfo-persico-20260902175057.html",
+      "summary": "El responsable de la Guardia Fronteriza de la provincia iraní de Juzestán, Sardar Hojat Sefid Posut, ha anunciado este miércoles la incautación de un buque petrolero que transportaba 382.000 litros de combustible de contrabando en aguas cercanas al golfo Pérsico.",
+      "published_at": "2026-09-02T15:50:57Z",
+      "region": "Europa",
+      "theme": "Direito Internacional e Instituições",
+      "source_name": "Europa Press",
+      "source_id": "europa_press",
+      "is_brazilian": false,
+      "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260902175057_120.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1505664194779-8beaceb93744?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Visita ao Poder360: integrantes do Movimento Exija a Bula",
+      "link": "https://www.poder360.com.br/poder-visitas/visita-ao-poder360-integrantes-do-movimento-exija-a-bula/",
+      "summary": "Alberto Danon e Alexandre Morais conversaram sobre a importância da bula impressa de medicamentos",
+      "published_at": "2026-09-02T15:46:35Z",
+      "region": "América do Sul",
+      "theme": "Outros / Multitemático",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2026/09/integrantes-movimento-exija-bula-1200x675.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "“Ganhei as eleições, mas o povo brasileiro perdeu muito”, diz Lula",
+      "link": "https://www.poder360.com.br/poder-governo/ganhei-as-eleicoes-mas-o-povo-brasileiro-perdeu-muito-diz-lula/",
+      "summary": "Presidente relembrou da disputa de 2006 e afirmou que corte de recursos com o fim da CPMF prejudicou financiamento da saúde no país",
+      "published_at": "2026-09-02T15:41:52Z",
+      "region": "América do Sul",
+      "theme": "Política Brasileira",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2026/09/lula-reuniao-bets-1-set-2026-8-1200x675.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Lula posta fotos em homenagem aos 116 anos do Corinthians",
+      "link": "https://www.poder360.com.br/poder-governo/lula-posta-fotos-em-homenagem-aos-116-anos-do-corinthians/",
+      "summary": "Alexandre Padilha, da Saúde, jogadores e ex-atletas também publicaram mensagens nas redes sociais sobre a data",
+      "published_at": "2026-09-02T15:39:52Z",
+      "region": "América do Sul",
+      "theme": "Política Brasileira",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2026/09/Lula-Corinthians-1-1200x675.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "🔴 Live: Trump suggests renaming Hormuz 'Trump Strait'",
+      "link": "https://www.france24.com/en/middle-east/20260902-us-military-striking-targets-in-iran-after-attempted-attacks-on-shipping",
+      "summary": "",
+      "published_at": "2026-09-02T15:37:58Z",
+      "region": "América do Norte",
+      "theme": "Política Internacional",
+      "source_name": "France 24",
+      "source_id": "france24",
+      "is_brazilian": false,
+      "image_url": "https://loremflickr.com/cache/resized/65535_49568220812_f99619d84c_h_800_600_nofilter.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Egypt welcomes Xi as Beijing expands influence in region",
+      "link": "https://www.france24.com/en/video/20260902-egypt-welcomes-xi-as-beijing-expands-influence-in-region",
+      "summary": "Egyptian ​President Abdel Fattah al-Sisi welcomed China's Xi Jinping to Cairo on Wednesday, opening a visit that highlights Cairo's deepening ties with Beijing as regional turmoil prompts U.S. allies to reassess longstanding security relationships.",
+      "published_at": "2026-09-02T15:33:43Z",
+      "region": "Ásia",
+      "theme": "Política Internacional",
+      "source_name": "France 24",
+      "source_id": "france24",
+      "is_brazilian": false,
+      "image_url": "https://s.france24.com/media/display/f5345086-a6e2-11f1-b02a-005056a97e36/w:1024/p:16x9/EN-20260902-163722-163918-CS.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Iran says US strike killed four at wedding in 'war crime' as US denies targeting civilians",
+      "link": "https://www.bbc.co.uk/news/articles/cj06q4ynpmjo?at_medium=RSS&at_campaign=rss",
+      "summary": "Iranian media reports two children were among those killed when shrapnel hit a home. Iran then launched missiles and drones at US targets in the Middle East.",
+      "published_at": "2026-09-02T15:33:19Z",
+      "region": "América do Norte",
+      "theme": "Geopolítica e Segurança",
+      "source_name": "BBC World News",
+      "source_id": "bbc_world",
+      "is_brazilian": false,
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3f37/live/8eb97870-a6e4-11f1-9e4c-79c1c0e340c6.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Simone Tebet defende investigação de Moraes e Flávio Bolsonaro",
+      "link": "https://www.poder360.com.br/poder-eleicoes-2026/simone-tebet-defende-investigacao-de-moraes-e-flavio-bolsonaro/",
+      "summary": "Candidata ao Senado pede abertura de inquérito contra ministro do STF e cobra tratamento igual ao senador no caso Banco Master",
+      "published_at": "2026-09-02T15:28:23Z",
+      "region": "América do Sul",
+      "theme": "Política Brasileira",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2026/06/simone-tebet-1.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Comissão aprova MP que acaba com taxa das blusinhas",
+      "link": "https://www.poder360.com.br/poder-congresso/comissao-aprova-mp-que-acaba-com-taxa-das-blusinhas/",
+      "summary": "Texto segue para os plenários da Câmara e do Senado e precisa ser aprovada até 8 de setembro para não perder a validade",
+      "published_at": "2026-09-02T15:27:04Z",
+      "region": "América do Sul",
+      "theme": "Política Brasileira",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2026/09/Design-sem-nome-62-1200x675.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Philippine couple married in hip-deep floodwaters",
+      "link": "https://www.france24.com/en/video/20260902-philippine-couple-married-in-hip-deep-floodwaters",
+      "summary": "A Philippine couple tied the knot on Tuesday at a Catholic church swamped in hip-deep waters, as heavy rains had pummelled large parts of the country for a month.",
+      "published_at": "2026-09-02T15:21:44Z",
+      "region": "Europa",
+      "theme": "Outros / Multitemático",
+      "source_name": "France 24",
+      "source_id": "france24",
+      "is_brazilian": false,
+      "image_url": "https://s.france24.com/media/display/7030a242-a6e0-11f1-80ad-005056bfb2b6/w:1024/p:16x9/mini3.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Aubameyang ‘humiliated’ as ex-Arsenal striker quits Gabon national team",
+      "link": "https://www.aljazeera.com/sports/2026/9/2/aubameyang-humiliated-as-ex-arsenal-striker-quits-gabon-national-team?traffic_source=rss",
+      "summary": "Pierre-Emerick Aubameyang cites 2025 Africa Cup of Nations treatment as captain steps away from Gabon duty.",
+      "published_at": "2026-09-02T15:21:43Z",
+      "region": "África",
+      "theme": "Outros / Multitemático",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": "https://loremflickr.com/cache/resized/defaultImage.small_800_600_nofilter.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Lizzo 'grateful' after judge dismisses lawsuit against production company",
+      "link": "https://www.bbc.co.uk/news/articles/c8xk4rl904vo?at_medium=RSS&at_campaign=rss",
+      "summary": "The About Damn Time singer says she is \"relieved\" at the outcome and will \"continue to fight\" every claim.",
+      "published_at": "2026-09-02T15:20:19Z",
+      "region": "Global",
+      "theme": "Outros / Multitemático",
+      "source_name": "BBC World News",
+      "source_id": "bbc_world",
+      "is_brazilian": false,
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6112/live/6619c9d0-a6ba-11f1-ae1e-219da1d6451a.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Iran fires on its Gulf neighbors, retaliating for U.S. strikes after a monthlong lull",
+      "link": "https://www.npr.org/2026/09/02/nx-s1-5954013/us-iran-war-latest-updates",
+      "summary": "The six-month war has led to a spike in oil prices, roiled the global economy and posed increasing political problems for President Trump's Republican Party ahead of November midterm elections.",
+      "published_at": "2026-09-02T15:18:09Z",
+      "region": "Oriente Médio",
+      "theme": "Política Internacional",
+      "source_name": "NPR World News",
+      "source_id": "npr",
+      "is_brazilian": false,
+      "image_url": "https://d3i6fh83elv35t.cloudfront.net/static/2026/09/2026-09-02T124926Z_2108658053_RC20BNADM8PS_RTRMADP_3_IRAN-CRISIS-HOSPITAL-1024x576.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "US postal whistleblower warns thousands of midterm ballots could be lost",
+      "link": "https://www.france24.com/en/video/20260902-us-postal-whistleblower-warns-thousands-of-midterm-ballots-could-be-lost",
+      "summary": "A US Postal Service whistleblower has warned that millions of Americans could be prevented from receiving mail ballots ahead of November's midterm elections because of a rushed, new system ordered by President Donald Trump and due for launch Tuesday. Trump signed an executive order in March seeking tighter controls on mail voting, which he has repeatedly claimed is vulnerable to widespread fraud despite offering no evidence of misconduct on such a scale. France 24’s Kethevane Gorjestani takes a closer look.",
+      "published_at": "2026-09-02T15:17:48Z",
+      "region": "América do Norte",
+      "theme": "Política Internacional",
+      "source_name": "France 24",
+      "source_id": "france24",
+      "is_brazilian": false,
+      "image_url": "https://s.france24.com/media/display/31b1d516-a6dd-11f1-85d3-005056a90284/w:1024/p:16x9/EN-20260902-161238-161837-CS.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Search continues for tunnel workers in Nepal floods",
+      "link": "https://www.france24.com/en/video/20260902-search-continues-for-tunnel-workers-in-nepal-floods",
+      "summary": "Nepali authorities believe that the dozens of workers trapped in hydropower tunnels could still be alive, as some of the tunnels have chambers with air supplies. But rescue teams are still struggling, with difficult weather and heavy rains worsening the situation, reports France 24's Shahzaib Wahlah.",
+      "published_at": "2026-09-02T15:17:20Z",
+      "region": "Ásia",
+      "theme": "Outros / Multitemático",
+      "source_name": "France 24",
+      "source_id": "france24",
+      "is_brazilian": false,
+      "image_url": "https://s.france24.com/media/display/1a05aa30-a5ef-11f1-a454-005056a97e36/w:1024/p:16x9/2026-08-31T073115Z-850354389-RC2I9NA94M1D-RTRMADP-3-NEPAL-FLOODS.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Tusk apunta a un \"acto de sabotaje\" en el incendio de una planta de producción de drones en Polonia",
+      "link": "https://www.europapress.es/internacional/noticia-tusk-apunta-acto-sabotaje-incendio-planta-produccion-drones-polonia-20260902171558.html",
+      "summary": "El primer ministro de Polonia, Donald Tusk, ha señalado este miércoles como un \"acto de sabotaje\" el incendio en una planta de producción de drones registrado hace unos días en la ciudad de Skarzysko-Kamienna, en el centro del país, al que siguió un incidente similar en otra empresa de defensa en la ciudad de Lublin.",
+      "published_at": "2026-09-02T15:15:58Z",
+      "region": "Europa",
+      "theme": "Direito Internacional e Instituições",
+      "source_name": "Europa Press",
+      "source_id": "europa_press",
+      "is_brazilian": false,
+      "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260902171558_120.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1505664194779-8beaceb93744?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Câmara aprova Rodrigo Pacheco como novo ministro do TCU",
+      "link": "https://www.poder360.com.br/poder-congresso/camara-aprova-rodrigo-pacheco-como-novo-ministro-do-tcu/",
+      "summary": "Senador ocupará vaga deixada por Bruno Dantas e poderá ficar no cargo por 29 anos, quando terá de se aposentar compulsoriamente",
+      "published_at": "2026-09-02T15:13:31Z",
+      "region": "América do Sul",
+      "theme": "Política Brasileira",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2026/09/pacheco-plenario-senado-1-set-1200x675.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Nepal PM links deadly floods to climate change",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/2/nepal-pm-links-deadly-floods-to-climate-change?traffic_source=rss",
+      "summary": "Nepal PM links deadly floods to climate change",
+      "published_at": "2026-09-02T15:11:19Z",
+      "region": "Ásia",
+      "theme": "Meio Ambiente e Clima",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": "https://loremflickr.com/cache/resized/defaultImage.small_800_600_nofilter.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
       "title": "Imprensa internacional repercute conversas entre Moraes e Vorcaro",
-      "link": "https://www.poder360.com.br/brasil/imprensa-internacional-repercute-conversas-entre-moraes-e-vorcaro/",
+      "link": "https://www.poder360.com.br/poder-justica/imprensa-internacional-repercute-conversas-entre-moraes-e-vorcaro/",
       "summary": "\"El País\" e \"La Nación\" descrevem o caso como \"bomba atômica\" e \"terremoto político e institucional\" na política brasileira",
       "published_at": "2026-09-02T15:09:18Z",
       "region": "América do Sul",
@@ -16,6 +373,23 @@
         "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1460661419201-fd4cecdf8a8b?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1508700115892-45ecd05ae2ad?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "China’s Xi visits Egypt’s el-Sisi: Why it matters",
+      "link": "https://www.aljazeera.com/news/2026/9/2/chinas-xi-visits-egypts-el-sisi-why-it-matters?traffic_source=rss",
+      "summary": "Xi Jinping's historic Egypt visit aims to strengthen China-Egypt ties amid rising Middle East tensions.",
+      "published_at": "2026-09-02T15:00:30Z",
+      "region": "Ásia",
+      "theme": "Geopolítica e Segurança",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": "https://loremflickr.com/cache/resized/defaultImage.small_800_600_nofilter.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
       ]
     },
     {
@@ -36,7 +410,7 @@
       ]
     },
     {
-      "title": "Israel ‘organised and prepared’ to remove Gaza population if US gives green light, Katz",
+      "title": "Israel ‘organised and prepared’ to remove Gaza population if US gives green light, Katz says",
       "link": "https://www.france24.com/en/middle-east/20260902-israel-organised-and-prepared-to-remove-gaza-population-if-us-gives-green-light-katz",
       "summary": "Israel is \"organised and prepared\" to remove Palestininians from Gaza \"by every way possible\", Defence Minister Israel Katz told reporters Wednesday, adding that there was no alternative \"solution\" to crisis. The Israeli government was simply waiting for the US to figure out where to take the displaced Gazans, he said.",
       "published_at": "2026-09-02T14:56:38Z",
@@ -67,6 +441,23 @@
         "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Can Ukraine’s drones shut Russian airspace? What that means for airlines",
+      "link": "https://www.aljazeera.com/features/2026/9/2/can-ukraines-drones-shut-russian-airspace-what-that-means-for-airlines?traffic_source=rss",
+      "summary": "What happens if the airspace of the world's largest country by land mass is out of bounds because of Ukrainian drones?",
+      "published_at": "2026-09-02T14:55:16Z",
+      "region": "Europa",
+      "theme": "Outros / Multitemático",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": "https://loremflickr.com/cache/resized/defaultImage.small_800_600_nofilter.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
       ]
     },
     {
@@ -101,6 +492,23 @@
         "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Gaza Civil Defence worker finds 21 relatives beneath rubble",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/2/gaza-civil-defence-worker-finds-21-relatives-beneath-rubble?traffic_source=rss",
+      "summary": "A Gaza Civil Defence worker helped recover the bodies of 21 of his relatives from beneath the rubble.",
+      "published_at": "2026-09-02T14:45:26Z",
+      "region": "Oriente Médio",
+      "theme": "Outros / Multitemático",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": "https://loremflickr.com/cache/resized/3347_3187582890_4d74fb3a02_b_800_600_nofilter.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
       ]
     },
     {
@@ -172,7 +580,7 @@
       ]
     },
     {
-      "title": "Paradox of Balladur's legacy: 'Highly popular' Gaullist elite yet 'too far away from the people'",
+      "title": "Paradox of Balladur's legacy: 'Highly popular' Gaullist elite deemed 'too far away from the people'",
       "link": "https://www.france24.com/en/paradox-of-balladur-s-legacy-highly-popular-gaullist-elite-yet-too-far-away-from-the-people",
       "summary": "Sharon Gaffney is pleased to welcome Renaud Foucart, Senior Lecturer at Lancaster University. According to Foucart, Édouard Balladur’s political legacy mattered because he embodied a political model that was innovative and yet limited in scope and longevity. As PM under Socialist President François Mitterrand, Balladur helped demonstrate that ideological rivals could govern together under cohabitation while pursuing an ambitious programme of privatisation and economic reform. Yet Foucart argues that Balladur’s ultimately unsuccessful presidential campaign exposed a deeper transformation in French politics: technocratic competence, elite stature and institutional authority were becoming less electorally powerful than the ability to connect with ordinary voters.",
       "published_at": "2026-09-02T14:29:58Z",
@@ -420,6 +828,23 @@
       "source_id": "poder360",
       "is_brazilian": true,
       "image_url": "https://static.poder360.com.br/uploads/2026/07/flavio-lula-x.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Caso Moraes-Vorcaro dá gás à direita na disputa do Senado e desinfla 'pauta positiva de Lula', diz analista",
+      "link": "https://www.bbc.com/portuguese/articles/cgl70yzxykko?at_medium=RSS&at_campaign=rss",
+      "summary": "Christopher Garman, da Eurasia, avalia que o efeito das mensagens tende a ser negativo para Lula diante de um 'pessimismo' do eleitor e positivo para candidatos da direita ao Senado que defendem impeachment de ministros do STF.",
+      "published_at": "2026-09-02T13:53:05Z",
+      "region": "América do Sul",
+      "theme": "Política Brasileira",
+      "source_name": "BBC News Brasil",
+      "source_id": "bbc_brasil",
+      "is_brazilian": true,
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3c7d/live/0e01a6a0-a65b-11f1-a291-b542ee92de7c.jpg",
       "fallback_images": [
         "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
@@ -730,23 +1155,6 @@
         "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Nepal intensifies relief and recovery efforts after deadly floods, UN says",
-      "link": "https://www.bbc.co.uk/news/articles/c8xk45k9r1go?at_medium=RSS&at_campaign=rss",
-      "summary": "More than 1,000 people have died and thousands are missing, as rescue efforts continue and aid is airlifted to villages.",
-      "published_at": "2026-09-02T13:17:43Z",
-      "region": "Ásia",
-      "theme": "Direito Internacional e Instituições",
-      "source_name": "BBC World News",
-      "source_id": "bbc_world",
-      "is_brazilian": false,
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bf1d/live/babee4c0-a6b5-11f1-bf9b-4185c128a665.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1505664194779-8beaceb93744?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop"
       ]
     },
     {
@@ -1117,23 +1525,6 @@
       "source_id": "aljazeera_english",
       "is_brazilian": false,
       "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1788351244.jpg?resize=1920%2C1080&quality=80",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Lizzo 'grateful' after judge dismisses lawsuit against production company",
-      "link": "https://www.bbc.co.uk/news/articles/c8xk4rl904vo?at_medium=RSS&at_campaign=rss",
-      "summary": "The About Damn Time singer says she is \"relieved\" at the outcome and will \"continue to fight\" every claim.",
-      "published_at": "2026-09-02T12:14:31Z",
-      "region": "Global",
-      "theme": "Outros / Multitemático",
-      "source_name": "BBC World News",
-      "source_id": "bbc_world",
-      "is_brazilian": false,
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6112/live/6619c9d0-a6ba-11f1-ae1e-219da1d6451a.jpg",
       "fallback_images": [
         "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
@@ -2158,397 +2549,6 @@
         "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Why did Russia target Leipzig airport in alleged drone attack?",
-      "link": "https://www.france24.com/en/video/20260902-why-did-russia-target-leipzig-airport-in-alleged-drone-attack",
-      "summary": "The European Union and several individual member states have summoned Russian embassy officials over an attempted drone attack at Leipzig/Halle Airport last month, officials said on ‌Wednesday. Germany said on Tuesday it had concluded that ⁠Russia was responsible for the incident and ordered a series of measures, including the closure of a ‌consulate and a Russian cultural centre in Berlin. France 24's Andrew Hilliar takes a look at why Leipzig might be a target, and what the EU and Germany can do to prevent further incidents.",
-      "published_at": "2026-09-02T09:59:21Z",
-      "region": "Europa",
-      "theme": "Geopolítica e Segurança",
-      "source_name": "France 24",
-      "source_id": "france24",
-      "is_brazilian": false,
-      "image_url": "https://s.france24.com/media/display/d4e805ce-a6b1-11f1-9d8a-005056bf30b7/w:1024/p:16x9/EN-20260902-101340-101925-CS.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Football: Senegal's Iliman Ndiaye signs with Manchester City",
-      "link": "https://www.france24.com/en/tv-shows/sports/20260902-football-senegal-s-iliman-ndiaye-signs-with-manchester-city",
-      "summary": "Senegalese international Iliman Ndiaye has signed a contract with Manchester City that runs through 2031.",
-      "published_at": "2026-09-02T09:51:24Z",
-      "region": "África",
-      "theme": "Outros / Multitemático",
-      "source_name": "France 24",
-      "source_id": "france24",
-      "is_brazilian": false,
-      "image_url": "https://s.france24.com/media/display/30925948-a67f-11f1-85b7-005056a90284/w:1024/p:16x9/J24-ndiaye-1.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Apoio de pessoas ligadas a Marçal é espontâneo, diz vice de Cury",
-      "link": "https://www.poder360.com.br/poder-eleicoes-2026/apoio-de-pessoas-ligadas-a-marcal-e-espontaneo-diz-vice-de-cury/",
-      "summary": "Ex-deputado federal Júlio Delgado disse que não há participação \"ostensiva\" do empresário e influenciador na campanha",
-      "published_at": "2026-09-02T09:50:29Z",
-      "region": "América do Sul",
-      "theme": "Política Brasileira",
-      "source_name": "Poder360",
-      "source_id": "poder360",
-      "is_brazilian": true,
-      "image_url": "https://static.poder360.com.br/uploads/2026/09/Julio-Delgado-Camara-Deputados-2022-1200x675.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Nepal search operations continue a week after catastrophic floods",
-      "link": "https://www.aljazeera.com/news/2026/9/2/nepal-search-operations-continue-a-week-after-catastrophic-floods?traffic_source=rss",
-      "summary": "The UN says the disaster has left at least 2.2 million tonnes of debris, according to a preliminary estimate.",
-      "published_at": "2026-09-02T09:45:52Z",
-      "region": "Ásia",
-      "theme": "Direito Internacional e Instituições",
-      "source_name": "Al Jazeera",
-      "source_id": "aljazeera_english",
-      "is_brazilian": false,
-      "image_url": "https://loremflickr.com/cache/resized/7684_17191911998_fc99f0cea9_b_800_600_nofilter.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1505664194779-8beaceb93744?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "El portaaeronaves 'USS Abraham Lincoln' llega a Tailandia tras ocho meses desplegado en Oriente Próximo",
-      "link": "https://www.europapress.es/internacional/noticia-portaaeronaves-uss-abraham-lincoln-llega-tailandia-ocho-meses-desplegado-oriente-proximo-20260902114130.html",
-      "summary": "El portaaviones 'USS Abraham Lincoln' ha llegado este miércoles a Tailandia en su primera escala tras más de ocho meses de despliegue en Oriente Próximo en el marco de la ofensiva desatada en febrero por Estados Unidos e Israel contra Irán, por lo que ha puesto fin a la larga travesía que ha generado una grave preocupación por el bienestar de la tripulación a bordo del buque.",
-      "published_at": "2026-09-02T09:41:30Z",
-      "region": "Ásia",
-      "theme": "Outros / Multitemático",
-      "source_name": "Europa Press",
-      "source_id": "europa_press",
-      "is_brazilian": false,
-      "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260902114130_120.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "‘The sky is for drones’: Zelensky warns Russian skies unsafe for airlines",
-      "link": "https://www.france24.com/en/video/20260902-the-sky-is-for-drones-zelensky-warns-russian-skies-unsafe-for-airlines",
-      "summary": "Ukraine's President Volodymyr Zelensky warned airlines and insurance companies on Tuesday that the presence of Ukrainian drones had made Russian skies dangerous to use and that they were effectively closed. \"Today, we want to warn ‌every airline that uses Russian airspace, every insurer, everyone who still uses key Russian airports: ⁠the Russian sky is becoming completely dangerous,\" Zelensky said in his nightly video address.",
-      "published_at": "2026-09-02T09:33:48Z",
-      "region": "Europa",
-      "theme": "Política Internacional",
-      "source_name": "France 24",
-      "source_id": "france24",
-      "is_brazilian": false,
-      "image_url": "https://s.france24.com/media/display/c47bbe76-a6af-11f1-a499-005056a97e36/w:1024/p:16x9/EN-20260902-101217-101338-CS.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Saiba quem são os candidatos competitivos para governador",
-      "link": "https://www.poder360.com.br/poder-eleicoes-2026/saiba-quem-sao-os-candidatos-competitivos-para-governador-2/",
-      "summary": "Levantamento do Poder360 considera as pesquisas eleitorais mais recentes das 27 unidades da Federação",
-      "published_at": "2026-09-02T09:30:54Z",
-      "region": "América do Sul",
-      "theme": "Outros / Multitemático",
-      "source_name": "Poder360",
-      "source_id": "poder360",
-      "is_brazilian": true,
-      "image_url": "https://static.poder360.com.br/uploads/2026/09/disputa-eleitoral-estadual-1-set-2026_page-0002-1200x675.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Moraes x Mendonça: os bastidores da 'guerra civil' entre ministros do STF",
-      "link": "https://www.bbc.com/portuguese/articles/c305mmn2318o?at_medium=RSS&at_campaign=rss",
-      "summary": "Decisão de Mendonça de retirar sigilo de relatório da PF sobre mensagens de banqueiro Daniel Vorcaro supostamente enviadas a Alexandre de Moraes expôs uma rivalidade que, até então, vinha sendo percebida de forma silenciosa pelos corredores do STF.",
-      "published_at": "2026-09-02T09:30:50Z",
-      "region": "América do Sul",
-      "theme": "Política Brasileira",
-      "source_name": "BBC News Brasil",
-      "source_id": "bbc_brasil",
-      "is_brazilian": true,
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9247/live/a0333b10-a6a6-11f1-b048-153395f36aa1.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Alemania defiende su \"proporcionada\" reacción ante Rusia y agradece la unidad europea contra Moscú",
-      "link": "https://www.europapress.es/internacional/noticia-alemania-defiende-proporcionada-reaccion-rusia-agradece-unidad-europea-contra-moscu-20260902113026.html",
-      "summary": "El ministro alemán de Asuntos Exteriores, Johann Wadephul, ha defendido este miércoles que la reacción de Berlín ante el ataque fallido de Rusia en el aeropuerto de Leizpig fue \"necesaria y proporcionada\", al tiempo que ha agradecido el \"fuerte respaldo\" mostrado por los socios europeos, \"incluso más allá del círculo de los Estados miembro de la UE\".",
-      "published_at": "2026-09-02T09:30:26Z",
-      "region": "Europa",
-      "theme": "Geopolítica e Segurança",
-      "source_name": "Europa Press",
-      "source_id": "europa_press",
-      "is_brazilian": false,
-      "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260902113026_120.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Lula tem 11 palanques competitivos nos Estados; Flávio tem 10",
-      "link": "https://www.poder360.com.br/poder-eleicoes-2026/lula-tem-11-palanques-competitivos-nos-estados-flavio-tem-10/",
-      "summary": "Levantamento do Poder360 mediu o desempenho dos palanques do petista e do senador nas disputas estaduais",
-      "published_at": "2026-09-02T09:30:08Z",
-      "region": "América do Sul",
-      "theme": "Política Brasileira",
-      "source_name": "Poder360",
-      "source_id": "poder360",
-      "is_brazilian": true,
-      "image_url": "https://static.poder360.com.br/uploads/2026/09/disputa-eleitoral-estadual-1-set-2026_page-0006-1200x675.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "PSD tem 7 candidatos a governador competitivos e lidera o ranking",
-      "link": "https://www.poder360.com.br/poder-eleicoes-2026/psd-tem-7-candidatos-a-governador-competitivos-e-lidera-o-ranking/",
-      "summary": "Levantamento do Poder360 com os estudos eleitorais mais recentes das 27 UFs também mediu o desempenho dos palanques de Lula e Flávio nas disputas estaduais",
-      "published_at": "2026-09-02T09:30:07Z",
-      "region": "América do Sul",
-      "theme": "Política Brasileira",
-      "source_name": "Poder360",
-      "source_id": "poder360",
-      "is_brazilian": true,
-      "image_url": "https://static.poder360.com.br/uploads/2026/09/disputa-eleitoral-estadual-1-set-2026_page-0005-1200x675.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Hong Kong activist Joshua Wong pleads guilty in second national security case",
-      "link": "https://www.france24.com/en/video/20260902-hong-kong-activist-joshua-wong-pleads-guilty-in-second-national-security-case",
-      "summary": "Prominent Hong Kong pro-democracy activist Joshua Wong pleaded guilty Wednesday to conspiracy to collude with foreign forces to endanger national security under a Beijing-imposed law that has effectively stifled the city's once-thriving pro-democracy movement. France 24’s correspondent Jan Camezind Broomby says the decision will almost certainly mean more time behind bars for Wong, already serving a prison term of four years and eight months after entering a guilty plea in a separate national security case linked to an unofficial political primary.",
-      "published_at": "2026-09-02T09:26:31Z",
-      "region": "Europa",
-      "theme": "Geopolítica e Segurança",
-      "source_name": "France 24",
-      "source_id": "france24",
-      "is_brazilian": false,
-      "image_url": "https://s.france24.com/media/display/a68246b2-a6ad-11f1-b6bc-005056bfb2b6/w:1024/p:16x9/EN-20260902-100803-101142-CS.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Nepal floods: Families gather at overwhelmed morgues in desperate search for loved ones",
-      "link": "https://www.france24.com/en/video/20260902-nepal-floods-families-gather-at-overwhelmed-morgues-in-desperate-search-for-loved-ones",
-      "summary": "In Nepal, the hope of finding survivors is fading daily. Bodies are piling up in morgues, and storage capacity is reaching its limit. Authorities are beginning to bury the remains after DNA samples are taken and an identification number is assigned. The hope is that families will be able to find them later. For the relatives of the missing, the wait is unbearable. They go from one hospital to another, consult the lists of survivors and scrutinise the photos of unidentified bodies. France 24's special correspondents met with several of these families at the morgue of Kathmandu University Hospital.",
-      "published_at": "2026-09-02T09:24:32Z",
-      "region": "Ásia",
-      "theme": "Outros / Multitemático",
-      "source_name": "France 24",
-      "source_id": "france24",
-      "is_brazilian": false,
-      "image_url": "https://s.france24.com/media/display/c24a1380-a6ac-11f1-94f5-005056a90284/w:1024/p:16x9/EN-20260902-100540-100801-CS.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Una empresa saudí confirma dos muertos por un \"incidente de seguridad\" en uno de sus buques en Ormuz",
-      "link": "https://www.europapress.es/internacional/noticia-empresa-saudi-confirma-dos-muertos-incidente-seguridad-buques-ormuz-20260902111942.html",
-      "summary": "Al menos dos personas han muerto a causa de \"incidente de seguridad\" sufrido a última hora del lunes por un buque propiedad de una empresa de Arabia Saudí cuando transitaba a través del estrecho de Ormuz, según ha confirmado este miércoles la compañía.",
-      "published_at": "2026-09-02T09:19:42Z",
-      "region": "Europa",
-      "theme": "Direito Internacional e Instituições",
-      "source_name": "Europa Press",
-      "source_id": "europa_press",
-      "is_brazilian": false,
-      "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260902111942_120.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1505664194779-8beaceb93744?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "US energy secretary vows oil output will double on visit to Venezuela",
-      "link": "https://www.france24.com/en/tv-shows/business/20260902-us-energy-secretary-vows-oil-output-will-double-on-visit-to-venezuela",
-      "summary": "US Energy Secretary Chris Wright landed in Venezuela on Tuesday ahead of a signing ceremony for a landmark oil deal between the US government and Venezuela. The deal would see the US create and control a private company that will hold 65 billion barrels in proven oil reserves. This agreement is also meant to encourage other US energy firms to invest in the country, in spite of serious challenges. In this edition, we see what other deals could be announced and what those challenges are.",
-      "published_at": "2026-09-02T09:17:57Z",
-      "region": "América do Norte",
-      "theme": "Política Internacional",
-      "source_name": "France 24",
-      "source_id": "france24",
-      "is_brazilian": false,
-      "image_url": "https://s.france24.com/media/display/5a13ef7c-a6a5-11f1-9ff6-005056bf30b7/w:1024/p:16x9/capture-7892170506a97d94538fc46-44037237.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "What we know about jailed HK activist Joshua Wong’s latest charge",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/2/what-we-know-about-jailed-hk-activist-joshua-wongs-latest-charge?traffic_source=rss",
-      "summary": "What we know about jailed HK activist Joshua Wong’s latest charge",
-      "published_at": "2026-09-02T09:17:49Z",
-      "region": "Oriente Médio",
-      "theme": "Outros / Multitemático",
-      "source_name": "Al Jazeera",
-      "source_id": "aljazeera_english",
-      "is_brazilian": false,
-      "image_url": "https://loremflickr.com/cache/resized/2451_3602784117_6dc32ab102_b_800_600_nofilter.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Iran strikes back against latest US attacks, vowing ‘severe’ consequences",
-      "link": "https://www.france24.com/en/video/20260902-iran-strikes-back-against-latest-us-attacks-vowing-severe-consequences",
-      "summary": "Iran struck US interests around the Middle East on Wednesday, vowing \"severe\" consequences for renewed American attacks on the Islamic republic, including a US strike it said killed five and wounded dozens of civilians at a wedding.",
-      "published_at": "2026-09-02T09:08:25Z",
-      "region": "América do Norte",
-      "theme": "Outros / Multitemático",
-      "source_name": "France 24",
-      "source_id": "france24",
-      "is_brazilian": false,
-      "image_url": "https://s.france24.com/media/display/783afdbe-a6ab-11f1-946a-005056a90284/w:1024/p:16x9/EN-20260902-100213-100420-CS.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Lula foca em Brasília e Flávio em SP e RJ no começo da campanha",
-      "link": "https://www.poder360.com.br/poder-eleicoes-2026/lula-foca-em-brasilia-e-flavio-em-sp-e-rj-no-comeco-da-campanha/",
-      "summary": "Petista priorizou compromissos institucionais; candidato do PL apostou em carreatas e comícios",
-      "published_at": "2026-09-02T09:00:48Z",
-      "region": "América do Sul",
-      "theme": "Política Brasileira",
-      "source_name": "Poder360",
-      "source_id": "poder360",
-      "is_brazilian": true,
-      "image_url": "https://static.poder360.com.br/uploads/2026/09/lula-capa_page-0001-1200x675.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Candidatos a presidente concentram 66% das campanhas no Sudeste",
-      "link": "https://www.poder360.com.br/poder-eleicoes-2026/candidatos-a-presidente-concentram-66-das-campanhas-no-sudeste/",
-      "summary": "15 Estados não receberam visitas de Lula, Flávio, Caiado, Zema, Cury ou Renan nos primeiros 16 dias de campanha",
-      "published_at": "2026-09-02T09:00:43Z",
-      "region": "América do Sul",
-      "theme": "Política Brasileira",
-      "source_name": "Poder360",
-      "source_id": "poder360",
-      "is_brazilian": true,
-      "image_url": "https://static.poder360.com.br/uploads/2026/09/candidatos-texto-1-capa-1200x675.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Saiba quais indicadores e balanços saem nesta 4ª feira",
-      "link": "https://www.poder360.com.br/poder-economia/saiba-quais-indicadores-e-balancos-saem-nesta-4a-feira-4/",
-      "summary": "Divulgação sobre produção industrial, juros no Canadá e serviços na Ásia movimentam o dia",
-      "published_at": "2026-09-02T09:00:24Z",
-      "region": "América do Norte",
-      "theme": "Economia Brasileira",
-      "source_name": "Poder360",
-      "source_id": "poder360",
-      "is_brazilian": true,
-      "image_url": "https://static.poder360.com.br/uploads/2026/07/capas-posts-agenda-Lula-eleicoes-ministros-STF-STJ-indicadores-site-Poder360-07-scaled.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1506744038136-46273834b3fb?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Israel bars U.S. citizens over criticism and ties to Palestinian activists, lawyers say",
-      "link": "https://www.npr.org/2026/09/02/nx-s1-5950449/israel-bars-americans-over-palestinian-ties",
-      "summary": "Travelers from the U.S. and other nations are denied entry to Israel after interrogations about their links to Palestinians, plans to visit the occupied West Bank and opinions of Israel, lawyers say.",
-      "published_at": "2026-09-02T09:00:00Z",
-      "region": "Oriente Médio",
-      "theme": "Outros / Multitemático",
-      "source_name": "NPR World News",
-      "source_id": "npr",
-      "is_brazilian": false,
-      "image_url": "https://loremflickr.com/cache/resized/631_21357457254_6396b2bbda_b_800_600_nofilter.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Iran, US exchange new attacks: Who was hit in latest strikes?",
-      "link": "https://www.aljazeera.com/news/2026/9/2/iran-us-exchange-new-attacks-who-was-hit-in-latest-strikes?traffic_source=rss",
-      "summary": "Iran says the US bombed a wedding near the Strait of Hormuz; hits Kuwait, Bahrain, and Jordan in retaliation.",
-      "published_at": "2026-09-02T08:55:20Z",
-      "region": "América do Norte",
-      "theme": "Saúde",
-      "source_name": "Al Jazeera",
-      "source_id": "aljazeera_english",
-      "is_brazilian": false,
-      "image_url": "https://loremflickr.com/cache/resized/defaultImage.small_800_600_nofilter.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1584515901367-f1c2a12a50ea?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1505751172876-fa1923c5c528?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1584036561566-baf2418a7c21?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "El activista hongkonés Joshua Wong se declara culpable de conspirar con \"fuerzas extranjeras\"",
-      "link": "https://www.europapress.es/internacional/noticia-activista-hongkones-joshua-wong-declara-culpable-conspirar-fuerzas-extranjeras-20260902104451.html",
-      "summary": "El activista y opositor hongkonés Joshua Wong se ha declarado culpable este miércoles de los cargos imputados en su contra por \"conspirar para actuar en connivencia con fuerzas extranjeras\" en virtud de la controvertida ley de seguridad nacional, criticada por organizaciones de Derechos Humanos.",
-      "published_at": "2026-09-02T08:44:51Z",
-      "region": "Europa",
-      "theme": "Geopolítica e Segurança",
-      "source_name": "Europa Press",
-      "source_id": "europa_press",
-      "is_brazilian": false,
-      "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260902104451_120.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
       ]
     }
   ]
