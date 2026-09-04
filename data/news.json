@@ -1,6 +1,346 @@
 {
-  "updated_at": "2026-09-04T19:04:04.667224Z",
+  "updated_at": "2026-09-04T20:04:41.684636Z",
   "news": [
+    {
+      "title": "Trump's peace envoys to visit Moscow and Kyiv over weekend",
+      "link": "https://www.bbc.co.uk/news/articles/c23x0z48x0no?at_medium=RSS&at_campaign=rss",
+      "summary": "Steve Witkoff and Jared Kushner have led President Donald Trump's efforts to end the Russia-Ukraine war - but talks have stalled.",
+      "published_at": "2026-09-04T20:03:52Z",
+      "region": "Europa",
+      "theme": "Política Internacional",
+      "source_name": "BBC World News",
+      "source_id": "bbc_world",
+      "is_brazilian": false,
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e39/live/bcf0df00-a86d-11f1-bbad-43eaf67b94b6.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Conselho Superior do MPF quer analisar citação a Gonet por Vorcaro",
+      "link": "https://www.poder360.com.br/poder-justica/conselho-superior-do-mpf-quer-analisar-citacao-a-gonet-por-vorcaro/",
+      "summary": "Procedimento interno vai analisar se é necessário retirar PGR da condução das investigações sobre o Master",
+      "published_at": "2026-09-04T19:53:23Z",
+      "region": "América do Sul",
+      "theme": "Política Brasileira",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2025/05/STF-GilmarMendes-FlavioDino-GilmarMendes-Moraes-Gonet-EdsonFachin-Plenario-33-scaled.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "‘Major potential breaches of British election law’: Inside Channel 4’s investigation into Reform UK",
+      "link": "https://www.france24.com/en/tv-shows/spotlight/20260904-major-potential-breaches-of-british-election-law-understanding-channel-4-s-investigation",
+      "summary": "Gavin Lee is pleased to welcome Peter Geoghegan, a multi-award-winning investigative journalist. He's the editor of the Substack Democracy for Sale and the author of the best-selling book Democracy for Sale. Geoghegan explains the significance of the Channel 4 investigation not simply in the conduct allegedly captured on camera, but in the broader question of how political influence is financed and made visible, or invisible, within British democracy.",
+      "published_at": "2026-09-04T19:52:45Z",
+      "region": "Europa",
+      "theme": "Política Internacional",
+      "source_name": "France 24",
+      "source_id": "france24",
+      "is_brazilian": false,
+      "image_url": "https://s.france24.com/media/display/7ee28ac0-a899-11f1-b28a-005056bfb2b6/w:1024/p:16x9/capture-19431994186a9b205f3f1f84-62431157.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Lula diz que ninguém tem “autoridade moral” para cobrá-lo na área fiscal",
+      "link": "https://www.poder360.com.br/poder-governo/lula-diz-que-ninguem-tem-autoridade-moral-para-cobra-lo-na-area-fiscal/",
+      "summary": "Presidente afirma que aprendeu com a mãe a não gastar mais do que arrecada e diz que deficit só se justifica para ampliar patrimônio",
+      "published_at": "2026-09-04T19:50:20Z",
+      "region": "América do Sul",
+      "theme": "Política Brasileira",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2026/09/lula-entrevista-CE-4.set_.2026-1200x675.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Óleo cru e soja puxam saldo comercial em agosto",
+      "link": "https://www.poder360.com.br/poder-economia/oleo-cru-e-soja-puxam-saldo-comercial-em-agosto/",
+      "summary": "Exportações impulsionadas pelo faturamento com matérias-primas elevam o superavit de agosto para US$ 7,39 bi",
+      "published_at": "2026-09-04T19:49:57Z",
+      "region": "América do Norte",
+      "theme": "Comércio e Finanças",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2026/08/Soja-1080.png",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1578575437130-527eed3abbec?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1522071820081-009f0129c71c?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Israeli strike kills two in southern Lebanon amid ongoing escalation",
+      "link": "https://www.aljazeera.com/news/2026/9/4/israeli-strike-kills-two-in-southern-lebanon-amid-ongoing-escalation?traffic_source=rss",
+      "summary": "Israeli attacks against villages and towns in southern Lebanon continue despite truce agreements and diplomacy.",
+      "published_at": "2026-09-04T19:48:25Z",
+      "region": "Oriente Médio",
+      "theme": "Política Internacional",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": "https://loremflickr.com/cache/resized/defaultImage.small_800_600_nofilter.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Andrew Tate indicted in Romania for trafficking minors, money laundering",
+      "link": "https://www.aljazeera.com/news/2026/9/4/andrew-tate-indicted-in-romania-for-trafficking-minors-money-laundering?traffic_source=rss",
+      "summary": "The influencer and his brother are in a Miami prison pending potential extradition to the UK on rape charges",
+      "published_at": "2026-09-04T19:44:47Z",
+      "region": "Europa",
+      "theme": "Outros / Multitemático",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": "https://loremflickr.com/cache/resized/1932_45093022411_2bb620295d_h_800_600_nofilter.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "UN votes to adopt new world map to reflect Africa's true size",
+      "link": "https://www.bbc.co.uk/news/articles/ce30vp55dnlo?at_medium=RSS&at_campaign=rss",
+      "summary": "The Togo-sponsored resolution was backed by 164 nations - the US the only nation to vote against it.",
+      "published_at": "2026-09-04T19:44:40Z",
+      "region": "África",
+      "theme": "Direito Internacional e Instituições",
+      "source_name": "BBC World News",
+      "source_id": "bbc_world",
+      "is_brazilian": false,
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1f88/live/bff197b0-a874-11f1-b109-879e35c24276.png",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1505664194779-8beaceb93744?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Alcolumbre comemora aval para Petrobras perfurar 3 novos poços no Amapá",
+      "link": "https://www.poder360.com.br/poder-congresso/alcolumbre-comemora-aval-para-petrobras-perfurar-3-novos-pocos-no-amapa/",
+      "summary": "Petrobras poderá perfurar 3 poços no bloco onde encontrou petróleo em agosto; autorização não permite exploração comercial da área",
+      "published_at": "2026-09-04T19:41:42Z",
+      "region": "América do Sul",
+      "theme": "Comércio e Finanças",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2026/09/Design-sem-nome-64-1200x675.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1578575437130-527eed3abbec?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1522071820081-009f0129c71c?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Ciro tem 49% e Elmano, 36%, em 2º turno no CE, diz pesquisa",
+      "link": "https://www.poder360.com.br/poder-eleicoes-2026/ciro-tem-49-e-elmano-36-em-2o-turno-no-ce-diz-pesquisa/",
+      "summary": "Levantamento da Quaest ouviu 900 eleitores do Estado de 31 de agosto a 3 de setembro; a margem de erro é de 3 pontos",
+      "published_at": "2026-09-04T19:40:26Z",
+      "region": "América do Sul",
+      "theme": "Ciência, Tecnologia e Inovação",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2026/03/elmano-ciro.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1518770660439-4636190af475?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1507668077129-56e32842fceb?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Importação de veículos dispara 76% no ano, diz Mdic",
+      "link": "https://www.poder360.com.br/poder-economia/importacao-de-veiculos-dispara-76-no-ano-diz-mdic/",
+      "summary": "Compras externas da indústria de transformação chegam a US$ 8,56 bilhões no acumulado de janeiro a agosto",
+      "published_at": "2026-09-04T19:37:32Z",
+      "region": "América do Norte",
+      "theme": "Comércio e Finanças",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2026/06/carros-eletricos.png",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1578575437130-527eed3abbec?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1522071820081-009f0129c71c?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Outrage as Maltese tycoon acquitted in journalist's murder",
+      "link": "https://www.dw.com/en/outrage-as-maltese-tycoon-acquitted-in-journalist-s-murder/a-79027008?maca=en-rss-en-world-4025-rdf",
+      "summary": "Maltese businessman Yorgen Fenech has been found not guilty of complicity to murder journalist Daphne Caruana Galizia. Almost nine years after the attack, the question of who ordered her death remains unanswered.",
+      "published_at": "2026-09-04T19:31:00Z",
+      "region": "Europa",
+      "theme": "Geopolítica e Segurança",
+      "source_name": "DW World News",
+      "source_id": "dw_english",
+      "is_brazilian": false,
+      "image_url": "https://static.dw.com/image/78814467_6.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Foto de ministros do STF gargalhando viraliza em meio à crise",
+      "link": "https://www.poder360.com.br/poder-justica/foto-de-ministros-do-stf-gargalhando-viraliza-em-meio-a-crise/",
+      "summary": "Moraes e Gilmar dão risada após a 1ª sessão do Supremo, em 2 de setembro de 2026, depois que ficaram conhecidas as suspeitas sobre uma possível relação imprópria de Alexandre de Moraes com o ex-dono do Banco Master",
+      "published_at": "2026-09-04T19:28:05Z",
+      "region": "América do Sul",
+      "theme": "Política Brasileira",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2026/09/zanin-fachin-moraes-gilmar-gargalhada-stf-banco-master-vorcaro-1200x675.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Os novos indícios que ligam o número de telefone salvo por Daniel Vorcaro a Alexandre de Moraes",
+      "link": "https://www.bbc.com/portuguese/articles/c4gk300l15eo?at_medium=RSS&at_campaign=rss",
+      "summary": "A PF não afirma expressamente ter confirmado com a operadora que linha telefônica para quem Vorcaro mandava mensagens era usada por Moraes. Mas o mesmo número aparece ligado a Moraes na CPMI do INSS e em perfis nas redes sociais encontrados pela BBC News Brasil",
+      "published_at": "2026-09-04T19:27:33Z",
+      "region": "América do Sul",
+      "theme": "Política Brasileira",
+      "source_name": "BBC News Brasil",
+      "source_id": "bbc_brasil",
+      "is_brazilian": true,
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9992/live/26f41c80-a848-11f1-b109-879e35c24276.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Anvisa autoriza importação de medicamento-teste para Lito Sousa",
+      "link": "https://www.poder360.com.br/poder-saude/anvisa-autoriza-importacao-de-medicamento-teste-para-lito-sousa/",
+      "summary": "Influenciador foi diagnosticado com a doença de Creutzfeldt-Jakob, que não tem cura e é fatal",
+      "published_at": "2026-09-04T19:24:58Z",
+      "region": "América do Sul",
+      "theme": "Saúde",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2026/08/Lito-Sousa-29.ago_.2026-1200x675.png",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1584515901367-f1c2a12a50ea?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1505751172876-fa1923c5c528?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1584036561566-baf2418a7c21?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Lula diz estar “predestinado” a tornar Brasil classe média alta",
+      "link": "https://www.poder360.com.br/poder-eleicoes-2026/lula-diz-estar-predestinado-a-tornar-brasil-classe-media-alta/",
+      "summary": "Presidente afirma que quer elevar o padrão de vida e aproximar o país do modelo de bem-estar social europeu",
+      "published_at": "2026-09-04T19:24:04Z",
+      "region": "América do Sul",
+      "theme": "Política Brasileira",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2026/09/entrevista-lula-radio-progresso--1200x675.png",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Exportação para China sobe 15% no ano, mas cai 10,9% em agosto",
+      "link": "https://www.poder360.com.br/poder-economia/exportacao-para-china-sobe-15-no-ano-mas-cai-109-em-agosto/",
+      "summary": "Vendas ao país asiático somam US$ 77 bilhões em 2026; no mês, o valor vendido recuou",
+      "published_at": "2026-09-04T19:18:54Z",
+      "region": "Ásia",
+      "theme": "Comércio e Finanças",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2026/05/porto-de-santos-848x477-1.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1578575437130-527eed3abbec?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1522071820081-009f0129c71c?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Yemen: Fighting intensifies amid Houthi push in the west",
+      "link": "https://www.dw.com/en/yemen-fighting-intensifies-amid-houthi-push-in-the-west/a-79039588?maca=en-rss-en-world-4025-rdf",
+      "summary": "Houthi forces are trying to secure high ground and solidify their control of the entry to the Red Sea in the southwest. The Iran-backed militia abandoned a shaky truce with the Saudi-backed government-in-exile in July.",
+      "published_at": "2026-09-04T19:15:00Z",
+      "region": "Oriente Médio",
+      "theme": "Geopolítica e Segurança",
+      "source_name": "DW World News",
+      "source_id": "dw_english",
+      "is_brazilian": false,
+      "image_url": "https://static.dw.com/image/79039619_6.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Five EU nations inch towards deal on migrant ‘return hubs’ by 2027",
+      "link": "https://www.aljazeera.com/news/2026/9/4/five-eu-nations-inch-towards-deal-on-migrant-return-hubs-by-2027?traffic_source=rss",
+      "summary": "Germany, Austria, ⁠Greece, Denmark and the Netherlands did not outline where the centres would be located.",
+      "published_at": "2026-09-04T18:52:28Z",
+      "region": "Europa",
+      "theme": "Outros / Multitemático",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": "https://loremflickr.com/cache/resized/defaultImage.small_800_600_nofilter.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Brazilian Supreme Court roiled by dispute between justices",
+      "link": "https://www.aljazeera.com/news/2026/9/4/brazilian-supreme-court-roiled-by-dispute-between-justices?traffic_source=rss",
+      "summary": "The country's highest court is considering investigations into two judges who have accused each other of wrongdoing.",
+      "published_at": "2026-09-04T18:46:44Z",
+      "region": "América do Sul",
+      "theme": "Saúde",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": "https://loremflickr.com/cache/resized/2682_4363709531_f094e9f4b3_h_800_600_nofilter.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1584515901367-f1c2a12a50ea?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1505751172876-fa1923c5c528?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1584036561566-baf2418a7c21?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
     {
       "title": "German power grid sabotage attack linked to ‘climate extremism’",
       "link": "https://www.france24.com/en/europe/20260904-german-power-grid-sabotage-attack-linked-to-climate-extremism",
@@ -257,23 +597,6 @@
       ]
     },
     {
-      "title": "UN votes to adopt new world map to reflect Africa's true size",
-      "link": "https://www.bbc.co.uk/news/articles/ce30vp55dnlo?at_medium=RSS&at_campaign=rss",
-      "summary": "The Togo-sponsored resolution was backed by 164 nations - the US the only nation to vote against it.",
-      "published_at": "2026-09-04T17:26:40Z",
-      "region": "África",
-      "theme": "Direito Internacional e Instituições",
-      "source_name": "BBC World News",
-      "source_id": "bbc_world",
-      "is_brazilian": false,
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1f88/live/bff197b0-a874-11f1-b109-879e35c24276.png",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1505664194779-8beaceb93744?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
       "title": "Candidatos à Presidência arrecadam R$ 88,8 mi a 1 mês da eleição",
       "link": "https://www.poder360.com.br/poder-eleicoes-2026/candidatos-a-presidencia-arrecadam-r-888-mi-a-1-mes-da-eleicao/",
       "summary": "Flávio Bolsonaro (PL) é quem mais recebeu recursos e concentra 49,16% do total; a campanha de Pablo Marçal (PRTB) foi a que menos arrecadou, R$ 9.621,53",
@@ -458,23 +781,6 @@
         "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Trump's peace envoys to visit Moscow and Kyiv over weekend",
-      "link": "https://www.bbc.co.uk/news/articles/c23x0z48x0no?at_medium=RSS&at_campaign=rss",
-      "summary": "Steve Witkoff and Jared Kushner have led President Donald Trump's efforts to end the Russia-Ukraine war - but talks have stalled.",
-      "published_at": "2026-09-04T16:30:50Z",
-      "region": "Europa",
-      "theme": "Política Internacional",
-      "source_name": "BBC World News",
-      "source_id": "bbc_world",
-      "is_brazilian": false,
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e39/live/bcf0df00-a86d-11f1-bbad-43eaf67b94b6.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
       ]
     },
     {
@@ -675,6 +981,23 @@
       "source_id": "poder360",
       "is_brazilian": true,
       "image_url": "https://static.poder360.com.br/uploads/2026/09/casa-branca-arcade-maga-youtube-1200x675.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "US midterms start with North Carolina distributing mail-voting ballots",
+      "link": "https://www.france24.com/en/americas/20260904-us-midterms-begin-with-chaos-over-mail-voting-crackdown",
+      "summary": "North Carolina on Friday became the first state authorised to begin sending out ballots, formally launching the 2026 US midterms as President Donald Trump’s administration fights to impose sweeping restrictions on the practice.",
+      "published_at": "2026-09-04T15:53:14Z",
+      "region": "América do Norte",
+      "theme": "Política Internacional",
+      "source_name": "France 24",
+      "source_id": "france24",
+      "is_brazilian": false,
+      "image_url": "https://s.france24.com/media/display/d11236ee-a662-11f1-9ae7-005056a97e36/w:1024/p:16x9/bb30b5bf37e781f443665b25112221e81b7c2d36.jpg",
       "fallback_images": [
         "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
@@ -968,6 +1291,23 @@
         "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "US judge declares mistrial in Lindsay Clancy child-killing case after jury deadlock",
+      "link": "https://www.france24.com/en/americas/20260904-judge-declares-mistrial-in-case-of-us-woman-who-killed-her-children",
+      "summary": "A judge in Massachusetts on Friday declared a mistrial in the Lindsay Clancy murder trial after jurors were unable to reach a unanimous verdict on whether she was criminally responsible for killing her three young children. The case sparked a public debate over maternal mental health.",
+      "published_at": "2026-09-04T15:21:15Z",
+      "region": "América do Norte",
+      "theme": "Saúde",
+      "source_name": "France 24",
+      "source_id": "france24",
+      "is_brazilian": false,
+      "image_url": "https://s.france24.com/media/display/449a99c2-a874-11f1-9e4b-005056a97e36/w:1024/p:16x9/ec79ca073616c0be5faec0e6e24e44fe5b4b1473.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1584515901367-f1c2a12a50ea?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1505751172876-fa1923c5c528?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1584036561566-baf2418a7c21?q=80&w=800&auto=format&fit=crop"
       ]
     },
     {
@@ -2209,346 +2549,6 @@
         "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "South Korea mulls ‘contributions’ in Strait of Hormuz",
-      "link": "https://www.aljazeera.com/news/2026/9/4/south-korea-mulls-contributions-in-strait-of-hormuz?traffic_source=rss",
-      "summary": "Seoul heavily affected by closure of strategic waterway and under heavy US pressure for participation against Iran.",
-      "published_at": "2026-09-04T12:10:51Z",
-      "region": "Ásia",
-      "theme": "Outros / Multitemático",
-      "source_name": "Al Jazeera",
-      "source_id": "aljazeera_english",
-      "is_brazilian": false,
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/09/ap_6a9a83f29be94-1788511218.jpg?resize=1920%2C1440",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Rusia acusa a Alemania de un doble rasero por su reacción al incidente en Leipzig y el sabotaje al Nord Stream",
-      "link": "https://www.europapress.es/internacional/noticia-rusia-acusa-alemania-doble-rasero-reaccion-incidente-leipzig-sabotaje-nordsteam-20260904140500.html",
-      "summary": "El Kremlin ha reiterado este viernes su rechazo a las acusaciones de Alemania en torno al ataque fallido contra el aeropuerto de Leipzig (este) y ha criticado a Berlín por lo que ha descrito como una doble vara de medir respecto a este incidente y el sabotaje contra el gasoducto Nord Stream, que Moscú achaca a las autoridades de Ucrania.",
-      "published_at": "2026-09-04T12:05:00Z",
-      "region": "Europa",
-      "theme": "Direito Internacional e Instituições",
-      "source_name": "Europa Press",
-      "source_id": "europa_press",
-      "is_brazilian": false,
-      "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260904140500_120.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1505664194779-8beaceb93744?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Haute Couture, autumn-winter 2026/27: Make way for the independent labels",
-      "link": "https://www.france24.com/en/tv-shows/fashion/20260904-haute-couture-autumn-winter-2026-27-make-way-for-the-independent-labels",
-      "summary": "Some couturiers get to modernise houses owned by luxury groups. Among them is Duran Lantink, who draws on Jean Paul Gaultier's ballet-costume era for his inspiration. Independent houses, by contrast, must create from scratch. Iris van Herpen turns to science. Rahul Mishra finds inspiration in the beauty of Hindu goddesses. Imane Ayissi pays tribute to his late mother. Finally, Kevin Germanier keeps celebrating the most desirable approach to recycling imaginable.",
-      "published_at": "2026-09-04T12:04:25Z",
-      "region": "Europa",
-      "theme": "Ciência, Tecnologia e Inovação",
-      "source_name": "France 24",
-      "source_id": "france24",
-      "is_brazilian": false,
-      "image_url": "https://s.france24.com/media/display/1e522260-a858-11f1-ab19-005056bf30b7/w:1024/p:16x9/capture-14113735836a9ab2b01c6bb0-40102564.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1518770660439-4636190af475?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1507668077129-56e32842fceb?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "US state of Louisiana in battle over electoral map",
-      "link": "https://www.france24.com/en/tv-shows/reporters/20260904-us-state-of-louisiana-in-battle-over-electoral-map-midterm-elections",
-      "summary": "With just two months to go before the US midterm elections, the battle for votes is in full swing. Our reporter Fanny Allard has been to the state of Louisiana, where a redistricting row is playing out with far-reaching implications for racial equality.",
-      "published_at": "2026-09-04T12:03:26Z",
-      "region": "América do Norte",
-      "theme": "Política Internacional",
-      "source_name": "France 24",
-      "source_id": "france24",
-      "is_brazilian": false,
-      "image_url": "https://s.france24.com/media/display/399bba0c-a792-11f1-8217-005056bf30b7/w:1024/p:16x9/Reporters-26082026.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "India’s Smriti Mandhana becomes top run-scorer in women’s cricket",
-      "link": "https://www.aljazeera.com/sports/2026/9/4/indias-smriti-mandhana-becomes-top-run-scorer-in-womens-cricket?traffic_source=rss",
-      "summary": "Mandhana overtook former India captain Mithali Raj, who had been the top international scorer with 10,868 runs.",
-      "published_at": "2026-09-04T12:03:19Z",
-      "region": "Ásia",
-      "theme": "Saúde",
-      "source_name": "Al Jazeera",
-      "source_id": "aljazeera_english",
-      "is_brazilian": false,
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/09/ap_6a9aaf148ba3c-1788522260.jpg?resize=1920%2C1332",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1584515901367-f1c2a12a50ea?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1505751172876-fa1923c5c528?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1584036561566-baf2418a7c21?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Ao vivo: Lula sanciona atos sobre fundos do sistema de Justiça",
-      "link": "https://www.poder360.com.br/poder-governo/ao-vivo-lula-sanciona-atos-sobre-fundos-do-sistema-de-justica/",
-      "summary": "A cerimônia está prevista para as 10h, no Palácio do Planalto",
-      "published_at": "2026-09-04T12:00:16Z",
-      "region": "América do Sul",
-      "theme": "Política Brasileira",
-      "source_name": "Poder360",
-      "source_id": "poder360",
-      "is_brazilian": true,
-      "image_url": "https://static.poder360.com.br/uploads/2026/08/presidente-lula-1-1200x675.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "ONU aprova resolução para corrigir representação do mundo nos mapas",
-      "link": "https://news.un.org/feed/view/pt/story/2026/09/1854269",
-      "summary": "Modelo amplamente utilizado remonta ao Século 16; ele contém distorção que amplia massas de terra mais distantes da linha do Equador e reduz regiões como África, América Latina e Sul da Ásia; proposta, que recebeu 164 votos favoráveis, se baseia em dados científica e reparação histórica.",
-      "published_at": "2026-09-04T12:00:00Z",
-      "region": "América do Sul",
-      "theme": "Direito Internacional e Instituições",
-      "source_name": "ONU News",
-      "source_id": "onu_news",
-      "is_brazilian": false,
-      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/08/31-08-2026_GA_Resolution_Syria.jpeg/image560x340cropped.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1505664194779-8beaceb93744?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Apelo de US$ 49,6 milhões quer socorrer afetados por inundações no Nepal",
-      "link": "https://news.un.org/feed/view/pt/story/2026/09/1854266",
-      "summary": "ONU lança pedido de emergência para socorrer mais de 84 mil vítimas de tragédia, que já deixou mais de 1,3 mil mortos e milhares de desaparecidos; em cenário de mais de 40 pontes destruídas, voos de helicóptero se tornaram único meio de abastecer localidades isoladas.",
-      "published_at": "2026-09-04T12:00:00Z",
-      "region": "América do Norte",
-      "theme": "Direito Internacional e Instituições",
-      "source_name": "ONU News",
-      "source_id": "onu_news",
-      "is_brazilian": false,
-      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/08/28-08-2026-UNICEF-Nepal-floods-01.jpg/image560x340cropped.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1505664194779-8beaceb93744?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Peritos apontam aliados internacionais que estimulam guerra no Sudão",
-      "link": "https://news.un.org/feed/view/pt/story/2026/09/1854255",
-      "summary": "Movimento de armas, tecnologia militar e apoio logístico são fornecidos às partes em conflito; grupo independente recolheu indícios sobre a ação destes grupos a partir de países como Colômbia e Emirados Árabes Unidos.",
-      "published_at": "2026-09-04T12:00:00Z",
-      "region": "África",
-      "theme": "Geopolítica e Segurança",
-      "source_name": "ONU News",
-      "source_id": "onu_news",
-      "is_brazilian": false,
-      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/assets/2018/07/02-07-2018-Zambia-Peacekeepers-02.jpg/image560x340cropped.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Unaids lidera aliança sino-africana na indústria farmacêutica",
-      "link": "https://news.un.org/feed/view/pt/story/2026/09/1854260",
-      "summary": "Pela soberania sanitária, iniciativa mobiliza investimentos e inovação para impulsionar produção local de medicamentos e diagnósticos na África Austral; plano visa romper com a dependência externa de insumos médicos e democratizar acesso a tratamentos essenciais, incluindo resposta ao HIV.",
-      "published_at": "2026-09-04T12:00:00Z",
-      "region": "África",
-      "theme": "Ciência, Tecnologia e Inovação",
-      "source_name": "ONU News",
-      "source_id": "onu_news",
-      "is_brazilian": false,
-      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/10-01-2024-UNICEF-Cote-Ivoire.jpg/image560x340cropped.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1518770660439-4636190af475?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1507668077129-56e32842fceb?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Timor-Leste elimina tracoma e fortalece vigilância sanitária",
-      "link": "https://news.un.org/feed/view/pt/story/2026/09/1854262",
-      "summary": "Após anos de estudos epidemiológicos, país recebeu validação internacional pela eliminação do tracoma, tornando-se referência em saúde ocular no Sudeste Asiático; resultado fortalece políticas de saneamento e amplia compromisso com meta global de erradicar a doença até 2030.",
-      "published_at": "2026-09-04T12:00:00Z",
-      "region": "Global",
-      "theme": "Saúde",
-      "source_name": "ONU News",
-      "source_id": "onu_news",
-      "is_brazilian": false,
-      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/09-10-24_WHO_India_Trachoma.jpg/image560x340cropped.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1584515901367-f1c2a12a50ea?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1505751172876-fa1923c5c528?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1584036561566-baf2418a7c21?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "UK support for Falkland Islands 'unwavering' after Argentina restates claims, No 10 says",
-      "link": "https://www.bbc.co.uk/news/articles/cn45jg3zlz4o?at_medium=RSS&at_campaign=rss",
-      "summary": "The comments come as Argentinian president Javier Milei says the \"winds of change\" favoured his country's claim on the British overseas territory.",
-      "published_at": "2026-09-04T11:54:51Z",
-      "region": "América do Sul",
-      "theme": "Política Internacional",
-      "source_name": "BBC World News",
-      "source_id": "bbc_world",
-      "is_brazilian": false,
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8ea2/live/97f55e90-a856-11f1-b109-879e35c24276.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Flávio diz ser alvo de articulação de Moraes, Dino e Alcolumbre",
-      "link": "https://www.poder360.com.br/poder-eleicoes-2026/flavio-bolsonaro-diz-ser-alvo-de-articulacao-de-moraes-dino-e-alcolumbre/",
-      "summary": "Sem apresentar evidências, candidato diz que objetivo dos ministros do STF e do presidente do Senado é desgastá-lo eleitoralmente",
-      "published_at": "2026-09-04T11:34:25Z",
-      "region": "América do Sul",
-      "theme": "Política Brasileira",
-      "source_name": "Poder360",
-      "source_id": "poder360",
-      "is_brazilian": true,
-      "image_url": "https://static.poder360.com.br/uploads/2026/09/flavio-bolsonaro-charles-vieira-25ago2026-1200x675.jpeg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Mass burial reveals hidden toll of Algeria’s deadly ‘Black Wednesday’ wildfires",
-      "link": "https://www.france24.com/en/africa/20260904-mass-burial-algeria-black-wednesday-deadly-wildfires",
-      "summary": "Wildfires ripped across northeastern Algeria in late August. Photos and videos showing the mass burial of several dozen people have raised questions about the real death toll of the fires as Algerian authorities haven’t shared new numbers since August 26. A number of Moroccan social media accounts have also been sharing disinformation about the fires.",
-      "published_at": "2026-09-04T11:33:04Z",
-      "region": "África",
-      "theme": "Outros / Multitemático",
-      "source_name": "France 24",
-      "source_id": "france24",
-      "is_brazilian": false,
-      "image_url": "https://s.france24.com/media/display/a2361f4c-a6ea-11f1-9d5a-005056a90284/w:1024/p:16x9/cover-129.png",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Trump asks SCOTUS to OK changes to mail-in ballots. And, diesel prices hit record high",
-      "link": "https://www.npr.org/2026/09/04/g-s1-141972/up-first-newsletter-usps-mail-in-voting-irs-schools-christian-castro",
-      "summary": "Trump has asked the Supreme Court to lift the block on his plan for the USPS to restrict mail voting ahead of the midterm elections. And, diesel prices have reached a record high.",
-      "published_at": "2026-09-04T11:29:11Z",
-      "region": "América do Norte",
-      "theme": "Política Internacional",
-      "source_name": "NPR World News",
-      "source_id": "npr",
-      "is_brazilian": false,
-      "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7860x4421+0+429/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fca%2F5e%2Fa06a15d64781bbe2cf0df27acbc2%2Fgettyimages-2278806479.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Ao vivo: TSE registra a versão dos programas que será instalada nas urnas",
-      "link": "https://www.poder360.com.br/poder-eleicoes-2026/ao-vivo-tse-registra-a-versao-dos-programas-que-sera-instalada-nas-urnas/",
-      "summary": "Depois da cerimônia, a mídia física que contém os programas será lacrada e armazenada em um cofre",
-      "published_at": "2026-09-04T11:26:05Z",
-      "region": "América do Sul",
-      "theme": "Política Brasileira",
-      "source_name": "Poder360",
-      "source_id": "poder360",
-      "is_brazilian": true,
-      "image_url": "https://static.poder360.com.br/uploads/2026/08/urna-eletronica-1200x675.jpeg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Von der Leyen viaja el domingo a Groenlandia para escenificar el apoyo de la UE tras las amenazas de Trump",
-      "link": "https://www.europapress.es/internacional/noticia-von-der-leyen-viaja-domingo-groenlandia-escenificar-apoyo-ue-amenazas-trump-20260904131954.html",
-      "summary": "La presidenta de la Comisión Europea, Ursula von der Leyen, viajará este domingo y lunes a Nuuk, capital de Groenlandia, para reforzar las relaciones entre la UE y la isla ártica y abordar la creciente importancia estratégica del Ártico, escenificando el apoyo del bloque comunitario a la isla perteneciente a Dinamarca tras las pretensiones anexionistas del presidente de Estados Unidos, Donald Trump, de los últimos meses.",
-      "published_at": "2026-09-04T11:19:54Z",
-      "region": "América do Norte",
-      "theme": "Política Internacional",
-      "source_name": "Europa Press",
-      "source_id": "europa_press",
-      "is_brazilian": false,
-      "image_url": "https://loremflickr.com/cache/resized/65535_54543818406_acc5bc4c15_b_800_600_nofilter.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "'Não tem ninguém certo nessa história': analistas apontam crise sem precedentes e enraizada no STF",
-      "link": "https://www.bbc.com/portuguese/articles/cgrvgd7j7k8o?at_medium=RSS&at_campaign=rss",
-      "summary": "'Aos olhos da sociedade, o tribunal parece estar implodindo', diz cientista política após novo capítulo de crise envolvendo os ministros Alexandre de Moraes e André Mendonça.",
-      "published_at": "2026-09-04T11:19:00Z",
-      "region": "América do Sul",
-      "theme": "Política Brasileira",
-      "source_name": "BBC News Brasil",
-      "source_id": "bbc_brasil",
-      "is_brazilian": true,
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8157/live/11a62000-a83c-11f1-b109-879e35c24276.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Iran war: Why US midterms could be a pivotal moment",
-      "link": "https://www.aljazeera.com/news/2026/9/4/iran-war-why-us-midterms-could-be-a-pivotal-moment?traffic_source=rss",
-      "summary": "Rising prices and opposition to war may pressure Trump to de-escalate until after the midterms, analysts say.",
-      "published_at": "2026-09-04T11:12:51Z",
-      "region": "América do Norte",
-      "theme": "Geopolítica e Segurança",
-      "source_name": "Al Jazeera",
-      "source_id": "aljazeera_english",
-      "is_brazilian": false,
-      "image_url": "https://loremflickr.com/cache/resized/65535_49358535268_b68c7fe52d_b_800_600_nofilter.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Meloni celebra que su Gobierno es el más longevo de la historia y reivindica la coalición de derechas",
-      "link": "https://www.europapress.es/internacional/noticia-meloni-celebra-gobierno-mas-longevo-historia-italia-reivindica-coalicion-derechas-20260904130311.html",
-      "summary": "La primera ministra italiana, Giorgia Meloni, ha celebrado este viernes que su Gobierno se ha convertido en el más longevo de la historia de Italia, reivindicando la coalición de derechas formada por Hermanos de Italia, La Liga y Forza Italia y que lleva en el poder desde octubre de 2022.",
-      "published_at": "2026-09-04T11:03:11Z",
-      "region": "Europa",
-      "theme": "Política Internacional",
-      "source_name": "Europa Press",
-      "source_id": "europa_press",
-      "is_brazilian": false,
-      "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260904130311_120.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
       ]
     }
   ]
