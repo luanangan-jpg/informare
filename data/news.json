@@ -1,6 +1,414 @@
 {
-  "updated_at": "2026-09-04T15:04:21.301946Z",
+  "updated_at": "2026-09-04T16:04:56.564453Z",
   "news": [
+    {
+      "title": "Russia hits Ukrainian security headquarters in drone attack, Zelensky says",
+      "link": "https://www.bbc.co.uk/news/articles/c5yep7y48x2o?at_medium=RSS&at_campaign=rss",
+      "summary": "The unmanned aerial vehicle struck without warning in the heart of the Ukrainian capital.",
+      "published_at": "2026-09-04T16:02:32Z",
+      "region": "Europa",
+      "theme": "Geopolítica e Segurança",
+      "source_name": "BBC World News",
+      "source_id": "bbc_world",
+      "is_brazilian": false,
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/21d4/live/99481b50-a86c-11f1-bbad-43eaf67b94b6.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Casa Branca lança jogos “retrô” sobre deportações e muro de Trump",
+      "link": "https://www.poder360.com.br/poder-internacional/casa-branca-lanca-jogos-retro-sobre-deportacoes-e-muro-de-trump/",
+      "summary": "Plataforma oficial também parodia Sega, Tetris e Flappy Bird para divulgar políticas do governo",
+      "published_at": "2026-09-04T15:58:53Z",
+      "region": "América do Norte",
+      "theme": "Política Internacional",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2026/09/casa-branca-arcade-maga-youtube-1200x675.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Os gráficos que revelam quem são e quanto ganham os trabalhadores de aplicativos no Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/c3d7k452g9xo?at_medium=RSS&at_campaign=rss",
+      "summary": "Valor recebido mensalmente se aproxima da média entre os outros empregados do setor privado, mas jornadas são mais extensas e não há direitos trabalhistas.",
+      "published_at": "2026-09-04T15:52:20Z",
+      "region": "América do Sul",
+      "theme": "Outros / Multitemático",
+      "source_name": "BBC News Brasil",
+      "source_id": "bbc_brasil",
+      "is_brazilian": true,
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3773/live/4deec5c0-a806-11f1-aed2-8d6da8d75094.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Fachin diz que meta é acabar com Inquérito das Fake News e manda tirar acusações contra Mendonça da investigação",
+      "link": "https://www.bbc.com/portuguese/articles/c780jqdep1go?at_medium=RSS&at_campaign=rss",
+      "summary": "Presidente do Supremo também determinou que a PGR se manifeste em até cinco dias úteis sobre o pedido de investigação feito pelo ministro Alexandre de Moraes contra o ministro André Mendonça.",
+      "published_at": "2026-09-04T15:49:27Z",
+      "region": "América do Sul",
+      "theme": "Ciência, Tecnologia e Inovação",
+      "source_name": "BBC News Brasil",
+      "source_id": "bbc_brasil",
+      "is_brazilian": true,
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/272b/live/19136220-a865-11f1-ae45-e9984fc27c77.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1518770660439-4636190af475?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1507668077129-56e32842fceb?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Cade vai rever manobra que permite MSC e Maersk disputarem Tecon 10",
+      "link": "https://www.poder360.com.br/poder-economia/cade-vai-rever-manobra-que-permite-msc-e-maersk-disputarem-tecon-10/",
+      "summary": "Após aprovação da Superintendência-Geral, presidente encaminha proposta ao plenário do Conselho, que pode barrar acordo sobre participação no BTP (Brasil Terminal Portuário)",
+      "published_at": "2026-09-04T15:48:54Z",
+      "region": "América do Sul",
+      "theme": "Política Brasileira",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2026/08/tecon-1200x675.png",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Aoun aplaude la liberación de detenidos libaneses y lo ve un \"primer paso\" en el acuerdo con Israel",
+      "link": "https://www.europapress.es/internacional/noticia-aoun-aplaude-liberacion-detenidos-libaneses-ve-primer-paso-acuerdo-israel-20260904173903.html",
+      "summary": "El presidente de Líbano, Joseph Aoun, ha aplaudido este viernes la liberación de cinco ciudadanos libaneses detenidos por las autoridades de Israel en el sur del país, señalando que se trata de un \"primer paso\" en el marco del acuerdo con Israel, facilitado por Estados Unidos, para retomar la soberanía de su territorio.",
+      "published_at": "2026-09-04T15:39:03Z",
+      "region": "Oriente Médio",
+      "theme": "Direito Internacional e Instituições",
+      "source_name": "Europa Press",
+      "source_id": "europa_press",
+      "is_brazilian": false,
+      "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260904173903_120.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1505664194779-8beaceb93744?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "DF pede ao STF garantia da União para empréstimo ao BRB",
+      "link": "https://www.poder360.com.br/poder-brasil/df-pede-ao-stf-garantia-da-uniao-para-emprestimo-ao-brb/",
+      "summary": "Governo de Celina Leão busca viabilizar operação de R$ 6,6 bilhões com o Fundo Garantidor de Créditos",
+      "published_at": "2026-09-04T15:36:36Z",
+      "region": "América do Sul",
+      "theme": "Política Brasileira",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2026/05/Predio-BRB-1080.png",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "'Italian opposition fragmented: No alternative leader, no other possible leader than Giorgia Meloni'",
+      "link": "https://www.france24.com/en/video/20260904-italian-opposition-fragmented-no-alternative-leader-no-other-possible-leader-than-giorgia-meloni-1",
+      "summary": "Alison Sargent is pleased to welcome Political analyst Lorenzo Pregliasco, co-founder of polling agency YouTrend and adjunct professor at the University of Bologna. He argues that Giorgia Meloni’s unusual longevity in office is best understood not simply as a record of political strength, but as the product of a carefully calibrated governing strategy. Meloni has maintained stability partly by avoiding structural reforms disruptive enough to mobilize multiple constituencies against her at once. Her dominance within Fratelli d’Italia, the absence of a credible alternative leader, and a fragmented opposition have reinforced that advantage.",
+      "published_at": "2026-09-04T15:35:05Z",
+      "region": "Europa",
+      "theme": "Outros / Multitemático",
+      "source_name": "France 24",
+      "source_id": "france24",
+      "is_brazilian": false,
+      "image_url": "https://s.france24.com/media/display/853e8964-a871-11f1-a821-005056a90284/w:1024/p:16x9/EN-20260904-080636-081309-CS.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Nigeria: Suspected oil thieves dead after inhaling fumes",
+      "link": "https://www.dw.com/en/nigeria-suspected-oil-thieves-dead-after-inhaling-fumes/a-79001997?maca=en-rss-en-world-4025-rdf",
+      "summary": "A Nigerian environmental group says that at least 37 people died trying to siphon crude oil off a ship illegally. Police acknowledged a fatal incident but gave fewer details, saying investigations continued.",
+      "published_at": "2026-09-04T15:35:00Z",
+      "region": "África",
+      "theme": "Outros / Multitemático",
+      "source_name": "DW World News",
+      "source_id": "dw_english",
+      "is_brazilian": false,
+      "image_url": "https://static.dw.com/image/79011820_6.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Germany: Hans-Thomas Tillschneider, the ideologist behind the AFD’s plans in Saxony-Anhalt",
+      "link": "https://www.france24.com/en/europe/20260904-germany-hans-thomas-tillschneider-the-ideologist-behind-the-afd-s-plans-in-saxony-anhalt",
+      "summary": "The far-right German political party Alternative for Germany could win a historical victory in the eastern state of Saxony-Anhalt in key elections this Sunday. The party’s agenda is more radical than ever and inspired by the proposals of an influential ideologist in the region: Hans-Thomas Tillschneider.",
+      "published_at": "2026-09-04T15:34:36Z",
+      "region": "Europa",
+      "theme": "Política Internacional",
+      "source_name": "France 24",
+      "source_id": "france24",
+      "is_brazilian": false,
+      "image_url": "https://s.france24.com/media/display/d6490a76-a6e3-11f1-a0d9-005056a97e36/w:1024/p:16x9/Tillschneider.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Hamás denuncia el plan de Ben Gvir para desplazar a la población palestina de Gaza",
+      "link": "https://www.europapress.es/internacional/noticia-hamas-denuncia-plan-ben-gvir-desplazar-poblacion-palestina-gaza-20260904173410.html",
+      "summary": "El Movimiento de Resistencia Islámica (Hamás) ha denunciado este viernes que el plan propuesto por el ministro de Seguridad Nacional israelí, Itamar Ben Gvir, para desplazar a la población gazatí demuestra que Israel no ha renunciado a sus intenciones de expansión y control, sino que busca promoverlas de forma estratégica para \"favorecer sus intereses políticos y electorales\".",
+      "published_at": "2026-09-04T15:34:10Z",
+      "region": "Oriente Médio",
+      "theme": "Outros / Multitemático",
+      "source_name": "Europa Press",
+      "source_id": "europa_press",
+      "is_brazilian": false,
+      "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260904173410_120.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "UN raises ‘ethnic cleansing’ concerns over Israeli West Bank operation",
+      "link": "https://www.aljazeera.com/news/2026/9/4/un-raises-ethnic-cleansing-concerns-over-israeli-west-bank-operation?traffic_source=rss",
+      "summary": "More than 33,000 Palestinian refugees remain displaced since Israel launched Operation Iron Wall.",
+      "published_at": "2026-09-04T15:31:54Z",
+      "region": "Oriente Médio",
+      "theme": "Direito Internacional e Instituições",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2025/02/AFP__20250223__36YG63E__v1__Preview__PalestinianIsraelConflict-1740406413.jpg?resize=1200%2C630",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1505664194779-8beaceb93744?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Trump envoys Witkoff, Kushner to visit Russia and Ukraine in coming days",
+      "link": "https://www.france24.com/en/video/20260904-trump-envoys-witkoff-kushner-to-visit-russia-and-ukraine-in-coming-days",
+      "summary": "US President Donald Trump's envoys Steve Witkoff and Jared Kushner are expected to arrive in Kyiv for a first-time visit on Sunday, several sources reported. Witkoff and Kushner – Trump's son-in-law – have been involved in shuttle diplomacy between Russia and Ukraine, travelling to Moscow multiple times, and are expected to visit Kyiv this weekend. FRANCE 24's International Affairs Commentator Kethevane Gorjestani tells us more.",
+      "published_at": "2026-09-04T15:29:52Z",
+      "region": "Europa",
+      "theme": "Política Internacional",
+      "source_name": "France 24",
+      "source_id": "france24",
+      "is_brazilian": false,
+      "image_url": "https://s.france24.com/media/display/eeb14596-a874-11f1-adb2-005056a97e36/w:1024/p:16x9/EN-20260904-170306-170518-CS.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Diesel price hits all-time high in US amid Iran war woes",
+      "link": "https://www.aljazeera.com/economy/2026/9/4/diesel-price-hits-all-time-high-in-us-amid-iran-war-woes?traffic_source=rss",
+      "summary": "Price of gasoline also sets new record for Labor Day weekend ahead of crucial midterm elections in November.",
+      "published_at": "2026-09-04T15:28:28Z",
+      "region": "América do Norte",
+      "theme": "Geopolítica e Segurança",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/09/AP26247439721726-1788528709.jpg?resize=1200%2C675",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Sem citar Moraes, Lula diz que “ninguém pode usar cargo em benefício pessoal”",
+      "link": "https://www.poder360.com.br/poder-governo/sem-citar-moraes-lula-diz-que-ninguem-pode-usar-cargo-em-beneficio-pessoal/",
+      "summary": "Em sanção de leis que criam fundos para o Judiciário, petista faz referência à crise no STF e fala sobre reforma no Judiciário",
+      "published_at": "2026-09-04T15:28:09Z",
+      "region": "América do Sul",
+      "theme": "Política Brasileira",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2026/09/INSS-Fila-Lula-WolneyQueiroz-AnaCristinaVianaSilveira-44-scaled-1-1200x675.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Com crise no STF, Fachin afirma que ninguém está acima da Constituição",
+      "link": "https://www.poder360.com.br/poder-justica/com-crise-no-stf-fachin-afirma-que-ninguem-esta-acima-da-constituicao/",
+      "summary": "Presidente do Supremo declara que ritos legais devem ser respeitados e que nenhum Poder se sobrepõe à lei",
+      "published_at": "2026-09-04T15:27:33Z",
+      "region": "América do Sul",
+      "theme": "Política Brasileira",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2026/09/edson-fachin-stf-4set2026-2-1200x675.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "On the ground: Russian drone strikes Ukraine security service headquarters in Kyiv",
+      "link": "https://www.france24.com/en/video/20260904-on-the-ground-russian-drone-strikes-ukraine-security-service-headquarters-in-kyiv",
+      "summary": "A Russian drone struck the headquarters of Ukraine's SBU security services on Friday, Ukrainian President Volodymyr Zelensky said, accusing Moscow of aiming directly at the SBU head's personal office. Zelensky said he had instructed the SBU to deliver an \"appropriate, tangible response\" to the strike, while Ukraine's Foreign Minister Andriy Sybiga described it as a \"major escalation\". FRANCE 24's Emmanuelle Chaze reports from Kyiv, Ukraine.",
+      "published_at": "2026-09-04T15:24:33Z",
+      "region": "Europa",
+      "theme": "Política Internacional",
+      "source_name": "France 24",
+      "source_id": "france24",
+      "is_brazilian": false,
+      "image_url": "https://s.france24.com/media/display/14b50efe-a874-11f1-a60d-005056a97e36/w:1024/p:16x9/EN-20260904-160145-160455-CS.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "US rejects Israeli suggestions of removing Palestinians from Gaza",
+      "link": "https://www.aljazeera.com/news/2026/9/4/us-rejects-israeli-suggestions-of-removing-palestinians-from-gaza?traffic_source=rss",
+      "summary": "US State Department tells Al Jazeera Washington 'does not support any plan' for the expulsion of Palestinians.",
+      "published_at": "2026-09-04T15:24:13Z",
+      "region": "Oriente Médio",
+      "theme": "Outros / Multitemático",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/09/AP26229640996307-1788535049.jpg?resize=1200%2C675",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Ethan Hawke leads the charge at Deauville's 52nd American Film Festival",
+      "link": "https://www.france24.com/en/tv-shows/arts24/20260904-ethan-hawke-leads-the-charge-at-deauville-s-52nd-american-film-festival",
+      "summary": "The Normandy coast has become Hollywood-sur-mer once again, as the annual film festival welcomes talent from the United States. FRANCE 24's Genie Godula takes time out from hosting the opening ceremony in Deauville to bring us an overview of the features screening there.",
+      "published_at": "2026-09-04T15:19:41Z",
+      "region": "América do Norte",
+      "theme": "Cultura, Mídia e Sociedade",
+      "source_name": "France 24",
+      "source_id": "france24",
+      "is_brazilian": false,
+      "image_url": "https://s.france24.com/media/display/45693300-a869-11f1-b51c-005056a97e36/w:1024/p:16x9/capture-5412786466a9acf7718eba9-73554450.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1460661419201-fd4cecdf8a8b?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1508700115892-45ecd05ae2ad?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Israel releases five detainees to Lebanon after US-mediated negotiations",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/4/09-04-israel-lebanon-detainees-minisv-mp4?traffic_source=rss",
+      "summary": "Israel has released five people to Lebanon after US-mediated negotiations. Dozens of Lebanese remain detained by Israel.",
+      "published_at": "2026-09-04T15:16:34Z",
+      "region": "Oriente Médio",
+      "theme": "Outros / Multitemático",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1788534843.jpg?resize=1920%2C1080&quality=80",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "France announces €1 billion aid for farmers after climate-hit summer",
+      "link": "https://www.france24.com/en/video/20260904-france-announces-%E2%82%AC1-billion-aid-for-farmers-after-climate-hit-summer",
+      "summary": "France has recorded its hottest summer on record this year as the country battled heatwaves, drought and massive wildfires. The extreme weather has continued into September, with France's national weather service placing five departments on orange alert for several days. Temperatures are expected to reach 40°C in some areas. France's agriculture minister also announced a plan to unlock over 1 billion euros in aid to the agriculture sector, which has been severely affected by the extreme weather.",
+      "published_at": "2026-09-04T15:12:29Z",
+      "region": "Europa",
+      "theme": "Meio Ambiente e Clima",
+      "source_name": "France 24",
+      "source_id": "france24",
+      "is_brazilian": false,
+      "image_url": "https://s.france24.com/media/display/c99f3b88-9405-11f1-b7f4-005056bfb2b6/w:1024/p:16x9/000-C47N79E.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "“Gravidade dos fatos não autoriza atalhos”, diz Fachin sobre STF",
+      "link": "https://www.poder360.com.br/poder-justica/gravidade-dos-fatos-nao-autoriza-atalhos-diz-fachin-sobre-stf/",
+      "summary": "Presidente do Supemo afirma que não haverá omissão e que resposta da Corte será “firme, proporcional e rigorosa”",
+      "published_at": "2026-09-04T15:10:17Z",
+      "region": "América do Sul",
+      "theme": "Política Brasileira",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2026/09/edson-fachin-stf-4set2026-3-1200x675.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "🔴 Russian drone ‘aimed directly’ at Ukraine security service HQ",
+      "link": "https://www.france24.com/en/europe/20260904-russian-drone-aimed-directly-at-ukraine-security-service-hq-zelensky-says",
+      "summary": "",
+      "published_at": "2026-09-04T15:07:42Z",
+      "region": "Europa",
+      "theme": "Outros / Multitemático",
+      "source_name": "France 24",
+      "source_id": "france24",
+      "is_brazilian": false,
+      "image_url": "https://s.france24.com/media/display/98c1f192-a871-11f1-b1a8-005056a90284/w:1024/p:16x9/AP26247511529412.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Fachin diz que crise no STF torna urgente fim do inquérito das fake news",
+      "link": "https://www.poder360.com.br/poder-justica/fachin-diz-que-crise-no-stf-torna-urgente-fim-do-inquerito-das-fake-news/",
+      "summary": "Sem citar Moraes ou Mendonça, presidente da Corte inclui encerramento da investigação entre 3 prioridades reforçadas pelos “acontecimentos recentes” no Supremo; diz que “a gravidade dos fatos não autoriza atalhos\"",
+      "published_at": "2026-09-04T15:06:06Z",
+      "region": "América do Sul",
+      "theme": "Política Brasileira",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2026/09/edson-fachin-stf-4set2026-1-1200x675.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
     {
       "title": "Strengthening Africa is an investment in Europe's future: EU Commissioner Jozef Sikela",
       "link": "https://www.france24.com/en/tv-shows/talking-europe/20260904-strengthening-africa-is-an-investment-in-europe-s-future-eu-commissioner-jozef-sikela",
@@ -70,9 +478,26 @@
       ]
     },
     {
+      "title": "Israel frees four more Lebanese prisoners in Red Cross-mediated handover",
+      "link": "https://www.aljazeera.com/news/2026/9/4/israel-frees-four-more-lebanese-prisoners-in-red-cross-mediated-handover?traffic_source=rss",
+      "summary": "Lebanese President Joseph Aoun praises the release and thanks US President Donald Trump for his efforts.",
+      "published_at": "2026-09-04T14:50:55Z",
+      "region": "Oriente Médio",
+      "theme": "Política Internacional",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/09/afp_6a9abdc9a1fe-1788526025.jpg?resize=1920%2C1440",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
       "title": "Resposta à crise no STF será firme e sem omissão, diz Fachin",
       "link": "https://www.poder360.com.br/poder-justica/resposta-a-crise-no-stf-sera-firme-e-sem-omissao-diz-fachin/",
-      "summary": "Em evento no Palácio do Planalto, o presidente do Supremo disse que “não haverá precipitação, tampouco omissão”",
+      "summary": "Em evento no Palácio do Planalto, o presidente do Supremo disse que “não haverá precipitação\"; não citou Moraes ou Mendonça nominalmente",
       "published_at": "2026-09-04T14:50:22Z",
       "region": "América do Sul",
       "theme": "Política Brasileira",
@@ -135,6 +560,23 @@
         "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "'A rare moment of joy': Nepal tunnel rescues bring hope for more flood survivors",
+      "link": "https://www.bbc.co.uk/news/videos/cd79vp91321o?at_medium=RSS&at_campaign=rss",
+      "summary": "There are still hundreds of workers trapped in a network of tunnels that run along the Trishuli river.",
+      "published_at": "2026-09-04T14:40:00Z",
+      "region": "Ásia",
+      "theme": "Meio Ambiente e Clima",
+      "source_name": "BBC World News",
+      "source_id": "bbc_world",
+      "is_brazilian": false,
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b6de/live/4f7a6c30-a871-11f1-aed2-8d6da8d75094.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?q=80&w=800&auto=format&fit=crop"
       ]
     },
     {
@@ -339,23 +781,6 @@
         "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Russian drone ‘aimed directly’ at Ukraine security service HQ, Zelensky says",
-      "link": "https://www.france24.com/en/europe/20260904-russian-drone-aimed-directly-at-ukraine-security-service-hq-zelensky-says",
-      "summary": "A Russian drone struck the headquarters of Ukraine's SBU security services in Kyiv on Friday afternoon, said Ukrainian President Volodymyr Zelensky, injuring five people. The attack followed a series of deadly overnight strikes across Ukraine, including the southern Odesa region.",
-      "published_at": "2026-09-04T13:59:22Z",
-      "region": "Europa",
-      "theme": "Geopolítica e Segurança",
-      "source_name": "France 24",
-      "source_id": "france24",
-      "is_brazilian": false,
-      "image_url": "https://s.france24.com/media/display/98c1f192-a871-11f1-b1a8-005056a90284/w:1024/p:16x9/AP26247511529412.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
       ]
     },
     {
@@ -2124,431 +2549,6 @@
         "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "El Niño: Taesa se prepara para vendavais no Sul e queimadas no NE",
-      "link": "https://www.poder360.com.br/poder-energia/el-nino-taesa-se-prepara-para-vendavais-no-sul-e-queimadas-no-ne/",
-      "summary": "Empresa de transmissão destinou R$ 15 milhões a medidas de manutenção e resiliência para eventos extremos nos últimos 2 anos",
-      "published_at": "2026-09-04T09:00:01Z",
-      "region": "América do Sul",
-      "theme": "Outros / Multitemático",
-      "source_name": "Poder360",
-      "source_id": "poder360",
-      "is_brazilian": true,
-      "image_url": "https://static.poder360.com.br/uploads/2026/09/sede-taesa-assis-1200x675.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "BBC entra em área do Líbano onde Israel avança com tropas e demolições apesar de cessar-fogo",
-      "link": "https://www.bbc.com/portuguese/articles/cvgyp5xpmmlo?at_medium=RSS&at_campaign=rss",
-      "summary": "Equipe da BBC acompanhou missão humanitária da ONU, que diz que Israel reforça suas posições e segue demolindo estruturas.",
-      "published_at": "2026-09-04T08:40:21Z",
-      "region": "Oriente Médio",
-      "theme": "Direito Internacional e Instituições",
-      "source_name": "BBC News Brasil",
-      "source_id": "bbc_brasil",
-      "is_brazilian": true,
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/244e/live/cb535520-a7a3-11f1-b109-879e35c24276.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1505664194779-8beaceb93744?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Why has the Philippine peso plunged to a record low?",
-      "link": "https://www.aljazeera.com/economy/2026/9/4/why-has-the-philippines-peso-plunged-to-a-record-low?traffic_source=rss",
-      "summary": "The Southeast Asian country's currency has plummeted amid the fallout of the Iran war and economic challenges at home.",
-      "published_at": "2026-09-04T08:38:34Z",
-      "region": "Ásia",
-      "theme": "Geopolítica e Segurança",
-      "source_name": "Al Jazeera",
-      "source_id": "aljazeera_english",
-      "is_brazilian": false,
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/09/2018-09-20T025355Z_1264112844_RC1AE4678CF0_RTRMADP_3_PHILIPPINES-ECONOMY-REMITTANCES-1788497827_44e024-1788497959.jpg?resize=1200%2C630&quality=80",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "EEUU eleva a más de 90 los buques intervenidos en el marco de su bloqueo a Irán en el estrecho de Ormuz",
-      "link": "https://www.europapress.es/internacional/noticia-eeuu-eleva-mas-90-buques-intervenidos-marco-bloqueo-iran-estrecho-ormuz-20260904103433.html",
-      "summary": "El Ejército de Estados Unidos ha elevado a más de 90 los buques contra los que ha intervenido en el marco de su bloqueo en el estrecho de Ormuz, incluidos 87 que han sido \"redirigidos\" en la zona, en medio del conflicto abierto con Irán tras la ofensiva sorpresa lanzada el 28 de febrero junto a Israel contra el país asiático.",
-      "published_at": "2026-09-04T08:34:33Z",
-      "region": "América do Norte",
-      "theme": "Geopolítica e Segurança",
-      "source_name": "Europa Press",
-      "source_id": "europa_press",
-      "is_brazilian": false,
-      "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260904103433_120.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Reino Unido reitera que las Malvinas \"son británicas\" y recalca su \"compromiso inquebrantable\" con las islas",
-      "link": "https://www.europapress.es/internacional/noticia-reino-unido-reitera-malvinas-son-britanicas-recalca-compromiso-inquebrantable-islas-20260904102706.html",
-      "summary": "El Gobierno de Reino Unido ha subrayado este viernes que las Islas Malvinas \"son británicas\" y ha afirmado que su compromiso con el archipiélago \"es absoluto e inquebrantable\", después de que el presidente de Argentina, Javier Milei, apuntara a \"vientos de cambio favorables\" sobre la disputa y anunciara sanciones para petroleras que operen en la zona sin permiso de Buenos Aires.",
-      "published_at": "2026-09-04T08:27:06Z",
-      "region": "Europa",
-      "theme": "Política Internacional",
-      "source_name": "Europa Press",
-      "source_id": "europa_press",
-      "is_brazilian": false,
-      "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260904102706_120.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "'Layer upon layer of miracles': How Nepal flood survivors were rescued from tunnel",
-      "link": "https://www.bbc.co.uk/news/articles/c9dwjv96qyqo?at_medium=RSS&at_campaign=rss",
-      "summary": "From searching for a buried tunnel entrance to blowing up rocks the size of cars, rescuers had to surmount multiple challenges to reach survivors.",
-      "published_at": "2026-09-04T08:23:05Z",
-      "region": "Ásia",
-      "theme": "Meio Ambiente e Clima",
-      "source_name": "BBC World News",
-      "source_id": "bbc_world",
-      "is_brazilian": false,
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4f9c/live/c6815740-a83e-11f1-a291-b542ee92de7c.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "La Casa Blanca habilita en su web juegos sobre la agenda de Trump, incluidos el muro y la deportación de migrantes",
-      "link": "https://www.europapress.es/internacional/noticia-casa-blanca-habilita-web-juegos-agenda-trump-incluidos-muro-deportacion-migrantes-20260904100937.html",
-      "summary": "La Casa Blanca ha habilitado en las últimas horas en su página web un apartado bajo el nombre de 'Arcade', con cinco juegos que promueven diferentes aspectos de la agenda política del presidente de Estados Unidos, Donald Trump, y que permiten a los usuarios \"construir un muro\" y perseguir a supuestos migrantes en situación irregular.",
-      "published_at": "2026-09-04T08:09:37Z",
-      "region": "América do Norte",
-      "theme": "Política Internacional",
-      "source_name": "Europa Press",
-      "source_id": "europa_press",
-      "is_brazilian": false,
-      "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260904100937_120.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Russia intensifies attacks on Ukraine's capital",
-      "link": "https://www.npr.org/2026/09/04/nx-s1-5955596/russia-intensifies-attacks-on-ukraines-capital",
-      "summary": "In Ukraine, a week of near-continuous Russian attacks is upending the lives of residents in Kyiv and its suburbs.",
-      "published_at": "2026-09-04T08:00:24Z",
-      "region": "Europa",
-      "theme": "Outros / Multitemático",
-      "source_name": "NPR World News",
-      "source_id": "npr",
-      "is_brazilian": false,
-      "image_url": "https://media.npr.org/include/images/facebook-default-wide-s1400-c85.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "“Vamos para a rua”, diz fundador da Petz sobre caso Moraes-Vorcaro",
-      "link": "https://www.poder360.com.br/poder-gente/vamos-para-a-rua-diz-fundador-da-petz-sobre-caso-moraes-vorcaro/",
-      "summary": "Sergio Zimerman critica pedido de Gonet para anular relatório da PF e diz que país vive “sem-vergonhice”",
-      "published_at": "2026-09-04T07:54:37Z",
-      "region": "América do Sul",
-      "theme": "Política Brasileira",
-      "source_name": "Poder360",
-      "source_id": "poder360",
-      "is_brazilian": true,
-      "image_url": "https://static.poder360.com.br/uploads/2026/09/sergio-zimerman-instagram-1200x675.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Policía de Alemania sospecha de un posible sabotaje tras hallar otro artefacto sospechoso en una subestación eléctrica",
-      "link": "https://www.europapress.es/internacional/noticia-policia-sospecha-posible-sabotaje-hallar-otro-artefacto-sospechoso-subestacion-electrica-20260904095057.html",
-      "summary": "La Policía de Alemania sospecha de un posible nuevo caso de sabotaje tras hallar otro artefacto sospechoso en una subestación eléctrica en la localidad de Dormagen, situada entre Colonia y Dusseldorf, horas después de un caso similar en Brandenburgo y ante especulaciones de las autoridades sobre planes \"anticonstitucionales\".",
-      "published_at": "2026-09-04T07:50:57Z",
-      "region": "Europa",
-      "theme": "Direito Internacional e Instituições",
-      "source_name": "Europa Press",
-      "source_id": "europa_press",
-      "is_brazilian": false,
-      "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260904095057_120.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1505664194779-8beaceb93744?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Video: Workers rescued from hydro tunnel nine days after Nepal flooding",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/4/video-workers-rescued-from-hydro-tunnel-nine-days-after-nepal-flooding?traffic_source=rss",
-      "summary": "Two workers have been pulled alive from a hydropower tunnel nine days after deadly flash flooding hit Nepal.",
-      "published_at": "2026-09-04T07:46:48Z",
-      "region": "Ásia",
-      "theme": "Outros / Multitemático",
-      "source_name": "Al Jazeera",
-      "source_id": "aljazeera_english",
-      "is_brazilian": false,
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1788507983.jpg?resize=1920%2C1080&quality=80",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Las fuerzas de Israel matan a un palestino tras un supuesto intento de apuñalamiento en Jerusalén",
-      "link": "https://www.europapress.es/internacional/noticia-fuerzas-israel-matan-palestino-supuesto-intento-apunalamiento-jerusalen-20260904094334.html",
-      "summary": "Las autoridades de Israel han matado a tiros este viernes a un palestino después de que supuestamente intentara llevar a cabo un apuñalamiento cerca de una de las puertas de acceso a la Ciudad Vieja de Jerusalén.",
-      "published_at": "2026-09-04T07:43:34Z",
-      "region": "Oriente Médio",
-      "theme": "Direito Internacional e Instituições",
-      "source_name": "Europa Press",
-      "source_id": "europa_press",
-      "is_brazilian": false,
-      "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260904094334_120.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1505664194779-8beaceb93744?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Por que a Holanda retirou US$ 12 bilhões em ouro dos EUA e do Canadá",
-      "link": "https://www.bbc.com/portuguese/articles/c7v4nn87vp9o?at_medium=RSS&at_campaign=rss",
-      "summary": "Banco central dos Países Baixos transferiu 86 toneladas de suas reservas de ouro para Londres; mas por quê?",
-      "published_at": "2026-09-04T07:41:04Z",
-      "region": "América do Norte",
-      "theme": "Economia Internacional",
-      "source_name": "BBC News Brasil",
-      "source_id": "bbc_brasil",
-      "is_brazilian": true,
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/14d7/live/19860b20-a6e6-11f1-b109-879e35c24276.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Corea del Sur confirma que sopesa medidas militares en el estrecho de Ormuz pero niega una decisión final",
-      "link": "https://www.europapress.es/internacional/noticia-corea-sur-confirma-sopesa-medidas-militares-estrecho-ormuz-niega-decision-final-20260904093515.html",
-      "summary": "La Presidencia de Corea del Sur ha confirmado este viernes que está analizando opciones, incluidas medidas militares, para apoyar la libertad de navegación en el estrecho de Ormuz, si bien ha descartado que haya tomado una decisión al respecto, ante las recientes presiones por parte del presidente de Estados Unidos, Donald Trump, sobre Seúl, incluida una reducción de las maniobras militares conjuntas.",
-      "published_at": "2026-09-04T07:35:15Z",
-      "region": "América do Norte",
-      "theme": "Política Internacional",
-      "source_name": "Europa Press",
-      "source_id": "europa_press",
-      "is_brazilian": false,
-      "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260904093515_120.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Why Pakistan overhauled its military command structure after five decades",
-      "link": "https://www.aljazeera.com/news/2026/9/4/why-pakistan-overhauled-its-military-command-structure-after-five-decades?traffic_source=rss",
-      "summary": "New legislation gives Pakistan's military chief sweeping command powers, raising questions about oversight.",
-      "published_at": "2026-09-04T07:30:56Z",
-      "region": "Ásia",
-      "theme": "Geopolítica e Segurança",
-      "source_name": "Al Jazeera",
-      "source_id": "aljazeera_english",
-      "is_brazilian": false,
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/08/AM-ISPR-1787584328.jpg?resize=1200%2C675",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Zverev goes distance to scrape into third round as upsets rock US Open",
-      "link": "https://www.aljazeera.com/sports/2026/9/4/zverev-goes-distance-to-scrape-into-third-round-as-upsets-rock-us-open?traffic_source=rss",
-      "summary": "Men's third seed Felix Auger-Aliassime goes out, along with sixth-seed Alex de Minaur and 13th-seed Lorenzo Musetti.",
-      "published_at": "2026-09-04T07:27:15Z",
-      "region": "América do Norte",
-      "theme": "Outros / Multitemático",
-      "source_name": "Al Jazeera",
-      "source_id": "aljazeera_english",
-      "is_brazilian": false,
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/09/epa_6a9a71db2d15-1788506587_e53060-1788506691.jpg?resize=1200%2C630&quality=80",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Why early warning signs of glacier collapse in Nepal were difficult to detect",
-      "link": "https://www.france24.com/en/asia-pacific/20260904-nepal-why-early-warning-signs-of-glacier-collapse-were-difficult-to-detect",
-      "summary": "The glacier collapse that led to devastating flash floods across the Himalayan region of Nepal and its border with the Chinese autonomous region of Tibet on August 26 was preceded by early warning signs, experts say. But monitoring and emergency alert systems in the region are still insufficient to predict such disasters.",
-      "published_at": "2026-09-04T07:24:28Z",
-      "region": "Ásia",
-      "theme": "Outros / Multitemático",
-      "source_name": "France 24",
-      "source_id": "france24",
-      "is_brazilian": false,
-      "image_url": "https://s.france24.com/media/display/37302d74-a7b1-11f1-b839-005056bf30b7/w:1024/p:16x9/AP26242130815701.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "100 influencers invited to US Open spark debate on 'tennis etiquette'",
-      "link": "https://www.bbc.co.uk/sport/tennis/articles/cy8zqd4zg14o?at_medium=RSS&at_campaign=rss",
-      "summary": "The behaviour of influencers and content creators has become a major talking point at this year's US Open amid incidents of matches being disrupted.",
-      "published_at": "2026-09-04T07:16:07Z",
-      "region": "América do Norte",
-      "theme": "Outros / Multitemático",
-      "source_name": "BBC World News",
-      "source_id": "bbc_world",
-      "is_brazilian": false,
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1c0b/live/aa385610-a843-11f1-b3a7-d5de760fef6e.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Muere una persona en un \"ataque masivo\" de Rusia contra Odesa, en el sur de Ucrania",
-      "link": "https://www.europapress.es/internacional/noticia-muere-persona-ataque-masivo-rusia-contra-odesa-sur-ucrania-20260904091324.html",
-      "summary": "Al menos una persona ha muerto y otras cinco han resultado heridas este viernes a causa de un \"ataque masivo\" lanzado por el Ejército de Rusia contra la provincia ucraniana de Odesa (sur), según han denunciado las autoridades, en el marco de la guerra desatada en febrero de 2022 por la orden de invasión firmada por el presidente ruso, Vladimir Putin.",
-      "published_at": "2026-09-04T07:13:24Z",
-      "region": "Europa",
-      "theme": "Geopolítica e Segurança",
-      "source_name": "Europa Press",
-      "source_id": "europa_press",
-      "is_brazilian": false,
-      "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260904091324_120.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "USS Lincoln crew hits the streets of Thailand's Pattaya after nine-month deployment",
-      "link": "https://www.france24.com/en/asia-pacific/20260904-uss-lincoln-crew-hits-the-streets-of-thailand-pattaya-after-nine-month-deployment",
-      "summary": "US sailors and Marines streamed into the Thai resort city of Pattaya Thursday after a record-breaking nine months at sea. Local police said there had so far been no major incidents connected to the 5,000-strong contingent of US service members, though two sailors were sent back to the ship after a drunken bar brawl.",
-      "published_at": "2026-09-04T07:02:55Z",
-      "region": "Ásia",
-      "theme": "Outros / Multitemático",
-      "source_name": "France 24",
-      "source_id": "france24",
-      "is_brazilian": false,
-      "image_url": "https://s.france24.com/media/display/6dc92066-a829-11f1-87f8-005056bfb2b6/w:1024/p:16x9/2026-09-03T151123Z-151811266-RC2MBNAFAEVC-RTRMADP-3-IRAN-CRISIS-THAILAND-USA.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Volkswagen board approves plan to cut another 50,000 jobs",
-      "link": "https://www.bbc.co.uk/news/articles/cx2z0kvy4n4o?at_medium=RSS&at_campaign=rss",
-      "summary": "The group - which includes Audi, Porsche, Skoda as well as the VW brand - plans to cut a total of 100,000 posts by 2030.",
-      "published_at": "2026-09-04T07:00:10Z",
-      "region": "Global",
-      "theme": "Outros / Multitemático",
-      "source_name": "BBC World News",
-      "source_id": "bbc_world",
-      "is_brazilian": false,
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b1a3/live/90a60580-a7fd-11f1-b109-879e35c24276.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Rescatadas con vida dos personas nueve días después de las inundaciones en Nepal, que dejan casi 1.300 muertos",
-      "link": "https://www.europapress.es/internacional/noticia-rescatadas-vida-dos-personas-nueve-dias-despues-inundaciones-nepal-dejan-casi-1300-muertos-20260904085723.html",
-      "summary": "Las autoridades de Nepal han anunciado este viernes el rescate con vida de dos personas que quedaron atrapadas en un túnel sepultado por la devastadora inundación registrada el 26 de agosto en el norte del país, en la frontera con China, una tragedia que deja ya cerca de 1.300 muertos, según el último balance.",
-      "published_at": "2026-09-04T06:57:23Z",
-      "region": "Ásia",
-      "theme": "Meio Ambiente e Clima",
-      "source_name": "Europa Press",
-      "source_id": "europa_press",
-      "is_brazilian": false,
-      "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260904085723_120_v3.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Nepal floods: How DNA identification of bodies works",
-      "link": "https://www.aljazeera.com/news/2026/9/4/nepal-floods-how-does-dna-identification-of-bodies-work?traffic_source=rss",
-      "summary": "DNA testing helps identify bodies that may be unrecognisable due to mutilation and decomposition.",
-      "published_at": "2026-09-04T06:56:11Z",
-      "region": "Ásia",
-      "theme": "Outros / Multitemático",
-      "source_name": "Al Jazeera",
-      "source_id": "aljazeera_english",
-      "is_brazilian": false,
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/09/ap_6a99817ad4376-1788445050.jpg?resize=1920%2C1440",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Argentine leader threatens to sanction oil firms and reiterates Falklands claim",
-      "link": "https://www.bbc.co.uk/news/articles/clyk18g1l8ko?at_medium=RSS&at_campaign=rss",
-      "summary": "Javier Milei reiterates his country's claim on the British overseas territory, saying the \"winds of change\" favour it.",
-      "published_at": "2026-09-04T06:52:29Z",
-      "region": "América do Sul",
-      "theme": "Outros / Multitemático",
-      "source_name": "BBC World News",
-      "source_id": "bbc_world",
-      "is_brazilian": false,
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c8fe/live/0bcf13d0-a84b-11f1-b109-879e35c24276.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Serbia inicia preparativos para el funeral de Ratko Mladic tras la llegada de su cadáver a Belgrado",
-      "link": "https://www.europapress.es/internacional/noticia-serbia-inicia-preparativos-funeral-ratko-mladic-llegada-cadaver-belgrado-20260904084213.html",
-      "summary": "Las autoridades de Serbia han iniciado los preparativos para la celebración del funeral del excomandante serbobosnio Ratko Mladic, fallecido el 27 de agosto mientras cumplía pena en una cárcel de La Haya tras ser condenado por crímenes de guerra y contra la humanidad, después de la llegada el jueves de su cadáver al aeropuerto de la capital, Belgrado, en un avión gubernamental.",
-      "published_at": "2026-09-04T06:42:13Z",
-      "region": "Europa",
-      "theme": "Geopolítica e Segurança",
-      "source_name": "Europa Press",
-      "source_id": "europa_press",
-      "is_brazilian": false,
-      "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260904084213_120.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
       ]
     }
   ]
