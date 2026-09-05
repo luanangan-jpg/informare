@@ -1,6 +1,261 @@
 {
-  "updated_at": "2026-09-05T18:04:51.519380Z",
+  "updated_at": "2026-09-05T19:03:49.516793Z",
   "news": [
+    {
+      "title": "US envoys meet Putin in Moscow for Ukraine talks",
+      "link": "https://www.bbc.co.uk/news/articles/cx2zqp46g8eo?at_medium=RSS&at_campaign=rss",
+      "summary": "Footage shows Vladimir Putin greeting Steve Witkoff and Jared Kushner, before saying the current situation \"is not so easy\".",
+      "published_at": "2026-09-05T19:01:31Z",
+      "region": "Europa",
+      "theme": "Política Internacional",
+      "source_name": "BBC World News",
+      "source_id": "bbc_world",
+      "is_brazilian": false,
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d7d/live/1a5083e0-a953-11f1-adf0-6d46cbf5ba37.png",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Nepal resgata 2 sobreviventes 10 dias depois de enchentes",
+      "link": "https://www.poder360.com.br/poder-internacional/nepal-resgata-2-sobreviventes-10-dias-depois-de-enchentes/",
+      "summary": "Desastre provocou mais de 1.300 mortes; centenas de trabalhadores ficaram presos em túneis no país",
+      "published_at": "2026-09-05T19:00:05Z",
+      "region": "Ásia",
+      "theme": "Meio Ambiente e Clima",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2026/09/Resgate_mulher_Nepal_5.set_.2026-1200x675.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Marinho não assina impeachment contra Moraes e cita risco de anulação",
+      "link": "https://www.poder360.com.br/poder-congresso/marinho-nao-assina-impeachment-contra-moraes-e-cita-risco-de-anulacao/",
+      "summary": "Oposição pressiona Davi Alcolumbre por impeachment de Moraes após divulgação de mensagens entre ministro do STF e Vorcaro",
+      "published_at": "2026-09-05T18:57:20Z",
+      "region": "América do Sul",
+      "theme": "Política Brasileira",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2025/12/Rogerio-Marinho-2.dez_.2025-Jefferson-Rudy-Agencia-Senado.jpeg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Syria's former dictator Bashar Assad was sentenced to death for crimes against his own people. But for many civil war survivors, it's not enough",
+      "link": "https://www.dw.com/en/syria-s-former-dictator-bashar-assad-was-sentenced-to-death-for-crimes-against-his-own-people-but-for-many-civil-war-survivors-it-s-not-enough/a-78985915?maca=en-rss-en-world-4025-rdf",
+      "summary": "In July, a Syrian court sentenced former dictator Bashar Assad to death for crimes against his own people. But after 14 years of civil war, many survivors are demanding more when it comes to transitional justice.",
+      "published_at": "2026-09-05T18:56:00Z",
+      "region": "Oriente Médio",
+      "theme": "Geopolítica e Segurança",
+      "source_name": "DW World News",
+      "source_id": "dw_english",
+      "is_brazilian": false,
+      "image_url": "https://static.dw.com/image/78814241_6.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "US hits three Iranian oil tankers after saying its warships were targeted",
+      "link": "https://www.bbc.co.uk/news/articles/cj64rrne643o?at_medium=RSS&at_campaign=rss",
+      "summary": "The strikes come nearly a week after fighting between the US and Iran flared again following weeks of relative calm.",
+      "published_at": "2026-09-05T18:48:37Z",
+      "region": "América do Norte",
+      "theme": "Outros / Multitemático",
+      "source_name": "BBC World News",
+      "source_id": "bbc_world",
+      "is_brazilian": false,
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9613/live/a1c35120-a93c-11f1-a291-b542ee92de7c.png",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Two pilots killed after Greek fighter jet crashes during an air show",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/5/two-pilots-killed-after-greek-fighter-jet-crashes-during-an-air-show?traffic_source=rss",
+      "summary": "Greek authorities say that the two pilots onboard an F-4 Phantom fighter jet have been killed after it crashed.",
+      "published_at": "2026-09-05T18:44:41Z",
+      "region": "Oriente Médio",
+      "theme": "Cultura, Mídia e Sociedade",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1788633870.jpg?resize=1920%2C1080&quality=80",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1460661419201-fd4cecdf8a8b?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1508700115892-45ecd05ae2ad?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Thousands protest in Croatia to demand government clean up toxic waste",
+      "link": "https://www.aljazeera.com/news/2026/9/5/thousands-protest-in-croatia-to-demand-government-clean-up-toxic-waste?traffic_source=rss",
+      "summary": "Demonstrators in Zagreb accuse Croatia's government of dragging its feet on a hazardous waste scandal.",
+      "published_at": "2026-09-05T18:42:08Z",
+      "region": "Oriente Médio",
+      "theme": "Política Internacional",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-09-05T101216Z_1516256038_RC2YCNA3ZBJ9_RTRMADP_3_CROATIA-PROTESTS-1788626922.jpg?resize=1920%2C1440",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Parreira tem alta depois de 80 dias internado",
+      "link": "https://www.poder360.com.br/poder-sportsmkt/parreira-tem-alta-depois-de-80-dias-internado/",
+      "summary": "Técnico de 83 anos estava em hospital no Rio desde junho; conquistou o tetra brasileira com a seleção em 1994",
+      "published_at": "2026-09-05T18:37:51Z",
+      "region": "América do Sul",
+      "theme": "Outros / Multitemático",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2026/09/parreira-1200x675.png",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Ao falar sobre educação, Lula diz que no Brasil falta oportunidade",
+      "link": "https://www.poder360.com.br/poder-eleicoes-2026/ao-falar-sobre-educacao-lula-diz-que-no-brasil-falta-oportunidade/",
+      "summary": "Em visita à UFSCar, petista pediu que estudantes o ajudem a provar que no país “tem gente mais competente que em qualquer outro lugar”",
+      "published_at": "2026-09-05T18:26:47Z",
+      "region": "América do Sul",
+      "theme": "Política Brasileira",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2026/09/INSS-Fila-Lula-WolneyQueiroz-AnaCristinaVianaSilveira-39.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Caça cai em show aéreo na Grécia e dois pilotos morrem",
+      "link": "https://www.poder360.com.br/poder-internacional/caca-cai-em-show-aereo-na-grecia-e-dois-pilotos-morrem/",
+      "summary": "Avião F-4 Phantom caiu perto de base ao norte de Atenas durante evento de aviação; não há registro de feridos em solo",
+      "published_at": "2026-09-05T18:19:59Z",
+      "region": "Europa",
+      "theme": "Cultura, Mídia e Sociedade",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2026/09/Cai-F-4-Phantom-em-Atenas-5-set-2026-1200x675.png",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1460661419201-fd4cecdf8a8b?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1508700115892-45ecd05ae2ad?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Months after ceasefire, Israel and Hezbollah battle over a strategic hill in Lebanon",
+      "link": "https://www.pbs.org/newshour/world/months-after-ceasefire-israel-and-hezbollah-battle-over-a-strategic-hill-in-lebanon",
+      "summary": "In recent weeks, Ali Taher hill has been the scene of daily shelling and airstrikes by Israel's military. Hezbollah has repeatedly attacked Israeli forces in the area with drones.",
+      "published_at": "2026-09-05T18:18:59Z",
+      "region": "Oriente Médio",
+      "theme": "Geopolítica e Segurança",
+      "source_name": "PBS NewsHour",
+      "source_id": "pbs_newshour",
+      "is_brazilian": false,
+      "image_url": "https://d3i6fh83elv35t.cloudfront.net/static/2026/09/2026-09-03T113724Z_2050681893_RC2NBNAPHOHR_RTRMADP_3_IRAN-CRISIS-LEBANON-ISRAEL-RIDGE-2-1024x576.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Russia’s Putin meets US envoys to discuss Trump proposal to end Ukraine war",
+      "link": "https://www.aljazeera.com/news/2026/9/5/russias-putin-meets-us-envoys-to-discuss-trump-proposal-to-end-ukraine-war?traffic_source=rss",
+      "summary": "Both Russia and Ukraine vow not to strike each other's capitals for three days during talks in Moscow and Kyiv.",
+      "published_at": "2026-09-05T18:12:52Z",
+      "region": "Europa",
+      "theme": "Política Internacional",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/09/afp_6a9c5a23d2d6-1788631587_3b08c1-1788631880.jpg?resize=1200%2C630&quality=80",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "India crush Pakistan at T20 Asia Cup with record-breaking bowling display",
+      "link": "https://www.aljazeera.com/sports/2026/9/5/india-crush-pakistan-at-t20-asia-cup-with-record-breaking-bowling-display?traffic_source=rss",
+      "summary": "India claim seven-wicket win after Pakistan lose 10 wickets for just 28 runs as they are bowled out for 55.",
+      "published_at": "2026-09-05T18:10:50Z",
+      "region": "Ásia",
+      "theme": "Outros / Multitemático",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/09/GettyImages-2293661733-1788622457.jpg?resize=1920%2C1440",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Germany’s far-right AfD eyes historic first in state election",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/5/09-05-germany-afd-state-elections-sv?traffic_source=rss",
+      "summary": "Germany’s far-right AfD is projected to take power in one of the country’s 16 states for the first time.",
+      "published_at": "2026-09-05T18:07:43Z",
+      "region": "Europa",
+      "theme": "Política Internacional",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1788631631.jpg?resize=1605%2C1080&quality=80",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Un activista de la Global Sumud Flotilla se encuentra \"crítico\" tras 21 días en huelga de hambre en Túnez",
+      "link": "https://www.europapress.es/internacional/noticia-activista-global-sumud-flotilla-encuentra-critico-21-dias-huelga-hambre-tunez-20260905200656.html",
+      "summary": "La Global Sumud Flotilla (GSF) ha alertado de que el activista tunecino Wael Nawar se encuentra en estado \"crítico\" como consecuencia de la huelga de hambre que inició hace ya 21 días en protesta contra su detención preventiva en su propio país, así como la de otros tres integrantes.",
+      "published_at": "2026-09-05T18:06:56Z",
+      "region": "Europa",
+      "theme": "Direito Internacional e Instituições",
+      "source_name": "Europa Press",
+      "source_id": "europa_press",
+      "is_brazilian": false,
+      "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260905200656_120.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1505664194779-8beaceb93744?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
     {
       "title": "Após veto da UE, Indonésia libera carne de 21 frigoríficos brasileiros",
       "link": "https://www.poder360.com.br/poder-agro/apos-veto-da-ue-indonesia-libera-carne-de-21-frigorificos-brasileiros/",
@@ -16,6 +271,23 @@
         "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Witkoff: Putin’s Messenger?",
+      "link": "https://www.france24.com/en/tv-shows/spotlight/20260905-witkoff-putin-s-messenger",
+      "summary": "What did Steve Witkoff know about Russia when he was first sent to see President Putin in February last year?",
+      "published_at": "2026-09-05T18:02:24Z",
+      "region": "Europa",
+      "theme": "Política Internacional",
+      "source_name": "France 24",
+      "source_id": "france24",
+      "is_brazilian": false,
+      "image_url": "https://s.france24.com/media/display/49dd8cc6-a952-11f1-b89a-005056a90284/w:1024/p:16x9/RUSSIA-US-UKRAINE-DIPLOMACY-CONFLICT.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
       ]
     },
     {
@@ -36,7 +308,7 @@
       ]
     },
     {
-      "title": "Janja é alvo de críticas por afastar eleitora de Lula",
+      "title": "Janja é alvo de críticas por afastar eleitora de Lula: “Hipocrisia”",
       "link": "https://www.poder360.com.br/poder-gente/janja-e-alvo-de-criticas-por-afastar-eleitora-de-lula/",
       "summary": "Primeira-dama tentou desvencilhar eleitora de Lula durante passeata no Ceará",
       "published_at": "2026-09-05T17:49:56Z",
@@ -189,23 +461,6 @@
       ]
     },
     {
-      "title": "US envoys meet Putin in Moscow for Ukraine talks",
-      "link": "https://www.bbc.co.uk/news/articles/cx2zqp46g8eo?at_medium=RSS&at_campaign=rss",
-      "summary": "President Trump says his envoys Steve Witkoff and Jared Kushner are \"bringing with them a proposal to end the war\".",
-      "published_at": "2026-09-05T17:18:31Z",
-      "region": "Europa",
-      "theme": "Política Internacional",
-      "source_name": "BBC World News",
-      "source_id": "bbc_world",
-      "is_brazilian": false,
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d7d/live/1a5083e0-a953-11f1-adf0-6d46cbf5ba37.png",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
       "title": "U.S.-Venezuela oil deal won't reduce domestic gasoline prices anytime soon, experts say",
       "link": "https://www.pbs.org/newshour/economy/u-s-venezuela-oil-deal-wont-reduce-domestic-gasoline-prices-anytime-soon-experts-say",
       "summary": "Oil experts told PolitiFact gains for consumers will not materialize any time soon, and would likely take years — long after November's midterm elections.",
@@ -220,23 +475,6 @@
         "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "US hits three Iranian oil tankers after saying its warships were targeted",
-      "link": "https://www.bbc.co.uk/news/articles/cj64rrne643o?at_medium=RSS&at_campaign=rss",
-      "summary": "The strikes come nearly a week after fighting between the US and Iran flared again following weeks of relative calm.",
-      "published_at": "2026-09-05T17:15:05Z",
-      "region": "América do Norte",
-      "theme": "Outros / Multitemático",
-      "source_name": "BBC World News",
-      "source_id": "bbc_world",
-      "is_brazilian": false,
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9613/live/a1c35120-a93c-11f1-a291-b542ee92de7c.png",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
       ]
     },
     {
@@ -495,6 +733,40 @@
       ]
     },
     {
+      "title": "The closely-watched Lindsay Clancy trial ends with one last dramatic moment",
+      "link": "https://www.france24.com/en/video/20260905-the-closely-watched-lindsay-clancy-trial-ends-with-one-last-dramatic-moment",
+      "summary": "The closely watched case of the Massachusetts mother who killed her three young children was on the verge of being declared a mistrial Friday — but there was still one more dramatic moment to come.",
+      "published_at": "2026-09-05T16:31:52Z",
+      "region": "Europa",
+      "theme": "Saúde",
+      "source_name": "France 24",
+      "source_id": "france24",
+      "is_brazilian": false,
+      "image_url": "https://s.france24.com/media/display/b557d568-a909-11f1-9359-005056a97e36/w:1024/p:16x9/EN-20260905-100921-101116-CS.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1584515901367-f1c2a12a50ea?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1505751172876-fa1923c5c528?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1584036561566-baf2418a7c21?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "'Wallace & Gromit' creators turn 50 with spook-tacular Shaun yarn",
+      "link": "https://www.france24.com/en/video/20260905-wallace-gromit-creators-turn-50-with-spook-tacular-shaun-yarn",
+      "summary": "Crochet hook in hand, the animator slightly raises the eyelid of a clay model sheep in a filmmaking technique as old as cinema, perfected over five decades by Aardman Animations.",
+      "published_at": "2026-09-05T16:29:18Z",
+      "region": "Europa",
+      "theme": "Cultura, Mídia e Sociedade",
+      "source_name": "France 24",
+      "source_id": "france24",
+      "is_brazilian": false,
+      "image_url": "https://s.france24.com/media/display/137a7f10-a90a-11f1-902b-005056a97e36/w:1024/p:16x9/EN-20260905-101140-101313-CS.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1460661419201-fd4cecdf8a8b?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1508700115892-45ecd05ae2ad?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
       "title": "Dinho Ouro Preto cobra ministros do STF no Rock in Rio; assista",
       "link": "https://www.poder360.com.br/poder-gente/dinho-ouro-preto-cobra-ministros-do-stf-no-rock-in-rio-assista/",
       "summary": "Vocalista do Capital Inicial diz que magistrados, Vorcaro e políticos devem explicações e dedica a música \"Que país é esse?\" a eles",
@@ -548,7 +820,7 @@
     {
       "title": "‘Rain man’ to the rescue? France’s ex-president Hollande plots unlikely comeback",
       "link": "https://www.france24.com/en/france/20260905-rain-man-france-ex-president-francois-hollande-unlikely-comeback-presidential-election",
-      "summary": "Once so deeply unpopular he had to give up running for a second term in office, former French president François Hollande has slipped back into the conversation ahead of next year’s Elysée Palace race, hoping voters put off by squabbling candidates will come to see him as a safe – if unexciting – pair of hands after a decade of Emmanuel Macron’s ‘disruptive’ presidency.",
+      "summary": "Once so deeply unpopular he had to give up running for a second term in office, former French president François Hollande has slipped back into the conversation ahead of next year’s Élysée Palace race, hoping voters put off by squabbling candidates will come to see him as a safe – if unexciting – pair of hands after a decade of Emmanuel Macron’s ‘disruptive’ presidency.",
       "published_at": "2026-09-05T16:22:05Z",
       "region": "Europa",
       "theme": "Política Internacional",
@@ -665,7 +937,7 @@
       ]
     },
     {
-      "title": "U.S. military hits 3 Iranian oil tankers after saying Navy ships were targeted with missiles",
+      "title": "U.S. strikes 3 Iranian oil tankers after saying warships were targeted with ballistic missiles",
       "link": "https://www.pbs.org/newshour/world/u-s-military-hits-3-iranian-oil-tankers-after-saying-navy-ships-were-targeted-with-missiles",
       "summary": "The strikes — a day after U.S. President Donald Trump sought to minimize the conflict as \"small potatoes\" — keep up a new tilt back toward fighting after six months of on-again, off-again war.",
       "published_at": "2026-09-05T16:02:10Z",
@@ -776,7 +1048,7 @@
       "source_name": "PBS NewsHour",
       "source_id": "pbs_newshour",
       "is_brazilian": false,
-      "image_url": "https://d3i6fh83elv35t.cloudfront.net/static/2026/09/2026-09-04T110157Z_841615935_RC2ACNA0K3NV_RTRMADP_3_UKRAINE-CRISIS-ATTACK-KYIV-REGION-1024x683.jpg",
+      "image_url": "https://d3i6fh83elv35t.cloudfront.net/static/2026/09/2026-09-05T175452Z_2033477758_RC25DNA9XP46_RTRMADP_3_UKRAINE-CRISIS-RUSSIA-USA-1024x661.jpg",
       "fallback_images": [
         "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
@@ -1906,6 +2178,23 @@
       ]
     },
     {
+      "title": "U.S.-Venezuela oil deal puts opposition in a political bind",
+      "link": "https://www.npr.org/2026/09/05/nx-s1-5954177/venezuelan-opposition-slams-new-u-s-oil-deal-warning-it-delays-democracy",
+      "summary": "Venezuelan opposition members are uneasy with new oil deals with the U.S., worried that agreements with authoritarian regime in Caracas could undermine democratic progress.",
+      "published_at": "2026-09-05T11:43:14Z",
+      "region": "América do Sul",
+      "theme": "Outros / Multitemático",
+      "source_name": "NPR World News",
+      "source_id": "npr",
+      "is_brazilian": false,
+      "image_url": "https://media.npr.org/include/images/facebook-default-wide-s1400-c85.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
       "title": "Reino Unido pede que famílias estoquem comida por El Niño",
       "link": "https://www.poder360.com.br/poder-internacional/reino-unido-pede-que-familias-estoquem-comida-por-el-nino/",
       "summary": "Secretária do Meio Ambiente fala na probabilidade do mundo vivenciar “o maior El Niño já visto” e pede preparação",
@@ -2260,295 +2549,6 @@
         "https://images.unsplash.com/photo-1584515901367-f1c2a12a50ea?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1505751172876-fa1923c5c528?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1584036561566-baf2418a7c21?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Omar Aziz lidera no 1º turno para o governo do Amazonas, diz pesquisa",
-      "link": "https://www.poder360.com.br/poder-eleicoes-2026/omar-aziz-lidera-no-1o-turno-para-o-governo-do-amazonas-diz-pesquisa/",
-      "summary": "Levantamento da Paraná Pesquisas ouviu 1.350 eleitores em 38 municípios do Estado",
-      "published_at": "2026-09-05T10:00:26Z",
-      "region": "América do Sul",
-      "theme": "Ciência, Tecnologia e Inovação",
-      "source_name": "Poder360",
-      "source_id": "poder360",
-      "is_brazilian": true,
-      "image_url": "https://static.poder360.com.br/uploads/2026/08/Nepal-enchente-1-1200x675.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1518770660439-4636190af475?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1507668077129-56e32842fceb?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Eduardo Braga e Alberto Neto lideram para o Senado no AM, diz pesquisa",
-      "link": "https://www.poder360.com.br/poder-eleicoes-2026/eduardo-braga-e-alberto-neto-lideram-para-o-senado-no-am-diz-pesquisa/",
-      "summary": "A Paraná Pesquisas entrevistou 1.350 eleitores em 38 municípios do Amazonas, de 2 a 4 de setembro de 2026; a margem de erro é de 2,7 p.p., para mais ou para menos",
-      "published_at": "2026-09-05T10:00:25Z",
-      "region": "América do Sul",
-      "theme": "Política Brasileira",
-      "source_name": "Poder360",
-      "source_id": "poder360",
-      "is_brazilian": true,
-      "image_url": "https://static.poder360.com.br/uploads/2026/09/eduardo-braga-alberto-neto-1200x675.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Germany: AfD eyes historic state election win",
-      "link": "https://www.france24.com/en/video/20260905-germany-afd-eyes-historic-state-election-win",
-      "summary": "In Saxony-Anhalt, AfD – Germany's far-right party – is polling at 40% or more of voting intentions, just days ahead of the regional election on 6 September 2026. If the AfD wins an absolute majority of seats, it could soon be in charge here. It would be the first time since 1945 that a far-right party has led a German region. To get there, the party is banking on the promise of a return to \"the Germany of old\", leaning on East German symbols such as Simson mopeds and retro aesthetics. It is a well-established strategy that draws on a gnawing sense of decline for decades and increasing distrust of traditional parties.",
-      "published_at": "2026-09-05T09:58:46Z",
-      "region": "Europa",
-      "theme": "Política Internacional",
-      "source_name": "France 24",
-      "source_id": "france24",
-      "is_brazilian": false,
-      "image_url": "https://s.france24.com/media/display/fe6073c4-a90d-11f1-9ce3-005056a90284/w:1024/p:16x9/EN-20260905-090812-091057-CS.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Enmascarados bloquean el acceso al puerto de Dover en una protesta contra la migración",
-      "link": "https://www.europapress.es/internacional/noticia-manifestantes-enmascarados-bloquean-acceso-puerto-dover-20260905115737.html",
-      "summary": "Un amplio grupo de manifestantes, muchos de ellos enmascarados, han bloqueado este sábado por la mañana el tráfico de entrada y de salida del puerto de Dover, el de mayor actividad del Reino Unido, en una protesta del grupo ultraderechista Movimiento Patriota, que pretende denunciar la llegada de migrantes a través del canal de la Mancha.",
-      "published_at": "2026-09-05T09:57:37Z",
-      "region": "Europa",
-      "theme": "Direitos Humanos, Sociedade e Migrações",
-      "source_name": "Europa Press",
-      "source_id": "europa_press",
-      "is_brazilian": false,
-      "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260905115737_120.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1542810634-71277d95dcbb?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1489533119213-66a5cd877091?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1531206715517-5c0ba140e2b8?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Manifestantes enmascarados bloquean el acceso al puerto de Dover",
-      "link": "https://www.europapress.es/internacional/noticia-manifestantes-enmascarados-bloquean-acceso-puerto-dover-20260905115737.html",
-      "summary": "Un amplio grupo de manifestantes, muchos de ellos enmascarados, han bloqueado este sábado por la mañana el tráfico de entrada y de salida del puerto de Dover, el de mayor actividad del Reino Unido.",
-      "published_at": "2026-09-05T09:57:37Z",
-      "region": "Europa",
-      "theme": "Direito Internacional e Instituições",
-      "source_name": "Europa Press",
-      "source_id": "europa_press",
-      "is_brazilian": false,
-      "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260905115737_120.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1505664194779-8beaceb93744?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Why is Trump threatening to strike Iran’s Pickaxe Mountain again, now?",
-      "link": "https://www.aljazeera.com/news/2026/9/5/why-is-trump-threatening-to-strike-irans-pickaxe-mountain-again-now?traffic_source=rss",
-      "summary": "As oil tanker struck off Kharg island, Trump threatens one of the remaining parts of Iran’s nuclear complex.",
-      "published_at": "2026-09-05T09:56:53Z",
-      "region": "América do Norte",
-      "theme": "Política Internacional",
-      "source_name": "Al Jazeera",
-      "source_id": "aljazeera_english",
-      "is_brazilian": false,
-      "image_url": "https://loremflickr.com/cache/resized/342_32453581426_4cb1a92ef8_c_800_600_nofilter.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "US ambassador to Israel meets Palestinian-Americans in occupied West Bank",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/5/us-ambassador-to-israel-meets-palestinian-americans-in-occupied-west-bank?traffic_source=rss",
-      "summary": "US Ambassador to Israel Mike Huckabee has visited Turmus Ayya in the occupied West Bank.",
-      "published_at": "2026-09-05T09:52:44Z",
-      "region": "Oriente Médio",
-      "theme": "Outros / Multitemático",
-      "source_name": "Al Jazeera",
-      "source_id": "aljazeera_english",
-      "is_brazilian": false,
-      "image_url": "https://loremflickr.com/cache/resized/65535_51729353084_fc6dcb11fc_c_800_600_nofilter.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Qatar removed from Fitch’s negative watch list as risks to LNG sites ease",
-      "link": "https://www.aljazeera.com/economy/2026/9/5/fitch-removes-qatar-from-rating-watch-as-lng-risks-ease?traffic_source=rss",
-      "summary": "The global ratings agency has also maintained the country’s sovereign rating at AA.",
-      "published_at": "2026-09-05T09:48:48Z",
-      "region": "Oriente Médio",
-      "theme": "Outros / Multitemático",
-      "source_name": "Al Jazeera",
-      "source_id": "aljazeera_english",
-      "is_brazilian": false,
-      "image_url": "https://loremflickr.com/cache/resized/defaultImage.small_800_600_nofilter.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Fenerbahce’s Greenwood, Guendouzi handed fines and bans after brawl at Lyon",
-      "link": "https://www.aljazeera.com/sports/2026/9/5/fenerbahces-greenwood-guendouzi-handed-fines-and-bans-after-brawl-at-lyon?traffic_source=rss",
-      "summary": "Fights between players and coaching staff broke out after the Turkish side won the Champions League playoff second leg.",
-      "published_at": "2026-09-05T09:44:45Z",
-      "region": "Oriente Médio",
-      "theme": "Outros / Multitemático",
-      "source_name": "Al Jazeera",
-      "source_id": "aljazeera_english",
-      "is_brazilian": false,
-      "image_url": "https://loremflickr.com/cache/resized/defaultImage.small_800_600_nofilter.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Projeto defende descontos em tarifas para quem faz coleta seletiva",
-      "link": "https://www.poder360.com.br/poder-congresso/projeto-defende-descontos-em-tarifas-para-quem-faz-coleta-seletiva/",
-      "summary": "Objetivo é elevar as taxas de reciclagem; para virar lei, o texto precisa ser aprovado pela Câmara e pelo Senado",
-      "published_at": "2026-09-05T09:42:42Z",
-      "region": "América do Sul",
-      "theme": "Comércio e Finanças",
-      "source_name": "Poder360",
-      "source_id": "poder360",
-      "is_brazilian": true,
-      "image_url": "https://static.poder360.com.br/uploads/2026/09/coleta-seletiva-lixo-1200x675.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1578575437130-527eed3abbec?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1522071820081-009f0129c71c?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Zelenski denuncia ataques al aeropuerto de Kiev como intentos de Rusia de boicotear la diplomacia con EEUU",
-      "link": "https://www.europapress.es/internacional/noticia-zelenski-denuncia-ataques-aeropuerto-kiev-intentos-rusia-boicotear-diplomacia-eeuu-20260905114111.html",
-      "summary": "El presidente de Ucrania, Volodimir Zelenski, ha denunciado este sábado una serie de ataques rusos al aeropuerto de Kiev y el de Borispol, asegurando que son intentos de Rusia de boicotear la diplomacia cuando se espera que el enviado especial Steve Witkoff y el asesor de la Casa Blanca y yerno del magnate repubicano, Jared Kushner, viajen primero a Moscú y luego a Kiev para relanzar el proceso de negociaciones.",
-      "published_at": "2026-09-05T09:41:11Z",
-      "region": "Europa",
-      "theme": "Política Internacional",
-      "source_name": "Europa Press",
-      "source_id": "europa_press",
-      "is_brazilian": false,
-      "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260905114111_120.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Nepal: Rebuilding lives after devastating floods",
-      "link": "https://www.france24.com/en/video/20260905-nepal-rebuilding-lives-after-devastating-floods",
-      "summary": "In Nepal, thousands of people lost their homes, belongings and loved ones in minutes during the flash floods of August 26. Since then, authorities, NGOs and volunteers have been delivering aid. But in overcrowded temporary camps, living conditions remain difficult, while many survivors face an uncertain future. France 24's special correspondents visited a temporary camp set up in a school in Rasuwa district, near the disaster's epicenter. A report by Shahzaib Wahlah, Ondine de Gaulle, Achraf Abid and Diamond Uprety.",
-      "published_at": "2026-09-05T09:23:02Z",
-      "region": "Ásia",
-      "theme": "Outros / Multitemático",
-      "source_name": "France 24",
-      "source_id": "france24",
-      "is_brazilian": false,
-      "image_url": "https://s.france24.com/media/display/d75e6228-a907-11f1-b550-005056bf30b7/w:1024/p:16x9/EN-20260905-100138-100414-CS.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Nepal: Temporary education centres help flood-displaced children",
-      "link": "https://www.france24.com/en/video/20260905-nepal-temporary-education-centres-help-flood-displaced-children",
-      "summary": "Children displaced by flash floods in Nepal are attending a temporary education centre in Nuwakot, while aid organisations work to support devastated communities. The UN estimates that $158 million worth of buildings have been damaged, with Nepal warning that reconstruction could cost billions.",
-      "published_at": "2026-09-05T09:20:03Z",
-      "region": "Ásia",
-      "theme": "Meio Ambiente e Clima",
-      "source_name": "France 24",
-      "source_id": "france24",
-      "is_brazilian": false,
-      "image_url": "https://s.france24.com/media/display/d239c638-a908-11f1-9639-005056a90284/w:1024/p:16x9/EN-20260905-100437-100626-CS.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Monaco rally to edge winless PSG and reclaim top spot",
-      "link": "https://www.france24.com/en/tv-shows/sports/20260905-monaco-rally-to-edge-winless-psg-and-reclaim-top-spot",
-      "summary": "Monaco made it three wins on the trot and reclaimed the top spot by beating Paris Saint-Germain, who were playing their first home match of the season. Luis Enrique's men have now gone four matches without a win.",
-      "published_at": "2026-09-05T09:16:50Z",
-      "region": "Europa",
-      "theme": "Saúde",
-      "source_name": "France 24",
-      "source_id": "france24",
-      "is_brazilian": false,
-      "image_url": "https://s.france24.com/media/display/a7415736-a8ca-11f1-bd2d-005056a90284/w:1024/p:16x9/J24-Monaco-21.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1584515901367-f1c2a12a50ea?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1505751172876-fa1923c5c528?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1584036561566-baf2418a7c21?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Trump sends envoys to Moscow, Kyiv with new plan to 'end war'",
-      "link": "https://www.france24.com/en/video/20260905-trump-sends-envoys-to-moscow-kyiv-with-new-plan-to-end-war",
-      "summary": "US President Donald Trump said Friday he is sending envoys Steve Witkoff and Jared Kushner to Moscow and Kyiv with a plan to end more than four years of war in Ukraine.",
-      "published_at": "2026-09-05T09:15:34Z",
-      "region": "Europa",
-      "theme": "Política Internacional",
-      "source_name": "France 24",
-      "source_id": "france24",
-      "is_brazilian": false,
-      "image_url": "https://s.france24.com/media/display/240326ee-a909-11f1-9cb9-005056bf30b7/w:1024/p:16x9/EN-20260905-100700-100838-CS.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Trump signs order to remove endangered species protection for grey wolves",
-      "link": "https://www.bbc.co.uk/news/articles/c62k677d4lzo?at_medium=RSS&at_campaign=rss",
-      "summary": "The US president says the move will help ranchers, but conservationists say it could derail efforts to recover populations.",
-      "published_at": "2026-09-05T09:12:48Z",
-      "region": "América do Norte",
-      "theme": "Política Internacional",
-      "source_name": "BBC World News",
-      "source_id": "bbc_world",
-      "is_brazilian": false,
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dcdf/live/8dedf210-a908-11f1-bddd-351282998660.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Oil and politics: What Trump’s ‘historic’ deal means for Venezuela",
-      "link": "https://www.aljazeera.com/features/2026/9/5/oil-and-politics-what-trumps-historic-deal-means-for?traffic_source=rss",
-      "summary": "Venezuelans are hoping for free and fair elections, but the US may prioritise oil production.",
-      "published_at": "2026-09-05T09:11:58Z",
-      "region": "América do Norte",
-      "theme": "Política Internacional",
-      "source_name": "Al Jazeera",
-      "source_id": "aljazeera_english",
-      "is_brazilian": false,
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-09-04T232943Z_921625423_RC2E9NAI1FP3_RTRMADP_3_USA-VENEZUELA-OIL-BILLIONAIRE-1788595769.jpg?resize=1920%2C1440",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
       ]
     }
   ]
