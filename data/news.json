@@ -1,6 +1,91 @@
 {
-  "updated_at": "2026-09-05T05:04:05.143919Z",
+  "updated_at": "2026-09-05T06:05:18.514548Z",
   "news": [
+    {
+      "title": "At least two dead in blast at Bolivia military barracks",
+      "link": "https://www.bbc.co.uk/news/articles/c3v45xy67g5o?at_medium=RSS&at_campaign=rss",
+      "summary": "Authorities fear the death toll in Viacha will rise and warn people to stay away from the barracks due to a risk of further explosions.",
+      "published_at": "2026-09-05T06:00:05Z",
+      "region": "América do Sul",
+      "theme": "Geopolítica e Segurança",
+      "source_name": "BBC World News",
+      "source_id": "bbc_world",
+      "is_brazilian": false,
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/38c6/live/2c42cd50-a8d2-11f1-a291-b542ee92de7c.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "US imposes sanctions on Turkish bank, prompting legal threat",
+      "link": "https://www.aljazeera.com/news/2026/9/5/us-imposes-sanctions-on-turkish-bank-prompting-legal-threat?traffic_source=rss",
+      "summary": "US sanctions Turkish bank over alleged IRGC ties, accusing it of facilitating millions in transactions for Iran.",
+      "published_at": "2026-09-05T05:19:05Z",
+      "region": "Oriente Médio",
+      "theme": "Geopolítica e Segurança",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/09/afp_6a9b9ba52a81-1788582821.jpg?resize=1920%2C1440",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Families of missing Ecuadorian fishermen allege US involvement",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/5/families-of-missing-ecuadorian-fishermen-allege-us-involvement?traffic_source=rss",
+      "summary": "Families of eight Ecuadorian fishermen who vanished after reporting US surveillance at sea are demanding answers.",
+      "published_at": "2026-09-05T05:08:15Z",
+      "region": "América do Norte",
+      "theme": "Saúde",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1788584872.jpg?resize=1920%2C1080&quality=80",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1584515901367-f1c2a12a50ea?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1505751172876-fa1923c5c528?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1584036561566-baf2418a7c21?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Middle East live: Israeli strikes on south and east Lebanon kill three people",
+      "link": "https://www.france24.com/en/middle-east/20260905-middle-east-live-israeli-strikes-on-south-and-east-lebanon-kill-three-people",
+      "summary": "Israeli strikes in southern and eastern Lebanon late on Friday killed at least three people and wounded 23 more despite a ceasefire between Israel and Hezbollah, the Lebanese health ministry said. The ministry said in a statement that strikes hit five locations in the southern Tyre and Nabatieh regions and the Beqaa region in the east. Follow our liveblog for all the latest developments.",
+      "published_at": "2026-09-05T05:01:24Z",
+      "region": "Oriente Médio",
+      "theme": "Geopolítica e Segurança",
+      "source_name": "France 24",
+      "source_id": "france24",
+      "is_brazilian": false,
+      "image_url": "https://s.france24.com/media/display/2af33eb8-a8e5-11f1-810f-005056bf30b7/w:1024/p:16x9/000-C7D28HE.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "EEUU sanciona a Golden Global Bank, con sede en Turquía, por sus relaciones financieras con Irán",
+      "link": "https://www.europapress.es/internacional/noticia-eeuu-sanciona-golden-global-bank-sede-turquia-relaciones-financieras-iran-20260905064709.html",
+      "summary": "El Departamento del Tesoro de Estados Unidos ha impuesto este sábado sanciones contra el banco turco Golden Global Bank, al que ha acusado de facilitar la financiación de las estructuras que protegen los activos de Irán en el exterior, enmarcando la medida en su \"guerra económica\" contra Teherán, al tiempo que ha desvinculado al Gobierno de Turquía de cualquier colaboración.",
+      "published_at": "2026-09-05T04:47:09Z",
+      "region": "América do Norte",
+      "theme": "Geopolítica e Segurança",
+      "source_name": "Europa Press",
+      "source_id": "europa_press",
+      "is_brazilian": false,
+      "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260905064709_120.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
     {
       "title": "‘I could not save the rest’: Hero nurse remembers Pakistan’s nursery fire",
       "link": "https://www.aljazeera.com/features/2026/9/5/i-could-not-save-the-rest-hero-nurse-remembers-pakistans-nursery-fire?traffic_source=rss",
@@ -155,23 +240,6 @@
       ]
     },
     {
-      "title": "At least two dead in blast at Bolivia military barracks",
-      "link": "https://www.bbc.co.uk/news/articles/c3v45xy67g5o?at_medium=RSS&at_campaign=rss",
-      "summary": "Authorities fear the death toll in Viacha will rise and warn people to stay away from the barracks due to a risk of further explosions.",
-      "published_at": "2026-09-05T02:59:40Z",
-      "region": "América do Sul",
-      "theme": "Geopolítica e Segurança",
-      "source_name": "BBC World News",
-      "source_id": "bbc_world",
-      "is_brazilian": false,
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/38c6/live/2c42cd50-a8d2-11f1-a291-b542ee92de7c.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
       "title": "ONU aprova novo mapa-múndi mais fiel ao tamanho real da África",
       "link": "https://www.bbc.com/portuguese/articles/c3058301rl8o?at_medium=RSS&at_campaign=rss",
       "summary": "Resolução liderada pelo Togo foi apoiada por 164 nações; EUA foram único país a votar contra.",
@@ -257,6 +325,23 @@
       ]
     },
     {
+      "title": "Trump sends envoys Witkoff and Kushner to Moscow and Kyiv with new plan to 'end the war'",
+      "link": "https://www.france24.com/en/europe/20260905-trump-sends-envoys-to-moscow-and-kyiv-with-new-plan-to-end-the-war",
+      "summary": "US envoys Steve Witkoff and Jared Kushner are travelling to Moscow and Kyiv this weekend with what US President Donald Trump says is a new proposal to end the Russia-Ukraine war. Despite Trump's promises to resolve the conflict, Washington's efforts to broker a peace have so far come to nothing.",
+      "published_at": "2026-09-05T02:37:17Z",
+      "region": "Europa",
+      "theme": "Política Internacional",
+      "source_name": "France 24",
+      "source_id": "france24",
+      "is_brazilian": false,
+      "image_url": "https://s.france24.com/media/display/b52c323c-a8d2-11f1-b408-005056bf30b7/w:1024/p:16x9/df1693a0777bc72c3a2a93753d6aa72dedc662c0.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
       "title": "Saiba quem são os 7 governadores que podem ser eleitos no 1º turno",
       "link": "https://www.poder360.com.br/poder-eleicoes-2026/saiba-quem-sao-os-7-governadores-que-podem-ser-eleitos-no-1o-turno/",
       "summary": "Levantamento reúne líderes isolados nas pesquisas, a 1 mês das eleições; outros 4 Estados têm 2 candidatos em empate técnico e próximos dos 50% das intenções de voto",
@@ -325,6 +410,23 @@
       ]
     },
     {
+      "title": "De la Espriella pone fin a las mesas de diálogo de Petro y ordena reactivar las capturas y extradiciones",
+      "link": "https://www.europapress.es/internacional/noticia-espriella-pone-fin-mesas-dialogo-petro-ordena-reactivar-capturas-extradiciones-20260905034759.html",
+      "summary": "El presidente de Colombia, Abelardo de la Espriella, ha anunciado este viernes el cierre de las mesas de diálogo y de los espacios de interlocución socio-jurídica que seguían en funcionamiento en el marco de la denominada política de 'paz total' impulsada por el Ejecutivo de Gustavo Petro.",
+      "published_at": "2026-09-05T01:47:59Z",
+      "region": "América do Sul",
+      "theme": "Política Internacional",
+      "source_name": "Europa Press",
+      "source_id": "europa_press",
+      "is_brazilian": false,
+      "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260905034759_120.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
       "title": "Ecuador defends US sinking of vessels as joint anti-drug operation",
       "link": "https://www.aljazeera.com/news/2026/9/5/ecuador-defends-us-sinking-of-vessels-as-joint-anti-drug-operation?traffic_source=rss",
       "summary": "Relatives of detained crew say US forces acted without evidence, claiming the men were fishermen, not smugglers.",
@@ -356,6 +458,23 @@
         "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Why are European countries moving their gold out of North America?",
+      "link": "https://www.bbc.co.uk/news/articles/cvgyn8q8gqxo?at_medium=RSS&at_campaign=rss",
+      "summary": "The Netherlands has relocated 86 tonnes of the shiny stuff - what's going on?",
+      "published_at": "2026-09-05T01:42:09Z",
+      "region": "Global",
+      "theme": "Outros / Multitemático",
+      "source_name": "BBC World News",
+      "source_id": "bbc_world",
+      "is_brazilian": false,
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/69ed/live/1f74ae20-a870-11f1-bbad-43eaf67b94b6.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
       ]
     },
     {
@@ -577,6 +696,23 @@
         "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Iran war live: US polygraphs 50 Joint Staff members over Iran war leaks",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/9/5/iran-war-live-trump-says-us-may-target-irans-pickaxe-mountain-very-soon?traffic_source=rss",
+      "summary": "US President Donald Trump has repeated an earlier warning that the US may attack Iran's Pickaxe Mountain \"very soon\".",
+      "published_at": "2026-09-05T00:00:00Z",
+      "region": "Oriente Médio",
+      "theme": "Geopolítica e Segurança",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/09/AFP__20260902__C74P8HG__v1__HighRes__IranUsIsraelWar-1788560031.jpg?resize=1920%2C1440",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
       ]
     },
     {
@@ -2413,142 +2549,6 @@
         "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "US midterms start with North Carolina distributing mail-voting ballots",
-      "link": "https://www.france24.com/en/americas/20260904-us-midterms-begin-with-chaos-over-mail-voting-crackdown",
-      "summary": "North Carolina on Friday became the first state authorised to begin sending out ballots, formally launching the 2026 US midterms as President Donald Trump’s administration fights to impose sweeping restrictions on the practice.",
-      "published_at": "2026-09-04T15:53:14Z",
-      "region": "América do Norte",
-      "theme": "Política Internacional",
-      "source_name": "France 24",
-      "source_id": "france24",
-      "is_brazilian": false,
-      "image_url": "https://s.france24.com/media/display/d11236ee-a662-11f1-9ae7-005056a97e36/w:1024/p:16x9/bb30b5bf37e781f443665b25112221e81b7c2d36.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Os gráficos que revelam quem são e quanto ganham os trabalhadores de aplicativos no Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c3d7k452g9xo?at_medium=RSS&at_campaign=rss",
-      "summary": "Valor recebido mensalmente se aproxima da média entre os outros empregados do setor privado, mas jornadas são mais extensas e não há direitos trabalhistas.",
-      "published_at": "2026-09-04T15:52:20Z",
-      "region": "América do Sul",
-      "theme": "Outros / Multitemático",
-      "source_name": "BBC News Brasil",
-      "source_id": "bbc_brasil",
-      "is_brazilian": true,
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3773/live/4deec5c0-a806-11f1-aed2-8d6da8d75094.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Fachin diz que meta é acabar com Inquérito das Fake News e manda tirar acusações contra Mendonça da investigação",
-      "link": "https://www.bbc.com/portuguese/articles/c780jqdep1go?at_medium=RSS&at_campaign=rss",
-      "summary": "Presidente do Supremo também determinou que a PGR se manifeste em até cinco dias úteis sobre o pedido de investigação feito pelo ministro Alexandre de Moraes contra o ministro André Mendonça.",
-      "published_at": "2026-09-04T15:49:27Z",
-      "region": "América do Sul",
-      "theme": "Ciência, Tecnologia e Inovação",
-      "source_name": "BBC News Brasil",
-      "source_id": "bbc_brasil",
-      "is_brazilian": true,
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/272b/live/19136220-a865-11f1-ae45-e9984fc27c77.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1518770660439-4636190af475?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1507668077129-56e32842fceb?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Cade vai rever manobra que permite MSC e Maersk disputarem Tecon 10",
-      "link": "https://www.poder360.com.br/poder-economia/cade-vai-rever-manobra-que-permite-msc-e-maersk-disputarem-tecon-10/",
-      "summary": "Após aprovação da Superintendência-Geral, presidente encaminha proposta ao plenário do Conselho, que pode barrar acordo sobre participação no BTP (Brasil Terminal Portuário)",
-      "published_at": "2026-09-04T15:48:54Z",
-      "region": "América do Sul",
-      "theme": "Política Brasileira",
-      "source_name": "Poder360",
-      "source_id": "poder360",
-      "is_brazilian": true,
-      "image_url": "https://static.poder360.com.br/uploads/2026/08/tecon-1200x675.png",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Russia’s jet-powered drones overwhelm Ukraine, killing dozens",
-      "link": "https://www.aljazeera.com/news/2026/9/4/russias-jet-powered-drones-overwhelm-ukraine-killing-dozens?traffic_source=rss",
-      "summary": "As Ukrainian civilians suffer from air attacks, Russian ground forces struggle to advance.",
-      "published_at": "2026-09-04T15:44:14Z",
-      "region": "Europa",
-      "theme": "Geopolítica e Segurança",
-      "source_name": "Al Jazeera",
-      "source_id": "aljazeera_english",
-      "is_brazilian": false,
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-09-01T132122Z_2055207679_RC27ANAMC7RE_RTRMADP_3_UKRAINE-CRISIS-ATTACK-KYIV-REGION-1788529971.jpg?resize=1920%2C1440",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Aoun aplaude la liberación de detenidos libaneses y lo ve un \"primer paso\" en el acuerdo con Israel",
-      "link": "https://www.europapress.es/internacional/noticia-aoun-aplaude-liberacion-detenidos-libaneses-ve-primer-paso-acuerdo-israel-20260904173903.html",
-      "summary": "El presidente de Líbano, Joseph Aoun, ha aplaudido este viernes la liberación de cinco ciudadanos libaneses detenidos por las autoridades de Israel en el sur del país, señalando que se trata de un \"primer paso\" en el marco del acuerdo con Israel, facilitado por Estados Unidos, para retomar la soberanía de su territorio.",
-      "published_at": "2026-09-04T15:39:03Z",
-      "region": "Oriente Médio",
-      "theme": "Direito Internacional e Instituições",
-      "source_name": "Europa Press",
-      "source_id": "europa_press",
-      "is_brazilian": false,
-      "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260904173903_120.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1505664194779-8beaceb93744?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "DF pede ao STF garantia da União para empréstimo ao BRB",
-      "link": "https://www.poder360.com.br/poder-brasil/df-pede-ao-stf-garantia-da-uniao-para-emprestimo-ao-brb/",
-      "summary": "Governo de Celina Leão busca viabilizar operação de R$ 6,6 bilhões com o Fundo Garantidor de Créditos",
-      "published_at": "2026-09-04T15:36:36Z",
-      "region": "América do Sul",
-      "theme": "Política Brasileira",
-      "source_name": "Poder360",
-      "source_id": "poder360",
-      "is_brazilian": true,
-      "image_url": "https://static.poder360.com.br/uploads/2026/05/Predio-BRB-1080.png",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "'Italian opposition fragmented: No alternative leader, no other possible leader than Giorgia Meloni'",
-      "link": "https://www.france24.com/en/video/20260904-italian-opposition-fragmented-no-alternative-leader-no-other-possible-leader-than-giorgia-meloni-1",
-      "summary": "Alison Sargent is pleased to welcome Political analyst Lorenzo Pregliasco, co-founder of polling agency YouTrend and adjunct professor at the University of Bologna. He argues that Giorgia Meloni’s unusual longevity in office is best understood not simply as a record of political strength, but as the product of a carefully calibrated governing strategy. Meloni has maintained stability partly by avoiding structural reforms disruptive enough to mobilize multiple constituencies against her at once. Her dominance within Fratelli d’Italia, the absence of a credible alternative leader, and a fragmented opposition have reinforced that advantage.",
-      "published_at": "2026-09-04T15:35:05Z",
-      "region": "Europa",
-      "theme": "Outros / Multitemático",
-      "source_name": "France 24",
-      "source_id": "france24",
-      "is_brazilian": false,
-      "image_url": "https://s.france24.com/media/display/853e8964-a871-11f1-a821-005056a90284/w:1024/p:16x9/EN-20260904-080636-081309-CS.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
       ]
     }
   ]
