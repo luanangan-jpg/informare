@@ -1,6 +1,244 @@
 {
-  "updated_at": "2026-09-06T13:04:01.926537Z",
+  "updated_at": "2026-09-06T14:04:43.893369Z",
   "news": [
+    {
+      "title": "Egyptian TV presenter Sarah Khalifa sentenced to death in drug case",
+      "link": "https://www.france24.com/en/africa/20260906-egyptian-tv-presenter-sarah-khalifa-sentenced-to-death-in-drug-case",
+      "summary": "Sarah Khalifa, a well-known Egyptian TV presenter, has been sentenced to death for her involvement in a drug ring, state media reported over the weekend. Eleven others were also convicted in the case and handed a death sentence. Khalifa is best known for her program “Mission Impossible”.",
+      "published_at": "2026-09-06T13:52:42Z",
+      "region": "África",
+      "theme": "Outros / Multitemático",
+      "source_name": "France 24",
+      "source_id": "france24",
+      "is_brazilian": false,
+      "image_url": "https://s.france24.com/media/display/bc9ddf20-a9f4-11f1-8ad4-005056a90284/w:1024/p:16x9/Capture-d-%C3%A9cran-2026-09-06-144741.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "AI: The future of smart households?",
+      "link": "https://www.france24.com/en/video/20260906-ai-the-future-of-smart-households",
+      "summary": "Could artificial intelligence soon be running our households? Beyond our smartphones, AI is now powering everything from fridges to lawnmowers. The International Household Appliances Fair in Berlin gives us a glimpse into what's next.",
+      "published_at": "2026-09-06T13:50:03Z",
+      "region": "América do Norte",
+      "theme": "Ciência, Tecnologia e Inovação",
+      "source_name": "France 24",
+      "source_id": "france24",
+      "is_brazilian": false,
+      "image_url": "https://s.france24.com/media/display/a6628692-a9f5-11f1-b510-005056a90284/w:1024/p:16x9/EN-20260906-132504-132632-CS.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1518770660439-4636190af475?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1507668077129-56e32842fceb?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Paciente vive 271 dias com rim de porco e recebe órgão humano",
+      "link": "https://www.poder360.com.br/poder-saude/paciente-vive-271-dias-com-rim-de-porco-e-recebe-orgao-humano/",
+      "summary": "Tim Andrews é o 1º humano a fazer transição depois de xenotransplante suíno; brasileiro está na equipe que liderou o processo",
+      "published_at": "2026-09-06T13:42:18Z",
+      "region": "América do Sul",
+      "theme": "Outros / Multitemático",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2026/09/transplante-rim-1200x675.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "How significant are the Yemeni government’s military gains against Houthis?",
+      "link": "https://www.aljazeera.com/news/2026/9/6/how-significant-are-the-yemeni-governments-military-gains-against-the-houthis?traffic_source=rss",
+      "summary": "Government forces make gains as fighting escalates, raising fears of a return to full-scale war.",
+      "published_at": "2026-09-06T13:41:25Z",
+      "region": "Oriente Médio",
+      "theme": "Geopolítica e Segurança",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/09/afp_6a9d52f594ad-1788695285.jpg?resize=1920%2C1440",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "USP desenvolve gelatina balística no padrão FBI para perícia policial",
+      "link": "https://www.poder360.com.br/poder-seguranca-publica/usp-desenvolve-gelatina-balistica-no-padrao-fbi-para-pericia-policial/",
+      "summary": "Inovação nacional simula tecidos humanos com precisão, reduz custos de importação e permite análises periciais completas",
+      "published_at": "2026-09-06T13:40:55Z",
+      "region": "América do Sul",
+      "theme": "Comércio e Finanças",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2026/09/bala-revolver-1200x675.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1578575437130-527eed3abbec?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1522071820081-009f0129c71c?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Germany: Why is the AfD so popular in Saxony-Anhalt?",
+      "link": "https://www.france24.com/en/video/20260906-germany-why-is-the-afd-so-popular-in-saxony-anhalt",
+      "summary": "Voting began in the eastern German state of Saxony-Anhalt on Sunday in a closely watched election that could see the Alternative for Germany (AfD) become the first far-right party to lead a state government since World War II. We discuss this with our guest, Hans Stark, professor of German studies at Sorbonne University.",
+      "published_at": "2026-09-06T13:37:48Z",
+      "region": "Europa",
+      "theme": "Política Internacional",
+      "source_name": "France 24",
+      "source_id": "france24",
+      "is_brazilian": false,
+      "image_url": "https://s.france24.com/media/display/dfacf952-a9f3-11f1-a626-005056bfb2b6/w:1024/p:16x9/EN-20260906-131541-132235-CS.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Por que disputa pelas Malvinas voltou ao centro da política na Argentina? A resposta tem a ver com petróleo",
+      "link": "https://www.bbc.com/portuguese/articles/c3058em249no?at_medium=RSS&at_campaign=rss",
+      "summary": "Ao tratar Malvinas como prioridade, Javier Milei tenta reverter baixa popularidade a um ano de eleição presidencial, e presença de petróleo no território amplia importância do tema.",
+      "published_at": "2026-09-06T13:26:22Z",
+      "region": "América do Sul",
+      "theme": "Política Internacional",
+      "source_name": "BBC News Brasil",
+      "source_id": "bbc_brasil",
+      "is_brazilian": true,
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4547/live/523d1300-a88f-11f1-96fc-dd627484b0e6.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Senado aprova prioridade para futebol feminino na política de esporte",
+      "link": "https://www.poder360.com.br/poder-congresso/senado-aprova-prioridade-para-futebol-feminino-na-politica-de-esporte/",
+      "summary": "Texto exige elaboração de plano de legado social, esportivo e financeiro da Copa do Mundo Feminina de 2027, que será no Brasil",
+      "published_at": "2026-09-06T13:20:23Z",
+      "region": "América do Sul",
+      "theme": "Cultura, Mídia e Sociedade",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2026/09/futebol-feminino-1200x675.jpeg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1460661419201-fd4cecdf8a8b?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1508700115892-45ecd05ae2ad?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "US envoys meet Zelensky in Ukraine after talks with Putin in Russia",
+      "link": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss",
+      "summary": "Steve Witkoff and Jared Kushner are holding talks in Kyiv, in their first visit to Ukraine since Russia's full-scale invasion.",
+      "published_at": "2026-09-06T13:16:21Z",
+      "region": "Europa",
+      "theme": "Política Internacional",
+      "source_name": "BBC World News",
+      "source_id": "bbc_world",
+      "is_brazilian": false,
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7828/live/f5ab4970-a9ee-11f1-921b-6365210e1c9d.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Seven mouths, one meal: Feeding a family through Gaza’s food crisis",
+      "link": "https://www.aljazeera.com/features/2026/9/6/seven-mouths-one-meal-feeding-a-family-through-gazas-food-crisis?traffic_source=rss",
+      "summary": "Families across Gaza struggle to secure food as community kitchens operate irregularly and prices rise.",
+      "published_at": "2026-09-06T13:15:46Z",
+      "region": "Oriente Médio",
+      "theme": "Economia Internacional",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/09/873A1475-copy-1788692036.jpg?resize=1920%2C1440",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "How the West’s promise of freedom created a world of anger",
+      "link": "https://www.aljazeera.com/video/deja-vu-2/2026/9/6/how-the-wests-promise-of-freedom-created-a-world-of-anger?traffic_source=rss",
+      "summary": "In Deja Vu’s next episode, Pankaj Mishra traces today’s political anger to the Enlightenment and empire.",
+      "published_at": "2026-09-06T13:14:33Z",
+      "region": "Oriente Médio",
+      "theme": "Outros / Multitemático",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1788700377.jpg?resize=1920%2C1080&quality=80",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Palestinians mourn loved ones in mass funeral in Gaza City",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/6/palestinians-mourn-loved-ones-in-mass-funeral-in-gaza-city?traffic_source=rss",
+      "summary": "Thousands attended a mass funeral for 100 Palestinians whose bodies were recovered from rubble in Gaza City.",
+      "published_at": "2026-09-06T13:13:36Z",
+      "region": "Oriente Médio",
+      "theme": "Outros / Multitemático",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-09-06T085506Z_395124322_RC2KDNAAMKQ8_RTRMADP_3_ISRAEL-PALESTINIANS-GAZA-3mb-1788700403.jpg?resize=1200%2C630",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "La ONU reclama a los talibán el fin de la prohibición de acceso a mujeres a sus complejos en Afganistán",
+      "link": "https://www.europapress.es/internacional/noticia-onu-reclama-taliban-fin-prohibicion-acceso-mujeres-complejos-afganistan-20260906151336.html",
+      "summary": "Naciones Unidas ha reclamado este domingo a los talibán que pongan fin a su prohibición de acceso a las mujeres a sus complejos en el país asiático, impuesta hace un año, antes de reiterar su preocupación por las \"políticas discriminatorias\" contra mujeres y niñas desde su regreso al poder en agosto de 2021.",
+      "published_at": "2026-09-06T13:13:36Z",
+      "region": "Europa",
+      "theme": "Direito Internacional e Instituições",
+      "source_name": "Europa Press",
+      "source_id": "europa_press",
+      "is_brazilian": false,
+      "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260906151336_120.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1505664194779-8beaceb93744?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "US envoys Witkoff, Kushner arrive in Kiyv after Putin talks",
+      "link": "https://www.dw.com/en/us-envoys-witkoff-kushner-arrive-in-kiyv-after-putin-talks/a-79054779?maca=en-rss-en-world-4025-rdf",
+      "summary": "The two US offcials are meeting Ukrainian President Volodymyr Zelenskyy in Kyiv, with national security advisors the UK, France, and Germany reportedly also in Ukraine for talks.",
+      "published_at": "2026-09-06T13:02:00Z",
+      "region": "Europa",
+      "theme": "Política Internacional",
+      "source_name": "DW World News",
+      "source_id": "dw_english",
+      "is_brazilian": false,
+      "image_url": "https://static.dw.com/image/79054934_6.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
     {
       "title": "Saiba quais são as propostas de Lula e Flávio para as contas públicas",
       "link": "https://www.poder360.com.br/poder-eleicoes-2026/saiba-quais-sao-as-propostas-de-lula-e-flavio-para-as-contas-publicas/",
@@ -33,6 +271,40 @@
         "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Algeria civil defence recovers body of 10-year-old boy from well",
+      "link": "https://www.aljazeera.com/news/2026/9/6/algeria-civil-defence-recovers-body-of-10-year-old-boy-from-well?traffic_source=rss",
+      "summary": "Child found dead after four-day rescue effort in Algeria's western province of el-Bayadh.",
+      "published_at": "2026-09-06T12:55:06Z",
+      "region": "África",
+      "theme": "Outros / Multitemático",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/09/Algeria1-1788694907.webp?resize=1200%2C675",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Indonesia's Anak Krakatau eruption halts flights, schools, fishing",
+      "link": "https://www.france24.com/en/video/20260906-indonesia-s-anak-krakatau-eruption-halts-flights-schools-fishing",
+      "summary": "An eruption of Indonesia's Mount Anak Krakatau caused six airports to suspend flight operations on Sunday, affecting hundreds of flights at Jakarta's main airport, after some school activities and fishing were halted.",
+      "published_at": "2026-09-06T12:54:56Z",
+      "region": "Ásia",
+      "theme": "Outros / Multitemático",
+      "source_name": "France 24",
+      "source_id": "france24",
+      "is_brazilian": false,
+      "image_url": "https://s.france24.com/media/display/a51d103e-a9e8-11f1-b319-005056a90284/w:1024/p:16x9/EN-20260906-120902-121027-CS.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
       ]
     },
     {
@@ -1362,23 +1634,6 @@
       ]
     },
     {
-      "title": "Egyptian TV presenter Sarah Khalifa sentenced to death in drugs case",
-      "link": "https://www.aljazeera.com/news/2026/9/6/egyptian-tv-presenter-sentenced-to-death-in-major-drug-case?traffic_source=rss",
-      "summary": "Cairo court sentences TV host Sarah Khalifa and 11 others to death over drug trafficking ring.",
-      "published_at": "2026-09-06T07:20:37Z",
-      "region": "África",
-      "theme": "Outros / Multitemático",
-      "source_name": "Al Jazeera",
-      "source_id": "aljazeera_english",
-      "is_brazilian": false,
-      "image_url": "https://loremflickr.com/cache/resized/defaultImage.small_800_600_nofilter.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
       "title": "FIFA’s Infantino avoids questions on his future amid growing uncertainty",
       "link": "https://www.aljazeera.com/sports/2026/9/6/fifas-infantino-avoids-questions-on-his-future-amid-growing-uncertainty?traffic_source=rss",
       "summary": "Upon arrival at the U-20 Women's World Cup, Infantino remained tight-lipped about his re-election as FIFA president.",
@@ -2294,261 +2549,6 @@
         "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Peru decreta emergência em 5 presídios de segurança máxima",
-      "link": "https://www.poder360.com.br/poder-internacional/peru-decreta-emergencia-em-5-presidios-de-seguranca-maxima/",
-      "summary": "Governo Keiko Fujimori autorizou atuação policial e militar por 60 dias para conter facções que operam de dentro das unidades",
-      "published_at": "2026-09-05T22:18:53Z",
-      "region": "América do Sul",
-      "theme": "Geopolítica e Segurança",
-      "source_name": "Poder360",
-      "source_id": "poder360",
-      "is_brazilian": true,
-      "image_url": "https://static.poder360.com.br/uploads/2026/07/keiko-em-posse-a-presidencia-28.jul_.2026.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Gilmar formaliza proposta para proibir policiais em gabinetes do STF",
-      "link": "https://www.poder360.com.br/poder-justica/gilmar-formaliza-proposta-para-proibir-policiais-em-gabinetes-do-stf/",
-      "summary": "Proposta foi apresentada a Fachin e abrange PF, Forças Armadas e polícias estaduais; iniciativa ganhou força após crise na Corte",
-      "published_at": "2026-09-05T22:13:39Z",
-      "region": "América do Sul",
-      "theme": "Política Brasileira",
-      "source_name": "Poder360",
-      "source_id": "poder360",
-      "is_brazilian": true,
-      "image_url": "https://static.poder360.com.br/uploads/2026/08/ministro-gilmar-mendes-stf-1200x675.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Caiado diz que Moraes deveria se “auto-afastar” do STF",
-      "link": "https://www.poder360.com.br/poder-eleicoes-2026/caiado-diz-que-moraes-deveria-se-auto-afastar-do-stf/",
-      "summary": "Candidato do PSD disse que \"problemas individuais\" não podem atingir STF, Congresso, Senado nem a Presidência",
-      "published_at": "2026-09-05T22:07:29Z",
-      "region": "América do Sul",
-      "theme": "Política Brasileira",
-      "source_name": "Poder360",
-      "source_id": "poder360",
-      "is_brazilian": true,
-      "image_url": "https://static.poder360.com.br/uploads/2026/09/Ronaldo-Caiado-Expointer-RS-5.set_.2026-1200x675.png",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Flávio promete proteger o STF e diz que Moraes é “laranja podre”",
-      "link": "https://www.poder360.com.br/poder-eleicoes-2026/flavio-promete-proteger-o-stf-e-diz-que-moraes-e-laranja-podre/",
-      "summary": "O candidato à Presidência pelo PL afirmou que pretende “resgatar a credibilidade das instituições” se for eleito",
-      "published_at": "2026-09-05T21:59:32Z",
-      "region": "América do Sul",
-      "theme": "Política Brasileira",
-      "source_name": "Poder360",
-      "source_id": "poder360",
-      "is_brazilian": true,
-      "image_url": "https://static.poder360.com.br/uploads/2026/09/flavio-fala-sobre-moraes-no-parana-1200x675.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Why Mexican cartels are increasingly using car bombs and other explosives",
-      "link": "https://www.pbs.org/newshour/world/why-mexican-cartels-are-increasingly-using-car-bombs-and-other-explosives",
-      "summary": "So far this year, Zacatecas has recorded 23 attacks involving explosives, including six involving cars or motorcycles packed with explosives, state Attorney General Cristian Paul Camacho said.",
-      "published_at": "2026-09-05T21:56:52Z",
-      "region": "América do Norte",
-      "theme": "Outros / Multitemático",
-      "source_name": "PBS NewsHour",
-      "source_id": "pbs_newshour",
-      "is_brazilian": false,
-      "image_url": "https://d3i6fh83elv35t.cloudfront.net/static/2026/09/2026-08-31T235926Z_496918952_RC2L9NABP9PR_RTRMADP_3_MEXICO-VIOLENCE-1024x694.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Homem é amarrado em avião por fazer ofensas preconceituosas nos EUA",
-      "link": "https://www.poder360.com.br/poder-internacional/homem-e-amarrado-em-aviao-por-fazer-ofensas-preconceituosas-nos-eua/",
-      "summary": "Passageiros receberam fita adesiva de comissário e amarraram o homem à sua poltrona; avião desviou de rota e o passageiro foi preso no aeroporto Thurgood Marshall, em Baltimore",
-      "published_at": "2026-09-05T21:35:38Z",
-      "region": "América do Norte",
-      "theme": "Outros / Multitemático",
-      "source_name": "Poder360",
-      "source_id": "poder360",
-      "is_brazilian": true,
-      "image_url": "https://static.poder360.com.br/uploads/2026/09/homem-amarrado-em-aviao-3-set-2026-1200x675.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "US envoys Witkoff, Kushner meet Putin for talks on Ukraine war",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/5/us-envoys-witkoff-kushner-meet-putin-for-talks-on-ukraine-war?traffic_source=rss",
-      "summary": "US envoys Steve Witkoff and Jared Kushner met Russian President Vladimir Putin at the Kremlin on Saturday.",
-      "published_at": "2026-09-05T21:23:06Z",
-      "region": "Europa",
-      "theme": "Política Internacional",
-      "source_name": "Al Jazeera",
-      "source_id": "aljazeera_english",
-      "is_brazilian": false,
-      "image_url": "https://loremflickr.com/cache/resized/defaultImage.small_800_600_nofilter.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Escala 6 X 1 piora saúde mental para 67% dos trabalhadores, diz estudo",
-      "link": "https://www.poder360.com.br/poder-economia/escala-6-x-1-piora-saude-mental-para-67-dos-trabalhadores-diz-estudo/",
-      "summary": "Para 70% das pessoas ouvidas pelo Instituto Locomotiva, os trabalhadores deveriam trabalhar menos, uma vez que a tecnologia aumentou a produtividade",
-      "published_at": "2026-09-05T21:17:14Z",
-      "region": "América do Sul",
-      "theme": "Ciência, Tecnologia e Inovação",
-      "source_name": "Poder360",
-      "source_id": "poder360",
-      "is_brazilian": true,
-      "image_url": "https://static.poder360.com.br/uploads/2026/08/trabalho-sec-21.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1518770660439-4636190af475?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1507668077129-56e32842fceb?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Erika Hilton aciona MPRJ por homofobia contra ator da “Globo”",
-      "link": "https://www.poder360.com.br/poder-midia/erika-hilton-aciona-mprj-por-homofobia-contra-ator-da-globo/",
-      "summary": "Deputada pede responsabilização financeira de streamers e plataforma por ofensas contra João Victor Gonçalves",
-      "published_at": "2026-09-05T21:12:47Z",
-      "region": "América do Sul",
-      "theme": "Outros / Multitemático",
-      "source_name": "Poder360",
-      "source_id": "poder360",
-      "is_brazilian": true,
-      "image_url": "https://static.poder360.com.br/uploads/2026/09/erika-hilton-joao-victor-quemamacuid-1200x675.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Building collapses after heavy rain in northern India",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/5/09-05-sv-india-building-collapse-mp4?traffic_source=rss",
-      "summary": "A building collapsed in Muradabad, northern India, tearing through power lines and sending sparks into the street.",
-      "published_at": "2026-09-05T21:11:25Z",
-      "region": "Ásia",
-      "theme": "Outros / Multitemático",
-      "source_name": "Al Jazeera",
-      "source_id": "aljazeera_english",
-      "is_brazilian": false,
-      "image_url": "https://loremflickr.com/cache/resized/defaultImage.small_800_600_nofilter.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "U.S. strikes three Iranian oil tankers in renewal of hostilities",
-      "link": "https://www.npr.org/2026/09/05/nx-s1-5959181/u-s-strikes-three-iranian-oil-tankers-in-renewal-of-hostilities",
-      "summary": "The U.S. strikes three Iranian oil tankers after Iran targets two American warships, in the latest exchange over shipping and the Strait of Hormuz.",
-      "published_at": "2026-09-05T21:01:12Z",
-      "region": "Oriente Médio",
-      "theme": "Outros / Multitemático",
-      "source_name": "NPR World News",
-      "source_id": "npr",
-      "is_brazilian": false,
-      "image_url": "https://media.npr.org/include/images/facebook-default-wide-s1400-c85.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "This is the work of our lifetime: Ayana Elizabeth Johnson urges action after new UN climate report",
-      "link": "https://www.npr.org/2026/09/05/nx-s1-5954264/this-is-the-work-of-our-lifetime-ayana-elizabeth-johnson-urges-action-after-new-un-climate-report",
-      "summary": "A United Nations report has found that the world will warm to 1.5 degrees Celsius above pre-industrial levels. Climate solutions advocate Ayana Elizabeth Johnson urges a quicker implementation of known strategies - and determination rather than despair.",
-      "published_at": "2026-09-05T21:01:08Z",
-      "region": "Global",
-      "theme": "Meio Ambiente e Clima",
-      "source_name": "NPR World News",
-      "source_id": "npr",
-      "is_brazilian": false,
-      "image_url": "https://media.npr.org/include/images/facebook-default-wide-s1400-c85.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Prince William to attend King Harald's funeral in Norway",
-      "link": "https://www.bbc.co.uk/news/articles/cp301rw6kvro?at_medium=RSS&at_campaign=rss",
-      "summary": "The Prince of Wales will represent the King at the funeral of Harald V in Oslo next week.",
-      "published_at": "2026-09-05T21:00:02Z",
-      "region": "Europa",
-      "theme": "Outros / Multitemático",
-      "source_name": "BBC World News",
-      "source_id": "bbc_world",
-      "is_brazilian": false,
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2c5f/live/c032d030-a2b2-11f1-9024-715001d09aeb.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Zema divulga teaser do “episódio mais importante” de “Intocáveis”",
-      "link": "https://www.poder360.com.br/poder-eleicoes-2026/zema-divulga-teaser-do-episodio-mais-importante-de-intocaveis/",
-      "summary": "Vídeo com fantoches de Moraes e Vorcaro vem após PF revelar troca de mensagens entre o ministro e o fundador do Banco Master",
-      "published_at": "2026-09-05T20:51:27Z",
-      "region": "América do Sul",
-      "theme": "Política Brasileira",
-      "source_name": "Poder360",
-      "source_id": "poder360",
-      "is_brazilian": true,
-      "image_url": "https://static.poder360.com.br/uploads/2026/09/Novo-episodio-de-Intocaveis-mostra-Moraes-em-Trono-5-set-2026-1200x675.png",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Fachin atrasa casos que envolvem Moraes e Vorcaro até 22 de setembro",
-      "link": "https://www.poder360.com.br/poder-justica/fachin-atrasa-casos-que-envolvem-moraes-e-vorcaro-ate-22-de-setembro/",
-      "summary": "Prazos para respostas empurram análise de ministros do STF até data que será 12 dias antes do 1º turno da eleição; tendência é deixar decisão para depois",
-      "published_at": "2026-09-05T20:38:39Z",
-      "region": "América do Sul",
-      "theme": "Política Brasileira",
-      "source_name": "Poder360",
-      "source_id": "poder360",
-      "is_brazilian": true,
-      "image_url": "https://static.poder360.com.br/uploads/2026/09/imagem-destaque-stf-moraes-mendonca-vorcaro-1200x675.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
       ]
     }
   ]
