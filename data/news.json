@@ -1,6 +1,40 @@
 {
-  "updated_at": "2026-09-06T03:04:48.203094Z",
+  "updated_at": "2026-09-06T04:04:29.701865Z",
   "news": [
+    {
+      "title": "Indonesia’s main airport suspends flights due to Anak Krakatau eruption",
+      "link": "https://www.aljazeera.com/news/2026/9/6/indonesias-main-airport-suspends-flights-due-to-anak-krakatoa-eruption?traffic_source=rss",
+      "summary": "Volcanic ash from Mount Anak Krakatau disrupts flights at Soekarno-Hatta International airport, near Jakarta.",
+      "published_at": "2026-09-06T03:38:23Z",
+      "region": "Ásia",
+      "theme": "Outros / Multitemático",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/09/ap_6a9cc78f613ee-1788659599.jpg?resize=1920%2C1440",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Nearly 9,000 killed in Israeli attacks on Lebanon since 2023",
+      "link": "https://www.aljazeera.com/news/2026/9/6/nearly-9000-killed-in-israeli-attacks-on-lebanon-since-2023?traffic_source=rss",
+      "summary": "More than 179 attacks on ambulance crews recorded since March 2, killing 179 healthcare workers.",
+      "published_at": "2026-09-06T02:56:31Z",
+      "region": "Oriente Médio",
+      "theme": "Outros / Multitemático",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/09/ap_6a9cbcfbe0b64-1788656891.jpg?resize=1920%2C1440",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
     {
       "title": "Menções ao STF crescem 269% depois de diálogos Moraes-Vorcaro",
       "link": "https://www.poder360.com.br/poder-justica/mencoes-ao-stf-crescem-269-depois-de-dialogos-moraes-vorcaro/",
@@ -2515,40 +2549,6 @@
         "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Ao vivo: Flávio visita Filipe Martins em Ponta Grossa",
-      "link": "https://www.poder360.com.br/poder-eleicoes-2026/ao-vivo-flavio-visita-filipe-martins-em-ponta-grossa/",
-      "summary": "O ex-assessor de Jair Bolsonaro cumpre pena de 21 anos de prisão por participação na tentativa de golpe de Estado",
-      "published_at": "2026-09-05T15:00:16Z",
-      "region": "América do Sul",
-      "theme": "Política Brasileira",
-      "source_name": "Poder360",
-      "source_id": "poder360",
-      "is_brazilian": true,
-      "image_url": "https://static.poder360.com.br/uploads/2026/09/FLAVIO-BOLSONARO-1200x675.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "AGU diz que não tinha competência para questionar Mendonça",
-      "link": "https://www.poder360.com.br/poder-governo/agu-diz-que-nao-tinha-competencia-para-questionar-mendonca/",
-      "summary": "PF indicou que a instituição não adotou as medidas necessárias contra as decisões do ministro nas operações Compliance Zero e Sem Desconto",
-      "published_at": "2026-09-05T14:59:25Z",
-      "region": "América do Sul",
-      "theme": "Política Brasileira",
-      "source_name": "Poder360",
-      "source_id": "poder360",
-      "is_brazilian": true,
-      "image_url": "https://static.poder360.com.br/uploads/2026/08/JorgeMessias-Ministro-31Mar2026-1-1200x675.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
       ]
     }
   ]
