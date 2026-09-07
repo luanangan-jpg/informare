@@ -1,6 +1,23 @@
 {
-  "updated_at": "2026-09-07T03:04:49.201110Z",
+  "updated_at": "2026-09-07T04:04:23.624862Z",
   "news": [
+    {
+      "title": "Trump aparece com cabelo mais escuro e vira piada nas redes",
+      "link": "https://www.poder360.com.br/poder-internacional/trump-aparece-com-cabelo-mais-escuro-e-vira-piada-nas-redes/",
+      "summary": "Presidente dos EUA apareceu com fios próximos ao castanho ao desembarcar em Nova Jersey; Casa Branca não comentou a mudança",
+      "published_at": "2026-09-07T03:20:34Z",
+      "region": "América do Norte",
+      "theme": "Política Internacional",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2026/09/Trump-pinta-cabelo-meme-X-10-1200x675.png",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
     {
       "title": "Iran to announce restricted zone outside Strait of Hormuz",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/9/7/aje-onl-nf_iran-to-announce-restricted-zone-around-hormuz-060926?traffic_source=rss",
@@ -2532,23 +2549,6 @@
         "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Lula defende IA em português para reduzir dependência externa",
-      "link": "https://www.poder360.com.br/poder-eleicoes-2026/lula-defende-ia-em-portugues-para-reduzir-dependencia-externa/",
-      "summary": "Em comício no interior paulista, presidente disse que o Brasil não deveria depender de tecnologias desenvolvidas pelos EUA e pela China",
-      "published_at": "2026-09-06T14:25:04Z",
-      "region": "América do Sul",
-      "theme": "Política Brasileira",
-      "source_name": "Poder360",
-      "source_id": "poder360",
-      "is_brazilian": true,
-      "image_url": "https://static.poder360.com.br/uploads/2026/09/Lula-comicio-Sao-Jose-do-Rio-Preto-5.set_.2026-1200x675.png",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
       ]
     }
   ]
