@@ -1,17 +1,340 @@
 {
-  "updated_at": "2026-09-08T14:05:40.008162Z",
+  "updated_at": "2026-09-08T15:06:12.322446Z",
   "news": [
     {
       "title": "STF tem maioria pelo afastamento de diretor-geral da PF, mas julgamento está suspenso por Gilmar Mendes; acompanhe",
       "link": "https://www.bbc.co.uk/portuguese/live/cqx2zxy6eg0kt?at_medium=RSS&at_campaign=rss",
       "summary": "André Mendonça pede o afastamento de Andrei Rodrigues da PF e dois ministros votam por manter determinação, formando maioria na decisão. Gilmar Mendes pede vista e suspende julgamento.",
-      "published_at": "2026-09-08T14:05:29.236187Z",
+      "published_at": "2026-09-08T15:06:03.155856Z",
       "region": "América do Sul",
       "theme": "Política Brasileira",
       "source_name": "BBC News Brasil",
       "source_id": "bbc_brasil",
       "is_brazilian": true,
       "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a3e8/live/cb4fe350-ab80-11f1-aed2-8d6da8d75094.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Cleitinho tem 31% no 1º turno e lidera disputa pelo governo de Minas",
+      "link": "https://www.poder360.com.br/poder-eleicoes-2026/cleitinho-tem-31-no-1o-turno-e-lidera-disputa-pelo-governo-de-minas/",
+      "summary": "Levantamento Real Time Big Data mostra senador à frente de Patrus Ananias, com 17%, e Kalil, com 12%",
+      "published_at": "2026-09-08T14:57:14Z",
+      "region": "América do Sul",
+      "theme": "Política Brasileira",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2026/07/cleitinho-azevedo.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "UK bans goods from Israeli West Bank settlements: What that really means",
+      "link": "https://www.aljazeera.com/news/2026/9/8/uk-bans-goods-from-israeli-west-bank-settlements-what-that-really-means?traffic_source=rss",
+      "summary": "Foreign Minister Ed Miliband said the ban represents a 'comprehensive reset' of UK's policy on Israel.",
+      "published_at": "2026-09-08T14:52:00Z",
+      "region": "Europa",
+      "theme": "Outros / Multitemático",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/09/afp_6a608aca7713-1784711882-1788874893.jpg?resize=1200%2C630&quality=80",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Carney says US trade war 'will come at a cost' as Canada strikes back on tariffs",
+      "link": "https://www.bbc.co.uk/news/articles/c8jdev0422jo?at_medium=RSS&at_campaign=rss",
+      "summary": "As high as 50%, Canada's levies will apply to nearly $20bn of US products, from steel to T-shirts.",
+      "published_at": "2026-09-08T14:46:16Z",
+      "region": "América do Norte",
+      "theme": "Comércio e Finanças",
+      "source_name": "BBC World News",
+      "source_id": "bbc_world",
+      "is_brazilian": false,
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4970/live/57d86dc0-ab49-11f1-9191-cd98112fd46c.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1578575437130-527eed3abbec?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1522071820081-009f0129c71c?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "AGU deve recorrer ao STF contra decisão que afastou Andrei da PF",
+      "link": "https://www.poder360.com.br/poder-governo/agu-deve-recorrer-ao-stf-contra-decisao-que-afastou-andrei-da-pf/",
+      "summary": "Advocacia sustenta que medida invade atribuição presidencial; caso será analisado pela Corte em sessão extraordinária",
+      "published_at": "2026-09-08T14:45:11Z",
+      "region": "América do Sul",
+      "theme": "Política Brasileira",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2026/04/image5-12.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "FIFA accused of ‘abusive conduct’ over women’s football calendar in Europe",
+      "link": "https://www.aljazeera.com/sports/2026/9/8/fifa-accused-of-abusive-conduct-over-womens-football-calendar-in-europe?traffic_source=rss",
+      "summary": "European Leagues body first filed complaint to the European Commission to protect men's players in October 2024.",
+      "published_at": "2026-09-08T14:44:16Z",
+      "region": "Europa",
+      "theme": "Outros / Multitemático",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/09/getty_6aa01cfa9a-1788878074.jpg?resize=1920%2C1440",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Banco Central diz que R$ 5,6 bi estão esquecidos nos bancos",
+      "link": "https://www.poder360.com.br/poder-economia/banco-central-diz-que-r-56-bi-estao-esquecidos-nos-bancos/",
+      "summary": "Recursos podem ser resgatados por 23,6 milhões de pessoas físicas e 2,2 milhões de empresas",
+      "published_at": "2026-09-08T14:40:02Z",
+      "region": "América do Sul",
+      "theme": "Economia Brasileira",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2026/04/dinheiro.png",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1506744038136-46273834b3fb?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Hungary expels 10 Russian diplomats as relations worsen",
+      "link": "https://www.bbc.co.uk/news/articles/cddvzd1z53lo?at_medium=RSS&at_campaign=rss",
+      "summary": "For years, Hungary was viewed as Russia's closest ally in the EU, but the new government has dropped the pro-Kremlin stance.",
+      "published_at": "2026-09-08T14:38:44Z",
+      "region": "Europa",
+      "theme": "Política Internacional",
+      "source_name": "BBC World News",
+      "source_id": "bbc_world",
+      "is_brazilian": false,
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5994/live/4706a390-ab8a-11f1-aa04-efbf6a882854.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Elmano e Ciro empatam em 2º turno no Ceará, diz pesquisa",
+      "link": "https://www.poder360.com.br/poder-eleicoes-2026/elmano-e-ciro-empatam-em-2o-turno-no-ceara-diz-pesquisa/",
+      "summary": "Levantamento da Real Time Big Data mostra atual governador com 47% contra 46% do ex-ministro; margem de erro é de 2 pontos",
+      "published_at": "2026-09-08T14:33:52Z",
+      "region": "América do Sul",
+      "theme": "Ciência, Tecnologia e Inovação",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2026/08/elmano-ciro-sergio-lima.png",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1518770660439-4636190af475?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1507668077129-56e32842fceb?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "The Tempe 57: A father’s fight for justice after Greece’s worst train crash",
+      "link": "https://www.aljazeera.com/video/witness/2026/9/8/the-tempe-57-a-fathers-fight-for-justice-after-greeces-worst-train-crash?traffic_source=rss",
+      "summary": "An immigrant father who lost his son in the 2023 Tempe train crash leads a protest movement in his search for justice.",
+      "published_at": "2026-09-08T14:30:00Z",
+      "region": "Europa",
+      "theme": "Direitos Humanos, Sociedade e Migrações",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/09/YT-Thumbnail-1788867699.jpg?resize=1920%2C1080&quality=80",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1542810634-71277d95dcbb?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1489533119213-66a5cd877091?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1531206715517-5c0ba140e2b8?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Decisão de Mendonça afasta também delegado que investigou morte de Marielle Franco",
+      "link": "https://www.bbc.com/portuguese/articles/cg7kj85xgkro?at_medium=RSS&at_campaign=rss",
+      "summary": "Decisão do ministro STF André Mendonça de afastar o diretor-geral da Polícia Federal, Andrei Rodrigues, também atingiu o diretor de Inteligência da corporação, o delegado Leandro Almada.",
+      "published_at": "2026-09-08T14:23:44Z",
+      "region": "América do Sul",
+      "theme": "Política Brasileira",
+      "source_name": "BBC News Brasil",
+      "source_id": "bbc_brasil",
+      "is_brazilian": true,
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/005d/live/6e045410-ab8a-11f1-aed2-8d6da8d75094.png",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Helder Barbalho lidera disputa pelo Senado no PA, diz pesquisa",
+      "link": "https://www.poder360.com.br/poder-eleicoes-2026/helder-barbalho-lidera-disputa-pelo-senado-no-pa-diz-pesquisa/",
+      "summary": "Real Time Big Data entrevistou 1.600 eleitores do Estado de 3 a 7 de setembro; margem de erro é de 2 p.p.",
+      "published_at": "2026-09-08T14:18:56Z",
+      "region": "América do Sul",
+      "theme": "Política Brasileira",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2020/07/SLIMA-0206.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Yemen’s reignited war fuels a new wave in child recruitment",
+      "link": "https://www.aljazeera.com/news/2026/9/8/yemens-reignited-war-fuels-a-new-wave-in-child-recruitment?traffic_source=rss",
+      "summary": "Yemeni government and Houthi forces are engaged in a new round of fighting.",
+      "published_at": "2026-09-08T14:16:56Z",
+      "region": "Oriente Médio",
+      "theme": "Geopolítica e Segurança",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/09/ap_6a9fefaec45dc-1788866478.jpg?resize=1920%2C1440",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Sounding the fire alarm: Why French firefighters are going on strike",
+      "link": "https://www.france24.com/en/tv-shows/entre-nous/20260908-sounding-the-fire-alarm-why-french-firefighters-are-going-on-strike",
+      "summary": "We dive into the particularities of France's firefighting system, including how they came to be called \"sapeurs-pompiers\", this as firefighters kick off six weeks of strikes. Finally, we discuss how other public service workers are also calling for industrial action.",
+      "published_at": "2026-09-08T14:12:50Z",
+      "region": "Europa",
+      "theme": "Outros / Multitemático",
+      "source_name": "France 24",
+      "source_id": "france24",
+      "is_brazilian": false,
+      "image_url": "https://s.france24.com/media/display/b0601cae-ab8a-11f1-bbf8-005056a90284/w:1024/p:16x9/capture-697932066aa0100555e277-14469226.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Spoiler alert: AI in cinema 'just a tool, won’t replace actors and human beings'",
+      "link": "https://www.france24.com/en/video/20260908-spoiler-alert-ai-in-cinema-just-a-tool-won-t-replace-actors-and-human-beings-1",
+      "summary": "Eve Irvine is pleased to welcome film producer Lahoucine Grimich. He challenges the prevailing narrative that cinema is an industry in existential crisis. While acknowledging that viewing habits have dramatically shifted since the pandemic, he argues that streaming platforms, public support and theatrical exhibition are not competing forces. As demonstrated in the French model, they form parts of an interconnected financing ecosystem in which cinema can adapt without ever abandoning the big screen. He frames filmmaking as a form of cultural sovereignty: societies need films not simply as entertainment, but to recognise themselves and to create what he calls “new imaginaries.”",
+      "published_at": "2026-09-08T14:11:18Z",
+      "region": "Europa",
+      "theme": "Cultura, Mídia e Sociedade",
+      "source_name": "France 24",
+      "source_id": "france24",
+      "is_brazilian": false,
+      "image_url": "https://s.france24.com/media/display/2ffeb164-ab86-11f1-8ddf-005056bf30b7/w:1024/p:16x9/EN-20260908-081209-081733-CS.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1460661419201-fd4cecdf8a8b?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1508700115892-45ecd05ae2ad?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "EEUU pide a Europa prepararse para \"un conflicto prolongado\" en Ucrania ante la reconstitución militar de Rusia",
+      "link": "https://www.europapress.es/internacional/noticia-eeuu-pide-europa-prepararse-conflicto-prolongado-ucrania-reconstitucion-militar-rusia-20260908161044.html",
+      "summary": "El subsecretario de Defensa de Estados Unidos para Asuntos Políticos, Elbridge Colby, ha pedido este martes a los aliados europeos de la OTAN que se preparen para \"un conflicto prolongado\" en Ucrania y para mantener su apoyo militar a Kiev durante los próximos \"meses y años\", ante la reconstitución de las fuerzas rusas y de su capacidad industrial de defensa.",
+      "published_at": "2026-09-08T14:10:44Z",
+      "region": "Europa",
+      "theme": "Geopolítica e Segurança",
+      "source_name": "Europa Press",
+      "source_id": "europa_press",
+      "is_brazilian": false,
+      "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260908161044_120.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "One year on from Nepal protests, have Gen Z demands been met?",
+      "link": "https://www.aljazeera.com/news/2026/9/8/one-year-on-from-nepal-protests-have-gen-z-demands-been-met?traffic_source=rss",
+      "summary": "It has been a year since Nepal's youth protested against corruption, prompting a leadership change.",
+      "published_at": "2026-09-08T14:09:49Z",
+      "region": "Ásia",
+      "theme": "Outros / Multitemático",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/09/afp_6a9fd807336d-1788860423_7bab47-1788870366.jpg?resize=1200%2C630&quality=80",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Bosnia: The long shadow cast by Ratko Mladic's coffin",
+      "link": "https://www.dw.com/en/bosnia-the-long-shadow-cast-by-ratko-mladic-s-coffin/a-79189319?maca=en-rss-en-world-4025-rdf",
+      "summary": "Ratko Mladic's funeral in Belgrade, which was attended by Serbian and Bosnian Serb leaders, has triggered emotional responses across the region and is likely to impact Bosnia's upcoming election.",
+      "published_at": "2026-09-08T14:09:00Z",
+      "region": "Europa",
+      "theme": "Política Internacional",
+      "source_name": "DW World News",
+      "source_id": "dw_english",
+      "is_brazilian": false,
+      "image_url": "https://static.dw.com/image/79152229_6.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Produção de carros em agosto tem melhor resultado desde 2019",
+      "link": "https://www.poder360.com.br/poder-economia/producao-de-carros-em-agosto-tem-melhor-resultado-desde-2019/",
+      "summary": "Vendas de veículos atingiram marca de 2 milhões nos primeiros dias de setembro, 1 mês antes do que em 2025",
+      "published_at": "2026-09-08T14:07:01Z",
+      "region": "América do Sul",
+      "theme": "Outros / Multitemático",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2026/08/Carros-1080-1-1200x675.png",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Gilmar, adversário de Mendonça, pede vista no julgamento sobre afastar diretor da PF",
+      "link": "https://www.poder360.com.br/poder-justica/gilmar-adversario-de-mendonca-pede-vista-no-julgamento-sobre-afastar-diretor-da-pf/",
+      "summary": "Mesmo com vista de Gilmar, Fux e Kássio seguem Mendonça para punir diretor-geral da PF por “relatório de inteligência”",
+      "published_at": "2026-09-08T14:05:17Z",
+      "region": "América do Sul",
+      "theme": "Política Brasileira",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2026/08/Gilmar-Mendes.jpg",
       "fallback_images": [
         "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
@@ -50,6 +373,23 @@
         "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Saudi Arabia vows to respond after Houthis attack cities and energy facilities",
+      "link": "https://www.bbc.co.uk/news/articles/cp849n2nz01o?at_medium=RSS&at_campaign=rss",
+      "summary": "The Iran-backed Yemeni group's attacks have injured 73 people and caused fires at oil facilities, Saudi authorities say.",
+      "published_at": "2026-09-08T13:58:32Z",
+      "region": "Oriente Médio",
+      "theme": "Geopolítica e Segurança",
+      "source_name": "BBC World News",
+      "source_id": "bbc_world",
+      "is_brazilian": false,
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4aee/live/618dde40-ab8a-11f1-aa04-efbf6a882854.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
       ]
     },
     {
@@ -271,6 +611,23 @@
         "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1505664194779-8beaceb93744?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Four Renoir paintings worth millions stolen in French museum heist",
+      "link": "https://www.bbc.co.uk/news/articles/c70drp0pyw2o?at_medium=RSS&at_campaign=rss",
+      "summary": "It is the latest in a string of high-profile art thefts in Europe that has again put the security of museums and galleries in the spotlight.",
+      "published_at": "2026-09-08T13:35:28Z",
+      "region": "Europa",
+      "theme": "Outros / Multitemático",
+      "source_name": "BBC World News",
+      "source_id": "bbc_world",
+      "is_brazilian": false,
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3cf4/live/6d4f0240-ab94-11f1-a291-b542ee92de7c.png",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
       ]
     },
     {
@@ -512,6 +869,23 @@
       ]
     },
     {
+      "title": "U.K. accuses Israeli settlers of 'ethnic cleansing' in West Bank and bans their goods",
+      "link": "https://www.npr.org/2026/09/08/nx-s1-5961044/uk-occcupied-west-bank-goods-israel",
+      "summary": "Britain announces a ban on goods from Israeli settlements in the occupied West Bank, prompting warnings of US repercussions and an angry response from Israel.",
+      "published_at": "2026-09-08T13:05:20Z",
+      "region": "Oriente Médio",
+      "theme": "Outros / Multitemático",
+      "source_name": "NPR World News",
+      "source_id": "npr",
+      "is_brazilian": false,
+      "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5796x3260+0+302/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fec%2F80%2F63c56f2e41bf841381454e618426%2Fgettyimages-2289923446.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
       "title": "U.K. bans goods from occupied West Bank as Israel and U.S. warn of repercussions",
       "link": "https://www.npr.org/2026/09/08/nx-s1-5961044/uk-occcupied-west-bank-goods-israel",
       "summary": "Britain announces a ban on goods from Israeli settlements in the occupied West Bank, prompting warnings of US repercussions and an angry response from Israel.",
@@ -750,6 +1124,23 @@
       ]
     },
     {
+      "title": "UK, France among 12 states backing sanctions on illegal Israeli settlements",
+      "link": "https://www.aljazeera.com/news/2026/9/8/uk-announces-sanctions-on-illegal-israeli-settlements?traffic_source=rss",
+      "summary": "UK to ⁠introduce import ban on goods ⁠from illegal ​settlements in occupied West Bank, in coordination with others.",
+      "published_at": "2026-09-08T12:34:55Z",
+      "region": "Europa",
+      "theme": "Geopolítica e Segurança",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/09/reuters_6aa00d70-1788874096.jpg?resize=1920%2C1440",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
       "title": "UK announces sanctions on illegal Israeli settlements",
       "link": "https://www.aljazeera.com/news/2026/9/8/uk-announces-sanctions-on-illegal-israeli-settlements?traffic_source=rss",
       "summary": "Britain will ⁠introduce an import ban on goods ⁠from ​Israeli settlements, Ed Miliband tells parliament.",
@@ -917,6 +1308,74 @@
         "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Condições áridas ampliam risco de incêndios em regiões frias da Europa",
+      "link": "https://news.un.org/feed/view/pt/story/2026/09/1854265",
+      "summary": "Especialistas alertam que áreas antes consideradas imunes, como Escócia e Escandinávia, enfrentam agora vegetação seca e maior vulnerabilidade ao fogo.",
+      "published_at": "2026-09-08T12:00:00Z",
+      "region": "Europa",
+      "theme": "Meio Ambiente e Clima",
+      "source_name": "ONU News",
+      "source_id": "onu_news",
+      "is_brazilian": false,
+      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/07/31-07-2026_Adobe_France.jpg/image560x340cropped.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Ação preventiva contra o El Niño: campanha internacional inclui lusófonos",
+      "link": "https://news.un.org/feed/view/pt/story/2026/09/1854274",
+      "summary": "Moçambique, Guiné-Bissau, Angola e Timor-Leste estão entre os países monitorados pela vulnerabilidade a secas, ciclones e deslocamentos; estratégia preventiva busca proteger comunidades em risco, fortalecer sistemas locais e garantir respostas rápidas diante de emergências climáticas.",
+      "published_at": "2026-09-08T12:00:00Z",
+      "region": "África",
+      "theme": "Outros / Multitemático",
+      "source_name": "ONU News",
+      "source_id": "onu_news",
+      "is_brazilian": false,
+      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/08/27-08-2026-Adobe-Stock-drought.jpg/image560x340cropped.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Dia da Alfabetização reforça o impacto da educação no desenvolvimento",
+      "link": "https://news.un.org/feed/view/pt/story/2026/09/1854258",
+      "summary": "Avanços globais de literacia são marcados por profundas assimetrias entre regiões, países e grupos populacionais; em 2024, pelo menos 739 milhões de jovens e adultos ainda não possuíam competências básicas de literacia.",
+      "published_at": "2026-09-08T12:00:00Z",
+      "region": "Global",
+      "theme": "Outros / Multitemático",
+      "source_name": "ONU News",
+      "source_id": "onu_news",
+      "is_brazilian": false,
+      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/06/14-11-25_WHO_India_Digitisation.jpg/image560x340cropped.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "De Moçambique para os Palop: A ponte linguística rumo à excelência regulatória da OMS",
+      "link": "https://news.un.org/feed/view/pt/story/2026/09/1854270",
+      "summary": "O que pode mudar para a Lusofonia agora que o primeiro país africano de língua portuguesa conquistou o exigente selo de Nível de Maturidade 3 em regulação de medicamentos? Uma especialista da OMS revela os benefícios práticos de fazer parte desse grupo de 10 nações no continente.",
+      "published_at": "2026-09-08T12:00:00Z",
+      "region": "África",
+      "theme": "Saúde",
+      "source_name": "ONU News",
+      "source_id": "onu_news",
+      "is_brazilian": false,
+      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/25-11-25_World_Bank_India_Biotech_Pharma-5.jpeg/image560x340cropped.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1584515901367-f1c2a12a50ea?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1505751172876-fa1923c5c528?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1584036561566-baf2418a7c21?q=80&w=800&auto=format&fit=crop"
       ]
     },
     {
@@ -1342,6 +1801,23 @@
         "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Chrystia Freeland negotiated with Trump. Now she's watching a trade war unfold",
+      "link": "https://www.npr.org/2026/09/08/nx-s1-5955613/chrystia-freeland-canada-us-trade-war-tariffs",
+      "summary": "Chrystia Freeland understands the U.S.-Canada relationship from her time at the negotiating table. Here's what she sees now.",
+      "published_at": "2026-09-08T10:46:03Z",
+      "region": "América do Norte",
+      "theme": "Geopolítica e Segurança",
+      "source_name": "NPR World News",
+      "source_id": "npr",
+      "is_brazilian": false,
+      "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5227x2940+0+545/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F0f%2Fb3%2Fd22fc2b84340ae6052dfa792edc2%2Fgettyimages-1481707759.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
       ]
     },
     {
@@ -2073,482 +2549,6 @@
         "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Fiesp prepara manifesto ao STF sobre caso Vorcaro-Moraes",
-      "link": "https://www.poder360.com.br/poder-justica/fiesp-prepara-manifesto-ao-stf-sobre-caso-vorcaro-moraes/",
-      "summary": "Entidades empresariais pedirão à Corte apuração rigorosa e resposta rápida à crise aberta pela revelação de mensagens entre o fundador do Banco Master e o ministro",
-      "published_at": "2026-09-08T09:00:48Z",
-      "region": "América do Sul",
-      "theme": "Política Brasileira",
-      "source_name": "Poder360",
-      "source_id": "poder360",
-      "is_brazilian": true,
-      "image_url": "https://static.poder360.com.br/uploads/2026/09/manifestacao-paulista-7-set-2026-1-1200x675.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Fachin quer ouvir ex-presidentes do STF sobre crise na Corte",
-      "link": "https://www.poder360.com.br/poder-justica/fachin-quer-ouvir-ex-presidentes-sobre-crise-no-stf/",
-      "summary": "Supremo vive impasse institucional depois de relação entre Alexandre de Moraes e Daniel Vorcaro ser exposta",
-      "published_at": "2026-09-08T09:00:25Z",
-      "region": "América do Sul",
-      "theme": "Política Brasileira",
-      "source_name": "Poder360",
-      "source_id": "poder360",
-      "is_brazilian": true,
-      "image_url": "https://static.poder360.com.br/uploads/2026/09/edson-fachin-plenario-stf-2set2026-1200x675.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "17 presidentes da OAB pediram investigação do caso de Moraes e Vorcaro",
-      "link": "https://www.poder360.com.br/poder-justica/17-presidentes-da-oab-pediram-investigacao-do-caso-de-moraes-e-vorcaro/",
-      "summary": "Representantes da Ordem dos Advogados do Brasil se reúnem na 4ª feira (9.set) para discutir a crise no STF; encontro com Fachin foi cancelado",
-      "published_at": "2026-09-08T09:00:11Z",
-      "region": "América do Sul",
-      "theme": "Política Brasileira",
-      "source_name": "Poder360",
-      "source_id": "poder360",
-      "is_brazilian": true,
-      "image_url": "https://static.poder360.com.br/uploads/2026/09/capa-oab-manifestacoes-moraes-vorcaro-7set26-1200x675.png",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Crise mostra que Supremo precisa de limites, diz Steven Levitsky",
-      "link": "https://www.poder360.com.br/poder-justica/crise-mostra-que-supremo-precisa-de-limites-diz-steven-levitsky/",
-      "summary": "Cientista político dos EUA afirma que brasileiros devem avaliar se STF é “culpado de atos de corrupção e de abuso de poder”",
-      "published_at": "2026-09-08T09:00:05Z",
-      "region": "América do Norte",
-      "theme": "Política Brasileira",
-      "source_name": "Poder360",
-      "source_id": "poder360",
-      "is_brazilian": true,
-      "image_url": "https://static.poder360.com.br/uploads/2026/09/steven-levtsky-7set2026-1200x675.jpeg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "El Niño ameaça serviços e liga alerta no setor de telecomunicações",
-      "link": "https://www.poder360.com.br/poder-infra/el-nino-ameaca-servicos-e-liga-alerta-no-setor-de-telecomunicacoes/",
-      "summary": "Tempestades, ventanias e queimadas podem danificar cabos, fibras e antenas; provedoras defendem integração entre órgãos",
-      "published_at": "2026-09-08T08:58:23Z",
-      "region": "América do Sul",
-      "theme": "Outros / Multitemático",
-      "source_name": "Poder360",
-      "source_id": "poder360",
-      "is_brazilian": true,
-      "image_url": "https://static.poder360.com.br/uploads/2026/09/postes-telecom-1200x675.png",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Lula fará giro por 3 Estados do Sul onde Flávio lidera pesquisas",
-      "link": "https://www.poder360.com.br/poder-eleicoes-2026/lula-intensifica-campanha-no-sul-com-visita-aos-3-estados/",
-      "summary": "Presidente terá comícios no RS, PR e SC, região em que Bolsonaro venceu nos 3 Estados em 2022",
-      "published_at": "2026-09-08T08:50:02Z",
-      "region": "América do Sul",
-      "theme": "Política Brasileira",
-      "source_name": "Poder360",
-      "source_id": "poder360",
-      "is_brazilian": true,
-      "image_url": "https://static.poder360.com.br/uploads/2026/09/INSS-Fila-Lula-WolneyQueiroz-AnaCristinaVianaSilveira-53-1-1200x675.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Em carta a Fachin, ministros aposentados manifestam apoio e cobram apuração 'pública' e 'rigorosa' diante de crise no STF",
-      "link": "https://www.bbc.com/portuguese/articles/c39mzex0882o?at_medium=RSS&at_campaign=rss",
-      "summary": "Celso de Mello, Rosa Weber, Joaquim Barbosa e outros 10 ministros aposentados pedem a Fachin uma resposta firme diante do que classificam como a “mais aguda crise” da Corte.",
-      "published_at": "2026-09-08T08:47:57Z",
-      "region": "América do Sul",
-      "theme": "Política Brasileira",
-      "source_name": "BBC News Brasil",
-      "source_id": "bbc_brasil",
-      "is_brazilian": true,
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c997/live/84bd85b0-ab5c-11f1-9647-01c7ddc5a2b1.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Petróleo Brent se aproxima dos US$ 100",
-      "link": "https://www.poder360.com.br/poder-internacional/petroleo-brent-se-aproxima-dos-us-100/",
-      "summary": "Conflito no Oriente Médio impulsiona alta; contratos futuros do petróleo bruto WTI subiram para US$ 94,39 o barril",
-      "published_at": "2026-09-08T08:47:21Z",
-      "region": "América do Norte",
-      "theme": "Geopolítica e Segurança",
-      "source_name": "Poder360",
-      "source_id": "poder360",
-      "is_brazilian": true,
-      "image_url": "https://static.poder360.com.br/uploads/2026/08/barris-de-petroleo-1200x675.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Houthi attacks on southern Saudi Arabia reportedly injure dozens",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/8/houthi-attacks-on-southern-saudi-arabia-reportedly-injure-dozens?traffic_source=rss",
-      "summary": "Saudi Arabia says a wave of Houthi attacks on the country’s south have injured 73 people, including women and children.",
-      "published_at": "2026-09-08T08:42:42Z",
-      "region": "Oriente Médio",
-      "theme": "Outros / Multitemático",
-      "source_name": "Al Jazeera",
-      "source_id": "aljazeera_english",
-      "is_brazilian": false,
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1788856888.jpg?resize=1200%2C675",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Grecia reivindica la alianza con Marruecos para la gestión migratoria tras la crisis en Ceuta",
-      "link": "https://www.europapress.es/internacional/noticia-grecia-reivindica-alianza-marruecos-gestion-migratoria-crisis-ceuta-20260908104241.html",
-      "summary": "Las autoridades de Grecia han señalado que la crisis en Ceuta evidencia que la gestión migratoria necesita de la alianza con Marruecos, insistiendo en que se trata de un reto \"común europeo y regional\".",
-      "published_at": "2026-09-08T08:42:41Z",
-      "region": "Europa",
-      "theme": "Economia Internacional",
-      "source_name": "Europa Press",
-      "source_id": "europa_press",
-      "is_brazilian": false,
-      "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260908104241_120.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "World Food Programme's Carl Skau discusses Yemen's food insecurity crisis",
-      "link": "https://www.npr.org/2026/09/08/nx-s1-5951962/world-food-programmes-carl-skau-discusses-yemens-food-insecurity-crisis",
-      "summary": "NPR's Leila Fadel speaks with Carl Skau of the World Food Programme about the food insecurity crisis in Yemen.",
-      "published_at": "2026-09-08T08:41:54Z",
-      "region": "Oriente Médio",
-      "theme": "Economia Internacional",
-      "source_name": "NPR World News",
-      "source_id": "npr",
-      "is_brazilian": false,
-      "image_url": "https://loremflickr.com/cache/resized/65535_51314077540_8390cb4381_h_800_600_nofilter.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Thieves steal works of art worth 9 million euros from France's Renoir museum",
-      "link": "https://www.france24.com/en/europe/20260908-thieves-steal-works-of-art-worth-9-million-euros-from-france-s-renoir-museum",
-      "summary": "Two thieves on Tuesday broke into the Renoir Museum in the town of Cagnes-sur-Mer in southern France and stole \"four works of art\", dropping one as they fled, according to the local mayor. Officials estimated the value of the stolen works at 9 million euros.",
-      "published_at": "2026-09-08T08:36:34Z",
-      "region": "Europa",
-      "theme": "Outros / Multitemático",
-      "source_name": "France 24",
-      "source_id": "france24",
-      "is_brazilian": false,
-      "image_url": "https://s.france24.com/media/display/a0f4a53a-ab5a-11f1-9878-005056a90284/w:1024/p:16x9/000-C7M64QY.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Nepal cracks down on online abuse of flood survivors",
-      "link": "https://www.bbc.co.uk/news/articles/cq5x3n38308o?at_medium=RSS&at_campaign=rss",
-      "summary": "Authorities will \"show no leniency\" to people who \"belittle\" those who are suffering, the prime minister says.",
-      "published_at": "2026-09-08T08:31:01Z",
-      "region": "Ásia",
-      "theme": "Meio Ambiente e Clima",
-      "source_name": "BBC World News",
-      "source_id": "bbc_world",
-      "is_brazilian": false,
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3fe7/live/28e855b0-ab59-11f1-b471-ff02eb3eac27.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "As fuel prices rise again, Iran’s government urges citizens to cut back",
-      "link": "https://www.aljazeera.com/news/2026/9/8/as-fuel-prices-rise-again-irans-government-urges-citizens-to-cut-back?traffic_source=rss",
-      "summary": "New fuel pricing targets consumption above 110 litres monthly, doubling costs to 100,000 riyals per litre.",
-      "published_at": "2026-09-08T08:15:29Z",
-      "region": "Oriente Médio",
-      "theme": "Política Internacional",
-      "source_name": "Al Jazeera",
-      "source_id": "aljazeera_english",
-      "is_brazilian": false,
-      "image_url": "https://loremflickr.com/cache/resized/65535_51952606892_88819e6bdc_b_800_600_nofilter.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "EEUU cifra en cerca de cien los buques intervenidos en el marco de su bloqueo a Irán en el estrecho de Ormuz",
-      "link": "https://www.europapress.es/internacional/noticia-eeuu-cifra-cerca-cien-buques-intervenidos-marco-bloqueo-iran-estrecho-ormuz-20260908100707.html",
-      "summary": "El Ejército de Estados Unidos ha elevado a cerca de cien los buques contra los que ha intervenido en el marco de su bloqueo en el estrecho de Ormuz, incluidos más de 90 que han sido \"redirigidos\" en la zona, en medio del conflicto abierto con Irán tras la ofensiva lanzada por sorpresa el 28 de febrero junto a Israel contra el país asiático.",
-      "published_at": "2026-09-08T08:07:07Z",
-      "region": "América do Norte",
-      "theme": "Geopolítica e Segurança",
-      "source_name": "Europa Press",
-      "source_id": "europa_press",
-      "is_brazilian": false,
-      "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260908100707_120.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Indonesia airports reopen after volcanic ash disrupts thousands of flights",
-      "link": "https://www.aljazeera.com/news/2026/9/8/indonesia-airports-reopen-after-volcanic-ash-disrupts-thousands-of-flights?traffic_source=rss",
-      "summary": "Five airports reopen after authorities cleared volcanic ash from critical infrastructure.",
-      "published_at": "2026-09-08T08:04:24Z",
-      "region": "Ásia",
-      "theme": "Outros / Multitemático",
-      "source_name": "Al Jazeera",
-      "source_id": "aljazeera_english",
-      "is_brazilian": false,
-      "image_url": "https://loremflickr.com/cache/resized/8620_16474242718_d7d3be9aff_h_800_600_nofilter.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Presidente da OAB Nacional pede “respostas rápidas e claras” do STF",
-      "link": "https://www.poder360.com.br/poder-justica/presidente-da-oab-nacional-pede-respostas-rapidas-e-claras-do-stf/",
-      "summary": "Beto Simonetti afirma que democracia brasileira precisa de instituições que inspirem respeito",
-      "published_at": "2026-09-08T08:04:08Z",
-      "region": "América do Sul",
-      "theme": "Política Brasileira",
-      "source_name": "Poder360",
-      "source_id": "poder360",
-      "is_brazilian": true,
-      "image_url": "https://static.poder360.com.br/uploads/2026/09/beto-simonetti-instagram-oab-1200x675.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "El Ejército de Israel mata a un palestino durante una nueva redada cerca de Nablús, en Cisjordania",
-      "link": "https://www.europapress.es/internacional/noticia-ejercito-israel-mata-palestino-nueva-redada-cerca-nablus-cisjordania-20260908095650.html",
-      "summary": "El Ejército de Israel ha matado este martes a un palestino durante una nueva operación llevada a cabo en la localidad cisjordana de Aqraba, situada en los alrededores de Nablús, según han denunciado las autoridades palestinas, en medio del aumento de las incursiones militares y los ataques por parte de colonos durante los últimos años.",
-      "published_at": "2026-09-08T07:56:50Z",
-      "region": "Oriente Médio",
-      "theme": "Geopolítica e Segurança",
-      "source_name": "Europa Press",
-      "source_id": "europa_press",
-      "is_brazilian": false,
-      "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260908095650_120.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Ingressos do US Open chegam a R$ 25.000 em plataformas de revenda",
-      "link": "https://www.poder360.com.br/poder-sportsmkt/ingressos-do-us-open-chegam-a-r-25-000-em-plataformas-de-revenda/",
-      "summary": "Bilhetes para as quartas de final custam até 5 vezes o valor original nas plataformas on-line",
-      "published_at": "2026-09-08T07:48:44Z",
-      "region": "América do Norte",
-      "theme": "Outros / Multitemático",
-      "source_name": "Poder360",
-      "source_id": "poder360",
-      "is_brazilian": true,
-      "image_url": "https://static.poder360.com.br/uploads/2026/08/Aryna-Sabalenka-1-1200x675.png",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Mueren tres personas en ataques de Ucrania contra la región rusa de Briansk y la península de Crimea",
-      "link": "https://www.europapress.es/internacional/noticia-mueren-tres-personas-ataques-ucrania-contra-region-rusa-briansk-peninsula-crimea-20260908094843.html",
-      "summary": "Al menos tres personas han muerto este martes a causa de una nueva oleada de ataques por parte del Ejército de Ucrania contra la región rusa de Briansk y la península de Crimea, anexionada por Moscú en 2014, según han denunciado las autoridades de Rusia, que han asegurado haber interceptado más de 380 drones ucranianos durante las últimas horas.",
-      "published_at": "2026-09-08T07:48:43Z",
-      "region": "Europa",
-      "theme": "Geopolítica e Segurança",
-      "source_name": "Europa Press",
-      "source_id": "europa_press",
-      "is_brazilian": false,
-      "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260908094843_120.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Caso Master pode ser anulado por causa de crise entre ministros do STF?",
-      "link": "https://www.bbc.com/portuguese/articles/cx2z0v90eydo?at_medium=RSS&at_campaign=rss",
-      "summary": "Para criminalista, Moraes tem dificuldade de se defender de suspeitas e busca ampla anulação da operação Compliance Zero.",
-      "published_at": "2026-09-08T07:45:55Z",
-      "region": "América do Sul",
-      "theme": "Política Brasileira",
-      "source_name": "BBC News Brasil",
-      "source_id": "bbc_brasil",
-      "is_brazilian": true,
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4e5f/live/c5ec4c80-ab5a-11f1-a291-b542ee92de7c.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Exportações da China crescem 25% em agosto",
-      "link": "https://www.poder360.com.br/poder-china/exportacoes-da-china-crescem-25-em-agosto/",
-      "summary": "Comparação é com o mesmo mês do ano passado; no consolidado do ano, vendas ao exterior subiram 19,3%",
-      "published_at": "2026-09-08T07:42:03Z",
-      "region": "Ásia",
-      "theme": "Outros / Multitemático",
-      "source_name": "Poder360",
-      "source_id": "poder360",
-      "is_brazilian": true,
-      "image_url": "https://static.poder360.com.br/uploads/2026/08/tianjin-port-china-xinhua.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Yemen fighting live: Battles rage between Houthi and Saudi-backed forces",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/9/8/yemen-fighting-live-battles-rage?traffic_source=rss",
-      "summary": "Forces loyal to Yemen’s internationally recognised government pledge to seize the capital Sanaa as battles rage.",
-      "published_at": "2026-09-08T07:40:56Z",
-      "region": "Oriente Médio",
-      "theme": "Geopolítica e Segurança",
-      "source_name": "Al Jazeera",
-      "source_id": "aljazeera_english",
-      "is_brazilian": false,
-      "image_url": "https://loremflickr.com/cache/resized/2775_4193858089_b653d20a62_b_800_600_nofilter.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Real’s Mbappe embraces Ballon d’Or talk after historic World Cup goals",
-      "link": "https://www.aljazeera.com/sports/2026/9/8/reals-mbappe-embraces-ballon-dor-talk-after-historic-world-cup-goals?traffic_source=rss",
-      "summary": "Real Madrid's Kylian Mbappe enters Champions League season hoping for Ballon d'Or after record World Cup goal haul.",
-      "published_at": "2026-09-08T07:35:29Z",
-      "region": "Europa",
-      "theme": "Cultura, Mídia e Sociedade",
-      "source_name": "Al Jazeera",
-      "source_id": "aljazeera_english",
-      "is_brazilian": false,
-      "image_url": "https://loremflickr.com/cache/resized/defaultImage.small_800_600_nofilter.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1460661419201-fd4cecdf8a8b?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1508700115892-45ecd05ae2ad?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Educação no Brasil avança, mas segue distante da média da OCDE",
-      "link": "https://www.poder360.com.br/poder-educacao/educacao-no-brasil-avanca-mas-segue-distante-da-media-da-ocde/",
-      "summary": "Pisa mostra melhora em leitura, matemática e ciências desde 2006, mas parte da aproximação com a OCDE se deve à queda da média do grupo",
-      "published_at": "2026-09-08T07:30:31Z",
-      "region": "América do Sul",
-      "theme": "Outros / Multitemático",
-      "source_name": "Poder360",
-      "source_id": "poder360",
-      "is_brazilian": true,
-      "image_url": "https://static.poder360.com.br/uploads/2026/09/educacao-brasil-avanca-ocde-7-set-2026-2_page-0001-1200x675.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Ucrania eleva a cerca de 1,5 millones las bajas en combate sufridas por Rusia desde el inicio de la guerra",
-      "link": "https://www.europapress.es/internacional/noticia-ucrania-eleva-cerca-15-millones-bajas-combate-sufridas-rusia-inicio-guerra-20260908092658.html",
-      "summary": "Las Fuerzas Armadas de Ucrania han elevado este martes a cerca de 1,5 millones las bajas sufridas en combate por Rusia, entre muertos y heridos, en el marco de la guerra, desatada en febrero de 2022 por la orden de invasión firmada por el presidente ruso, Vladimir Putin, sin datos desde Moscú desde hace meses.",
-      "published_at": "2026-09-08T07:26:58Z",
-      "region": "Europa",
-      "theme": "Geopolítica e Segurança",
-      "source_name": "Europa Press",
-      "source_id": "europa_press",
-      "is_brazilian": false,
-      "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260908092658_120.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Eiffel Tower reopens after protest over removing women staff",
-      "link": "https://www.aljazeera.com/news/2026/9/8/eiffel-tower-to-reopen-after-protest-over-removing-women-staff?traffic_source=rss",
-      "summary": "A Hindu religious delegation had requested that 'interactions with women' be limited during its visit.",
-      "published_at": "2026-09-08T07:12:37Z",
-      "region": "Oriente Médio",
-      "theme": "Direitos Humanos, Sociedade e Migrações",
-      "source_name": "Al Jazeera",
-      "source_id": "aljazeera_english",
-      "is_brazilian": false,
-      "image_url": "https://loremflickr.com/cache/resized/65535_53812814471_b4a32d3dd4_b_800_600_nofilter.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1542810634-71277d95dcbb?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1489533119213-66a5cd877091?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1531206715517-5c0ba140e2b8?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "French AI startup Mistral valued at over 21 billion euros after latest funding",
-      "link": "https://www.france24.com/en/europe/20260908-french-ai-startup-mistral-raises-3-billion-euros-after-latest-funding",
-      "summary": "French AI company Mistral announced Tuesday that it had raised three billion euros ($3.5 billion) in what it described as the largest-ever European tech fundraising, valuing the startup at over 21 billion euros. While still an upstart compared to the AI giants OpenAI or Anthropic, Mistral says it is carving a niche by offering models that companies can run themselves with their own data.",
-      "published_at": "2026-09-08T07:03:12Z",
-      "region": "Europa",
-      "theme": "Ciência, Tecnologia e Inovação",
-      "source_name": "France 24",
-      "source_id": "france24",
-      "is_brazilian": false,
-      "image_url": "https://s.france24.com/media/display/5a18cdfa-ab53-11f1-8895-005056bf30b7/w:1024/p:16x9/8dd6b25cc404f009827301788ecb3686e298343b.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1518770660439-4636190af475?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1507668077129-56e32842fceb?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?q=80&w=800&auto=format&fit=crop"
       ]
     }
   ]
