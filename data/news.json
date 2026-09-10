@@ -1,17 +1,255 @@
 {
-  "updated_at": "2026-09-10T08:04:59.541661Z",
+  "updated_at": "2026-09-10T09:04:38.810788Z",
   "news": [
     {
       "title": "Fachin derruba decisões de ministros sobre PF e retira inquérito das Fake News de Moraes; entenda o mais recente episódio da crise no STF",
       "link": "https://www.bbc.co.uk/portuguese/live/c52e0n4kprw4t?at_medium=RSS&at_campaign=rss",
       "summary": "Presidente do STF marca sessão para terça, dia 15, para decidir 'guerra aberta' entre ministros. Ele manteve Andrei Rodrigues no comando da PF e disse que atos isolados dos colegas configuram 'lesão à ordem pública e à integridade' da Corte.",
-      "published_at": "2026-09-10T08:04:47.425972Z",
+      "published_at": "2026-09-10T09:04:30.823368Z",
       "region": "América do Sul",
       "theme": "Política Brasileira",
       "source_name": "BBC News Brasil",
       "source_id": "bbc_brasil",
       "is_brazilian": true,
       "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/10ae/live/1a505890-ac8f-11f1-ab14-5b9069dc795d.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Petistas demonstram “medo real” nas últimas semanas de campanha",
+      "link": "https://www.poder360.com.br/poder-eleicoes-2026/petistas-demonstram-medo-real-nas-ultimas-semanas-de-campanha/",
+      "summary": "Há menção à imprevisibilidade sobre o que virá na reta final antes do 1º turno; integrantes da sigla também avaliam que governo Lula se abraçou de modo \"demasiado\" com Moraes",
+      "published_at": "2026-09-10T09:00:54Z",
+      "region": "América do Sul",
+      "theme": "Política Brasileira",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2026/07/lula-alexandre-de-moraes-29-jul-2026.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "25 anos do 11 de Setembro: a agonia dos parentes das vítimas, que até hoje aguardam julgamento do 'cérebro' dos atentados",
+      "link": "https://www.bbc.com/portuguese/articles/ckgwjpll9l4o?at_medium=RSS&at_campaign=rss",
+      "summary": "À medida que se aproxima o 25º aniversário dos piores atentados da história dos EUA, atentados de 11 de setembro de 2001, familiares reclamam da demora em levar autores dos ataques, presos em Guantánamo, à Justiça.",
+      "published_at": "2026-09-10T09:00:53Z",
+      "region": "América do Norte",
+      "theme": "Outros / Multitemático",
+      "source_name": "BBC News Brasil",
+      "source_id": "bbc_brasil",
+      "is_brazilian": true,
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4e30/live/c326db60-ab90-11f1-aed2-8d6da8d75094.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "2º turno desanima eleitor e Estado com governador já definido vota menos",
+      "link": "https://www.poder360.com.br/poder-eleicoes-2026/2o-turno-desanima-eleitor-e-estado-com-governador-ja-definido-vota-menos/",
+      "summary": "Pesquisas indicam disputa apertada entre Lula e Flávio e taxa de ausência vai influir no resultado; quem conseguir fazer mais eleitores irem votar terá mais chance de vencer",
+      "published_at": "2026-09-10T09:00:48Z",
+      "region": "América do Sul",
+      "theme": "Política Brasileira",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2026/09/abstencao-democracia-2-set-2026-10-1-1200x675.png",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Saiba em quais Estados Lula e Flávio lideram no 1º turno",
+      "link": "https://www.poder360.com.br/poder-eleicoes-2026/saiba-em-quais-estados-lula-e-flavio-lideram-no-1o-turno/",
+      "summary": "Levantamento do Poder360 com pesquisas eleitorais mostra que o atual presidente está à frente em 10 UFs, enquanto o senador é favorito em 8",
+      "published_at": "2026-09-10T09:00:41Z",
+      "region": "América do Sul",
+      "theme": "Política Brasileira",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2026/09/abstencao-democracia-2-set-2026-11-1200x675.png",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Saiba quais indicadores e balanços saem nesta 5ª feira",
+      "link": "https://www.poder360.com.br/poder-economia/saiba-quais-indicadores-e-balancos-saem-nesta-5a-feira-5/",
+      "summary": "Setor de serviços do IBGE, cesta básica do Dieese, barômetros da FGV e decisão sobre juros na Zona do Euro movimentam o dia",
+      "published_at": "2026-09-10T09:00:34Z",
+      "region": "América do Sul",
+      "theme": "Economia Brasileira",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2026/07/capas-posts-agenda-Lula-eleicoes-ministros-STF-STJ-indicadores-site-Poder360-07-scaled.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1506744038136-46273834b3fb?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Trump says every adult American would get $5,000 if Republicans win midterms",
+      "link": "https://www.bbc.co.uk/news/articles/c62kzr1jg0jo?at_medium=RSS&at_campaign=rss",
+      "summary": "Speaking at a party convention, the US president gave no details on how the plan would work or where the money would come from.",
+      "published_at": "2026-09-10T09:00:05Z",
+      "region": "América do Norte",
+      "theme": "Política Internacional",
+      "source_name": "BBC World News",
+      "source_id": "bbc_world",
+      "is_brazilian": false,
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/89f4/live/5d2af2a0-ace5-11f1-8d69-858c9dcdf738.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Governistas veem ministro da Justiça “apagado” em crise do STF",
+      "link": "https://www.poder360.com.br/poder-eleicoes-2026/governistas-veem-ministro-da-justica-apagado-em-crise-do-stf/",
+      "summary": "Há críticas ao desempenho de Wellington César Lima e Silva no caso que levou ao afastamento do diretor-geral da PF, Andrei Rodrigues",
+      "published_at": "2026-09-10T09:00:00Z",
+      "region": "América do Sul",
+      "theme": "Política Brasileira",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2026/01/wellington-lula-scaled.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Scientists say August was Earth's hottest month they've measured",
+      "link": "https://www.npr.org/2026/09/10/nx-s1-5964676/scientists-august-hottest",
+      "summary": "The European climate service Copernicus said the Earth just sweltered through its hottest month on record in August. Scientists said the heat surge is mostly due to human-caused climate change.",
+      "published_at": "2026-09-10T08:54:00Z",
+      "region": "Global",
+      "theme": "Meio Ambiente e Clima",
+      "source_name": "NPR World News",
+      "source_id": "npr",
+      "is_brazilian": false,
+      "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6860x3859+0+357/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F04%2F61%2F967ca38f44d0bdc69106f4e2b78b%2Fap26252657054996.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Uganda pulling out of Prince Harry's Invictus Games, says military chief",
+      "link": "https://www.bbc.co.uk/news/articles/c3d7pzyjzllo?at_medium=RSS&at_campaign=rss",
+      "summary": "The decision, announced by the chief of defence, comes just two months after Uganda said it would participate.",
+      "published_at": "2026-09-10T08:44:19Z",
+      "region": "Global",
+      "theme": "Geopolítica e Segurança",
+      "source_name": "BBC World News",
+      "source_id": "bbc_world",
+      "is_brazilian": false,
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/08e9/live/9b830a50-ac55-11f1-9e64-05835b0b18f8.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "UN peacekeepers give NPR a rare look behind Israeli lines",
+      "link": "https://www.npr.org/2026/09/10/nx-s1-5962860/un-peacekeepers-give-npr-a-rare-look-behind-israeli-lines",
+      "summary": "NPR accompanies UN peacekeepers behind Israeli lines as Israel expands its occupation of South Lebanon following a U.S.-brokered ceasefire.",
+      "published_at": "2026-09-10T08:43:02Z",
+      "region": "Oriente Médio",
+      "theme": "Direito Internacional e Instituições",
+      "source_name": "NPR World News",
+      "source_id": "npr",
+      "is_brazilian": false,
+      "image_url": "https://media.npr.org/include/images/facebook-default-wide-s1400-c85.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1505664194779-8beaceb93744?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "'I'll never trust them again': Some Afghans who helped the U.S. post-9/11 regret it",
+      "link": "https://www.npr.org/2026/09/10/nx-s1-5958661/ill-never-trust-them-again-some-afghans-who-helped-the-u-s-post-9-11-regret-it",
+      "summary": "Soon after the Sept. 11 attacks, the U.S. launched what would become a 20-year war in Afghanistan. Some Afghans who helped the U.S. prosecute that war regret it.",
+      "published_at": "2026-09-10T08:41:01Z",
+      "region": "Global",
+      "theme": "Saúde",
+      "source_name": "NPR World News",
+      "source_id": "npr",
+      "is_brazilian": false,
+      "image_url": "https://media.npr.org/include/images/facebook-default-wide-s1400-c85.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1584515901367-f1c2a12a50ea?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1505751172876-fa1923c5c528?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1584036561566-baf2418a7c21?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "'Egomaniac': Papers discuss 'Trumpapalooza' midterm convention",
+      "link": "https://www.france24.com/en/egomaniac-papers-discuss-trumpapalooza-midterm-convention",
+      "summary": "PRESS REVIEW – Thursday, September 10: US papers react to the first night of the Republicans' midterm convention in Dallas. Also: five baby orangutans from Southeast Asia have been found in a forest in India. Then some dystopian science news. Finally, perhaps we don't need to do as much sport as we think we do.",
+      "published_at": "2026-09-10T08:39:00Z",
+      "region": "Ásia",
+      "theme": "Meio Ambiente e Clima",
+      "source_name": "France 24",
+      "source_id": "france24",
+      "is_brazilian": false,
+      "image_url": "https://s.france24.com/media/display/028cf77a-acdc-11f1-a1e2-005056a97e36/w:1024/p:16x9/Anglais-2026-09-10T05-20-03-244Z.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Macron calls for 'shared governance' of space at Paris summit",
+      "link": "https://www.france24.com/en/france/20260910-macron-calls-for-shared-governance-space-paris-space-summit",
+      "summary": "French President Emmanuel Macron on Thursday called for the \"shared governance\" of space in a speech delivered at the two-day International Space Summit held in Paris. He also called on Europe to develop its own crewed spaceflight capability as part of the broader push to strengthen the continent's space sector.",
+      "published_at": "2026-09-10T08:38:50Z",
+      "region": "Europa",
+      "theme": "Política Internacional",
+      "source_name": "France 24",
+      "source_id": "france24",
+      "is_brazilian": false,
+      "image_url": "https://s.france24.com/media/display/d9420042-acf2-11f1-86e9-005056a97e36/w:1024/p:16x9/000-C7TP4LH.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Ex-dono da Reag relata propinas de Vorcaro para autoridades públicas",
+      "link": "https://www.poder360.com.br/poder-justica/ex-dono-da-reag-relata-propinas-de-vorcaro-para-autoridades-publicas/",
+      "summary": "Mansur diz em delação que fundos da gestora foram usados para ocultar pagamentos; acordo aguarda homologação no STF",
+      "published_at": "2026-09-10T08:06:50Z",
+      "region": "América do Sul",
+      "theme": "Política Brasileira",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2026/03/jose-carlos-mansur-reag-banco-master-cpi-crime-organizado-11.mar_.2026.jpg",
       "fallback_images": [
         "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
@@ -33,6 +271,23 @@
         "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "‘Gone in a blink’: Nepal floods sweep away Indian workers who built hotels",
+      "link": "https://www.aljazeera.com/features/2026/9/10/gone-in-a-blink-nepal-floods-sweep-away-indian-workers-who-built-hotels?traffic_source=rss",
+      "summary": "The migrants were at work, building homes and hotels, when the floods hit, sweeping three of them away.",
+      "published_at": "2026-09-10T07:57:23Z",
+      "region": "Ásia",
+      "theme": "Saúde",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/09/Photo-1-1789020596-rotated.jpg?resize=1200%2C675",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1584515901367-f1c2a12a50ea?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1505751172876-fa1923c5c528?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1584036561566-baf2418a7c21?q=80&w=800&auto=format&fit=crop"
       ]
     },
     {
@@ -152,23 +407,6 @@
         "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1505664194779-8beaceb93744?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Trump says every adult American would get $5,000 if Republicans win midterms",
-      "link": "https://www.bbc.co.uk/news/articles/c62kzr1jg0jo?at_medium=RSS&at_campaign=rss",
-      "summary": "Speaking at a party convention, the US president gave no details on how the plan would work or where the money would come from.",
-      "published_at": "2026-09-10T06:56:38Z",
-      "region": "América do Norte",
-      "theme": "Política Internacional",
-      "source_name": "BBC World News",
-      "source_id": "bbc_world",
-      "is_brazilian": false,
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/89f4/live/5d2af2a0-ace5-11f1-8d69-858c9dcdf738.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
       ]
     },
     {
@@ -696,6 +934,23 @@
         "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Oil spike past $100 dampens stock prices, fans inflation fears",
+      "link": "https://www.france24.com/en/middle-east/20260910-stock-prices-drop-as-oil-spike-fans-fears-of-worsening-inflation",
+      "summary": "As the US and Iran trade air strikes in the vital Strait of Hormuz and Yemen's Houthi rebels step up their campaign against Saudi Arabia, surging oil prices have seen stocks falling across Asia. Investors appear to be holding their breath for the news that the Federal Reserve and other central banks will raise interest rates to tamp down the expected inflation.",
+      "published_at": "2026-09-10T02:47:10Z",
+      "region": "Oriente Médio",
+      "theme": "Economia Internacional",
+      "source_name": "France 24",
+      "source_id": "france24",
+      "is_brazilian": false,
+      "image_url": "https://s.france24.com/media/display/eaed5976-acc1-11f1-b03f-005056bf30b7/w:1024/p:16x9/cd3507ef342025147422c222f26c5b55dc15d8e8.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?q=80&w=800&auto=format&fit=crop"
       ]
     },
     {
@@ -1432,7 +1687,7 @@
     {
       "title": "Rubio to seek $45 million in additional security funding for Ecuador",
       "link": "https://www.france24.com/en/americas/20260909-rubio-to-seek-45-million-in-additional-security-funding-for-ecuador",
-      "summary": "US Secretary of State Marco Rubio said Wednesday that Washington would seek $45 million in additional security funding for Ecuador and provide military equipment as the two countries deepen cooperation against drug trafficking. During a visit to Quito, Rubio also announced new sanctions and a terrorist designation.",
+      "summary": "US Secretary of State Marco Rubio said Wednesday that Washington would seek $45 million in additional security funding for Ecuador and provide military equipment as the two countries deepen cooperation against drug trafficking. During a visit to Quito, Rubio also announced new sanctions on former Ecuadorian officials involved in bribery and a terrorist designation for an Ecuador-based gang.",
       "published_at": "2026-09-09T22:58:25Z",
       "region": "América do Norte",
       "theme": "Geopolítica e Segurança",
@@ -2294,261 +2549,6 @@
         "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "UK man charged with assisting Russian military spies in sabotage plot",
-      "link": "https://www.aljazeera.com/news/2026/9/9/uk-man-charged-with-assisting-russian-intelligence-connected-group?traffic_source=rss",
-      "summary": "Joshua Cammidge, 31, has been charged after alleged contact with a member of the GRU Volunteer Corps.",
-      "published_at": "2026-09-09T20:17:49Z",
-      "region": "Europa",
-      "theme": "Geopolítica e Segurança",
-      "source_name": "Al Jazeera",
-      "source_id": "aljazeera_english",
-      "is_brazilian": false,
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/09/getty_6aa1ba69d3-1788983913.jpg?resize=1920%2C1440",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Fachin suspende decisões de Dino e Mendonça e mantém Andrei na PF",
-      "link": "https://www.poder360.com.br/poder-justica/fachin-suspende-decisoes-de-dino-e-mendonca-e-mantem-andrei-na-pf/",
-      "summary": "Na prática, o presidente do Supremo mantém o chefe da corporação no cargo e pontua que é a autoridade responsável pelo caso",
-      "published_at": "2026-09-09T20:16:42Z",
-      "region": "América do Sul",
-      "theme": "Política Brasileira",
-      "source_name": "Poder360",
-      "source_id": "poder360",
-      "is_brazilian": true,
-      "image_url": "https://static.poder360.com.br/uploads/2026/09/edson-fachin-plenario-stf-2set2026-1200x675.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Caiado pressiona Fachin por transparência em casos Master e INSS",
-      "link": "https://www.poder360.com.br/poder-eleicoes-2026/caiado-pressiona-fachin-por-transparencia-em-casos-master-e-inss/",
-      "summary": "Candidato pede quebra de sigilo de apurações que envolvam agentes públicos antes das eleições de 2026",
-      "published_at": "2026-09-09T20:10:36Z",
-      "region": "América do Sul",
-      "theme": "Política Brasileira",
-      "source_name": "Poder360",
-      "source_id": "poder360",
-      "is_brazilian": true,
-      "image_url": "https://static.poder360.com.br/uploads/2026/03/ronaldo-caiado-psd-2026-1.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Yemen envoy warns of wider war as Houthis threaten Bab al-Mandeb Strait",
-      "link": "https://www.aljazeera.com/news/2026/9/9/yemen-envoy-warns-of-wider-war-as-houthis-threaten-bab-al-mandeb-strait?traffic_source=rss",
-      "summary": "In an interview with Al Jazeera, Yemen's ambassador warns Houthi attacks threaten global shipping.",
-      "published_at": "2026-09-09T20:05:48Z",
-      "region": "Oriente Médio",
-      "theme": "Geopolítica e Segurança",
-      "source_name": "Al Jazeera",
-      "source_id": "aljazeera_english",
-      "is_brazilian": false,
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/09/epa_6a9fb891bc3a-1788852369.jpg?resize=1920%2C1440",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Iraqi graduates protest for govt jobs amid unemployment crisis",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/9/09-09-reported-iraq-grad-protests?traffic_source=rss",
-      "summary": "More than 1,000 medical and health graduates have taken to Baghdad’s streets demanding government jobs.",
-      "published_at": "2026-09-09T20:05:22Z",
-      "region": "Oriente Médio",
-      "theme": "Economia Internacional",
-      "source_name": "Al Jazeera",
-      "source_id": "aljazeera_english",
-      "is_brazilian": false,
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1788984254.jpg?resize=1920%2C1071&quality=80",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Dino reintegra Andrei à direção da PF; Lula pede quebra de sigilo do Master e Flávio acusa ministro",
-      "link": "https://www.bbc.co.uk/portuguese/live/c52e0n4kprw4t?at_medium=RSS&at_campaign=rss",
-      "summary": "Ministro reintegra diretor e Leandro Almada à PF após decisão de André Mendonça pelo afastamento. Dino pede que tema seja votado no plenário do Supremo Tribunal Federal e não na Segunda Turma, como ocorreu ontem. Edson Fachin cancela sessão de hoje do Supremo.",
-      "published_at": "2026-09-09T20:04:40.154959Z",
-      "region": "América do Sul",
-      "theme": "Política Brasileira",
-      "source_name": "BBC News Brasil",
-      "source_id": "bbc_brasil",
-      "is_brazilian": true,
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a29d/live/d91ffa00-ac62-11f1-b1d1-571ed4d7ff2c.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Ao vivo: Poder360 entrevista Augusto Cury, candidato à Presidência",
-      "link": "https://www.poder360.com.br/poder-eleicoes-2026/ao-vivo-poder360-entrevista-augusto-cury-candidato-a-presidencia/",
-      "summary": "Escritor e psiquiatra de 67 anos disputa sua 1ª eleição pelo Avante e chegou a 10% das intenções de voto no PoderData/Aya",
-      "published_at": "2026-09-09T20:00:47Z",
-      "region": "América do Sul",
-      "theme": "Política Brasileira",
-      "source_name": "Poder360",
-      "source_id": "poder360",
-      "is_brazilian": true,
-      "image_url": "https://static.poder360.com.br/uploads/2026/03/augusto-cury-x.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Apple debuts $1,999 passport-shaped foldable phone, called Duo",
-      "link": "https://www.aljazeera.com/economy/2026/9/9/apple-debuts-1999-passport-shaped-foldable-phone-called-duo?traffic_source=rss",
-      "summary": "The Duo launch, first with new CEO John Ternus, is the most noticeable overhaul of Apple's flagship product since 2017.",
-      "published_at": "2026-09-09T20:00:35Z",
-      "region": "Oriente Médio",
-      "theme": "Outros / Multitemático",
-      "source_name": "Al Jazeera",
-      "source_id": "aljazeera_english",
-      "is_brazilian": false,
-      "image_url": "https://loremflickr.com/cache/resized/defaultImage.small_800_600_nofilter.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Apple's new boss starts with big gamble on $2,000 first folding iPhone",
-      "link": "https://www.bbc.co.uk/news/articles/clyjd1jnd03o?at_medium=RSS&at_campaign=rss",
-      "summary": "Apple showed off at an event the first major design change to the iPhone in almost 20 years.",
-      "published_at": "2026-09-09T20:00:33Z",
-      "region": "Global",
-      "theme": "Outros / Multitemático",
-      "source_name": "BBC World News",
-      "source_id": "bbc_world",
-      "is_brazilian": false,
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/569e/live/3eec7030-ac80-11f1-994b-c7df927931ed.png",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Ao vivo: Lula participa de ato de campanha com Rafael Fonteles no Piauí",
-      "link": "https://www.poder360.com.br/poder-eleicoes-2026/ao-vivo-lula-participa-de-ato-de-campanha-com-rafael-fonteles-no-piaui/",
-      "summary": "Governador do PT lidera disputa pela reeleição com 62,4% das intenções de voto, segundo AtlasIntel/MeioNorte",
-      "published_at": "2026-09-09T20:00:07Z",
-      "region": "América do Sul",
-      "theme": "Política Brasileira",
-      "source_name": "Poder360",
-      "source_id": "poder360",
-      "is_brazilian": true,
-      "image_url": "https://static.poder360.com.br/uploads/2026/09/lula-ricardo-fonteles-ato-campanha-1-1200x675.jpeg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "'Passengers or pilots?' Europe looks to challenge US dominance in space sector with €10 billion plan",
-      "link": "https://www.france24.com/en/europe/20260909-passengers-or-pilots-europe-looks-to-challenge-us-dominance-in-space-sector-with-%E2%82%AC10-billion-plan",
-      "summary": "Key figures from Europe’s space industry and other international players have converged on Paris to discuss how to advance the continent’s ambitions in a global market dominated by the United States.",
-      "published_at": "2026-09-09T19:56:05Z",
-      "region": "Europa",
-      "theme": "Ciência, Tecnologia e Inovação",
-      "source_name": "France 24",
-      "source_id": "france24",
-      "is_brazilian": false,
-      "image_url": "https://s.france24.com/media/display/9bcefa30-ac84-11f1-bc12-005056bfb2b6/w:1024/p:16x9/2026-09-09T162013Z-1706368673-RC2SFNA0Y0TA-RTRMADP-3-EUROPE-SPACE.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1518770660439-4636190af475?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1507668077129-56e32842fceb?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "O arsenal nas mãos de Dino: como inquéritos sobre emendas parlamentares atingem políticos e chegam a 'Dark Horse'",
-      "link": "https://www.bbc.com/portuguese/articles/c0e39y3p293o?at_medium=RSS&at_campaign=rss",
-      "summary": "Em meio a uma crise sem precedentes no Supremo, ministro tomou decisão de reconduzir Andrei Rodrigues ao cargo de diretor-geral da Polícia Federal com base em inquérito que investiga indícios de desvio de dinheiro de emendas",
-      "published_at": "2026-09-09T19:52:08Z",
-      "region": "América do Sul",
-      "theme": "Política Brasileira",
-      "source_name": "BBC News Brasil",
-      "source_id": "bbc_brasil",
-      "is_brazilian": true,
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7319/live/e218f3f0-ac85-11f1-ab14-5b9069dc795d.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Lula e PT veem uso eleitoral das investigações do Master",
-      "link": "https://www.poder360.com.br/poder-governo/lula-e-pt-veem-uso-eleitoral-das-investigacoes-do-master/",
-      "summary": "Presidente cobra transparência e campanha associa o ministro André Mendonça, relator do caso, a Flávio Bolsonaro",
-      "published_at": "2026-09-09T19:51:20Z",
-      "region": "América do Sul",
-      "theme": "Política Brasileira",
-      "source_name": "Poder360",
-      "source_id": "poder360",
-      "is_brazilian": true,
-      "image_url": "https://static.poder360.com.br/uploads/2026/09/LULA-DIA-AMAZONIA-8-SET-2026-1200x675.png",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Israeli strike targets home in Gaza’s al-Shati refugee camp",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/9/israeli-strike-targets-home-in-gazas-al-shati-refugee-camp?traffic_source=rss",
-      "summary": "An Israeli strike devastated a home in Gaza City’s al-Shati refugee camp, heavily damaging surrounding homes.",
-      "published_at": "2026-09-09T19:37:47Z",
-      "region": "Oriente Médio",
-      "theme": "Outros / Multitemático",
-      "source_name": "Al Jazeera",
-      "source_id": "aljazeera_english",
-      "is_brazilian": false,
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/09/Screenshot-2026-09-09-at-20.31.15-1788982387.png?resize=1200%2C675",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Houthi offensive on Bab al-Mandeb may bring 'tremendous leverage', analyst explains",
-      "link": "https://www.france24.com/en/houthi-offensive-on-bab-al-mandeb-may-bring-tremendous-leverage-analyst-explains",
-      "summary": "The Saudi-led coalition in Yemen on Wednesday said the Iran-backed Houthis had launched fresh attacks on the kingdom's south, after the rebels launched an offensive seeking to control the Bab al-Mandab Strait. Speaking with FRANCE 24's Mark Owen, Adam Baron, Fellow at the New America Foundation, says that \"if you have both groups able to disrupt maritime shipping both in the Red Sea and the Gulf, this would be a tremendous exercise of leverage to put pressure for a resolution\".",
-      "published_at": "2026-09-09T19:35:36Z",
-      "region": "Oriente Médio",
-      "theme": "Outros / Multitemático",
-      "source_name": "France 24",
-      "source_id": "france24",
-      "is_brazilian": false,
-      "image_url": "https://s.france24.com/media/display/45797214-8074-11f1-ae80-005056a90284/w:1024/p:16x9/2026-07-15T145635Z-188060635-RC2EEMAOW6BY-RTRMADP-3-IRAN-CRISIS-YEMEN-RED-SEA-SATELLITE.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
       ]
     }
   ]
