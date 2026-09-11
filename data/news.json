@@ -1,17 +1,187 @@
 {
-  "updated_at": "2026-09-11T01:04:46.598198Z",
+  "updated_at": "2026-09-11T02:04:29.672874Z",
   "news": [
     {
       "title": "PF deflagra operação para rastrear financiamento de 'Dark Horse', filme sobre Jair Bolsonaro",
       "link": "https://www.bbc.co.uk/portuguese/live/cqn4klxypp44t?at_medium=RSS&at_campaign=rss",
       "summary": "O deputado federal Mario Frias (PL-SP) e a produtora Karina da Gama são alvos da ação, apurou a BBC News Brasil.",
-      "published_at": "2026-09-11T01:04:39.292633Z",
+      "published_at": "2026-09-11T02:04:19.087328Z",
       "region": "América do Sul",
       "theme": "Política Brasileira",
       "source_name": "BBC News Brasil",
       "source_id": "bbc_brasil",
       "is_brazilian": true,
       "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f640/live/27eba770-ad20-11f1-bc1f-3f186ca4140c.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Pesquisa não me abala, diz Lula",
+      "link": "https://www.poder360.com.br/poder-eleicoes-2026/pesquisa-nao-me-abala-diz-lula/",
+      "summary": "Declaração foi feita no mesmo dia em que pesquisa do PoderData/Aya mostra que Flávio Bolsonaro está numericamente à frente do petista",
+      "published_at": "2026-09-11T02:03:56Z",
+      "region": "América do Sul",
+      "theme": "Política Brasileira",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2026/09/Lula-1080-1200x675.png",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Trump absent as New York marks 25 years since 9/11 with first Muslim mayor",
+      "link": "https://www.france24.com/en/americas/20260911-trump-new-york-25-years-9-11-muslim-mayor",
+      "summary": "New York marks the 25th anniversary of the Sept. 11 attacks on Friday, with President Donald Trump attending a ceremony at the Pentagon while Vice President JD Vance and four former presidents join commemorations at Ground Zero, where victims’ relatives will read the names of those killed.",
+      "published_at": "2026-09-11T01:47:42Z",
+      "region": "América do Norte",
+      "theme": "Política Internacional",
+      "source_name": "France 24",
+      "source_id": "france24",
+      "is_brazilian": false,
+      "image_url": "https://s.france24.com/media/display/ce2d3c00-a7ff-11f1-9a34-005056bfb2b6/w:1024/p:16x9/c735e013a856f06156c3a257dddd6255f324b2f8.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Jornalista que teve sigilo violado por Moraes pede arquivamento do caso",
+      "link": "https://www.poder360.com.br/poder-justica/jornalista-que-teve-sigilo-violado-por-moraes-pede-arquivamento-do-caso/",
+      "summary": "Em carta a Fachin, Luís Pablo afirma que nenhuma prova de crime surgiu contra ele; jornalista é investigado por suspeita de perseguir Dino",
+      "published_at": "2026-09-11T01:43:26Z",
+      "region": "América do Sul",
+      "theme": "Outros / Multitemático",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2026/08/Jornalista-Luis-Pablo-1080.png",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Fachin pede que Mendonça retire sigilo do caso Master",
+      "link": "https://www.poder360.com.br/poder-justica/fachin-pede-que-mendonca-retire-sigilo-do-caso-master/",
+      "summary": "Presidente do STF também pede envio dos procedimentos aos ministros antes da sessão marcada para 15 de setembro",
+      "published_at": "2026-09-11T01:42:37Z",
+      "region": "América do Sul",
+      "theme": "Política Brasileira",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2026/09/Edson-Fachin-1200x675.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Unveiling of Charlie Kirk statue sparks chaos in Times Square",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/11/aje-onl-nf_charlie-kirk-statue-sparks-chaos-in-times-square-100926?traffic_source=rss",
+      "summary": "The unveiling of a statue honouring Charlie Kirk in Times Square has sparked clashes between supporters and protesters.",
+      "published_at": "2026-09-11T01:24:27Z",
+      "region": "Oriente Médio",
+      "theme": "Outros / Multitemático",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": "https://loremflickr.com/cache/resized/defaultImage.small_800_600_nofilter.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "PT diz que STF vive “guerra” e pede fim de “privilégios” no Judiciário",
+      "link": "https://www.poder360.com.br/poder-eleicoes-2026/pt-diz-que-stf-vive-guerra-e-pede-fim-de-privilegios-no-judiciario/",
+      "summary": "“Diante da disputa clara na Corte, confiamos na autoridade de seu presidente, ministro Fachin, para que as apurações sejam aceleradas e conduzidas”, declara a sigla em resolução",
+      "published_at": "2026-09-11T01:22:42Z",
+      "region": "América do Sul",
+      "theme": "Geopolítica e Segurança",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2025/12/Edinho-Silva-PT-divulgacao-6dez2025.jpeg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Produtora de “Dark Horse” diz que entregou “mais de 20.000 laudas” à PF",
+      "link": "https://www.poder360.com.br/poder-justica/produtora-de-dark-horse-diz-que-entregou-mais-de-20-000-laudas-a-pf/",
+      "summary": "Defesa afirma que Karina Gama colaborou com a investigação e que confia no STF para garantir o devido processo legal",
+      "published_at": "2026-09-11T01:20:32Z",
+      "region": "América do Sul",
+      "theme": "Política Brasileira",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2026/04/Dark-Horse-filme-8-abr-2026.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Entenda as duas investigações sobre 'Dark Horse': uma envolve Daniel Vorcaro, e a outra, Mario Frias",
+      "link": "https://www.bbc.com/portuguese/articles/cj9xz29p70eo?at_medium=RSS&at_campaign=rss",
+      "summary": "A operação Make Up, que a Polícia Federal deflagrou nesta quinta-feira (10/9), apura suspeita de desevio de emendas parlamentares e tem Frias como alvo, não Vorcaro.",
+      "published_at": "2026-09-11T01:17:56Z",
+      "region": "América do Sul",
+      "theme": "Política Brasileira",
+      "source_name": "BBC News Brasil",
+      "source_id": "bbc_brasil",
+      "is_brazilian": true,
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/325d/live/a30c9050-ad29-11f1-980e-4fc6f1211def.png",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Maduro’s wife seeks home detention as heart condition worsens in US custody",
+      "link": "https://www.aljazeera.com/news/2026/9/11/maduros-wife-seeks-home-detention-as-heart-condition-worsens-in-us-custody?traffic_source=rss",
+      "summary": "Her lawyers say Flores needs cardiac treatment and recovery facilities a detention centre cannot provide.",
+      "published_at": "2026-09-11T01:07:23Z",
+      "region": "América do Norte",
+      "theme": "Outros / Multitemático",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": "https://loremflickr.com/cache/resized/defaultImage.small_800_600_nofilter.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Por que Mario Frias e a produtora do filme sobre Bolsonaro são alvo da PF",
+      "link": "https://www.bbc.com/portuguese/articles/c39mr07nndxo?at_medium=RSS&at_campaign=rss",
+      "summary": "PF diz que a operação apura suposto desvio de recursos públicos oriundos de emendas parlamentares repassadas a organização da sociedade civil.",
+      "published_at": "2026-09-11T01:07:22Z",
+      "region": "América do Sul",
+      "theme": "Política Brasileira",
+      "source_name": "BBC News Brasil",
+      "source_id": "bbc_brasil",
+      "is_brazilian": true,
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/db31/live/a9ab2250-ad06-11f1-bc1f-3f186ca4140c.jpg",
       "fallback_images": [
         "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
@@ -572,7 +742,7 @@
       "source_name": "France 24",
       "source_id": "france24",
       "is_brazilian": false,
-      "image_url": "https://s.france24.com/media/display/b984e69c-a131-11f1-8ff4-005056a97e36/w:1024/p:16x9/d308f39dfd509f2937b01dea496a5c78a39e58ff.jpg",
+      "image_url": "https://s.france24.com/media/display/33fe30ea-ad7b-11f1-9da7-005056a97e36/w:1024/p:16x9/AFP-20260910-C7Y769E-v3-MidRes-TopshotLebanonIsraelIranUsWar.jpg",
       "fallback_images": [
         "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
@@ -624,6 +794,23 @@
       "source_id": "aljazeera_english",
       "is_brazilian": false,
       "image_url": "https://loremflickr.com/cache/resized/defaultImage.small_800_600_nofilter.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Republican midterm convention live: Vance speaks, honours Kirk; Trump next",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/9/10/republican-midterm-convention-live-trump-headlines-day-2-of-dallas-rally?traffic_source=rss",
+      "summary": "US Republicans return to the stage to close their midterm convention, still betting on Trump's political magnetism.",
+      "published_at": "2026-09-10T21:31:03Z",
+      "region": "América do Norte",
+      "theme": "Política Internacional",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": "https://loremflickr.com/cache/resized/1094_5140139463_0382c7523c_b_800_600_nofilter.jpg",
       "fallback_images": [
         "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
@@ -2127,23 +2314,6 @@
       ]
     },
     {
-      "title": "Entenda as duas investigações sobre 'Dark Horse': uma envolve Daniel Vorcaro, e a outra, Mario Frias",
-      "link": "https://www.bbc.com/portuguese/articles/cj9xz29p70eo?at_medium=RSS&at_campaign=rss",
-      "summary": "A operação Make Up, que a Polícia Federal deflagrou nesta quinta-feira (10/9), apura suspeita de desevio de emendas parlamentares e tem Frias como alvo, não Vorcaro.",
-      "published_at": "2026-09-10T16:35:36Z",
-      "region": "América do Sul",
-      "theme": "Política Brasileira",
-      "source_name": "BBC News Brasil",
-      "source_id": "bbc_brasil",
-      "is_brazilian": true,
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/325d/live/a30c9050-ad29-11f1-980e-4fc6f1211def.png",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
       "title": "Pilot warned Amazon cargo plane going too fast before deadly crash, data shows",
       "link": "https://www.bbc.co.uk/news/articles/cj4jynv59ddo?at_medium=RSS&at_campaign=rss",
       "summary": "One pilot told the other about the aircraft's \"excessive speed\" but received an uneven response even as alarms sounded.",
@@ -2379,176 +2549,6 @@
         "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "PF questiona origem de R$ 645 mil de Frias para “Dark Horse”",
-      "link": "https://www.poder360.com.br/poder-justica/pf-questiona-origem-de-r-645-mil-de-frias-para-dark-horse/",
-      "summary": "Deputado, alvo de operação nesta 5ª feira (10.set), fez repasse à produtora do filme de Bolsonaro no mesmo período das filmagens",
-      "published_at": "2026-09-10T16:02:49Z",
-      "region": "América do Sul",
-      "theme": "Política Brasileira",
-      "source_name": "Poder360",
-      "source_id": "poder360",
-      "is_brazilian": true,
-      "image_url": "https://static.poder360.com.br/uploads/2026/09/mario-frias-10set26-1200x675.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Por que Mario Frias e a produtora do filme sobre Bolsonaro são alvo da PF",
-      "link": "https://www.bbc.com/portuguese/articles/c39mr07nndxo?at_medium=RSS&at_campaign=rss",
-      "summary": "PF diz que a operação apura suposto desvio de recursos públicos oriundos de emendas parlamentares repassadas a organização da sociedade civil.",
-      "published_at": "2026-09-10T15:57:43Z",
-      "region": "América do Sul",
-      "theme": "Política Brasileira",
-      "source_name": "BBC News Brasil",
-      "source_id": "bbc_brasil",
-      "is_brazilian": true,
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/db31/live/a9ab2250-ad06-11f1-bc1f-3f186ca4140c.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "August hottest month ever recorded globally as huge El Nino emerges",
-      "link": "https://www.france24.com/en/video/20260910-august-hottest-month-ever-recorded-globally-as-huge-el-nino-emerges",
-      "summary": "Europe's climate monitor said Thursday that August was the hottest month ever recorded around the world and warned of worse to come, as an unprecedented El Nino pattern grows stronger. Global temperatures over land and sea soared to all-time highs in August and capped an extreme summer of heatwaves and wildfires that ranked the hottest on record for western Europe and the contiguous United States.",
-      "published_at": "2026-09-10T15:57:03Z",
-      "region": "Europa",
-      "theme": "Meio Ambiente e Clima",
-      "source_name": "France 24",
-      "source_id": "france24",
-      "is_brazilian": false,
-      "image_url": "https://s.france24.com/media/display/41448020-ad2f-11f1-bbdf-005056bf30b7/w:1024/p:16x9/EN-20260910-160822-161000-CS.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Zelensky's plane 'almost hit' by drone en route to Oslo, Norway PM says",
-      "link": "https://www.france24.com/en/video/20260910-zelensky-s-plane-almost-hit-by-drone-en-route-to-oslo-norway-pm-says",
-      "summary": "Ukraine and Moldova on Wednesday played down claims from Norway's prime minister that a plane carrying President Volodymyr Zelensky was almost hit by a drone as it flew to Oslo. Jonas Gahr Store told Norwegian public broadcaster NRK that Zelensky's plane was \"almost hit by a drone when it was taking off from Moldova\". But a source in the Ukrainian presidency described the claim that Zelensky was at risk as \"exaggerated\".",
-      "published_at": "2026-09-10T15:55:25Z",
-      "region": "Europa",
-      "theme": "Política Internacional",
-      "source_name": "France 24",
-      "source_id": "france24",
-      "is_brazilian": false,
-      "image_url": "https://s.france24.com/media/display/34a044c2-ad2e-11f1-8946-005056bf30b7/w:1024/p:16x9/EN-20260910-171307-171430-CS.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Israel's Netanyahu to sue newspaper over claim UAE warned him of 7 October attack",
-      "link": "https://www.bbc.co.uk/news/articles/c1kxwm870g1o?at_medium=RSS&at_campaign=rss",
-      "summary": "The paper said it stood by its reporting, after publishing extracts from a book where the claim appears.",
-      "published_at": "2026-09-10T15:54:17Z",
-      "region": "Oriente Médio",
-      "theme": "Geopolítica e Segurança",
-      "source_name": "BBC World News",
-      "source_id": "bbc_world",
-      "is_brazilian": false,
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/02b9/live/ab737020-ad0f-11f1-bc1f-3f186ca4140c.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Infantino's FIFA re-election bid faces setback as France withdraws support",
-      "link": "https://www.france24.com/en/video/20260910-infantino-s-fifa-re-election-bid-faces-setback-as-france-withdraws-support",
-      "summary": "The French Football Federation withdrew its support for Gianni Infantino’s bid for another term as FIFA president on Thursday after his controversial plan to sell stakes in the World Cup. The FFF said the executive committee decision was unanimous.",
-      "published_at": "2026-09-10T15:52:05Z",
-      "region": "Europa",
-      "theme": "Política Internacional",
-      "source_name": "France 24",
-      "source_id": "france24",
-      "is_brazilian": false,
-      "image_url": "https://s.france24.com/media/display/0a198aa0-ad2f-11f1-8d5c-005056a97e36/w:1024/p:16x9/EN-20260910-160609-160750-CS.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "UN expert Albanese, protesters warn against Italy’s anti-Semitism bill",
-      "link": "https://www.aljazeera.com/news/2026/9/10/un-expert-albanese-protesters-warn-against-italys-anti-semitism-bill?traffic_source=rss",
-      "summary": "Protesters in Rome and UN Special Rapporteur Francesca Albanese, warn proposed law could silence criticism of Israel.",
-      "published_at": "2026-09-10T15:46:52Z",
-      "region": "Europa",
-      "theme": "Direito Internacional e Instituições",
-      "source_name": "Al Jazeera",
-      "source_id": "aljazeera_english",
-      "is_brazilian": false,
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/09/DSC_6262-1789050679.jpg?resize=1920%2C1440",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1505664194779-8beaceb93744?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "9/11: Drones light up NYC ahead of 25th anniversary",
-      "link": "https://www.france24.com/en/video/20260910-9-11-drones-light-up-nyc-ahead-of-25th-anniversary",
-      "summary": "A drone light show illuminated the New York City skyline Wednesday night during a test for the 'Tribute in Light' installation that will mark the 25th anniversary of the September 11 attacks. A total of 2,977 drones will take part in the display, one for each life lost on September 11, 2001.",
-      "published_at": "2026-09-10T15:46:41Z",
-      "region": "América do Norte",
-      "theme": "Cultura, Mídia e Sociedade",
-      "source_name": "France 24",
-      "source_id": "france24",
-      "is_brazilian": false,
-      "image_url": "https://s.france24.com/media/display/3d6b9250-ad2e-11f1-aa86-005056a90284/w:1024/p:16x9/911-drones-thumbnail.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1460661419201-fd4cecdf8a8b?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1508700115892-45ecd05ae2ad?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Sandra Hüller: from European cinema to working with Tom Cruise and Ryan Gosling",
-      "link": "https://www.france24.com/en/tv-shows/arts24/20260910-sandra-h%C3%BCller-from-european-cinema-to-working-with-tom-cruise-and-ryan-gosling",
-      "summary": "Sandra Hüller has conquered European cinema – now Hollywood is calling. The German actress, who earned an Oscar nomination for 'Anatomy of a Fall' and a Silver Bear for 'Rose', stars alongside Ryan Gosling in 'Project Hail Mary', and Tom Cruise in Alejandro González Iñárritu’s highly anticipated 'Digger'.",
-      "published_at": "2026-09-10T15:43:10Z",
-      "region": "Europa",
-      "theme": "Cultura, Mídia e Sociedade",
-      "source_name": "France 24",
-      "source_id": "france24",
-      "is_brazilian": false,
-      "image_url": "https://s.france24.com/media/display/c95b8158-ad15-11f1-b50f-005056bf30b7/w:1024/p:16x9/capture-12976426676aa2a6e2751141-48465976.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1460661419201-fd4cecdf8a8b?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1508700115892-45ecd05ae2ad?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "“Dark Horse”: PF vê Frias como “agente central” em esquema",
-      "link": "https://www.poder360.com.br/poder-justica/dark-horse-pf-ve-frias-como-agente-central-em-esquema/",
-      "summary": "Deputado enviou R$ 2 milhões em emendas para instituto de Karina Gama, produtora da cinebiografia do ex-presidente Jair Bolsonaro",
-      "published_at": "2026-09-10T15:42:05Z",
-      "region": "América do Sul",
-      "theme": "Política Brasileira",
-      "source_name": "Poder360",
-      "source_id": "poder360",
-      "is_brazilian": true,
-      "image_url": "https://static.poder360.com.br/uploads/2026/04/Mario-Frias-1080.png",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
       ]
     }
   ]
