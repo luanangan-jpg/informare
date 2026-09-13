@@ -1,6 +1,40 @@
 {
-  "updated_at": "2026-09-13T05:04:21.432760Z",
+  "updated_at": "2026-09-13T06:07:26.945652Z",
   "news": [
+    {
+      "title": "Middle East live: Houthis say hit Saudi base after renewed fighting with Yemeni forces",
+      "link": "https://www.france24.com/en/middle-east/20260913-middle-east-live-houthis-say-hit-saudi-base-after-renewed-fighting-with-yemeni-forces",
+      "summary": "Yemeni Houthi rebels claimed responsibility on Sunday for an attack on a military base in southern Saudi Arabia as renewed fighting with Yemen's government forces forced growing numbers of civilians to flee. Fighting in western Yemen over the past few weeks has left hundreds dead and displaced tens of thousands of people. Follow our liveblog for the latest updates.",
+      "published_at": "2026-09-13T05:11:17Z",
+      "region": "Oriente Médio",
+      "theme": "Geopolítica e Segurança",
+      "source_name": "France 24",
+      "source_id": "france24",
+      "is_brazilian": false,
+      "image_url": "https://s.france24.com/media/display/e97ed2ba-adc3-11f1-b34d-005056a97e36/w:1024/p:16x9/AP26253315512845.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "1,400 Yemenis flee to Djibouti within 24 hours",
+      "link": "https://www.aljazeera.com/news/2026/9/13/1400-yemenis-flee-to-djibouti-within-24-hours?traffic_source=rss",
+      "summary": "Yemeni refugees arrive in Obock, Djibouti, within 24 hours as Houthis tighten their grip on the Bab al-Mandeb strait.",
+      "published_at": "2026-09-13T04:40:18Z",
+      "region": "Oriente Médio",
+      "theme": "Direitos Humanos, Sociedade e Migrações",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/09/getty_6aa617ccdf-1789269964.jpg?resize=1920%2C1440",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1542810634-71277d95dcbb?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1489533119213-66a5cd877091?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1531206715517-5c0ba140e2b8?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
     {
       "title": "Wildfire rages on Croatia’s Dalmatian Coast island of Brac",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/9/13/wildfire-rages-on-croatias-dalmatian-coast-island-of-brac?traffic_source=rss",
@@ -344,7 +378,7 @@
     {
       "title": "Houthi projectile wounds two, damages mosque in Jazan region, Saudi says",
       "link": "https://www.aljazeera.com/news/2026/9/13/houthi-projectile-wounds-two-damages-mosque-in-jazan-region-saudi-says?traffic_source=rss",
-      "summary": "The Houthis claim their attack targeted a Saudi military base in Sharurah.",
+      "summary": "The Houthis say they carried out a strike targeting a Saudi military base in Sharurah, Najran province.",
       "published_at": "2026-09-13T00:24:29Z",
       "region": "Oriente Médio",
       "theme": "Geopolítica e Segurança",
@@ -390,6 +424,23 @@
         "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Iran war live: Tens of thousands displaced as Yemen fighting escalates",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/9/13/iran-war-live-saudi-arabia-and-houthis-trade-strikes-over-bab-al-mandeb?traffic_source=rss",
+      "summary": "Houthi forces and Yemen's internationally recognised government trade strikes as fighting intensifies.",
+      "published_at": "2026-09-13T00:00:40Z",
+      "region": "Oriente Médio",
+      "theme": "Geopolítica e Segurança",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/09/reuters_6aa63b6f-1789279087.jpg?resize=1920%2C1440",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
       ]
     },
     {
@@ -2498,57 +2549,6 @@
         "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Céline Dion's comeback: Why did she choose Paris?",
-      "link": "https://www.france24.com/en/video/20260912-c%C3%A9line-dion-s-come-back-why-did-she-choose-paris",
-      "summary": "Céline Dion was set to make her long-awaited return to the stage in Paris on Saturday after years of battling a rare neurological disorder, with fans counting down the hours until showtime. But why did she choose this city? \"It's not just the Olympics effect. Paris was the launch pad for her career. Beyond Quebec, through the '80s and early '90s, commentators have always mentioned that Paris is like a second home for her,\" says our guest Nick Rees-Roberts, professor of media, culture and communication at Sorbonne Nouvelle University.",
-      "published_at": "2026-09-12T14:41:09Z",
-      "region": "Europa",
-      "theme": "Cultura, Mídia e Sociedade",
-      "source_name": "France 24",
-      "source_id": "france24",
-      "is_brazilian": false,
-      "image_url": "https://s.france24.com/media/display/56d9423a-aeb1-11f1-9aee-005056a97e36/w:1024/p:16x9/EN-20260912-131404-132424-CS.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1460661419201-fd4cecdf8a8b?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1508700115892-45ecd05ae2ad?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Germany: Protests follow AfD election victory",
-      "link": "https://www.france24.com/en/video/20260912-germany-protests-follow-afd-election-victory",
-      "summary": "Protests are taking place against the AfD in Germany. The party came first in last Sunday's election after promising to curb migration and restore ties with ⁠Moscow.\"That's a shock to many people\", our correspondent Nick Holdsworth reports.",
-      "published_at": "2026-09-12T14:39:55Z",
-      "region": "Europa",
-      "theme": "Política Internacional",
-      "source_name": "France 24",
-      "source_id": "france24",
-      "is_brazilian": false,
-      "image_url": "https://s.france24.com/media/display/65bb8966-aeac-11f1-a922-005056a97e36/w:1024/p:16x9/EN-20260912-130958-131137-CS.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Germany: AfD leads in Mecklenburg-Western Pomerania, Merz's CDU slumps to 7%",
-      "link": "https://www.france24.com/en/video/20260912-germany-afd-leads-in-mecklenburg-western-pomerania-merz-s-cdu-slumps-to-7",
-      "summary": "Germany's far-right AfD is leading in polls ahead of regional elections in Mecklenburg-Western Pomerania on September 20, while Chancellor Friedrich Merz's centre-right CDU has fallen to just 7%, according to a new ZDF poll. The result would mark the party's worst-ever showing in a regional election in Germany.",
-      "published_at": "2026-09-12T14:37:48Z",
-      "region": "Europa",
-      "theme": "Política Internacional",
-      "source_name": "France 24",
-      "source_id": "france24",
-      "is_brazilian": false,
-      "image_url": "https://s.france24.com/media/display/86bc273e-aeab-11f1-bf2b-005056bfb2b6/w:1024/p:16x9/EN-20260912-130753-130957-CS.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
       ]
     }
   ]
