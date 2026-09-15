@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-09-15T11:04:44.001339Z",
+  "updated_at": "2026-09-15T12:06:22.278198Z",
   "news": [
     {
       "title": "Caso Moraes-Vorcaro é analisado em sessão plenária pelo STF; acompanhe",
       "link": "https://www.bbc.co.uk/portuguese/live/cm8xkdyqkkj4t?at_medium=RSS&at_campaign=rss",
-      "summary": "Ministros fazem sessão para discutir crise aberata após a divulgação de conversas suspeitas entre Alexandre de Moraes e o banqueiro Daniel Vorcaro, do Banco Master. Eles também devem analisar uma possível abertura de investigação para apurar a conduta do ministro Moraes.",
-      "published_at": "2026-09-15T11:04:36.995055Z",
+      "summary": "Ministros fazem sessão para discutir crise aberta após a divulgação de conversas suspeitas entre Alexandre de Moraes e o banqueiro Daniel Vorcaro, do Banco Master. Eles também devem analisar uma possível abertura de investigação para apurar a conduta do ministro Moraes.",
+      "published_at": "2026-09-15T12:06:11.106925Z",
       "region": "América do Sul",
       "theme": "Política Brasileira",
       "source_name": "BBC News Brasil",
@@ -16,6 +16,261 @@
         "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Comércio cai 0,8% em julho, diz IBGE",
+      "link": "https://www.poder360.com.br/poder-economia/comercio-cai-08-em-julho-diz-ibge/",
+      "summary": "Resultado vem depois de alta de 0,3% em junho; no acumulado do ano, comércio sobe 1,8%",
+      "published_at": "2026-09-15T12:02:57Z",
+      "region": "América do Sul",
+      "theme": "Outros / Multitemático",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2026/09/comercio-de-rua-loja-promocao-1200x675.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Suspected sabotage causes major Netherlands rail disruption",
+      "link": "https://www.bbc.co.uk/news/articles/c8ly49w9g1edo?at_medium=RSS&at_campaign=rss",
+      "summary": "Trains were cancelled or delayed on Tuesday after objects were found on tracks at multiple locations.",
+      "published_at": "2026-09-15T11:55:36Z",
+      "region": "Global",
+      "theme": "Outros / Multitemático",
+      "source_name": "BBC World News",
+      "source_id": "bbc_world",
+      "is_brazilian": false,
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eda4/live/dbe5e120-b0de-11f1-b1d1-571ed4d7ff2c.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "El Parlamento de Ucrania aprueba el cese del fiscal general en pleno escándalo de acusaciones cruzadas de corrupción",
+      "link": "https://www.europapress.es/internacional/noticia-parlamento-ucrania-aprueba-cese-fiscal-general-pleno-escandalo-acusaciones-cruzadas-corrupcion-20260915135358.html",
+      "summary": "El Parlamento de Ucrania ha aprobado este martes el cese del fiscal general del país, Ruslan Kravchenko, en pleno cruce de acusaciones por corrupción y después de que el presidente ucraniano, Volodimir Zelenski, procediera el lunes a su cese escudándose en la ley marcial para intentar contener un nuevo escándalo en las instituciones del país europeo.",
+      "published_at": "2026-09-15T11:53:58Z",
+      "region": "Europa",
+      "theme": "Política Internacional",
+      "source_name": "Europa Press",
+      "source_id": "europa_press",
+      "is_brazilian": false,
+      "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260915135358_120.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Supreme Court blocks Trump's plan to restrict mail-in ballots",
+      "link": "https://www.bbc.co.uk/news/articles/c5yjpdy4gjlo?at_medium=RSS&at_campaign=rss",
+      "summary": "The Trump administration had asked the court to lift a federal judge's temporary block on new rules for mail-in ballots.",
+      "published_at": "2026-09-15T11:49:33Z",
+      "region": "América do Norte",
+      "theme": "Política Internacional",
+      "source_name": "BBC World News",
+      "source_id": "bbc_world",
+      "is_brazilian": false,
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/10bf/live/6758e8d0-b0e7-11f1-ae0d-6f5ba3aa85ac.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Petróleo da cesta da Opep atinge US$ 123,11, maior valor em 5 meses",
+      "link": "https://www.poder360.com.br/poder-economia/petroleo-da-cesta-da-opep-atinge-us-12311-maior-valor-em-5-meses/",
+      "summary": "Analistas atribuem alta de 5,6% ao fechamento “preventivo” de oleoduto saudita por causa do conflito no Oriente Médio",
+      "published_at": "2026-09-15T11:47:51Z",
+      "region": "América do Norte",
+      "theme": "Geopolítica e Segurança",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2026/03/bomba-de-petroleo-imagem-ilustrativa.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "SP Open terá R$ 1,45 milhão em premiação em 2026",
+      "link": "https://www.poder360.com.br/poder-sportsmkt/sp-open-tera-r-145-milhao-em-premiacao-em-2026/",
+      "summary": "Torneio reúne tenistas como Paula Badosa e Luísa Stefani no Parque Villa-Lobos, em São Paulo",
+      "published_at": "2026-09-15T11:40:02Z",
+      "region": "América do Sul",
+      "theme": "Outros / Multitemático",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2026/09/sp-open-quadra-2026-1200x675.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Denmark says Russian warship fired flares at military helicopter",
+      "link": "https://www.bbc.co.uk/news/articles/cwn8mjl31p5yo?at_medium=RSS&at_campaign=rss",
+      "summary": "The Danish prime minister has accused Russia of \"reckless\" behaviour, while the Kremlin is yet to comment.",
+      "published_at": "2026-09-15T11:40:00Z",
+      "region": "Europa",
+      "theme": "Geopolítica e Segurança",
+      "source_name": "BBC World News",
+      "source_id": "bbc_world",
+      "is_brazilian": false,
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/663f/live/010ff400-b0e8-11f1-ae0d-6f5ba3aa85ac.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "El Kremlin considera \"una muy buena idea\" la propuesta de Trump para una tregua energética entre Rusia y Ucrania",
+      "link": "https://www.europapress.es/internacional/noticia-kremlin-considera-muy-buena-idea-propuesta-trump-tregua-energetica-rusia-ucrania-20260915133919.html",
+      "summary": "El Kremlin ha destacado este martes que la propuesta del presidente de Estados Unidos, Donald Trump, sobre una tregua entre Rusia y Ucrania en los ataques contra infraestructura supone \"una muy buena idea\", después del repunte de este tipo de ataques durante las últimas semanas, en el marco de la invasión de Ucrania, desatada en febrero de 2022.",
+      "published_at": "2026-09-15T11:39:19Z",
+      "region": "América do Norte",
+      "theme": "Política Internacional",
+      "source_name": "Europa Press",
+      "source_id": "europa_press",
+      "is_brazilian": false,
+      "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260915133919_120.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Benchmark US government bond yield hits 19-year peak as oil prices surge",
+      "link": "https://www.aljazeera.com/economy/2026/9/15/benchmark-us-government-bond-yield-hits-19-year-peak-as-oil-prices-surge?traffic_source=rss",
+      "summary": "The 10-year US Treasury yield hit 5.02 percent on Tuesday for the first time since the 2007 global financial crisis.",
+      "published_at": "2026-09-15T11:36:51Z",
+      "region": "América do Norte",
+      "theme": "Política Internacional",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": "https://loremflickr.com/cache/resized/defaultImage.small_800_600_nofilter.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Emmy 2026: confira a lista completa dos ganhadores do prêmio que consagrou a série O Segredo de Widow's Bay",
+      "link": "https://www.bbc.com/portuguese/articles/cm74kx40vl08o?at_medium=RSS&at_campaign=rss",
+      "summary": "A série 'O Segredo de Widow's Bay' levou 14 dos 19 prêmios aos quais estava indicada — entre eles o de melhor série de comédia.",
+      "published_at": "2026-09-15T11:35:58Z",
+      "region": "América do Sul",
+      "theme": "Outros / Multitemático",
+      "source_name": "BBC News Brasil",
+      "source_id": "bbc_brasil",
+      "is_brazilian": true,
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6bf9/live/79b3f170-b0ae-11f1-9738-1d592fa0fe2e.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "SCOTUS rejects Trump's mail voting limits. And, the Kennedy Center financial crisis",
+      "link": "https://www.npr.org/2026/09/15/g-s1-143294/up-first-newsletter-bernie-sanders-steve-bannon-ai-mail-in-ballots-kennedy-center-emmys",
+      "summary": "The Supreme Court has rejected Trump's mail-in voting restrictions ahead of the midterm elections. And, the Kennedy Center says it is on the brink of bankruptcy and could close soon.",
+      "published_at": "2026-09-15T11:35:49Z",
+      "region": "América do Norte",
+      "theme": "Política Internacional",
+      "source_name": "NPR World News",
+      "source_id": "npr",
+      "is_brazilian": false,
+      "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7436x4183+0+253/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fe0%2F08%2F1c91c9824a0c9623c3dd3a579051%2Fgettyimages-2278806765.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Rendimento dos títulos de 10 anos dos EUA atinge maior nível desde 2007",
+      "link": "https://www.poder360.com.br/poder-economia/rendimento-dos-titulos-de-10-anos-dos-eua-no-maior-nivel-desde-2007/",
+      "summary": "Alta é impulsionada pela alta do petróleo e expectativa de aumento de juros pelo Federal Reserve na 4ª feira (16.set)",
+      "published_at": "2026-09-15T11:24:11Z",
+      "region": "América do Norte",
+      "theme": "Economia Internacional",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2026/06/Bandeira-EUA-1080.png",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Por que há o temor sobre IA acabar com a humanidade — e existe mesmo o risco?",
+      "link": "https://www.bbc.com/portuguese/articles/c95y4jyp8j0yo?at_medium=RSS&at_campaign=rss",
+      "summary": "O temor de que a IA represente uma ameaça existencial voltou ao centro do debate — veja o que você precisa saber.",
+      "published_at": "2026-09-15T11:19:37Z",
+      "region": "América do Sul",
+      "theme": "Ciência, Tecnologia e Inovação",
+      "source_name": "BBC News Brasil",
+      "source_id": "bbc_brasil",
+      "is_brazilian": true,
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f2b6/live/889402c0-b036-11f1-9ae0-e316eeb4632d.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1518770660439-4636190af475?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1507668077129-56e32842fceb?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Dozens of aircraft, hundreds of buildings: US loss to Iran attacks revealed",
+      "link": "https://www.aljazeera.com/features/2026/9/15/dozens-of-aircraft-hundreds-of-buildings-us-loss-to-iran-attacks-revealed?traffic_source=rss",
+      "summary": "The Pentagon watchdog's report paints a picture of significant losses to US forces and facilities in the region.",
+      "published_at": "2026-09-15T11:17:03Z",
+      "region": "América do Norte",
+      "theme": "Geopolítica e Segurança",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": "https://loremflickr.com/cache/resized/defaultImage.small_800_600_nofilter.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Why is pro-Palestinian activist Mahmoud Khalil suing Columbia University?",
+      "link": "https://www.aljazeera.com/news/2026/9/15/why-is-pro-palestinian-activist-mahmoud-khalil-suing-columbia-university?traffic_source=rss",
+      "summary": "Mahmoud Khalil sues Columbia University and its dean for alleged institutional racism targeting pro-Palestine students.",
+      "published_at": "2026-09-15T11:14:00Z",
+      "region": "Oriente Médio",
+      "theme": "Direitos Humanos, Sociedade e Migrações",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": "https://loremflickr.com/cache/resized/defaultImage.small_800_600_nofilter.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1542810634-71277d95dcbb?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1489533119213-66a5cd877091?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1531206715517-5c0ba140e2b8?q=80&w=800&auto=format&fit=crop"
       ]
     },
     {
@@ -89,7 +344,7 @@
     {
       "title": "Nairobi to host World Athletics Championships in 2029",
       "link": "https://www.aljazeera.com/sports/2026/9/15/nairobi-to-host-world-athletics-championships-in-2029?traffic_source=rss",
-      "summary": "Kenyan capital to host Africa's first Athletics Worlds, beating bids from London, Munich and Rome.",
+      "summary": "Nairobi beats London, Munich and Rome to become the first African hosts, World Athletics says.",
       "published_at": "2026-09-15T10:37:56Z",
       "region": "África",
       "theme": "Outros / Multitemático",
@@ -106,7 +361,7 @@
     {
       "title": "Air pollution spiked after the Trump administration stopped embassy monitoring",
       "link": "https://www.npr.org/2026/09/15/nx-s1-5966503/air-pollution-spiked-after-the-trump-administration-stopped-embassy-monitoring",
-      "summary": "In 2025, the Trump administration ended a long-running program to collecting air pollution data at U.S. embassies. A new study suggests that led to a 24-33% increase in local pollution levels.",
+      "summary": "In 2025, the Trump administration ended a long-running program to collect air pollution data at U.S. embassies. A new study suggests that led to a 24-33% increase in local pollution levels.",
       "published_at": "2026-09-15T10:26:08Z",
       "region": "América do Norte",
       "theme": "Política Internacional",
@@ -155,23 +410,6 @@
       ]
     },
     {
-      "title": "Denmark says Russian warship fired flares at military helicopter",
-      "link": "https://www.bbc.co.uk/news/articles/cwn8mjl31p5yo?at_medium=RSS&at_campaign=rss",
-      "summary": "The Danish prime minister has accused Russia of \"reckless\" behaviour, while the Kremlin is yet to comment.",
-      "published_at": "2026-09-15T10:12:49Z",
-      "region": "Europa",
-      "theme": "Geopolítica e Segurança",
-      "source_name": "BBC World News",
-      "source_id": "bbc_world",
-      "is_brazilian": false,
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/663f/live/010ff400-b0e8-11f1-ae0d-6f5ba3aa85ac.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
       "title": "Huawei e Xiaomi abandonam modelos baratos e lançam celulares dobráveis",
       "link": "https://www.poder360.com.br/poder-china/huawei-e-xiaomi-abandonam-modelos-baratos-e-lancam-celulares-dobraveis/",
       "summary": "Alta no valor dos componentes eletrônicos faz as empresas apostarem em celulares premium para manter a margem de lucros",
@@ -182,23 +420,6 @@
       "source_id": "poder360",
       "is_brazilian": true,
       "image_url": "https://static.poder360.com.br/uploads/2026/09/copia-de-huawei-phone-1-1200x675.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Suspected sabotage causes major Netherlands rail disruption",
-      "link": "https://www.bbc.co.uk/news/articles/c8ly49w9g1edo?at_medium=RSS&at_campaign=rss",
-      "summary": "Trains were cancelled or delayed on Tuesday after objects were found on tracks at multiple locations.",
-      "published_at": "2026-09-15T09:59:14Z",
-      "region": "Global",
-      "theme": "Outros / Multitemático",
-      "source_name": "BBC World News",
-      "source_id": "bbc_world",
-      "is_brazilian": false,
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eda4/live/dbe5e120-b0de-11f1-b1d1-571ed4d7ff2c.jpg",
       "fallback_images": [
         "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
@@ -504,7 +725,7 @@
       "source_name": "Poder360",
       "source_id": "poder360",
       "is_brazilian": true,
-      "image_url": null,
+      "image_url": "https://loremflickr.com/cache/resized/defaultImage.small_800_600_nofilter.jpg",
       "fallback_images": [
         "https://images.unsplash.com/photo-1518770660439-4636190af475?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1507668077129-56e32842fceb?q=80&w=800&auto=format&fit=crop",
@@ -521,7 +742,7 @@
       "source_name": "Poder360",
       "source_id": "poder360",
       "is_brazilian": true,
-      "image_url": null,
+      "image_url": "https://loremflickr.com/cache/resized/defaultImage.small_800_600_nofilter.jpg",
       "fallback_images": [
         "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
@@ -538,7 +759,7 @@
       "source_name": "Poder360",
       "source_id": "poder360",
       "is_brazilian": true,
-      "image_url": null,
+      "image_url": "https://loremflickr.com/cache/resized/defaultImage.small_800_600_nofilter.jpg",
       "fallback_images": [
         "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
@@ -589,7 +810,7 @@
       "source_name": "BBC World News",
       "source_id": "bbc_world",
       "is_brazilian": false,
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5749/live/ee0b1740-b0a6-11f1-9c5d-0dd6cc52f198.png",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/38af/live/0a4981c0-b0fd-11f1-b1d1-571ed4d7ff2c.jpg",
       "fallback_images": [
         "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
@@ -674,24 +895,7 @@
       "source_name": "Poder360",
       "source_id": "poder360",
       "is_brazilian": true,
-      "image_url": null,
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Emmy 2006: confira a lista completa dos ganhadores do prêmio que consagrou a série O Segredo de Widow's Bay",
-      "link": "https://www.bbc.com/portuguese/articles/cm74kx40vl08o?at_medium=RSS&at_campaign=rss",
-      "summary": "A série 'O Segredo de Widow's Bay' levou 14 dos 19 prêmios aos quais estava indicada — entre eles o de melhor série de comédia.",
-      "published_at": "2026-09-15T08:28:33Z",
-      "region": "América do Sul",
-      "theme": "Outros / Multitemático",
-      "source_name": "BBC News Brasil",
-      "source_id": "bbc_brasil",
-      "is_brazilian": true,
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6bf9/live/79b3f170-b0ae-11f1-9738-1d592fa0fe2e.jpg",
+      "image_url": "https://loremflickr.com/cache/resized/defaultImage.small_800_600_nofilter.jpg",
       "fallback_images": [
         "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
@@ -1634,23 +1838,6 @@
       ]
     },
     {
-      "title": "Supreme Court blocks Trump's plan to restrict mail-in ballots",
-      "link": "https://www.bbc.co.uk/news/articles/c5yjpdy4gjlo?at_medium=RSS&at_campaign=rss",
-      "summary": "The Trump administration had asked the court to lift a federal judge's temporary block on new rules for mail-in ballots.",
-      "published_at": "2026-09-15T01:15:15Z",
-      "region": "América do Norte",
-      "theme": "Política Internacional",
-      "source_name": "BBC World News",
-      "source_id": "bbc_world",
-      "is_brazilian": false,
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/10bf/live/6758e8d0-b0e7-11f1-ae0d-6f5ba3aa85ac.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
       "title": "Houthis atacam Arábia Saudita enquanto negociações são canceladas",
       "link": "https://www.poder360.com.br/poder-internacional/houthis-atacam-arabia-saudita-enquanto-negociacoes-sao-canceladas/",
       "summary": "Grupo paramilitar aliado do Irã justificou ataque como retaliação a ofensiva contra o Iêmen",
@@ -2362,193 +2549,6 @@
         "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Israeli attack targets Gaza displacement camp",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/14/israeli-attack-targets-gaza-displacement-camp?traffic_source=rss",
-      "summary": "Israeli attack targets Gaza displacement camp",
-      "published_at": "2026-09-14T21:37:04Z",
-      "region": "Oriente Médio",
-      "theme": "Geopolítica e Segurança",
-      "source_name": "Al Jazeera",
-      "source_id": "aljazeera_english",
-      "is_brazilian": false,
-      "image_url": "https://loremflickr.com/cache/resized/61_194920917_d018286113_c_800_600_nofilter.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "US repeals rules limiting greenhouse gas emissions by power plants",
-      "link": "https://www.aljazeera.com/news/2026/9/14/us-repeals-rules-limiting-greenhouse-gas-emissions-by-power-plants?traffic_source=rss",
-      "summary": "The Trump administration says it could save power plants more than $300bn and 'unleash' American energy.",
-      "published_at": "2026-09-14T21:36:09Z",
-      "region": "América do Norte",
-      "theme": "Política Internacional",
-      "source_name": "Al Jazeera",
-      "source_id": "aljazeera_english",
-      "is_brazilian": false,
-      "image_url": "https://loremflickr.com/cache/resized/defaultImage.small_800_600_nofilter.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Macklemore cut from Ed Sheeran tour for pro-Palestine stance",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/14/macklemore-cut-from-ed-sheeran-tour-for-pro-palestine-stance?traffic_source=rss",
-      "summary": "Macklemore says he was dropped from Ed Sheeran’s US tour over his pro-Palestinian stance.",
-      "published_at": "2026-09-14T21:29:50Z",
-      "region": "Oriente Médio",
-      "theme": "Outros / Multitemático",
-      "source_name": "Al Jazeera",
-      "source_id": "aljazeera_english",
-      "is_brazilian": false,
-      "image_url": "https://loremflickr.com/cache/resized/defaultImage.small_800_600_nofilter.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Legendary costume designer Bob Mackie dies aged 87",
-      "link": "https://www.bbc.co.uk/news/articles/cmpq04wx8l4eo?at_medium=RSS&at_campaign=rss",
-      "summary": "The \"Sultan of Sequins\" created iconic and dazzling costumes for stars including Cher, Tina Turner and Elton John.",
-      "published_at": "2026-09-14T21:29:12Z",
-      "region": "Global",
-      "theme": "Outros / Multitemático",
-      "source_name": "BBC World News",
-      "source_id": "bbc_world",
-      "is_brazilian": false,
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f37e/live/64511030-b05c-11f1-9902-771b6dd8af6a.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Rights group accuses Israel of dismantling 'Palestinian existence' in West Bank",
-      "link": "https://www.france24.com/en/rights-group-accuses-israel-of-dismantling-palestinian-existence-in-west-bank",
-      "summary": "Israeli rights group B'Tselem said Monday that Israeli actions in the occupied West Bank form part of a greater project designed to make it impossible for Palestinians to exist together as a people. In a report titled \"The Elimination Project\", the group alleged five connected Israeli tactics and policies in the West Bank: \"violence, ethnic cleansing, movement restrictions, economic strangulation, social and political destruction\". FRANCE 24's Selina Sykes reports.",
-      "published_at": "2026-09-14T21:26:29Z",
-      "region": "Oriente Médio",
-      "theme": "Economia Internacional",
-      "source_name": "France 24",
-      "source_id": "france24",
-      "is_brazilian": false,
-      "image_url": "https://s.france24.com/media/display/ef5d3dc4-b080-11f1-8b78-005056a97e36/w:1024/p:16x9/EN-20260914-230418-230604-CS.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "‘Columbia did not care’: Mahmoud Khalil files discrimination lawsuit",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/14/columbia-did-not-care-mahmoud-khalil-files-discrimination-lawsuit?traffic_source=rss",
-      "summary": "Activist and former Columbia University student Mahmoud Khalil is filing a lawsuit against the university and a dean.",
-      "published_at": "2026-09-14T21:23:53Z",
-      "region": "Oriente Médio",
-      "theme": "Outros / Multitemático",
-      "source_name": "Al Jazeera",
-      "source_id": "aljazeera_english",
-      "is_brazilian": false,
-      "image_url": "https://loremflickr.com/cache/resized/defaultImage.small_800_600_nofilter.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Oposição quer obstrução se Alcolumbre não pautar impeachment de Moraes",
-      "link": "https://www.poder360.com.br/poder-congresso/oposicao-quer-obstrucao-se-alcolumbre-nao-pautar-impeachment-de-moraes/",
-      "summary": "Senadores também defendem mudança no regimento para tirar prerrogativa do presidente do Senado de abrir processos contra ministros",
-      "published_at": "2026-09-14T21:22:32Z",
-      "region": "América do Sul",
-      "theme": "Política Brasileira",
-      "source_name": "Poder360",
-      "source_id": "poder360",
-      "is_brazilian": true,
-      "image_url": "https://static.poder360.com.br/uploads/2026/09/senadores-oposicao-14-set-1200x675.png",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Punição para quem brigar em voo será de R$ 17.500 e até 1 ano sem voar",
-      "link": "https://www.poder360.com.br/poder-infra/punicao-para-quem-brigar-em-voo-sera-de-r-17-500-e-ate-1-ano-sem-voar/",
-      "summary": "Regras baixadas pela Anac entraram em vigor nesta 2ª feira (14.set) e criam punições para passageiros que criarem tumulto dentro de aviões",
-      "published_at": "2026-09-14T21:20:23Z",
-      "region": "América do Sul",
-      "theme": "Outros / Multitemático",
-      "source_name": "Poder360",
-      "source_id": "poder360",
-      "is_brazilian": true,
-      "image_url": "https://static.poder360.com.br/uploads/2026/09/anac-regras-1200x675.png",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Why talks in Oman between Iran and Gulf Arab states were postponed",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/14/why-talks-in-oman-between-iran-and-gulf-arab-states-were-postponed?traffic_source=rss",
-      "summary": "Hopes for a breakthrough on the Iran war have taken a hit after talks in Oman between Iran-Gulf nations were postponed.",
-      "published_at": "2026-09-14T21:20:00Z",
-      "region": "Oriente Médio",
-      "theme": "Geopolítica e Segurança",
-      "source_name": "Al Jazeera",
-      "source_id": "aljazeera_english",
-      "is_brazilian": false,
-      "image_url": "https://loremflickr.com/cache/resized/defaultImage.small_800_600_nofilter.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "US blocks Iran nuclear chief from attending IAEA conference in Vienna",
-      "link": "https://www.aljazeera.com/news/2026/9/14/us-blocks-iran-nuclear-chief-from-attending-key-vienna-conference?traffic_source=rss",
-      "summary": "Iran accuses US of pressuring Austria to revoke visa for Mohammad Eslami, calling it a violation of member state rights.",
-      "published_at": "2026-09-14T21:19:41Z",
-      "region": "América do Norte",
-      "theme": "Geopolítica e Segurança",
-      "source_name": "Al Jazeera",
-      "source_id": "aljazeera_english",
-      "is_brazilian": false,
-      "image_url": "https://loremflickr.com/cache/resized/defaultImage.small_800_600_nofilter.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Novo recorre ao STF para tirar Andrei do comando da PF",
-      "link": "https://www.poder360.com.br/poder-justica/novo-recorre-ao-stf-para-tirar-andrei-do-comando-da-pf/",
-      "summary": "Partido afirma que presidente do STF interferiu em julgamento já iniciado pela 2ª Turma e pede retomada da análise da cautelar",
-      "published_at": "2026-09-14T21:13:10Z",
-      "region": "América do Sul",
-      "theme": "Política Brasileira",
-      "source_name": "Poder360",
-      "source_id": "poder360",
-      "is_brazilian": true,
-      "image_url": "https://static.poder360.com.br/uploads/2026/09/IMG_6180-1200x675.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
       ]
     }
   ]
