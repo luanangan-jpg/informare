@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-09-15T12:06:22.278198Z",
+  "updated_at": "2026-09-15T13:05:34.152285Z",
   "news": [
     {
       "title": "Caso Moraes-Vorcaro é analisado em sessão plenária pelo STF; acompanhe",
       "link": "https://www.bbc.co.uk/portuguese/live/cm8xkdyqkkj4t?at_medium=RSS&at_campaign=rss",
       "summary": "Ministros fazem sessão para discutir crise aberta após a divulgação de conversas suspeitas entre Alexandre de Moraes e o banqueiro Daniel Vorcaro, do Banco Master. Eles também devem analisar uma possível abertura de investigação para apurar a conduta do ministro Moraes.",
-      "published_at": "2026-09-15T12:06:11.106925Z",
+      "published_at": "2026-09-15T13:05:23.181549Z",
       "region": "América do Sul",
       "theme": "Política Brasileira",
       "source_name": "BBC News Brasil",
@@ -19,9 +19,179 @@
       ]
     },
     {
+      "title": "Ao vivo: Lula sanciona incentivo fiscal para data centers",
+      "link": "https://www.poder360.com.br/poder-governo/ao-vivo-lula-sanciona-incentivo-fiscal-para-data-centers/",
+      "summary": "Aprovado no Senado, PL estabelece suspensão do pagamento de tributos que incidem sobre a aquisição de equipamentos destinados a data centers",
+      "published_at": "2026-09-15T13:00:46Z",
+      "region": "América do Sul",
+      "theme": "Política Brasileira",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2026/09/lula-sancao-2-1200x675.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Expansão eficiente demanda governança e processos integrados",
+      "link": "https://www.poder360.com.br/conteudo-de-marca/expansao-eficiente-demanda-governanca-e-processos-integrados/",
+      "summary": "Sem métodos padronizados, aquisições e fusões podem resultar em custos e perda de eficiência, afirma COO da FSB Holding",
+      "published_at": "2026-09-15T13:00:25Z",
+      "region": "América do Sul",
+      "theme": "Outros / Multitemático",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2026/09/conteudo-marca-fsb-fusoes-poder360-set-2026-1200x675.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Debate sobre velocidade e segurança da IA ganha força no mundo",
+      "link": "https://www.poder360.com.br/poder-tech/debate-sobre-velocidade-e-seguranca-da-ia-ganha-forca-no-mundo/",
+      "summary": "Trump rejeita desaceleração, enquanto empresas por trás da tecnologia falam em mecanismos para limitar os riscos",
+      "published_at": "2026-09-15T12:57:17Z",
+      "region": "América do Norte",
+      "theme": "Ciência, Tecnologia e Inovação",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2026/07/inteligencia-artificial-ia-unsplash.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1518770660439-4636190af475?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1507668077129-56e32842fceb?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Thousands flee to Djibouti amid renewed Yemen fighting",
+      "link": "https://www.aljazeera.com/news/2026/9/15/thousands-flee-to-djibouti-amid-renewed-yemen-fighting?traffic_source=rss",
+      "summary": "More than 3,400 people arrived in 48 hours as Djibouti prepares for more.",
+      "published_at": "2026-09-15T12:43:14Z",
+      "region": "Oriente Médio",
+      "theme": "Outros / Multitemático",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": null,
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Zelenski anuncia \"una prueba exitosa\" de un nuevo interceptor contra drones rusos propulsados por reactor",
+      "link": "https://www.europapress.es/internacional/noticia-zelenski-anuncia-prueba-exitosa-nuevo-interceptor-contra-drones-rusos-propulsados-reactor-20260915144259.html",
+      "summary": "El presidente de Ucrania, Volodimir Zelenski, ha anunciado este martes que las Fuerzas Armadas han llevado a cabo \"una prueba exitosa\" de un nuevo interceptor contra drones propulsados por reactor, si bien ha reconocido que \"algunos aspectos sobre el control del interceptor aún deben ser refinados\", en medio del aumento de los ataques con estos aparatos durante las últimas semanas.",
+      "published_at": "2026-09-15T12:42:59Z",
+      "region": "Europa",
+      "theme": "Direito Internacional e Instituições",
+      "source_name": "Europa Press",
+      "source_id": "europa_press",
+      "is_brazilian": false,
+      "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260915144259_120.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1505664194779-8beaceb93744?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Aliado de Trump publica imagem de IA de Moraes com tornozeleira eletrônica",
+      "link": "https://www.poder360.com.br/poder-internacional/aliado-de-trump-publica-imagem-de-ia-de-moraes-com-tornozeleira-eletronica/",
+      "summary": "Jason Miller partilha reportagem sobre relatório da PF que aponta relação de Moraes e Vorcaro e escreve: “tick-tock, Xandão”",
+      "published_at": "2026-09-15T12:34:04Z",
+      "region": "América do Norte",
+      "theme": "Política Internacional",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2026/09/moraes-tornozeleira-ia-jason-miller-13set2026-x-scaled-1-1200x675.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "India vs Afghanistan live: T20 cricket match",
+      "link": "https://www.aljazeera.com/sports/liveblog/2026/9/15/india-vs-afghanistan-live-t20-cricket-match?traffic_source=rss",
+      "summary": "Follow our live build-up, team news, predictions, score, photos and live text commentary stream in New Delhi.",
+      "published_at": "2026-09-15T12:33:40Z",
+      "region": "Ásia",
+      "theme": "Outros / Multitemático",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": "https://loremflickr.com/cache/resized/65535_51368085503_437ed36ab1_b_800_600_nofilter.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Suspected sabotage causes major Netherlands rail disruption",
+      "link": "https://www.bbc.co.uk/news/articles/c8ly49w9g1edo?at_medium=RSS&at_campaign=rss",
+      "summary": "Trains were cancelled or delayed on Tuesday after objects were found on tracks at multiple locations.",
+      "published_at": "2026-09-15T12:32:30Z",
+      "region": "Global",
+      "theme": "Outros / Multitemático",
+      "source_name": "BBC World News",
+      "source_id": "bbc_world",
+      "is_brazilian": false,
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eda4/live/dbe5e120-b0de-11f1-b1d1-571ed4d7ff2c.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Flávio defende democracia e diz que Lula e Moraes são “sistema”",
+      "link": "https://www.poder360.com.br/poder-eleicoes-2026/flavio-defende-democracia-e-diz-que-lula-e-moraes-sao-sistema/",
+      "summary": "Em pronunciamento em seu programa eleitoral, candidato do PL menciona julgamento no STF, afirma que petista dividiu poder com ala do Judiciário que descumpriu a lei",
+      "published_at": "2026-09-15T12:22:16Z",
+      "region": "América do Sul",
+      "theme": "Política Brasileira",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2026/09/flavio-bolsonaro-propaganda-15set2026-1200x675.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Dino pede investigação sobre encontro entre Mendonça e Vorcaro",
+      "link": "https://www.poder360.com.br/poder-justica/dino-pede-investigacao-sobre-encontro-entre-mendonca-e-vorcaro/",
+      "summary": "Ministro pediu ao presidente da Corte, Edson Fachin, que inclua a apuração do processo que investiga a conduta de seu colega",
+      "published_at": "2026-09-15T12:17:31Z",
+      "region": "América do Sul",
+      "theme": "Política Brasileira",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2026/07/flavio-dino-ministro.webp",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
       "title": "Comércio cai 0,8% em julho, diz IBGE",
       "link": "https://www.poder360.com.br/poder-economia/comercio-cai-08-em-julho-diz-ibge/",
-      "summary": "Resultado vem depois de alta de 0,3% em junho; no acumulado do ano, comércio sobe 1,8%",
+      "summary": "Resultado vem depois de alta de 0,3% em junho; no acumulado do ano, comércio sobe 1,8%. É a 1ª queda depois de 2 meses de expansão",
       "published_at": "2026-09-15T12:02:57Z",
       "region": "América do Sul",
       "theme": "Outros / Multitemático",
@@ -36,20 +206,37 @@
       ]
     },
     {
-      "title": "Suspected sabotage causes major Netherlands rail disruption",
-      "link": "https://www.bbc.co.uk/news/articles/c8ly49w9g1edo?at_medium=RSS&at_campaign=rss",
-      "summary": "Trains were cancelled or delayed on Tuesday after objects were found on tracks at multiple locations.",
-      "published_at": "2026-09-15T11:55:36Z",
-      "region": "Global",
-      "theme": "Outros / Multitemático",
-      "source_name": "BBC World News",
-      "source_id": "bbc_world",
+      "title": "Athletes share ‘what women in sport look like’ to rebut Sydney Sweeney ad",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/15/athletes-share-what-women-in-sport-look-like-to-rebut-sydney-sweeney-ad?traffic_source=rss",
+      "summary": "Female athletes are against a sports-betting ad featuring actress Sydney Sweeney.",
+      "published_at": "2026-09-15T11:55:49Z",
+      "region": "Oriente Médio",
+      "theme": "Cultura, Mídia e Sociedade",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
       "is_brazilian": false,
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eda4/live/dbe5e120-b0de-11f1-b1d1-571ed4d7ff2c.jpg",
+      "image_url": null,
       "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+        "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1460661419201-fd4cecdf8a8b?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1508700115892-45ecd05ae2ad?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Zelenskyy says Ukraine will pause attacks if Russia spares infrastructure",
+      "link": "https://www.aljazeera.com/news/2026/9/15/zelenskyy-says-ukraine-will-pause-attacks-if-russia-spares-infrastructure?traffic_source=rss",
+      "summary": "Zelenskyy insists de-escalation depends on US ensuring Russia's genuine readiness to stop war and attacks on Ukraine.",
+      "published_at": "2026-09-15T11:54:37Z",
+      "region": "Europa",
+      "theme": "Geopolítica e Segurança",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": "https://d3i6fh83elv35t.cloudfront.net/static/2026/09/2026-09-06T172033Z_2136180357_RC2RDNAAS5C5_RTRMADP_3_UKRAINE-CRISIS-USA-ENVOYS-1024x683.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
       ]
     },
     {
@@ -67,6 +254,23 @@
         "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "US repeals pollution limits for fossil fuel power plants",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/15/us-repeals-pollution-limits-for-fossil-fuel-power-plants?traffic_source=rss",
+      "summary": "The US Environmental Protection Agency ends a rule that limits greenhouse gas emissions from coal and gas power plants.",
+      "published_at": "2026-09-15T11:53:19Z",
+      "region": "América do Norte",
+      "theme": "Meio Ambiente e Clima",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": "https://loremflickr.com/cache/resized/defaultImage.small_800_600_nofilter.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?q=80&w=800&auto=format&fit=crop"
       ]
     },
     {
@@ -631,6 +835,23 @@
       ]
     },
     {
+      "title": "NATO jets shoot down a drone in Lithuanian airspace",
+      "link": "https://www.npr.org/2026/09/15/g-s1-143284/nato-jets-down-drone-in-lithuanian-airspace",
+      "summary": "The incident came less than a day after NATO leaders pledged that strikes close to the alliance's territory would drive the trans-Atlantic organization to increase support for Kyiv.",
+      "published_at": "2026-09-15T09:06:30Z",
+      "region": "Europa",
+      "theme": "Outros / Multitemático",
+      "source_name": "NPR World News",
+      "source_id": "npr",
+      "is_brazilian": false,
+      "image_url": "https://loremflickr.com/cache/resized/defaultImage.small_800_600_nofilter.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
       "title": "Maior sigilo em investigação foi por citação a Andrei e Gonet, diz Mendonça",
       "link": "https://www.poder360.com.br/poder-justica/maior-sigilo-em-investigacao-foi-por-citacao-a-andrei-e-gonet-diz-mendonca/",
       "summary": "Ministro diz em manifestação a Fachin por que intimou pessoalmente delegados para solicitar identificação de interlocutor de Vorcaro",
@@ -810,7 +1031,7 @@
       "source_name": "BBC World News",
       "source_id": "bbc_world",
       "is_brazilian": false,
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/38af/live/0a4981c0-b0fd-11f1-b1d1-571ed4d7ff2c.jpg",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c7fc/live/b2c645c0-b104-11f1-a540-61c3f7fc4e6c.jpg",
       "fallback_images": [
         "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
@@ -903,6 +1124,23 @@
       ]
     },
     {
+      "title": "Saudi Arabia promises to respond to Houthi attacks ‘firmly’",
+      "link": "https://www.aljazeera.com/news/2026/9/15/houthis-report-air-strikes-in-yemen-after-saudi-arabia-vows-firm-response?traffic_source=rss",
+      "summary": "Saudi-led coalition promises to respond 'firmly' to Houthi strikes on urban areas in Saudi Arabia.",
+      "published_at": "2026-09-15T08:11:09Z",
+      "region": "Oriente Médio",
+      "theme": "Outros / Multitemático",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": "https://loremflickr.com/cache/resized/4051_4354448986_9d58edf958_c_800_600_nofilter.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
       "title": "Houthis say air strikes hit Yemen after Saudi Arabia vows ‘firm’ response",
       "link": "https://www.aljazeera.com/news/2026/9/15/houthis-report-air-strikes-in-yemen-after-saudi-arabia-vows-firm-response?traffic_source=rss",
       "summary": "Saudi-led coalition promises to respond 'firmly' to Houthi strikes on urban areas in Saudi Arabia.",
@@ -938,7 +1176,7 @@
     },
     {
       "title": "Amid France’s political 'fragmentation', 'a case needs to be made for participatory democracy’",
-      "link": "https://www.france24.com/en/amid-france-s-political-fragmentation-a-case-needs-to-be-made-for-participatory-democracy",
+      "link": "http://www.france24.com/en/amid-france-s-political-fragmentation-a-case-needs-to-be-made-for-participatory-democracy",
       "summary": "Carys Garland is pleased to welcome Dr. Andrew Smith, Historian of Modern France and Lecturer in Liberal Arts at Queen Mary University of London. He argues that Marine Le Pen and the National Rally’s commanding position in early presidential polling should not be regarded as an inevitable far-right victory. They are benefiting from familiarity, unity and laser-focused messaging. More fundamentally, however, Smith sees the polling as a reflection of a French electorate shaped by anger, anxiety, economic insecurity and political fatigue. Rather than describing this landscape simply as one of growing “polarization,” he proposes the more revealing concept of “fragmentation.”",
       "published_at": "2026-09-15T08:01:35Z",
       "region": "Europa",
@@ -946,7 +1184,7 @@
       "source_name": "France 24",
       "source_id": "france24",
       "is_brazilian": false,
-      "image_url": "https://s.france24.com/media/display/3b0a1158-b0bc-11f1-bc3a-005056bf30b7/w:1024/p:16x9/EN-20260914-151821-152731-CS.jpg",
+      "image_url": "https://www.france24.com/media/display/3b0a1158-b0bc-11f1-bc3a-005056bf30b7/w:1024/p:16x9/EN-20260914-151821-152731-CS.jpg",
       "fallback_images": [
         "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?q=80&w=800&auto=format&fit=crop",
@@ -972,7 +1210,7 @@
     },
     {
       "title": "Corruption ‘endemic’ in Trump administration: 'Checks and balances only in effect at lower courts'",
-      "link": "https://www.france24.com/en/tv-shows/spotlight/20260915-corruption-endemic-in-trump-administration-checks-and-balances-only-in-effect-at-lower-courts",
+      "link": "http://www.france24.com/en/tv-shows/spotlight/20260915-corruption-endemic-in-trump-administration-checks-and-balances-only-in-effect-at-lower-courts",
       "summary": "François Picard is pleased to welcome Andrew Weissmann, Author, Professor at NYU School of Law, and former General Counsel of the FBI. He argues that as political deception and deliberate falsehoods become normalized, and politically useful, it erodes any trust we have in our government and our institutions. Drawing on his book, \"Liar’s Kingdom\", Weissmann questions why political leaders are above the law in the United States, while ordinary citizens risk serious legal consequences for making intentionally false statements.",
       "published_at": "2026-09-15T07:52:51Z",
       "region": "América do Norte",
@@ -980,7 +1218,7 @@
       "source_name": "France 24",
       "source_id": "france24",
       "is_brazilian": false,
-      "image_url": "https://s.france24.com/media/display/134880ea-b0b3-11f1-871a-005056bfb2b6/w:1024/p:16x9/EN-20260914-180947-182810-CS.jpg",
+      "image_url": "https://www.france24.com/media/display/134880ea-b0b3-11f1-871a-005056bfb2b6/w:1024/p:16x9/EN-20260914-180947-182810-CS.jpg",
       "fallback_images": [
         "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
@@ -1057,7 +1295,7 @@
     },
     {
       "title": "Lack of 'enforcement of EU laws': Consumer products contain 'illegal levels of restricted chemicals'",
-      "link": "https://www.france24.com/en/lack-of-enforcement-of-eu-laws-consumer-products-contain-illegal-levels-of-restricted-chemicals",
+      "link": "http://www.france24.com/en/lack-of-enforcement-of-eu-laws-consumer-products-contain-illegal-levels-of-restricted-chemicals",
       "summary": "Eve Irvine is pleased to welcome Hélène Duguy, Senior Environmental Lawyer at ClientEarth. PFAS pollution is widespread, these highly persistent chemicals have been detected in water and soil, food and consumer products, and even the human body. The risks are increasingly well documented, alternatives now exist for many uses, and there is an extensive regulatory framework that is in place. Duguy argues that the central problem is therefore not simply a lack of scientific knowledge or legislation, but rather weak enforcement, slow regulation and corporate resistance. And so hazardous chemicals remain in circulation even when restrictions exist.",
       "published_at": "2026-09-15T07:28:12Z",
       "region": "Europa",
@@ -1065,7 +1303,7 @@
       "source_name": "France 24",
       "source_id": "france24",
       "is_brazilian": false,
-      "image_url": "https://s.france24.com/media/display/6221f4c0-b0c3-11f1-b095-005056bfb2b6/w:1024/p:16x9/EN-20260914-081030-081732-CS.jpg",
+      "image_url": "https://www.france24.com/media/display/6221f4c0-b0c3-11f1-b095-005056bfb2b6/w:1024/p:16x9/EN-20260914-081030-081732-CS.jpg",
       "fallback_images": [
         "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?q=80&w=800&auto=format&fit=crop",
@@ -1091,7 +1329,7 @@
     },
     {
       "title": "French labour strike reduces capacity at key Dunkirk gas terminal",
-      "link": "https://www.france24.com/en/france/20260915-french-labour-strike-reduces-capacity-key-dunkirk-gas-terminal",
+      "link": "http://www.france24.com/en/france/20260915-french-labour-strike-reduces-capacity-key-dunkirk-gas-terminal",
       "summary": "Industrial action ​was expected to reduce French electricity supply by up to 5 gigawatts on ⁠Tuesday as energy sector ⁠unions stage a 24-hour strike in protest over calls to curb ​employee benefits ‌such as access to cheaper power.",
       "published_at": "2026-09-15T07:24:43Z",
       "region": "Europa",
@@ -1099,7 +1337,7 @@
       "source_name": "France 24",
       "source_id": "france24",
       "is_brazilian": false,
-      "image_url": "https://s.france24.com/media/display/dcb46572-b0d4-11f1-a26a-005056a90284/w:1024/p:16x9/000-Par8222043.jpg",
+      "image_url": "https://www.france24.com/media/display/dcb46572-b0d4-11f1-a26a-005056a90284/w:1024/p:16x9/000-Par8222043.jpg",
       "fallback_images": [
         "https://images.unsplash.com/photo-1542810634-71277d95dcbb?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1489533119213-66a5cd877091?q=80&w=800&auto=format&fit=crop",
@@ -1261,7 +1499,7 @@
     },
     {
       "title": "Iran war exposes US munitions shortfall, industrial bottlenecks, Pentagon report says",
-      "link": "https://www.france24.com/en/americas/20260915-iran-war-exposes-us-munitions-shortfall-industrial-bottlenecks-pentagon-report-says",
+      "link": "http://www.france24.com/en/americas/20260915-iran-war-exposes-us-munitions-shortfall-industrial-bottlenecks-pentagon-report-says",
       "summary": "The US military faces shortages of key munitions due to the Iran war and industrial \"bottlenecks\" to rebuild stockpiles, a Pentagon watchdog warned in a report published on Monday, contradicting US President Donald Trump's assurances that ammunition supplies are \"virtually unlimited\".",
       "published_at": "2026-09-15T06:07:23Z",
       "region": "América do Norte",
@@ -1269,7 +1507,7 @@
       "source_name": "France 24",
       "source_id": "france24",
       "is_brazilian": false,
-      "image_url": "https://s.france24.com/media/display/76716e8e-b0c7-11f1-9d6d-005056a90284/w:1024/p:16x9/000-C8744CR.jpg",
+      "image_url": "https://www.france24.com/media/display/76716e8e-b0c7-11f1-9d6d-005056a90284/w:1024/p:16x9/000-C8744CR.jpg",
       "fallback_images": [
         "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
@@ -1312,7 +1550,7 @@
     },
     {
       "title": "Mbappé, Yamal, Dembélé, Kane: Ballon d'Or campaign is in full swing",
-      "link": "https://www.france24.com/en/tv-shows/sports/20260915-mbapp%C3%A9-yamal-demb%C3%A9l%C3%A9-kane-ballon-d-or-campaign-is-in-full-swing",
+      "link": "http://www.france24.com/en/tv-shows/sports/20260915-mbapp%C3%A9-yamal-demb%C3%A9l%C3%A9-kane-ballon-d-or-campaign-is-in-full-swing",
       "summary": "With two weeks to go before voting closes for the Ballon d’Or, the leading contenders are campaigning.",
       "published_at": "2026-09-15T05:44:44Z",
       "region": "Europa",
@@ -1320,7 +1558,7 @@
       "source_name": "France 24",
       "source_id": "france24",
       "is_brazilian": false,
-      "image_url": "https://s.france24.com/media/display/ed498f30-b0a6-11f1-8942-005056a90284/w:1024/p:16x9/J24-mbappe-2.jpg",
+      "image_url": "https://www.france24.com/media/display/ed498f30-b0a6-11f1-8942-005056a90284/w:1024/p:16x9/J24-mbappe-2.jpg",
       "fallback_images": [
         "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
@@ -1533,7 +1771,7 @@
     },
     {
       "title": "Middle East live: Iran rejects talks with US after 'mixed signals' from Trump",
-      "link": "https://www.france24.com/en/middle-east/20260915-middle-east-live-houthi-attacks-wound-13-civilians-in-southern-saudi-arabia",
+      "link": "http://www.france24.com/en/middle-east/20260915-middle-east-live-houthi-attacks-wound-13-civilians-in-southern-saudi-arabia",
       "summary": "Iran's security chief on Tuesday rejected talks with the United States, criticising the \"mixed signals\" from US President Donald Trump after he said he was open to resuming negotiations. The diplomatic deadlock comes as the US military is facing a shortfall in ammunition as a result of the war, according to a report by the Pentagon's inspector general. Follow our liveblog for the latest updates.",
       "published_at": "2026-09-15T03:06:54Z",
       "region": "América do Norte",
@@ -1541,7 +1779,7 @@
       "source_name": "France 24",
       "source_id": "france24",
       "is_brazilian": false,
-      "image_url": "https://s.france24.com/media/display/b006252a-b0d8-11f1-a980-005056bfb2b6/w:1024/p:16x9/000-C8976Q9.jpg",
+      "image_url": "https://www.france24.com/media/display/b006252a-b0d8-11f1-a980-005056bfb2b6/w:1024/p:16x9/000-C8976Q9.jpg",
       "fallback_images": [
         "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
@@ -1635,7 +1873,7 @@
     },
     {
       "title": "Venezuela to join G20 energy talks in Texas at US invitation",
-      "link": "https://www.france24.com/en/americas/20260915-venezuela-to-join-g20-energy-meetings-in-texas-at-us-invitation",
+      "link": "http://www.france24.com/en/americas/20260915-venezuela-to-join-g20-energy-meetings-in-texas-at-us-invitation",
       "summary": "A Venezuelan delegation will join G20 energy talks in Houston this week as soaring oil prices and disruption from the Middle East war put global energy supplies under pressure. The meeting comes as the Trump administration deepens energy ties with Caracas and seeks to boost Venezuelan oil output.",
       "published_at": "2026-09-15T02:44:46Z",
       "region": "América do Sul",
@@ -1643,7 +1881,7 @@
       "source_name": "France 24",
       "source_id": "france24",
       "is_brazilian": false,
-      "image_url": "https://s.france24.com/media/display/47d96d1c-b098-11f1-9021-005056a97e36/w:1024/p:16x9/ea7607de8aa30c2ff2134ead7b6e53246246fe8f.jpg",
+      "image_url": "https://www.france24.com/media/display/47d96d1c-b098-11f1-9021-005056a97e36/w:1024/p:16x9/ea7607de8aa30c2ff2134ead7b6e53246246fe8f.jpg",
       "fallback_images": [
         "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
@@ -1703,7 +1941,7 @@
     },
     {
       "title": "Ukraine war live: NATO downs drone over Lithuania, Russian frigate fires flares at Danish helicopter",
-      "link": "https://www.france24.com/en/europe/20260915-nato-fighter-jets-shoot-down-drone-over-lithuania-after-latest-incursion",
+      "link": "http://www.france24.com/en/europe/20260915-nato-fighter-jets-shoot-down-drone-over-lithuania-after-latest-incursion",
       "summary": "NATO scrambled fighter jets overnight to ​shoot down a drone over Lithuania after the latest incursion on the alliance's eastern flank. In a separate incident, Denmark said a Russian warship fired two emergency flares at a Danish helicopter in the Baltic Sea, adding that the Russian ambassador had been summoned over the \"reckless action\". Follow our liveblog for the latest developments.",
       "published_at": "2026-09-15T02:19:11Z",
       "region": "Europa",
@@ -1711,7 +1949,7 @@
       "source_name": "France 24",
       "source_id": "france24",
       "is_brazilian": false,
-      "image_url": "https://s.france24.com/media/display/a14b1952-b0d1-11f1-9113-005056a90284/w:1024/p:16x9/AP26112530007281.jpg",
+      "image_url": "https://www.france24.com/media/display/a14b1952-b0d1-11f1-9113-005056a90284/w:1024/p:16x9/AP26112530007281.jpg",
       "fallback_images": [
         "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
@@ -1771,7 +2009,7 @@
     },
     {
       "title": "US Supreme Court rejects Trump bid to restrict mail ballots as voting begins",
-      "link": "https://www.france24.com/en/americas/20260915-us-supreme-court-rejects-trump-bid-to-restrict-mail-ballots-as-voting-begins",
+      "link": "http://www.france24.com/en/americas/20260915-us-supreme-court-rejects-trump-bid-to-restrict-mail-ballots-as-voting-begins",
       "summary": "The US Supreme Court on Monday rejected President Donald Trump’s bid to impose new restrictions on mail ballots ahead of November’s midterm elections. The ruling leaves states free to continue using existing voting procedures, after election officials warned the last-minute changes could disrupt ballot distribution.",
       "published_at": "2026-09-15T01:51:51Z",
       "region": "América do Norte",
@@ -1779,7 +2017,7 @@
       "source_name": "France 24",
       "source_id": "france24",
       "is_brazilian": false,
-      "image_url": "https://s.france24.com/media/display/def44e4c-b09d-11f1-be01-005056a90284/w:1024/p:16x9/bb30b5bf37e781f443665b25112221e81b7c2d36.jpg",
+      "image_url": "https://www.france24.com/media/display/def44e4c-b09d-11f1-be01-005056a90284/w:1024/p:16x9/bb30b5bf37e781f443665b25112221e81b7c2d36.jpg",
       "fallback_images": [
         "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
@@ -1856,7 +2094,7 @@
     },
     {
       "title": "Trump calls concerns over rogue AI a 'hoax' promoted by a ‘sick conspiracy’",
-      "link": "https://www.france24.com/en/technology/20260915-trump-calls-concerns-over-rogue-ai-a-hoax-promoted-by-a-sick-conspiracy",
+      "link": "http://www.france24.com/en/technology/20260915-trump-calls-concerns-over-rogue-ai-a-hoax-promoted-by-a-sick-conspiracy",
       "summary": "US President Donald Trump on Monday rejected warnings about the risks of artificial intelligence, calling concerns over rogue AI part of a “sick conspiracy” as tech leaders urge greater safeguards. The clash comes as the rapidly advancing technology faces scrutiny over cybersecurity, jobs, data centres and its potential impact on national security.",
       "published_at": "2026-09-15T01:05:38Z",
       "region": "América do Norte",
@@ -1864,7 +2102,7 @@
       "source_name": "France 24",
       "source_id": "france24",
       "is_brazilian": false,
-      "image_url": "https://s.france24.com/media/display/7b79f91a-b08a-11f1-ac1f-005056a90284/w:1024/p:16x9/2026-09-14T021020Z-1000114421-RC2MINA0CLDT-RTRMADP-3-USA-TRUMP-IRELAND.jpg",
+      "image_url": "https://www.france24.com/media/display/7b79f91a-b08a-11f1-ac1f-005056a90284/w:1024/p:16x9/2026-09-14T021020Z-1000114421-RC2MINA0CLDT-RTRMADP-3-USA-TRUMP-IRELAND.jpg",
       "fallback_images": [
         "https://images.unsplash.com/photo-1518770660439-4636190af475?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1507668077129-56e32842fceb?q=80&w=800&auto=format&fit=crop",
@@ -2009,7 +2247,7 @@
     },
     {
       "title": "Nigeria's Dangote refinery launches biggest African IPO",
-      "link": "https://www.france24.com/en/africa/20260915-nigeria-s-dangote-refinery-launches-biggest-african-ipo-for-retail-investors",
+      "link": "http://www.france24.com/en/africa/20260915-nigeria-s-dangote-refinery-launches-biggest-african-ipo-for-retail-investors",
       "summary": "Africa’s richest man Aliko Dangote on Monday launched an IPO for his $19 billion Nigerian oil refinery, seeking $1.6 billion from retail investors across the continent. The offering values Africa’s largest refinery at about $49 billion and has drawn both strong investor interest and concerns over its high valuation.",
       "published_at": "2026-09-15T00:05:32Z",
       "region": "África",
@@ -2017,7 +2255,7 @@
       "source_name": "France 24",
       "source_id": "france24",
       "is_brazilian": false,
-      "image_url": "https://s.france24.com/media/display/17aad168-b05b-11f1-b58b-005056a90284/w:1024/p:16x9/732cb7dc19c595839564de7f85f58c87ed0476c1.jpg",
+      "image_url": "https://www.france24.com/media/display/17aad168-b05b-11f1-b58b-005056a90284/w:1024/p:16x9/732cb7dc19c595839564de7f85f58c87ed0476c1.jpg",
       "fallback_images": [
         "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
@@ -2111,7 +2349,7 @@
     },
     {
       "title": "Zelensky says Ukraine ready to de-escalate if Russia halts strikes",
-      "link": "https://www.france24.com/en/europe/20260914-zelensky-says-ukraine-ready-to-de-escalate-if-russia-halts-strikes",
+      "link": "http://www.france24.com/en/europe/20260914-zelensky-says-ukraine-ready-to-de-escalate-if-russia-halts-strikes",
       "summary": "Ukraine is ready to halt attacks on Russian energy infrastructure if Moscow does the same, President Volodymyr Zelensky said Monday, after US President Donald Trump announced an apparent agreement between the two sides. Kyiv also warned that intensifying Russian strikes on Ukraine’s rail network are worsening each week.",
       "published_at": "2026-09-14T22:57:26Z",
       "region": "Europa",
@@ -2119,7 +2357,7 @@
       "source_name": "France 24",
       "source_id": "france24",
       "is_brazilian": false,
-      "image_url": "https://s.france24.com/media/display/183b4120-b084-11f1-9cad-005056a90284/w:1024/p:16x9/AP26239577216137.jpg",
+      "image_url": "https://www.france24.com/media/display/183b4120-b084-11f1-9cad-005056a90284/w:1024/p:16x9/AP26239577216137.jpg",
       "fallback_images": [
         "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
@@ -2299,7 +2537,7 @@
     {
       "title": "Caso Moraes-Vorcaro: o que está em jogo no STF e quem fala primeiro na sessão",
       "link": "https://www.bbc.com/portuguese/articles/cqdr7npp6v4xo?at_medium=RSS&at_campaign=rss",
-      "summary": "A expectativa é que os ministros decidam sobre uma possível abertura de investigação contra Alexandre de Moraes, mas detalhes sobre sessão ainda geram dúvidas nos bastidores: entenda o que pode acontecer.",
+      "summary": "A expectativa é que os ministros do Supremo Tribunal Federal decidam sobre uma possível abertura de investigação contra Alexandre de Moraes, mas detalhes sobre sessão ainda geram dúvidas nos bastidores: entenda o que pode acontecer.",
       "published_at": "2026-09-14T22:22:49Z",
       "region": "América do Sul",
       "theme": "Política Brasileira",
@@ -2311,244 +2549,6 @@
         "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Lula critica quem diz que governo “gasta muito” em políticas públicas",
-      "link": "https://www.poder360.com.br/poder-governo/lula-critica-quem-diz-que-governo-gasta-muito-em-politicas-publicas/",
-      "summary": "Presidente afirma que Estado deve ampliar oportunidades e cita financiamento de veículos como exemplo de ação necessária",
-      "published_at": "2026-09-14T22:21:42Z",
-      "region": "América do Sul",
-      "theme": "Política Brasileira",
-      "source_name": "Poder360",
-      "source_id": "poder360",
-      "is_brazilian": true,
-      "image_url": "https://static.poder360.com.br/uploads/2026/09/Lula-Entregadores-Aplicativos-Motoboy-MotoristasDeAplicativos-14Set20253-1200x675.png",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Rapper Macklemore dropped from Ed Sheeran's US tour after pro-Palestinian remarks",
-      "link": "https://www.france24.com/en/americas/20260914-macklemore-dropped-from-ed-sheeran-us-tour-after-pro-palestinian-remarks",
-      "summary": "American rapper Macklemore announced Monday that he was dropped from British singer Ed Sheeran’s US stadium tour after saying \"Free Palestine\" during a September 4 concert in New Jersey. The Grammy winner’s removal follows pressure from venue owners, including New England Patriots owner Robert Kraft, over his criticism of Israel’s actions in Gaza.",
-      "published_at": "2026-09-14T22:20:37Z",
-      "region": "Oriente Médio",
-      "theme": "Outros / Multitemático",
-      "source_name": "France 24",
-      "source_id": "france24",
-      "is_brazilian": false,
-      "image_url": "https://s.france24.com/media/display/6d38d806-b078-11f1-b9cc-005056a90284/w:1024/p:16x9/1729ad2e072996a142da7b053ef29307fba83d5a.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Turkish authorities launch crackdown on LGBTQ+ and HIV support groups",
-      "link": "https://www.pbs.org/newshour/world/turkish-authorities-launch-crackdown-on-lgbtq-and-hiv-support-groups",
-      "summary": "Turkish authorities cracked down on multiple LGBTQ+ groups and individuals early Sunday morning, detaining dozens of members, breaking into association offices and raiding popular hangouts.",
-      "published_at": "2026-09-14T22:05:16Z",
-      "region": "Oriente Médio",
-      "theme": "Outros / Multitemático",
-      "source_name": "PBS NewsHour",
-      "source_id": "pbs_newshour",
-      "is_brazilian": false,
-      "image_url": "https://d3i6fh83elv35t.cloudfront.net/static/2026/09/2026-09-14T181008Z_496219934_RC2XINAXG7E5_RTRMADP_3_TURKEY-LGBT-1024x633.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Missão de inspeção sanitária chinesa visitará frigoríficos brasileiros",
-      "link": "https://www.poder360.com.br/poder-agro/missao-de-inspecao-sanitaria-chinesa-visitara-frigorificos-brasileiros/",
-      "summary": "Ministro da Agricultura e Pecuária, André de Paula vê oportunidade para reabilitar unidades e habilitar novos exportadores",
-      "published_at": "2026-09-14T22:05:14Z",
-      "region": "América do Sul",
-      "theme": "Outros / Multitemático",
-      "source_name": "Poder360",
-      "source_id": "poder360",
-      "is_brazilian": true,
-      "image_url": "https://static.poder360.com.br/uploads/2025/08/frigorifico-carne.jpeg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "US scraps limits on emissions from coal and gas power plants",
-      "link": "https://www.bbc.co.uk/news/articles/cmly433ke05vo?at_medium=RSS&at_campaign=rss",
-      "summary": "The Environment Protection Agency says the move will save the country billions of dollars and reduce energy prices.",
-      "published_at": "2026-09-14T22:04:14Z",
-      "region": "América do Norte",
-      "theme": "Meio Ambiente e Clima",
-      "source_name": "BBC World News",
-      "source_id": "bbc_world",
-      "is_brazilian": false,
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bb9e/live/16cf4830-b0ad-11f1-9c5d-0dd6cc52f198.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Brasil espera reunião sobre tarifaço com os EUA à margem do G20",
-      "link": "https://www.poder360.com.br/poder-governo/brasil-espera-reuniao-sobre-tarifaco-com-os-eua-a-margem-do-g20/",
-      "summary": "Encontro presencial deve ser realizado em 30 de setembro ou 1º de outubro, segundo o ministro Márcio Elias Rosa",
-      "published_at": "2026-09-14T22:03:55Z",
-      "region": "América do Norte",
-      "theme": "Outros / Multitemático",
-      "source_name": "Poder360",
-      "source_id": "poder360",
-      "is_brazilian": true,
-      "image_url": "https://static.poder360.com.br/uploads/2026/09/Marcio-Elias-Rosa-1-1200x675.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Lula sanciona Redata na 3ª feira e PL dos minerais críticos na 4ª",
-      "link": "https://www.poder360.com.br/poder-governo/lula-sanciona-redata-na-3a-feira-e-pl-dos-minerais-criticos-na-4a/",
-      "summary": "Presidente comanda cerimônias no Planalto para oficializar projetos aprovados durante esforço concentrado no Senado",
-      "published_at": "2026-09-14T21:57:50Z",
-      "region": "América do Sul",
-      "theme": "Política Brasileira",
-      "source_name": "Poder360",
-      "source_id": "poder360",
-      "is_brazilian": true,
-      "image_url": "https://static.poder360.com.br/uploads/2026/09/lula-sancao-2-1200x675.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Zelenskyy says Ukraine will pause strikes on Russia if Kremlin spares critical infrastructure",
-      "link": "https://www.pbs.org/newshour/world/zelenskyy-says-ukraine-will-pause-strikes-on-russia-if-kremlin-spares-critical-infrastructure",
-      "summary": "His comments Monday follow President Donald Trump's claim that Russia and Ukraine agreed not to target each other's energy infrastructure.",
-      "published_at": "2026-09-14T21:57:49Z",
-      "region": "Europa",
-      "theme": "Política Internacional",
-      "source_name": "PBS NewsHour",
-      "source_id": "pbs_newshour",
-      "is_brazilian": false,
-      "image_url": "https://d3i6fh83elv35t.cloudfront.net/static/2026/09/2026-09-06T172033Z_2136180357_RC2RDNAAS5C5_RTRMADP_3_UKRAINE-CRISIS-USA-ENVOYS-1024x683.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Por que cofundador da Anthropic defende um 'botão de desligamento' obrigatório para IA",
-      "link": "https://www.bbc.com/portuguese/articles/c5y4zx9l98k9o?at_medium=RSS&at_campaign=rss",
-      "summary": "Jack Clark disse à BBC que os detalhes sobre os requisitos e a verificação de um 'botão de desligamento' devem fazer parte da 'discussão política mais ampla' que está ocorrendo em torno da IA.",
-      "published_at": "2026-09-14T21:50:19Z",
-      "region": "América do Sul",
-      "theme": "Outros / Multitemático",
-      "source_name": "BBC News Brasil",
-      "source_id": "bbc_brasil",
-      "is_brazilian": true,
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7b81/live/80a542e0-b081-11f1-80bd-27c03419214e.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Lula recebeu “vítimas das bets” no Alvorada: “É doença, não é jogo”",
-      "link": "https://www.poder360.com.br/poder-governo/lula-recebeu-vitimas-das-bets-no-alvorada-e-doenca-nao-e-jogo/",
-      "summary": "Presidente tem se posicionado contra as apostas on-line; afirmou que anunciará mais medidas restritivas ao setor “logo, logo”",
-      "published_at": "2026-09-14T21:47:29Z",
-      "region": "América do Sul",
-      "theme": "Política Brasileira",
-      "source_name": "Poder360",
-      "source_id": "poder360",
-      "is_brazilian": true,
-      "image_url": "https://static.poder360.com.br/uploads/2026/09/lula-planalto-dia-amazonia-9-set-2026-1200x675.png",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Homem admite ter drogado e estuprado a esposa por 20 anos no Reino Unido",
-      "link": "https://www.bbc.com/portuguese/articles/cq9869r0rjnjo?at_medium=RSS&at_campaign=rss",
-      "summary": "Homem na faixa dos 60 anos, cuja identidade não foi revelada, declarou-se culpado por dezenas de crimes.",
-      "published_at": "2026-09-14T21:45:33Z",
-      "region": "Europa",
-      "theme": "Outros / Multitemático",
-      "source_name": "BBC News Brasil",
-      "source_id": "bbc_brasil",
-      "is_brazilian": true,
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d870/live/8c959890-b05c-11f1-9902-771b6dd8af6a.png",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Tereza Cristina não espera votar dívidas rurais neste ano",
-      "link": "https://www.poder360.com.br/poder-congresso/tereza-cristina-nao-espera-votar-dividas-rurais-neste-ano/",
-      "summary": "Senadora atribuiu a falta de avanço à ausência de “vontade política” do governo Lula",
-      "published_at": "2026-09-14T21:45:14Z",
-      "region": "América do Sul",
-      "theme": "Política Brasileira",
-      "source_name": "Poder360",
-      "source_id": "poder360",
-      "is_brazilian": true,
-      "image_url": "https://static.poder360.com.br/uploads/2026/03/Tereza-Cristina-19-mar-2026.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Landowners in Texas ask court to stop Trump border wall",
-      "link": "https://www.aljazeera.com/news/2026/9/14/landowners-in-texas-ask-court-to-stop-trump-border-wall?traffic_source=rss",
-      "summary": "Indigenous groups, environmentalists and locals oppose the wall; Big Bend sees about 1 percent of border arrests.",
-      "published_at": "2026-09-14T21:44:03Z",
-      "region": "América do Norte",
-      "theme": "Política Internacional",
-      "source_name": "Al Jazeera",
-      "source_id": "aljazeera_english",
-      "is_brazilian": false,
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/09/ap_6aa85b90b1f7c-1789418384.jpg?resize=1920%2C1440",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Bob Mackie, fashion designer for the stars, dies at 87",
-      "link": "https://www.france24.com/en/bob-mackie-fashion-designer-for-the-stars-dies-at-87",
-      "summary": "⁠Hollywood designer ⁠Bob Mackie, ​known for making stars such as Cher and ​Elton John sparkle, died on Monday at 87, according to a post on his official Instagram account. His career ​spanned ‌five decades and included ⁠designing a Barbie doll clothes collection. FRANCE 24's Camille Knight has more.",
-      "published_at": "2026-09-14T21:40:59Z",
-      "region": "Europa",
-      "theme": "Outros / Multitemático",
-      "source_name": "France 24",
-      "source_id": "france24",
-      "is_brazilian": false,
-      "image_url": "https://s.france24.com/media/display/2e195dc4-b084-11f1-8915-005056a90284/w:1024/p:16x9/EN-20260914-231210-231352-CS.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
       ]
     }
   ]
