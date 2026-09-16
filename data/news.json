@@ -1,17 +1,204 @@
 {
-  "updated_at": "2026-09-16T02:04:42.650444Z",
+  "updated_at": "2026-09-16T03:04:37.070141Z",
   "news": [
     {
       "title": "Dino pede vista, e STF adia análise do caso Moraes; veja como foi o julgamento",
       "link": "https://www.bbc.co.uk/portuguese/live/cm8xkdyqkkj4t?at_medium=RSS&at_campaign=rss",
       "summary": "Com pedido de adiamento, Dino pode paralisar análise por até 90 dias, segundo regras do Supremo. Até o momento, STF não esclarece se acusações contra Mendonça serão ou não debatidas no dia 24. Nunes Marques e Dias Toffoli se declaram impedidos de votar",
-      "published_at": "2026-09-16T02:04:31.980940Z",
+      "published_at": "2026-09-16T03:04:29.366829Z",
       "region": "América do Sul",
       "theme": "Política Brasileira",
       "source_name": "BBC News Brasil",
       "source_id": "bbc_brasil",
       "is_brazilian": true,
       "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6f4c/live/02ad3230-b149-11f1-bc1f-3f186ca4140c.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Dino anuncia prisões e deixa Brasília e advogados em alerta",
+      "link": "https://www.poder360.com.br/poder-justica/dino-anuncia-prisoes-e-deixa-brasilia-e-advogados-em-alerta/",
+      "summary": "Ministro é relator de casos que envolvem Lulinha, \"Dark Horse\" e Cezinha, aliado de Mendonça; declaração foi dada durante julgamento sobre Moraes",
+      "published_at": "2026-09-16T03:03:03Z",
+      "region": "América do Sul",
+      "theme": "Política Brasileira",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2026/09/flavio-dino-STF-1200x675.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Is US health care too broken to cure cancer?",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/16/aje-onl-nf_us-healthcare-too-broken-to-cure-cancer-150926?traffic_source=rss",
+      "summary": "Ted Okon tells Al Jazeera that even with a cure, the US wouldn’t be able to treat everyone with cancer.",
+      "published_at": "2026-09-16T02:52:44Z",
+      "region": "América do Norte",
+      "theme": "Saúde",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1789527158.jpg?resize=1920%2C1080&quality=80",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1584515901367-f1c2a12a50ea?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1505751172876-fa1923c5c528?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1584036561566-baf2418a7c21?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Advogado de Vorcaro comemorou habeas corpus de Cláudio Castro",
+      "link": "https://www.poder360.com.br/poder-justica/advogado-de-vorcaro-comemorou-habeas-corpus-de-claudio-castro/",
+      "summary": "Em 2024, depois de decisão de Mendonça favorável a Castro, Soares afirmou para Vorcaro que eles tinham “ganhado”",
+      "published_at": "2026-09-16T02:50:03Z",
+      "region": "América do Sul",
+      "theme": "Outros / Multitemático",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2026/03/claudio-castro-rj-out2025.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "STF não decide sobre Alexandre Moraes e crise se prolonga",
+      "link": "https://www.bbc.com/portuguese/articles/cm0re47gwy21o?at_medium=RSS&at_campaign=rss",
+      "summary": "Em sessão marcada por bate-bocas e trocas de acusações diante das câmeras, Flávio Dino pediu vista e paralisou caso; ainda não está claro se Supremo vai manter data para analisar acusações contra Mendonça, marcada para semana que vem.",
+      "published_at": "2026-09-16T02:46:05Z",
+      "region": "América do Sul",
+      "theme": "Política Brasileira",
+      "source_name": "BBC News Brasil",
+      "source_id": "bbc_brasil",
+      "is_brazilian": true,
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2b6c/live/e5ac09f0-b160-11f1-b425-977b9f06f025.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Anthropic CEO didn’t foresee the speed of global AI growth",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/16/anthropic-ceo-didnt-foresee-the-speed-of-global-ai-growth?traffic_source=rss",
+      "summary": "Anthropic’s CEO says he ‘didn’t appreciate’ the speed with which AI’s growth would underpin the global economy.",
+      "published_at": "2026-09-16T02:40:08Z",
+      "region": "Oriente Médio",
+      "theme": "Ciência, Tecnologia e Inovação",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1789526365.jpg?resize=1200%2C675",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1518770660439-4636190af475?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1507668077129-56e32842fceb?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Em troca de mensagens, Fux manda Gilmar “não encher o saco”",
+      "link": "https://www.poder360.com.br/poder-justica/em-troca-de-mensagens-e-fux-manda-gilmar-nao-encher-o-saco/",
+      "summary": "Atrito veio após Gilmar cobrar \"postura institucional\"; Kassio também bloqueou Mendes no WhatsApp após sequência de mensagens",
+      "published_at": "2026-09-16T02:20:01Z",
+      "region": "América do Sul",
+      "theme": "Outros / Multitemático",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2026/09/Gilmar-Mendes-e-Luiz-Fux-15-set-2026-1200x675.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Mensagens de Vorcaro citam pagamento de R$ 500 mil a filho de Nunes",
+      "link": "https://www.poder360.com.br/poder-justica/mensagens-de-vorcaro-citam-pagamento-de-r-500-mil-a-filho-de-nunes/",
+      "summary": "Diálogos extraídos do celular do fundador do Banco Master mencionam repasses mensais ao advogado Kevin Marques",
+      "published_at": "2026-09-16T02:17:32Z",
+      "region": "América do Sul",
+      "theme": "Outros / Multitemático",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2026/03/Nunes-marques.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Marinho diz que STF blinda Moraes: “Isso é muito grave”",
+      "link": "https://www.poder360.com.br/poder-congresso/marinho-diz-que-stf-blinda-moraes-isso-e-muito-grave/",
+      "summary": "Líder da oposição afirma que postergar a abertura do processo contra o ministro cria um \"tumulto judicial”; Corte adiou por até 90 dias a decisão sobre caso",
+      "published_at": "2026-09-16T02:15:35Z",
+      "region": "América do Sul",
+      "theme": "Política Brasileira",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2025/12/Rogerio-Marinho-2.dez_.2025-Jefferson-Rudy-Agencia-Senado.jpeg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Middle East live: Saudi Arabia accuses Houthi rebels of launching a drone strike on Mecca",
+      "link": "http://www.france24.com/en/middle-east/20260916-middle-east-live-saudi-arabia-accuses-houthi-rebels-of-launching-a-drone-strike-on-mecca",
+      "summary": "Saudi Arabia's air defences claim to have intercepted and destroyed a Houthi drone south of Mecca on Tuesday, which the Iran-aligned rebels denied. Meanwhile, several explosions were heard on the island of Qeshm, near the Strait of Hormuz. Follow our liveblog for the latest updates.",
+      "published_at": "2026-09-16T02:14:27Z",
+      "region": "Oriente Médio",
+      "theme": "Outros / Multitemático",
+      "source_name": "France 24",
+      "source_id": "france24",
+      "is_brazilian": false,
+      "image_url": "https://s.france24.com/media/display/daeb6ab0-1492-11ee-bbdb-005056bfb2b6/w:1024/p:16x9/550df3824b1debd7d9044d15bf8809f535de6ffa.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Lula diz que ninguém sob suspeita pode fugir do julgamento do STF",
+      "link": "https://www.poder360.com.br/poder-justica/lula-diz-que-ninguem-sob-suspeita-pode-fugir-do-julgamento-do-stf/",
+      "summary": "Presidente cobra apuração de Moraes e rigor no caso Master; também voltou a cobrar abertura dos sigilos no caso",
+      "published_at": "2026-09-16T02:08:39Z",
+      "region": "América do Sul",
+      "theme": "Política Brasileira",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2026/09/Lula-Entregadores-Aplicativos-Motoboy-MotoristasDeAplicativos-14Set20253-1200x675.png",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Damares diz que possível impeachment de Moraes não sairá neste ano",
+      "link": "https://www.poder360.com.br/poder-justica/damares-diz-que-possivel-impeachment-de-moraes-nao-saira-neste-ano/",
+      "summary": "Senadora disse que processo deve avançar em fevereiro, quando nova Mesa Diretora do Senado será eleita",
+      "published_at": "2026-09-16T02:02:05Z",
+      "region": "América do Sul",
+      "theme": "Política Brasileira",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2025/08/damares-senado-plenario-12ago2025.jpg",
       "fallback_images": [
         "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
@@ -206,7 +393,7 @@
       ]
     },
     {
-      "title": "Saudi-led coalition intercepts drone headed for Mecca",
+      "title": "Saudi-led coalition intercepts Houthi drone headed for Mecca",
       "link": "https://www.aljazeera.com/news/2026/9/16/saudi-led-coalition-intercepts-drone-headed-for-mecca?traffic_source=rss",
       "summary": "Saudi Arabia says it intercepted a drone before it entered Islam's holiest city, calling pilgrims' security a 'red line'",
       "published_at": "2026-09-16T01:09:54Z",
@@ -271,23 +458,6 @@
         "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "STF não decide sobre Alexandre Moraes e Mendonça e crise se prolonga",
-      "link": "https://www.bbc.com/portuguese/articles/cm0re47gwy21o?at_medium=RSS&at_campaign=rss",
-      "summary": "Em sessão marcada por bate-bocas e trocas de acusações diante das câmeras, Flávio Dino pediu vista e paralisou caso; ainda não está claro se Supremo vai manter data para analisar acusações contra Mendonça, marcada para semana que vem.",
-      "published_at": "2026-09-16T01:01:58Z",
-      "region": "América do Sul",
-      "theme": "Política Brasileira",
-      "source_name": "BBC News Brasil",
-      "source_id": "bbc_brasil",
-      "is_brazilian": true,
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2b6c/live/e5ac09f0-b160-11f1-b425-977b9f06f025.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
       ]
     },
     {
@@ -359,7 +529,7 @@
       ]
     },
     {
-      "title": "Former Maduro ally pleads guilty to money laundering and fraud",
+      "title": "Maduro ally Alex Saab pleads guilty to money laundering, fraud",
       "link": "https://www.aljazeera.com/news/2026/9/16/former-maduro-ally-pleads-guilty-to-money-laundering-and-fraud?traffic_source=rss",
       "summary": "Alex Saab pleads guilty in US court to laundering bribe and fraud proceeds linked to Venezuela's welfare programme.",
       "published_at": "2026-09-16T00:36:57Z",
@@ -458,6 +628,23 @@
         "https://images.unsplash.com/photo-1542810634-71277d95dcbb?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1489533119213-66a5cd877091?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1531206715517-5c0ba140e2b8?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Iran war live: Saudi coalition intercepts, destroys drone headed for Mecca",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/9/16/iran-war-live-irans-top-diplomat-heads-to-china-as-war-drags-on?traffic_source=rss",
+      "summary": "Saudi Arabia has intercepted and destroyed a Houthi drone that was heading toward Mecca.",
+      "published_at": "2026-09-16T00:00:00Z",
+      "region": "Oriente Médio",
+      "theme": "Geopolítica e Segurança",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/09/reuters_6aa9c572-1789511026.jpg?resize=1920%2C1440",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
       ]
     },
     {
@@ -577,6 +764,23 @@
         "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Argentina steps up legal campaign against Falkland Islands oil firms",
+      "link": "https://www.aljazeera.com/economy/2026/9/15/argentina-intensifies-campaign-against-falklands-oil-companies?traffic_source=rss",
+      "summary": "Government says new legal complaints to be filed against firms exploring for oil near the Falkland Islands.",
+      "published_at": "2026-09-15T23:03:52Z",
+      "region": "América do Sul",
+      "theme": "Política Internacional",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-09-15T202927Z_1702424807_RC2WJNADKLX1_RTRMADP_3_BRITAIN-ARGENTINA-FALKLANDS-1789509427.jpg?resize=1920%2C1440",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
       ]
     },
     {
@@ -2341,210 +2545,6 @@
       "source_id": "bbc_world",
       "is_brazilian": false,
       "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/243c/live/d9585040-b111-11f1-bc1f-3f186ca4140c.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Caso Moraes: Live do STF chega a 194,5 mil espectadores simultâneos",
-      "link": "https://www.poder360.com.br/poder-midia/caso-moraes-live-do-stf-chega-a-1945-mil-espectadores-simultaneos/",
-      "summary": "1ª parte da sessão que analisa se investiga Moraes por conversas com Vorcaro começou às 10h35 e encerrou às 12h59; será retomada às 15h",
-      "published_at": "2026-09-15T17:41:57Z",
-      "region": "América do Sul",
-      "theme": "Política Brasileira",
-      "source_name": "Poder360",
-      "source_id": "poder360",
-      "is_brazilian": true,
-      "image_url": "https://static.poder360.com.br/uploads/2026/09/audiencia-stf-15-set-2026-2-1200x675.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Saudi airstrikes kill 3 in Yemen, Houthi official says",
-      "link": "https://www.pbs.org/newshour/world/saudi-airstrikes-kill-3-in-yemen-houthi-official-says",
-      "summary": "The escalation comes after the Iran-backed Houthi rebels seized another two strategic islands in the southern Red Sea.",
-      "published_at": "2026-09-15T17:40:58Z",
-      "region": "Oriente Médio",
-      "theme": "Outros / Multitemático",
-      "source_name": "PBS NewsHour",
-      "source_id": "pbs_newshour",
-      "is_brazilian": false,
-      "image_url": "https://d3i6fh83elv35t.cloudfront.net/static/2026/09/2026-09-15T161837Z_720522885_RC2SJNAOH0MD_RTRMADP_3_IRAN-CRISIS-YEMEN-HOUTHI-1024x576.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "More than 100,000 displaced as they flee violence in Yemen: UN",
-      "link": "https://www.aljazeera.com/news/2026/9/15/more-than-100000-displaced-as-they-flee-violence-in-yemen-un?traffic_source=rss",
-      "summary": "Thousands making risky maritime journey to Djibouti as conflict between Yemen gov't and Houthis intensifies.",
-      "published_at": "2026-09-15T17:39:58Z",
-      "region": "Oriente Médio",
-      "theme": "Direito Internacional e Instituições",
-      "source_name": "Al Jazeera",
-      "source_id": "aljazeera_english",
-      "is_brazilian": false,
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-09-14T200916Z_129623369_RC21JNA6RGR1_RTRMADP_3_IRAN-CRISIS-YEMEN-IDPS-1789454559.jpg?resize=1920%2C1440",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1505664194779-8beaceb93744?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "'Não aponte o dedo pra mim': o bate-boca entre Gilmar Mendes e André Mendonça",
-      "link": "https://www.bbc.co.uk/programmes/p0p9rr5h?at_medium=RSS&at_campaign=rss",
-      "summary": "Magistrados trocaram farpas durante a sessão plenária desta terça-feira (15/9).",
-      "published_at": "2026-09-15T17:35:14Z",
-      "region": "América do Sul",
-      "theme": "Outros / Multitemático",
-      "source_name": "BBC News Brasil",
-      "source_id": "bbc_brasil",
-      "is_brazilian": true,
-      "image_url": "https://ichef.bbci.co.uk/images/ic/240x135/p0p9rs1s.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "U.S. pulls millions in military aid from Europe and Mideast to support Trump-aligned nations in Americas",
-      "link": "https://www.pbs.org/newshour/world/u-s-pulls-millions-in-military-aid-from-europe-and-mideast-to-support-trump-aligned-nations-in-americas",
-      "summary": "The Trump administration is stripping tens of millions of dollars in U.S. military assistance to countries in Europe and the Middle East to support conservative-leaning governments in Central and South America.",
-      "published_at": "2026-09-15T17:24:27Z",
-      "region": "América do Norte",
-      "theme": "Geopolítica e Segurança",
-      "source_name": "PBS NewsHour",
-      "source_id": "pbs_newshour",
-      "is_brazilian": false,
-      "image_url": "https://d3i6fh83elv35t.cloudfront.net/static/2026/09/2026-09-10T175358Z_1488123631_RC2HGNA69ISJ_RTRMADP_3_USA-PERU-1024x683.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Política para data centers deixa de fora regra sobre fontes de energia",
-      "link": "https://www.poder360.com.br/poder-governo/politica-para-data-centers-deixa-de-fora-regra-sobre-fontes-de-energia/",
-      "summary": "Governo federal lançou programa que dá isenção tributária à instalação de data centers; fornecedores de gás natural pressionam por critério mais flexível",
-      "published_at": "2026-09-15T17:22:15Z",
-      "region": "América do Sul",
-      "theme": "Economia Brasileira",
-      "source_name": "Poder360",
-      "source_id": "poder360",
-      "is_brazilian": true,
-      "image_url": "https://static.poder360.com.br/uploads/2026/09/ceron-1200x675.png",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1506744038136-46273834b3fb?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Fora das câmeras, Fachin e Dino se abraçam e Mendonça sai por último",
-      "link": "https://www.poder360.com.br/poder-justica/fora-das-cameras-fachin-e-dino-se-abracam-e-mendonca-sai-por-ultimo/",
-      "summary": "Depois de embate ao vivo, ministro conversam entre si durante a saída; Mendonça e Dino conversam isoladamente",
-      "published_at": "2026-09-15T17:16:15Z",
-      "region": "América do Sul",
-      "theme": "Outros / Multitemático",
-      "source_name": "Poder360",
-      "source_id": "poder360",
-      "is_brazilian": true,
-      "image_url": "https://static.poder360.com.br/uploads/2026/09/STF-julga-no-plenario-se-Alexandre-de-Moraes-e-investigado-no-caso-Banco-Master-15set2026-plenario-3-1-1200x675.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Nunes Marques diz que filho nunca prestou serviço ao Master",
-      "link": "https://www.poder360.com.br/poder-justica/nunes-marques-diz-que-filho-nunca-prestou-servico-ao-master/",
-      "summary": "Ministro afirmou que Kevin Marques nunca recebeu pagamentos do banco e citou quebra de sigilo bancário",
-      "published_at": "2026-09-15T17:10:43Z",
-      "region": "América do Sul",
-      "theme": "Outros / Multitemático",
-      "source_name": "Poder360",
-      "source_id": "poder360",
-      "is_brazilian": true,
-      "image_url": "https://static.poder360.com.br/uploads/2026/09/STF-julga-no-plenario-se-Alexandre-de-Moraes-e-investigado-no-caso-Banco-Master-15set2026-nunes-marques-4-1-1200x675.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Julgamento do STF do caso Moraes-Vorcaro será retomado às 15h",
-      "link": "https://www.poder360.com.br/poder-flash/julgamento-do-stf-do-caso-moraes-vorcaro-sera-retomado-as-15h/",
-      "summary": "Plenário do Supremo analisa inquérito que mostrou mensagens de ex-banqueiro ao magistrado",
-      "published_at": "2026-09-15T17:08:36Z",
-      "region": "América do Sul",
-      "theme": "Política Brasileira",
-      "source_name": "Poder360",
-      "source_id": "poder360",
-      "is_brazilian": true,
-      "image_url": "https://static.poder360.com.br/uploads/2024/02/poder-flash-justica-1536x864-1.png",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Veja fotos de ato do Novo em Brasília contra Moraes e STF",
-      "link": "https://www.poder360.com.br/poder-justica/veja-fotos-de-ato-do-novo-em-brasilia-contra-moraes-e-stf/",
-      "summary": "Novo participa de mobilização realizada durante julgamento sobre possível investigação contra o ministro Alexandre de Moraes",
-      "published_at": "2026-09-15T17:03:54Z",
-      "region": "América do Sul",
-      "theme": "Política Brasileira",
-      "source_name": "Poder360",
-      "source_id": "poder360",
-      "is_brazilian": true,
-      "image_url": "https://static.poder360.com.br/uploads/2026/09/ato-stf-praca-tres-poderes-brasilia-15set-1200x675.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "OpenAI, Anthropic and Google in talks to create a standards body as AI fears rise",
-      "link": "http://www.france24.com/en/technology/20260915-openai-anthropic-and-google-in-talks-to-create-a-standards-body-as-ai-fears-rise",
-      "summary": "The world’s biggest AI companies are working to create a new industry standards body, OpenAI said on Tuesday, as rising concerns over the risks of artificial intelligence fuel pressure for greater oversight and safer development of the technology.",
-      "published_at": "2026-09-15T17:03:25Z",
-      "region": "Europa",
-      "theme": "Ciência, Tecnologia e Inovação",
-      "source_name": "France 24",
-      "source_id": "france24",
-      "is_brazilian": false,
-      "image_url": "https://s.france24.com/media/display/65cb925a-b124-11f1-87b4-310d275270b0/w:1024/p:16x9/000-C89X3KG.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1518770660439-4636190af475?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1507668077129-56e32842fceb?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Suspected sabotage causes major Netherlands rail disruption",
-      "link": "https://www.bbc.co.uk/news/articles/c8ly49w9g1edo?at_medium=RSS&at_campaign=rss",
-      "summary": "Trains were cancelled or delayed on Tuesday after objects were found on tracks at multiple locations.",
-      "published_at": "2026-09-15T16:55:04Z",
-      "region": "Global",
-      "theme": "Outros / Multitemático",
-      "source_name": "BBC World News",
-      "source_id": "bbc_world",
-      "is_brazilian": false,
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5666/live/b70fbd00-b109-11f1-a451-6b1ff10ed362.jpg",
       "fallback_images": [
         "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
