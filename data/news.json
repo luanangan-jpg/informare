@@ -1,6 +1,40 @@
 {
-  "updated_at": "2026-09-17T06:06:12.704807Z",
+  "updated_at": "2026-09-17T07:06:38.758212Z",
   "news": [
+    {
+      "title": "Missão da ONU sobre Venezuela diz que “aparato repressivo” não mudou",
+      "link": "https://news.un.org/feed/view/pt/story/2026/09/1854377",
+      "summary": "Relatório do grupo cita abusos cometidos por milícias pró-governo, prisões em condições precárias, mas houve também redução de detenções por longo prazo e de desparecimento forçados assim como ampliação do espaço cívico, segundo especialistas em direitos humanos.",
+      "published_at": "2026-09-17T12:00:00Z",
+      "region": "América do Sul",
+      "theme": "Direito Internacional e Instituições",
+      "source_name": "ONU News",
+      "source_id": "onu_news",
+      "is_brazilian": false,
+      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/09/16-09-2026_Adobe_Caracas.jpg/image560x340cropped.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1505664194779-8beaceb93744?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Mundo sob risco de não cumprir Objetivos de Desenvolvimento",
+      "link": "https://news.un.org/feed/view/pt/story/2026/09/1854370",
+      "summary": "Quatro em cada cinco metas dos ODS estão fora do prazo para 2030, num contexto marcado por crises sucessivas e por um défice anual de financiamento de US$ 4 bilhões.",
+      "published_at": "2026-09-17T12:00:00Z",
+      "region": "América do Norte",
+      "theme": "Outros / Multitemático",
+      "source_name": "ONU News",
+      "source_id": "onu_news",
+      "is_brazilian": false,
+      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/19-03-26_UNICEF_India_water_mission-2.jpeg/image560x340cropped.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
     {
       "title": "Conflito na Ucrânia afeta pelo quinto ano frequência de crianças na escola",
       "link": "https://news.un.org/feed/view/pt/story/2026/09/1854374",
@@ -22,7 +56,7 @@
       "title": "STF adia julgamento do caso Moraes; veja como foi a sessão e o resultado da votação",
       "link": "https://www.bbc.co.uk/portuguese/live/cm8xkdyqkkj4t?at_medium=RSS&at_campaign=rss",
       "summary": "Com pedido de adiamento, Dino pode paralisar análise por até 90 dias, segundo regras do Supremo. Até o momento, STF não esclarece se acusações contra Mendonça serão ou não debatidas no dia 24. Nunes Marques e Dias Toffoli se declaram impedidos de votar",
-      "published_at": "2026-09-17T06:06:06.640521Z",
+      "published_at": "2026-09-17T07:06:30.887250Z",
       "region": "América do Sul",
       "theme": "Política Brasileira",
       "source_name": "BBC News Brasil",
@@ -33,6 +67,176 @@
         "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Em resposta aos EUA, Brasil nega falhas no combate ao crime organizado",
+      "link": "https://www.poder360.com.br/poder-governo/em-resposta-aos-eua-brasil-nega-falhas-no-combate-ao-crime-organizado/",
+      "summary": "Donald Trump declarou que o governo brasileiro falhou em enfrentar o PCC e o Comando Vermelho",
+      "published_at": "2026-09-17T07:05:41Z",
+      "region": "América do Norte",
+      "theme": "Política Internacional",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2026/07/ministerio_da_justica.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Trump threatens EU with tariffs over 'laughable' Canada association plan",
+      "link": "http://www.france24.com/en/europe/20260917-trump-threatens-eu-with-tariffs-over-laughable-canada-association-plan",
+      "summary": "US President Donald Trump has threatened steep tariffs on the European Union if it goes ahead with a proposal to make Canada its first \"associate member\", a move he described as a possible \"hostile act\". Canada's Prime Minister Mark Carney, who is due to address the European Parliament on Thursday, has been pursuing closer ties with the EU as he seeks to pivot away from the US.",
+      "published_at": "2026-09-17T06:58:22Z",
+      "region": "América do Norte",
+      "theme": "Política Internacional",
+      "source_name": "France 24",
+      "source_id": "france24",
+      "is_brazilian": false,
+      "image_url": "https://s.france24.com/media/display/8b812582-af80-11f1-89c8-005056a97e36/w:1024/p:16x9/2026-09-13T130451Z-943753214-RC2DINAGWTJK-RTRMADP-3-USA-TRUMP-IRELAND.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Brigou no avião? Você poderá ficar até um ano proibido de voar; entenda nova regra da Anac que está em vigor",
+      "link": "https://www.bbc.com/portuguese/articles/czrjdp484mlo?at_medium=RSS&at_campaign=rss",
+      "summary": "Medida entrou em vigor na segunda-feira (14/9) e também prevê multas de R$ 17,5 mil para casos de conflitos menos graves durante o voo ou o embarque.",
+      "published_at": "2026-09-17T06:57:15Z",
+      "region": "América do Sul",
+      "theme": "Outros / Multitemático",
+      "source_name": "BBC News Brasil",
+      "source_id": "bbc_brasil",
+      "is_brazilian": true,
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7137/live/9088e0c0-9bed-11f1-aed2-8d6da8d75094.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Heridas 18 personas en una nueva oleada de ataques de Rusia contra la capital de Ucrania, Kiev",
+      "link": "https://www.europapress.es/internacional/noticia-heridas-18-personas-nueva-oleada-ataques-rusia-contra-capital-ucrania-kiev-20260917083841.html",
+      "summary": "Al menos 18 personas han resultado heridas este jueves a causa de una nueva oleada de ataques ejecutada por el Ejército de Rusia contra la capital de Ucrania, Kiev, según han denunciado las autoridades locales, en el marco de la guerra desatada en febrero de 2022 por la orden de invasión firmada por el presidente ruso, Vladimir Putin.",
+      "published_at": "2026-09-17T06:38:41Z",
+      "region": "Europa",
+      "theme": "Geopolítica e Segurança",
+      "source_name": "Europa Press",
+      "source_id": "europa_press",
+      "is_brazilian": false,
+      "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260917083841_120.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Israel weaponises AI for West Bank demolitions",
+      "link": "https://www.aljazeera.com/news/2026/9/17/israel-weaponises-ai-for-west-bank-demolitions?traffic_source=rss",
+      "summary": "AI tools push forced evictions of Palestinians, automating demolitions in occupied territories under Israeli control.",
+      "published_at": "2026-09-17T06:30:08Z",
+      "region": "Oriente Médio",
+      "theme": "Ciência, Tecnologia e Inovação",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2019/07/bbf6df8386e74e3cadf9e3f2a252de2c_18.jpeg?resize=1200%2C675",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1518770660439-4636190af475?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1507668077129-56e32842fceb?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "OpenAI reports more incidents of models acting deceptively",
+      "link": "https://www.aljazeera.com/news/2026/9/17/openai-reports-more-incidents-of-models-acting-deceptively?traffic_source=rss",
+      "summary": "The ChatGPT creator says it is introducing a public reporting framework to share unexpected AI behaviour.",
+      "published_at": "2026-09-17T06:15:07Z",
+      "region": "Oriente Médio",
+      "theme": "Ciência, Tecnologia e Inovação",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-09-11T023211Z_2042538591_RC2UMCA71F6W_RTRMADP_3_OPENAI-DEVELOPMENT-1789616786.jpg?resize=1920%2C1440",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1518770660439-4636190af475?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1507668077129-56e32842fceb?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Middle East live: Paris talks aim to bolster Lebanese army as end of UN mission looms",
+      "link": "http://www.france24.com/en/middle-east/20260917-middle-east-live-paris-talks-lebanese-army-unifil-israel-iran-yemen",
+      "summary": "European and Arab military chiefs meet in Paris on Thursday to discuss steps to bolster Lebanon's struggling armed forces as the mandate of a United Nations peacekeeping mission expires at the end of the year, amid fears of a renewed Israeli military campaign in southern Lebanon. Follow our live coverage for updates from the Middle East.",
+      "published_at": "2026-09-17T06:14:27Z",
+      "region": "Oriente Médio",
+      "theme": "Geopolítica e Segurança",
+      "source_name": "France 24",
+      "source_id": "france24",
+      "is_brazilian": false,
+      "image_url": "https://s.france24.com/media/display/e6d6a6e6-b264-11f1-b43e-991cccd3bb73/w:1024/p:16x9/2026-09-17T064902Z-1226377853-RC2UKNA3EWKJ-RTRMADP-3-LEBANON-CRISIS-FRANCE.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "What are the biggest AI companies and how much are they worth?",
+      "link": "https://www.aljazeera.com/news/2026/9/17/what-are-the-biggest-ai-companies-and-how-much-are-they-worth?traffic_source=rss",
+      "summary": "As AI firms push for greater controls on the industry, Al Jazeera unpacks the value of the main companies in the sector.",
+      "published_at": "2026-09-17T05:55:22Z",
+      "region": "Oriente Médio",
+      "theme": "Ciência, Tecnologia e Inovação",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/09/afp_6aaa935d9111-1789563741.jpg?resize=1920%2C1440",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1518770660439-4636190af475?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1507668077129-56e32842fceb?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "La Cámara de Representantes de EEUU aprueba una ley para facultar a Trump a imponer más sanciones a Rusia e Irán",
+      "link": "https://www.europapress.es/internacional/noticia-camara-representantes-eeuu-aprueba-ley-facultar-trump-imponer-mas-sanciones-rusia-iran-20260917073815.html",
+      "summary": "La Cámara de Representantes de Estados Unidos ha aprobado una ley que otorgaría al presidente Donald Trump competencias arancelarias para sancionar a los países que compren energía rusa y para imponer sanciones más severas al Kremlin en base a la guerra de Ucrania, así como para ampliar las medidas contra Irán.",
+      "published_at": "2026-09-17T05:38:15Z",
+      "region": "América do Norte",
+      "theme": "Geopolítica e Segurança",
+      "source_name": "Europa Press",
+      "source_id": "europa_press",
+      "is_brazilian": false,
+      "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260917073815_120.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Guterres pide la aplicación íntegra del plan de paz para Gaza y \"el fin de la anexión\" israelí de Cisjordania",
+      "link": "https://www.europapress.es/internacional/noticia-guterres-pide-aplicacion-integra-plan-paz-gaza-fin-anexion-israeli-cisjordania-20260917070901.html",
+      "summary": "El secretario general de Naciones Unidas, António Guterres, ha reclamado este jueves la aplicación íntegra del plan de paz para la Franja de Gaza y el \"fin a la anexión progresiva\" de Cisjordania por parte de Israel.",
+      "published_at": "2026-09-17T05:09:01Z",
+      "region": "Oriente Médio",
+      "theme": "Direito Internacional e Instituições",
+      "source_name": "Europa Press",
+      "source_id": "europa_press",
+      "is_brazilian": false,
+      "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260917070901_120.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1505664194779-8beaceb93744?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop"
       ]
     },
     {
@@ -84,6 +288,23 @@
         "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Un tribunal israelí sentencia a trece años y medio de cárcel a un nacional israelí por espionaje para Irán",
+      "link": "https://www.europapress.es/internacional/noticia-tribunal-israeli-sentencia-trece-anos-medio-carcel-nacional-israeli-espionaje-iran-20260917065715.html",
+      "summary": "Un ciudadano israelí de 30 años ha sido condenado por un tribunal de Israel a trece años y medio de prisión por espionaje, vandalismo e incendio provocado a finales de 2024 por cuenta de Irán, en la que constituye la pena más severa impuesta hasta la fecha por espiar en favor de Irán en Israel.",
+      "published_at": "2026-09-17T04:57:15Z",
+      "region": "Oriente Médio",
+      "theme": "Direito Internacional e Instituições",
+      "source_name": "Europa Press",
+      "source_id": "europa_press",
+      "is_brazilian": false,
+      "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260917065715_120.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1505664194779-8beaceb93744?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop"
       ]
     },
     {
@@ -155,6 +376,40 @@
       ]
     },
     {
+      "title": "El Ejército de Israel afirma haber matado a \"tres terroristas\" en otros tantos bombardeos contra Gaza",
+      "link": "https://www.europapress.es/internacional/noticia-ejercito-israel-afirma-haber-matado-tres-terroristas-otros-tantos-bombardeos-contra-gaza-20260917061410.html",
+      "summary": "El Ejército de Israel ha asegurado haber matado en tres bombardeos a \"tres terroristas\" del Movimiento de Resistencia Islámica (Hamás) y de Yihad Islámica Palestina (YIP) a los que ha acusado de liderar operaciones de fuego y de colocación de artefactos explosivos improvisados contra las fuerzas israelíes desplegadas en la Franja de Gaza.",
+      "published_at": "2026-09-17T04:14:10Z",
+      "region": "Oriente Médio",
+      "theme": "Geopolítica e Segurança",
+      "source_name": "Europa Press",
+      "source_id": "europa_press",
+      "is_brazilian": false,
+      "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260917061410_120.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "NASA finds a 'once in a century' lunar crater, bigger than the Roman Colosseum",
+      "link": "http://www.france24.com/en/earth/20260917-nasa-finds-a-once-in-a-century-lunar-crater-bigger-than-the-roman-colosseum",
+      "summary": "Scientists have discovered a crater on the moon that's bigger than the Roman Colosseum and is the result of a powerful impact two years ago that initially went undetected.",
+      "published_at": "2026-09-17T04:04:07Z",
+      "region": "Europa",
+      "theme": "Ciência, Tecnologia e Inovação",
+      "source_name": "France 24",
+      "source_id": "france24",
+      "is_brazilian": false,
+      "image_url": "https://s.france24.com/media/display/b83ac824-b25c-11f1-ae5b-e5727ccb1647/w:1024/p:16x9/AP26259782617804.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1518770660439-4636190af475?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1507668077129-56e32842fceb?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
       "title": "US extends visa ban on Palestinian officials before UN General Assembly",
       "link": "https://www.aljazeera.com/news/2026/9/17/us-extends-visa-ban-on-palestinian-officials-before-un-general-assembly?traffic_source=rss",
       "summary": "Palestinian President Mahmoud Abbas is among those barred for the second year in a row.",
@@ -220,6 +475,23 @@
         "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1505664194779-8beaceb93744?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Oposición en el Congreso de EEUU a vender a Israel 40.000 bombas de más de 900 kilos por su posible uso en Gaza y Líbano",
+      "link": "https://www.europapress.es/internacional/noticia-oposicion-congreso-eeuu-vender-israel-40000-bombas-mas-900-kilos-posible-uso-gaza-libano-20260917045052.html",
+      "summary": "La venta por valor de 2.800 millones de dólares (2.440 millones de euros) de 40.000 bombas de más de 900 kilogramos cada una aprobada por la Administración de Donald Trump, algo hasta ahora recogido solo por medios estadounidenses sin un pronunciamiento oficial al respecto, ha sido confirmada por el líder demócrata en el Comité de Exteriores de la Cámara de Representantes de Estados Unidos, Gregory Meeks, que ha anunciado este miércoles que no dará vía libre a dicha venta ante el uso que Israel pueda darles en Gaza y Líbano.",
+      "published_at": "2026-09-17T02:50:52Z",
+      "region": "Oriente Médio",
+      "theme": "Política Internacional",
+      "source_name": "Europa Press",
+      "source_id": "europa_press",
+      "is_brazilian": false,
+      "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260917045052_120.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
       ]
     },
     {
@@ -325,7 +597,7 @@
       ]
     },
     {
-      "title": "Live: Explosions shake Kyiv as US Congress advances new sanctions on Moscow",
+      "title": "Ukraine live: Explosions shake Kyiv as US Congress advances new sanctions on Moscow",
       "link": "http://www.france24.com/en/europe/20260917-live-explosions-kyiv-us-congress-sanctions-moscow",
       "summary": "The US House on Wednesday passed a broad package of sanctions targeting Russian officials and key pillars of its economy as lawmakers look to deprive President Vladimir Putin of the financial resources needed to wage the war against Ukraine. Loud explosions were heard across Kyiv overnight on Wednesday into Thursday as authorities issued a missile alert, an AFP journalist reported. Follow our liveblog for the latest updates.",
       "published_at": "2026-09-17T02:08:14Z",
@@ -390,6 +662,23 @@
         "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "EEUU niega el visado e impide al presidente de la Autoridad Palestina acudir a la Asamblea General de la ONU",
+      "link": "https://www.europapress.es/internacional/noticia-eeuu-niega-visado-impide-presidente-autoridad-palestina-acudir-asamblea-general-onu-20260917034953.html",
+      "summary": "El Departamento de Estado reprocha acciones ante el TPI y la CIJ y la búsqueda de \"un reconocimiento unilateral\" del Estado palestino",
+      "published_at": "2026-09-17T01:49:53Z",
+      "region": "Oriente Médio",
+      "theme": "Direito Internacional e Instituições",
+      "source_name": "Europa Press",
+      "source_id": "europa_press",
+      "is_brazilian": false,
+      "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260917034953_120.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1505664194779-8beaceb93744?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop"
       ]
     },
     {
@@ -526,6 +815,23 @@
         "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Trump ordena excluir productos canadienses de las contrataciones del Gobierno estadounidense",
+      "link": "https://www.europapress.es/internacional/noticia-trump-ordena-excluir-productos-canadienses-contrataciones-gobierno-estadounidense-20260917025209.html",
+      "summary": "El presidente de Estados Unidos, Donald Trump, ha firmado este miércoles un memorando presidencial a fin de excluir productos canadiense de las contrataciones del Gobierno federal, dando seguimiento a la amenaza que lanzó la pasada semana, en plena escalada arancelaria con Ottawa.",
+      "published_at": "2026-09-17T00:52:09Z",
+      "region": "América do Norte",
+      "theme": "Política Internacional",
+      "source_name": "Europa Press",
+      "source_id": "europa_press",
+      "is_brazilian": false,
+      "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260917025209_120.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
       ]
     },
     {
@@ -776,7 +1082,7 @@
       "source_name": "BBC World News",
       "source_id": "bbc_world",
       "is_brazilian": false,
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f10f/live/321a5e10-b22c-11f1-a430-4d16ee157c41.jpg",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8585/live/1b1407c0-b263-11f1-a430-4d16ee157c41.png",
       "fallback_images": [
         "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
@@ -951,6 +1257,23 @@
         "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Irán afea a Merz sus reproches a Teherán sin \"mostrar el mínimo valor moral\" para condenar a EEUU e Israel por la guerra",
+      "link": "https://www.europapress.es/internacional/noticia-iran-afea-merz-reproches-teheran-mostrar-minimo-valor-moral-condenar-eeuu-israel-guerra-20260917010246.html",
+      "summary": "El Ministerio de Exteriores de Irán ha cargado este martes contra el canciller alemán, Friedrich Merz, al que ha afeado el protagonismo en sus intervenciones de declaraciones sobre la guerra, el \"programa nuclear militar\" y los \"socios\" de Teherán, acusando a su Gobierno de \"mostrar ni siquiera el mínimo valor moral necesario para condenar\" la \"guerra de agresión\" lanzada por Estados Unidos e Israel contra la República Islámica.",
+      "published_at": "2026-09-16T23:02:46Z",
+      "region": "Oriente Médio",
+      "theme": "Geopolítica e Segurança",
+      "source_name": "Europa Press",
+      "source_id": "europa_press",
+      "is_brazilian": false,
+      "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260917010246_120.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
       ]
     },
     {
@@ -2226,329 +2549,6 @@
         "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1505664194779-8beaceb93744?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "UK trade unions back motion to boycott and sanction Israel",
-      "link": "https://www.aljazeera.com/news/2026/9/16/uk-trade-unions-back-motion-to-boycott-and-sanction-israel?traffic_source=rss",
-      "summary": "Motion demands taking action to oppose the 'catastrophic destruction of Gaza' and Israeli settler violence.",
-      "published_at": "2026-09-16T17:42:00Z",
-      "region": "Oriente Médio",
-      "theme": "Comércio e Finanças",
-      "source_name": "Al Jazeera",
-      "source_id": "aljazeera_english",
-      "is_brazilian": false,
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/09/getty_6aaacdf14f-1789578737.jpg?resize=1920%2C1440",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1578575437130-527eed3abbec?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1522071820081-009f0129c71c?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "UK: Village votes to 'secede' in asylum center plan protest",
-      "link": "https://www.dw.com/en/uk-village-votes-to-secede-in-asylum-center-plan-protest/a-79295826?maca=en-rss-en-world-4025-rdf",
-      "summary": "Residents of Piddington, a tiny, remote village in Oxfordshire in England, have staged a \"referendum\" on leaving the UK. They are objecting to plans to open an asylum reception center at a disused military base nearby.",
-      "published_at": "2026-09-16T17:41:00Z",
-      "region": "Europa",
-      "theme": "Direitos Humanos, Sociedade e Migrações",
-      "source_name": "DW World News",
-      "source_id": "dw_english",
-      "is_brazilian": false,
-      "image_url": "https://static.dw.com/image/79289318_6.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1542810634-71277d95dcbb?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1489533119213-66a5cd877091?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1531206715517-5c0ba140e2b8?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Belarus frees 25 political prisoners in return for US sanctions relief",
-      "link": "https://www.aljazeera.com/news/2026/9/16/belarus-frees-25-political-prisoners-in-return-for-us-sanctions-relief?traffic_source=rss",
-      "summary": "The Trump administration said more releases would be secured soon amid improved US-Belarus relations.",
-      "published_at": "2026-09-16T17:38:09Z",
-      "region": "América do Norte",
-      "theme": "Geopolítica e Segurança",
-      "source_name": "Al Jazeera",
-      "source_id": "aljazeera_english",
-      "is_brazilian": false,
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/09/reuters_6aaabf86-1789575046.jpg?resize=1920%2C1440",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Ibram propõe a conselho de minerais critérios usados em outros países",
-      "link": "https://www.poder360.com.br/poder-infra/ibram-propoe-a-conselho-de-minerais-criterios-usados-em-outros-paises/",
-      "summary": "Instituto Brasileiro de Mineração pede que órgão criado pelo governo se baseie em leis estrangeiras para definir requisitos de veto",
-      "published_at": "2026-09-16T17:32:47Z",
-      "region": "América do Sul",
-      "theme": "Outros / Multitemático",
-      "source_name": "Poder360",
-      "source_id": "poder360",
-      "is_brazilian": true,
-      "image_url": "https://static.poder360.com.br/uploads/2026/09/pablo-cesario-1-1200x675.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Kosovo’s former president guilty of war crimes",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/16/kosovos-former-president-guilty-of-war-crimes?traffic_source=rss",
-      "summary": "Hashim Thaci, former President of Kosovo and KLA leader, has been found guilty of war crimes in the Hague.",
-      "published_at": "2026-09-16T17:20:15Z",
-      "region": "Oriente Médio",
-      "theme": "Geopolítica e Segurança",
-      "source_name": "Al Jazeera",
-      "source_id": "aljazeera_english",
-      "is_brazilian": false,
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1789579202.jpg?resize=1920%2C1080&quality=80",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Why has the response to Nepal’s floods been so muted?",
-      "link": "https://www.aljazeera.com/opinions/2026/9/16/why-has-the-response-to-nepals-floods-been-so-muted?traffic_source=rss",
-      "summary": "Because wealthy nations do not want to take responsibility for their role in the current climate crisis.",
-      "published_at": "2026-09-16T17:17:49Z",
-      "region": "Ásia",
-      "theme": "Economia Internacional",
-      "source_name": "Al Jazeera",
-      "source_id": "aljazeera_english",
-      "is_brazilian": false,
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-09-09T230349Z_531640296_RC268NAZ6I7B_RTRMADP_3_NEPAL-FLOODS-PICTURES-1789578998.jpg?resize=1920%2C1440",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Eight children among 21 killed after war-damaged Gaza building collapses, rescuers say",
-      "link": "https://www.bbc.co.uk/news/articles/cvp8d00j9gg5o?at_medium=RSS&at_campaign=rss",
-      "summary": "Some 10 families had reportedly been living in the six-storey building in Gaza City that was hit by an Israeli strike last year.",
-      "published_at": "2026-09-16T17:16:47Z",
-      "region": "Oriente Médio",
-      "theme": "Geopolítica e Segurança",
-      "source_name": "BBC World News",
-      "source_id": "bbc_world",
-      "is_brazilian": false,
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9e43/live/ff225e50-b1b7-11f1-b1d1-571ed4d7ff2c.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Lula e Moraes estreitam relação desde a eleição de 2022; veja vídeo",
-      "link": "https://www.poder360.com.br/poder-governo/lula-e-moraes-estreitam-relacao-desde-a-eleicao-de-2022-veja-video/",
-      "summary": "Aproximação ganhou peso político depois do 8 de Janeiro e agora é discutida pela campanha petista como um ponto fraco",
-      "published_at": "2026-09-16T17:16:18Z",
-      "region": "América do Sul",
-      "theme": "Política Brasileira",
-      "source_name": "Poder360",
-      "source_id": "poder360",
-      "is_brazilian": true,
-      "image_url": "https://static.poder360.com.br/uploads/2023/01/LulaDaSilva-TSE-Diplomacao-GeraldoAlckmin-AlexandreDeMoraes-Eleicoes2022-12-1-1.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "WATCH LIVE: House passes sweeping Russia sanctions bill, sending it to Trump",
-      "link": "https://www.pbs.org/newshour/politics/watch-live-house-considers-bills-on-russia-sanctions-ai-data-center-costs",
-      "summary": "The House on Wednesday passed a broad package of sanctions targeting Russian officials and key pillars of its economy as lawmakers look to deprive President Vladimir Putin of the financial resources needed to wage the war against Ukraine.",
-      "published_at": "2026-09-16T17:14:15Z",
-      "region": "Europa",
-      "theme": "Geopolítica e Segurança",
-      "source_name": "PBS NewsHour",
-      "source_id": "pbs_newshour",
-      "is_brazilian": false,
-      "image_url": "https://d3i6fh83elv35t.cloudfront.net/static/2026/09/2026-09-01T222557Z_1233314236_RC2KANA2EYYU_RTRMADP_3_USA-CONGRESS-SHUTDOWN-1024x683.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "WATCH LIVE: House considers bills on Russia sanctions, AI data center costs",
-      "link": "https://www.pbs.org/newshour/politics/watch-live-house-considers-bills-on-russia-sanctions-ai-data-center-costs",
-      "summary": "The House will vote Wednesday on a broad package of sanctions targeting Russian officials and key pillars of its economy as lawmakers look to deprive Russian President Vladimir Putin of the financial resources needed to wage the war against Ukraine.",
-      "published_at": "2026-09-16T17:14:15Z",
-      "region": "Europa",
-      "theme": "Geopolítica e Segurança",
-      "source_name": "PBS NewsHour",
-      "source_id": "pbs_newshour",
-      "is_brazilian": false,
-      "image_url": "https://d3i6fh83elv35t.cloudfront.net/static/2026/09/2026-09-01T222557Z_1233314236_RC2KANA2EYYU_RTRMADP_3_USA-CONGRESS-SHUTDOWN-1024x683.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "South Africa slams planned US visa curbs over alleged racial discrimination",
-      "link": "https://www.aljazeera.com/news/2026/9/16/south-africa-slam-planned-us-sanctions-over-alleged-racial-discrimination?traffic_source=rss",
-      "summary": "Trump administration falling for misinformation from 'fringe groups' alleging discrimination against white Afrikaners.",
-      "published_at": "2026-09-16T17:13:06Z",
-      "region": "África",
-      "theme": "Política Internacional",
-      "source_name": "Al Jazeera",
-      "source_id": "aljazeera_english",
-      "is_brazilian": false,
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/09/getty_6aaab25710-1789571671.jpg?resize=1920%2C1440",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Mbappé, Vini e Konaté escondem mensagem de apoio a Ceuta antes de jogo do Real Madrid",
-      "link": "https://www.bbc.com/portuguese/articles/cr74kwyzpyyko?at_medium=RSS&at_campaign=rss",
-      "summary": "Jogadores enrolaram ou retiraram camisetas com o slogan 'Todos somos caballas' antes da partida contra o Elche; gesto ocorre após crise migratória que levou milhares de pessoas a Ceuta",
-      "published_at": "2026-09-16T17:07:54Z",
-      "region": "Europa",
-      "theme": "Outros / Multitemático",
-      "source_name": "BBC News Brasil",
-      "source_id": "bbc_brasil",
-      "is_brazilian": true,
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c683/live/b9e9a900-b1ae-11f1-8b77-cd7827f05bee.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "‘Nowhere to go’: Gaza’s damaged buildings turn deadly",
-      "link": "https://www.aljazeera.com/news/2026/9/16/nowhere-to-go-gazas-damaged-buildings-turn-deadly?traffic_source=rss",
-      "summary": "A war-damaged building collapses in Gaza City, killing at least 21 Palestinians and exposing fears of unsafe ruins.",
-      "published_at": "2026-09-16T17:07:50Z",
-      "region": "Oriente Médio",
-      "theme": "Geopolítica e Segurança",
-      "source_name": "Al Jazeera",
-      "source_id": "aljazeera_english",
-      "is_brazilian": false,
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/09/873A1207-copy-1789575795.jpg?resize=1920%2C1440",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Monica Bellucci in a Chilling French Home-Invasion Thriller",
-      "link": "http://www.france24.com/en/tv-shows/arts24/20260916-monica-bellucci-in-a-chilling-french-home-invasion-thriller",
-      "summary": "On this week’s Arts 24, Manon Kerjean from Lost in Frenchlation joins Charlotte Lam to take a closer look at three French films of the moment: From a terrifying birthday party to a relationship that slowly turns toxic, this month’s French cinema brings plenty of tension, drama and dark humour.",
-      "published_at": "2026-09-16T17:04:46Z",
-      "region": "Europa",
-      "theme": "Geopolítica e Segurança",
-      "source_name": "France 24",
-      "source_id": "france24",
-      "is_brazilian": false,
-      "image_url": "https://s.france24.com/media/display/e3c6c884-b1ef-11f1-bdb4-e5727ccb1647/w:1024/p:16x9/capture-4911117226aaacac9c42e05-82662305.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Ao vivo: STF volta ao plenário após caso Moraes e julga licença parental",
-      "link": "https://www.poder360.com.br/poder-justica/ao-vivo-stf-volta-ao-plenario-apos-caso-moraes-e-julga-licenca-parental/",
-      "summary": "Corte realiza 1ª sessão plenária depois do julgamento sobre ministro; pauta inclui licenças parentais e planos de saúde de idosos",
-      "published_at": "2026-09-16T17:00:55Z",
-      "region": "América do Sul",
-      "theme": "Política Brasileira",
-      "source_name": "Poder360",
-      "source_id": "poder360",
-      "is_brazilian": true,
-      "image_url": "https://static.poder360.com.br/uploads/2026/09/STF-julga-no-plenario-se-Alexandre-de-Moraes-e-investigado-no-caso-Banco-Master-15set2026-plenario-3-1200x675.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Iowa Republicans in battleground House races join vote to halt the Iran war",
-      "link": "https://www.pbs.org/newshour/politics/iowa-republicans-in-battleground-house-races-join-vote-to-halt-the-iran-war",
-      "summary": "Two House Republicans in battleground Iowa districts changed their position on an Iran war powers resolution, joining with Democrats and a few other dissident members of their party in an attempt to halt President Donald Trump's ability to continue military action without congressional approval.",
-      "published_at": "2026-09-16T17:00:49Z",
-      "region": "Oriente Médio",
-      "theme": "Geopolítica e Segurança",
-      "source_name": "PBS NewsHour",
-      "source_id": "pbs_newshour",
-      "is_brazilian": false,
-      "image_url": "https://d3i6fh83elv35t.cloudfront.net/static/2026/09/2026-05-06T002804Z_1612195625_RC293LA58YES_RTRMADP_3_USA-VANCE-1024x683.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "iFood espera reduzir “ociosidade” e aumentar renda dos entregadores",
-      "link": "https://www.poder360.com.br/poder-economia/ifood-espera-reduzir-ociosidade-e-aumentar-renda-dos-entregadores/",
-      "summary": "CEO Diego Barreto afirma que expansão da plataforma reduz tempo de ociosidade e eleva ganho individual dos profissionais",
-      "published_at": "2026-09-16T17:00:17Z",
-      "region": "América do Sul",
-      "theme": "Outros / Multitemático",
-      "source_name": "Poder360",
-      "source_id": "poder360",
-      "is_brazilian": true,
-      "image_url": "https://static.poder360.com.br/uploads/2026/09/CEO-iFood-1200x675.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Neturei Karta: Opposing Zionism",
-      "link": "https://www.aljazeera.com/video/al-jazeera-world/2026/9/16/neturei-karta-opposing-zionism?traffic_source=rss",
-      "summary": "Inside Neturei Karta, the ultra-Orthodox Jewish group that rejects Zionism, supports Palestinians fighting occupation.",
-      "published_at": "2026-09-16T17:00:00Z",
-      "region": "Oriente Médio",
-      "theme": "Outros / Multitemático",
-      "source_name": "Al Jazeera",
-      "source_id": "aljazeera_english",
-      "is_brazilian": false,
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/07/image-1789479961.jpg?resize=1920%2C1080&quality=80",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Janja mostra Lula comendo “pãozinho” horas antes de comício em Brasília",
-      "link": "https://www.poder360.com.br/poder-videos/janja-mostra-lula-comendo-paozinho-horas-antes-de-comicio-em-brasilia/",
-      "summary": "Primeira-dama brincou com falta de tempo do presidente; Lula encerra a agenda do dia em ato em Ceilândia (DF)",
-      "published_at": "2026-09-16T16:59:58Z",
-      "region": "América do Sul",
-      "theme": "Política Brasileira",
-      "source_name": "Poder360",
-      "source_id": "poder360",
-      "is_brazilian": true,
-      "image_url": "https://static.poder360.com.br/uploads/2026/09/lula-come-pao-janja-16set2026-1-1200x675.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
       ]
     }
   ]
