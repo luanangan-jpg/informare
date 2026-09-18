@@ -1,21 +1,89 @@
 {
-  "updated_at": "2026-09-18T02:04:40.336029Z",
+  "updated_at": "2026-09-18T03:04:41.136765Z",
   "news": [
     {
-      "title": "Flávio lidera em 5 das 10 UFs com menor pobreza extrema",
+      "title": "Pax/Quaest: 70% dizem que violência “aumentou muito” em 2 anos",
+      "link": "https://www.poder360.com.br/poder-pesquisas/pax-quaest-70-dizem-que-violencia-aumentou-muito-em-2-anos/",
+      "summary": "Levantamento sobre percepção popular da segurança pública ouviu 2.004 brasileiros de 12 a 15 de setembro; margem de erro é de 2 p.p.",
+      "published_at": "2026-09-18T02:59:27Z",
+      "region": "América do Sul",
+      "theme": "Outros / Multitemático",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2026/03/arma-de-fogo-balas.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Italy to deploy warships to protect shipping through Bab al-Mandeb",
+      "link": "https://www.aljazeera.com/economy/2026/9/18/italy-to-deploy-warships-to-protect-shipping-through-bab-al-mandeb?traffic_source=rss",
+      "summary": "Italy's defence minister warns of severe economic fallout if Bab al-Mandeb becomes impassable, bypassing EU delays.",
+      "published_at": "2026-09-18T02:53:05Z",
+      "region": "Europa",
+      "theme": "Economia Internacional",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/09/AFP__20260914__C89G4PN__v1__HighRes__YemenIranUsIsraelWar-1789456385.jpg?resize=1920%2C1440",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Drone attacks by Colombian armed groups more than double in early 2026",
+      "link": "https://www.aljazeera.com/news/2026/9/18/drone-attacks-by-colombian-armed-groups-more-than-double-in-early-2026?traffic_source=rss",
+      "summary": "Civilians are caught in the crossfire of drone attacks between armed groups and government forces.",
+      "published_at": "2026-09-18T02:51:08Z",
+      "region": "América do Sul",
+      "theme": "Geopolítica e Segurança",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/09/getty_6aac8e51b6-1789693521.jpg?resize=1920%2C1440",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "US Veteran told he is ‘embarrassing’ uniform over Israeli bonds stance",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/18/aje-onl-nf_council-removes-us-veteran-over-israel-bond-170926?traffic_source=rss",
+      "summary": "A veteran was told he is ‘embarrassing’ his uniform for protesting Palm Beach County’s $1B investment in Israel bonds.",
+      "published_at": "2026-09-18T02:44:10Z",
+      "region": "Oriente Médio",
+      "theme": "Outros / Multitemático",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1789699441.jpg?resize=1920%2C1080&quality=80",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Flávio Bolsonaro lidera em 5 das 10 UFs com menor pobreza extrema",
       "link": "https://www.poder360.com.br/poder-eleicoes-2026/flavio-lidera-em-5-das-10-ufs-com-menor-pobreza-extrema/",
       "summary": "Lula está à frente em 2 dos Estados com menor proporção da população em extrema pobreza; há empate técnico em outros 3",
       "published_at": "2026-09-18T02:00:13Z",
       "region": "América do Sul",
-      "theme": "Direitos Humanos, Sociedade e Migrações",
+      "theme": "Política Brasileira",
       "source_name": "Poder360",
       "source_id": "poder360",
       "is_brazilian": true,
       "image_url": "https://static.poder360.com.br/uploads/2026/07/flavio-bolsonaro-pl-1.jpg",
       "fallback_images": [
-        "https://images.unsplash.com/photo-1542810634-71277d95dcbb?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1489533119213-66a5cd877091?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1531206715517-5c0ba140e2b8?q=80&w=800&auto=format&fit=crop"
+        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
       ]
     },
     {
@@ -53,6 +121,40 @@
       ]
     },
     {
+      "title": "Syria warns Israel poses ‘the greatest threat’ to Middle East stability",
+      "link": "https://www.aljazeera.com/news/2026/9/18/syria-warns-israel-poses-the-greatest-threat-to-middle-east-stability?traffic_source=rss",
+      "summary": "UNSC meeting on Syria turned into a heated debate between Israel and Turkiye over troops in Syrian territory.",
+      "published_at": "2026-09-18T01:58:54Z",
+      "region": "Oriente Médio",
+      "theme": "Outros / Multitemático",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": "https://loremflickr.com/cache/resized/defaultImage.small_800_600_nofilter.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "UN findings show US strikes on Minab could be war crimes",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/18/un-findings-show-us-strikes-on-minab-could-be-war-crimes?traffic_source=rss",
+      "summary": "UN-backed human rights experts say the US committed possible war crimes when it launched two strikes.",
+      "published_at": "2026-09-18T01:58:53Z",
+      "region": "América do Norte",
+      "theme": "Geopolítica e Segurança",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": "https://loremflickr.com/cache/resized/270_19564417006_9acfd0225a_b_800_600_nofilter.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
       "title": "Augusto Aras será professor titular da UnB",
       "link": "https://www.poder360.com.br/poder-educacao/augusto-aras-sera-professor-titular-da-unb/",
       "summary": "Ex-procurador-geral é professor da Universidade de Brasília desde 2007 e ensina direito comercial, societário e eleitoral",
@@ -67,6 +169,23 @@
         "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Detenido el presunto responsable del asesinato de la estudiante española Claudia Tacoronte en Morelos (México)",
+      "link": "https://www.europapress.es/internacional/noticia-detenido-presunto-responsable-asesinato-estudiante-espanola-claudia-tacoronte-morelos-20260918034214.html",
+      "summary": "El presunto responsable del asesinato de la estudiante española Claudia Tacoronte en Morelos ha sido detenido, después de que la Fiscalía del estado mexicano obtuviera una orden de arresto contra un hombre identificado como Francisco Javier M., señalado como sospechoso del crimen, según ha informado este jueves el secretario de Seguridad y Protección Ciudadana de México, Omar García Harfuch.",
+      "published_at": "2026-09-18T01:42:14Z",
+      "region": "América do Norte",
+      "theme": "Direito Internacional e Instituições",
+      "source_name": "Europa Press",
+      "source_id": "europa_press",
+      "is_brazilian": false,
+      "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260918034214_120.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1505664194779-8beaceb93744?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop"
       ]
     },
     {
@@ -2430,125 +2549,6 @@
         "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Moraes aparece em 72% dos posts sobre Master durante sessão do STF",
-      "link": "https://www.poder360.com.br/poder-justica/moraes-aparece-em-72-dos-posts-sobre-master-durante-sessao-do-stf/",
-      "summary": "Levantamento da DSC LAB considerou 153.485 publicações no Instagram e Facebook; Mendonça é o 2º mais citado",
-      "published_at": "2026-09-17T16:36:06Z",
-      "region": "América do Sul",
-      "theme": "Política Brasileira",
-      "source_name": "Poder360",
-      "source_id": "poder360",
-      "is_brazilian": true,
-      "image_url": "https://static.poder360.com.br/uploads/2026/09/STF-julga-no-plenario-se-Alexandre-de-Moraes-e-investigado-no-caso-Banco-Master-15set2026-moraes-1200x675.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Greve na Caixa: banco faz proposta de saúde; categoria vota na 2ª",
-      "link": "https://www.poder360.com.br/poder-economia/greve-na-caixa-banco-faz-proposta-de-saude-categoria-vota-na-2a/",
-      "summary": "Banco eleva de 6,5% para 9% o limite de participação no custeio do plano a partir de 2027; funcionários decidem acordo em assembleia.",
-      "published_at": "2026-09-17T16:26:17Z",
-      "region": "América do Sul",
-      "theme": "Outros / Multitemático",
-      "source_name": "Poder360",
-      "source_id": "poder360",
-      "is_brazilian": true,
-      "image_url": "https://static.poder360.com.br/uploads/2026/09/mesa-caixa-greve-assebleia-debate-proposta-17set2026-1200x675.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Xabi Alonso says Chelsea ambitions ‘very clear’ as Boehly era ends",
-      "link": "https://www.aljazeera.com/sports/2026/9/17/xabi-alonso-says-chelsea-ambitions-very-clear-as-boehly-era-ends?traffic_source=rss",
-      "summary": "Chelsea announce that Clearlake will acquire the stakes of Todd Boehly and director Mark Walter.",
-      "published_at": "2026-09-17T16:23:49Z",
-      "region": "Oriente Médio",
-      "theme": "Outros / Multitemático",
-      "source_name": "Al Jazeera",
-      "source_id": "aljazeera_english",
-      "is_brazilian": false,
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/09/reuters_6aac0e67-1789660775_4e80c6-1789661113.jpg?resize=1200%2C630&quality=80",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Food security under pressure from conflicts, extreme weather",
-      "link": "https://www.france24.com/en/tv-shows/people-profit/20260917-food-security-under-pressure-from-conflicts-extreme-weather",
-      "summary": "Extreme weather and violent conflicts are threatening food production and trade across the globe. Experts are forecasting a super El Niño, which could further disrupt planting and harvests – and push millions more people into acute food insecurity. Meanwhile the ongoing wars with Iran and Ukraine are disrupting shipping and supply chains. Shawn Arita, Associate Research Professor at North Dakota State University, believes that transport problems outweigh supply concerns. \"The food does exist, the availability does exist. The main issue currently speaking is that the movement is broken.\"",
-      "published_at": "2026-09-17T16:21:07Z",
-      "region": "Europa",
-      "theme": "Comércio e Finanças",
-      "source_name": "France 24",
-      "source_id": "france24",
-      "is_brazilian": false,
-      "image_url": "https://s.france24.com/media/display/0fda0a8c-b2a2-11f1-9c1e-07ed91e97eb2/w:1024/p:16x9/ENMG-PEOPLE-AND-PROFIT-260917-2026-Ep-46-Copy-01.png",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1578575437130-527eed3abbec?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1522071820081-009f0129c71c?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Five killed as Saudi Arabia and Yemen’s Houthis trade attacks",
-      "link": "https://www.aljazeera.com/news/2026/9/17/five-killed-as-saudi-arabia-and-yemens-houthis-trade-attacks?traffic_source=rss",
-      "summary": "Houthi leader Abdel-Malik al-Houthi says Saudi claims that the group targeted Mecca are a 'heinous lie'.",
-      "published_at": "2026-09-17T16:10:49Z",
-      "region": "Oriente Médio",
-      "theme": "Comércio e Finanças",
-      "source_name": "Al Jazeera",
-      "source_id": "aljazeera_english",
-      "is_brazilian": false,
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/09/afp_6aac03373237-1789657911.jpg?resize=1200%2C675",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1578575437130-527eed3abbec?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1522071820081-009f0129c71c?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Climate change: Glacier loss and dry rivers threaten water security",
-      "link": "https://www.france24.com/en/video/20260917-climate-change-glacier-loss-and-dry-rivers-threaten-water-security",
-      "summary": "The world's rivers experienced one of their driest years in more than three decades in 2025, while glaciers continued to retreat and freshwater reserves kept declining, according to the World Meteorological Organization. The agency warns that climate change and growing water use are making the global water cycle more erratic, increasing the risk of both droughts and floods.",
-      "published_at": "2026-09-17T16:10:02Z",
-      "region": "Europa",
-      "theme": "Meio Ambiente e Clima",
-      "source_name": "France 24",
-      "source_id": "france24",
-      "is_brazilian": false,
-      "image_url": "https://s.france24.com/media/display/9b16c9aa-b2b1-11f1-a418-430f3874e448/w:1024/p:16x9/EN-20260917-171145-171339-CS.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "UE sinaliza que voltará a comprar frango do Brasil, diz secretário",
-      "link": "https://www.poder360.com.br/poder-agro/ue-sinaliza-que-voltara-a-comprar-frango-do-brasil-diz-secretario/",
-      "summary": "Decisão abre caminho para retomar exportação brasileira ao bloco; vendas estavam suspensas desde 3 de setembro",
-      "published_at": "2026-09-17T16:03:20Z",
-      "region": "América do Sul",
-      "theme": "Comércio e Finanças",
-      "source_name": "Poder360",
-      "source_id": "poder360",
-      "is_brazilian": true,
-      "image_url": "https://static.poder360.com.br/uploads/2026/09/galinhas-frango-1200x675.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1578575437130-527eed3abbec?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1522071820081-009f0129c71c?q=80&w=800&auto=format&fit=crop"
       ]
     }
   ]
