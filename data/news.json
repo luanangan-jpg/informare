@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-22T08:04:50.701854Z",
+  "updated_at": "2026-09-22T09:04:31.073437Z",
   "news": [
     {
       "title": "Na Assembleia Geral da ONU, Brasil abre debate de líderes internacionais",
@@ -12,6 +12,329 @@
       "source_id": "onu_news",
       "is_brazilian": false,
       "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/29-09-2024-UN_Photo-UNGA80_Knotted-Gun.jpeg/image560x340cropped.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "ChatGPT é alvo de 13 processos por uso de dados de jornais",
+      "link": "https://www.poder360.com.br/poder-tech/chatgpt-e-alvo-de-13-processos-por-uso-de-dados-de-jornais/",
+      "summary": "A OpenAI, dona da ferramenta, recebeu mais da metade dos processos abertos por empresas de mídia nos EUA e na Europa",
+      "published_at": "2026-09-22T09:00:57Z",
+      "region": "América do Norte",
+      "theme": "Ciência, Tecnologia e Inovação",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2026/06/logo-da-OpenAI-scaled.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1518770660439-4636190af475?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1507668077129-56e32842fceb?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Tarifaço levou governo Lula a adotar discurso sobre soberania",
+      "link": "https://www.poder360.com.br/poder-eleicoes-2026/tarifaco-levou-governo-lula-a-adotar-discurso-sobre-soberania/",
+      "summary": "Ideia de Sidônio Palmeira surgida após tarifaço de Trump virou eixo de campanha pela reeleição e slogan do governo",
+      "published_at": "2026-09-22T09:00:52Z",
+      "region": "América do Sul",
+      "theme": "Política Brasileira",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2026/09/tarifaco-trump-comunicacao-governo-lula-21-set-2026-1-2-1200x675.png",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Saiba quem acompanha Lula na ONU",
+      "link": "https://www.poder360.com.br/poder-governo/saiba-quem-acompanha-lula-na-onu/",
+      "summary": "Comitiva é composta por ministros, assessores e funcionários; presidente discursa nesta 3ª feira (22.set)",
+      "published_at": "2026-09-22T09:00:44Z",
+      "region": "América do Sul",
+      "theme": "Política Brasileira",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2025/09/lula-foto-discurso-onu-23.set_.2025.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Saiba quais indicadores e balanços saem nesta 3ª feira",
+      "link": "https://www.poder360.com.br/poder-economia/saiba-quais-indicadores-e-balancos-saem-nesta-3a-feira-6/",
+      "summary": "Ata do Copom, Boletim Macrofiscal, arrecadação federal de agosto e vendas no varejo no México movimentam o dia",
+      "published_at": "2026-09-22T09:00:41Z",
+      "region": "América do Norte",
+      "theme": "Outros / Multitemático",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2026/07/capas-posts-agenda-Lula-eleicoes-ministros-STF-STJ-indicadores-site-Poder360-07-scaled.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Bancos, apps e aéreas serão afetados por mudança no WhatsApp Business",
+      "link": "https://www.poder360.com.br/poder-economia/bancos-apps-e-aereas-serao-afetados-por-mudanca-no-whatsapp-business/",
+      "summary": "Investigação do Cade mostra que a dependência da ferramenta varia; órgão mantém multa diária de R$ 250 mil contra Meta e WhatsApp",
+      "published_at": "2026-09-22T09:00:37Z",
+      "region": "América do Sul",
+      "theme": "Ciência, Tecnologia e Inovação",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2026/08/whatsapp-business-1200x675.png",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1518770660439-4636190af475?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1507668077129-56e32842fceb?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Lula fala na ONU pela 10ª vez; veja o que mudou nos discursos",
+      "link": "https://www.poder360.com.br/poder-governo/lula-fala-na-onu-pela-10a-vez-veja-o-que-mudou-nos-discursos/",
+      "summary": "Presidente abre nesta 3ª feira (22.set) debate geral em Nova York; paz e reforma do Conselho de Segurança continuam no roteiro",
+      "published_at": "2026-09-22T09:00:28Z",
+      "region": "América do Sul",
+      "theme": "Direito Internacional e Instituições",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2026/09/lula-onu-ny-1200x675.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1505664194779-8beaceb93744?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Donas de IA enfrentam 24 processos por uso ilegal de conteúdo",
+      "link": "https://www.poder360.com.br/poder-tech/donas-de-ia-enfrentam-24-processos-por-uso-ilegal-de-conteudo/",
+      "summary": "A OpenAI, dona do ChatGPT, é a empresa mais processada por jornais e editoras nos EUA e na Europa",
+      "published_at": "2026-09-22T09:00:02Z",
+      "region": "América do Norte",
+      "theme": "Ciência, Tecnologia e Inovação",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2026/09/empresas-midia-big-techs-17-set-2026-02-1200x675.png",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1518770660439-4636190af475?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1507668077129-56e32842fceb?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Trump heads to U.N. looking for wins after a rough week",
+      "link": "https://www.npr.org/2026/09/22/nx-s1-5976843/trump-heads-to-u-n-looking-for-wins-after-a-rough-week",
+      "summary": "The past couple of weeks have been particularly challenging for Trump with a series of legal and political setbacks.",
+      "published_at": "2026-09-22T09:00:00Z",
+      "region": "América do Norte",
+      "theme": "Política Internacional",
+      "source_name": "NPR World News",
+      "source_id": "npr",
+      "is_brazilian": false,
+      "image_url": null,
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Lithuania ready to 'fight back' but has evacuation plans in face of Russia threats, PM tells BBC",
+      "link": "https://www.bbc.co.uk/news/articles/ck5yw8npxzrlo?at_medium=RSS&at_campaign=rss",
+      "summary": "Sinkevičius told BBC Newsnight Lithuanians feel \"constantly threatened\" by Moscow, but the nation was prepared to \"fight back\" if attacked.",
+      "published_at": "2026-09-22T08:57:08Z",
+      "region": "Europa",
+      "theme": "Outros / Multitemático",
+      "source_name": "BBC World News",
+      "source_id": "bbc_world",
+      "is_brazilian": false,
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4e66/live/e66f3610-b646-11f1-bc1f-3f186ca4140c.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Leaders set ambitious goals to better the world by 2030. They've made little progress",
+      "link": "https://www.npr.org/2026/09/22/nx-s1-5975528/leaders-set-ambitious-goals-to-better-the-world-by-2030-theyve-made-little-progress",
+      "summary": "In 2015, global leaders set ambitious goals to reduce inequality, end hunger and boost education. More than a decade later, the world is nowhere near achieving much of what was promised.",
+      "published_at": "2026-09-22T08:47:26Z",
+      "region": "Global",
+      "theme": "Direitos Humanos, Sociedade e Migrações",
+      "source_name": "NPR World News",
+      "source_id": "npr",
+      "is_brazilian": false,
+      "image_url": null,
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1542810634-71277d95dcbb?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1489533119213-66a5cd877091?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1531206715517-5c0ba140e2b8?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Political scientist on what's at stake as Trump speaks to world leaders at UNGA",
+      "link": "https://www.npr.org/2026/09/22/nx-s1-5976765/political-scientist-on-whats-at-stake-as-trump-speaks-to-world-leaders-at-unga",
+      "summary": "NPR's Steve Inskeep speaks with political scientist Ian Bremmer of the Eurasia Group about President Trump's diplomatic stakes as he addresses the U.N. General Assembly.",
+      "published_at": "2026-09-22T08:45:02Z",
+      "region": "América do Norte",
+      "theme": "Política Internacional",
+      "source_name": "NPR World News",
+      "source_id": "npr",
+      "is_brazilian": false,
+      "image_url": null,
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Campanha de Jaques Wagner vai à Justiça e derruba site que exibia mensagens de Daniel Vorcaro",
+      "link": "https://www.bbc.com/portuguese/articles/cr3wj2jljej0o?at_medium=RSS&at_campaign=rss",
+      "summary": "Site apresentava mensagens atribuídas ao ex-banqueiro Daniel Vorcaro, do Banco Master, e a outras figuras públicas; BBC News Brasil teve acesso à íntegra do processo.",
+      "published_at": "2026-09-22T08:18:47Z",
+      "region": "América do Sul",
+      "theme": "Outros / Multitemático",
+      "source_name": "BBC News Brasil",
+      "source_id": "bbc_brasil",
+      "is_brazilian": true,
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c3b3/live/11de3e30-6bbb-11f1-8546-8f19e4fe30f4.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Major US outlets boycott shared Trump coverage in protest at media ban",
+      "link": "https://www.bbc.co.uk/news/articles/cje3rezd92y3o?at_medium=RSS&at_campaign=rss",
+      "summary": "Regular coverage of the president has been disrupted after he banned CNN, MS NOW and Politico from the White House.",
+      "published_at": "2026-09-22T08:17:15Z",
+      "region": "América do Norte",
+      "theme": "Política Internacional",
+      "source_name": "BBC World News",
+      "source_id": "bbc_world",
+      "is_brazilian": false,
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d479/live/8996c1b0-b655-11f1-8d77-eb0cf812c06a.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Sri Lankan court to deliver verdict on deadly Easter bombings",
+      "link": "https://www.bbc.co.uk/news/articles/cw8r687nedzgo?at_medium=RSS&at_campaign=rss",
+      "summary": "Co-ordinated suicide attacks killed 270 people across several churches and hotels in Colombo in 2019.",
+      "published_at": "2026-09-22T08:10:21Z",
+      "region": "Global",
+      "theme": "Outros / Multitemático",
+      "source_name": "BBC World News",
+      "source_id": "bbc_world",
+      "is_brazilian": false,
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3c78/live/58600c40-b629-11f1-a91d-5f9b71cfa225.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Russian strikes on Ukraine kill three as Zelenskyy in US for UN summit",
+      "link": "https://www.aljazeera.com/news/2026/9/22/russian-strikes-on-ukraine-kill-three-as-zelenskyy-in-us-for-un-summit?traffic_source=rss",
+      "summary": "Overnight missile and drone attacks hit several Ukrainian regions as world leaders gather in New York, US.",
+      "published_at": "2026-09-22T08:07:13Z",
+      "region": "Europa",
+      "theme": "Política Internacional",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": null,
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "New book by Princess Diana's brother prompts war of words with King Charles III",
+      "link": "https://www.npr.org/2026/09/22/g-s1-144505/princess-diana-brother-book",
+      "summary": "A new book by the late Princess Diana's brother, Charles Spencer, has made headlines with damning allegations about King Charles III. Buckingham Palace responded with a strongly-worded statement.",
+      "published_at": "2026-09-22T08:03:27Z",
+      "region": "Global",
+      "theme": "Geopolítica e Segurança",
+      "source_name": "NPR World News",
+      "source_id": "npr",
+      "is_brazilian": false,
+      "image_url": null,
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Why young people are paying to get hired",
+      "link": "https://www.aljazeera.com/video/money-works/2026/9/22/why-young-people-are-paying-to-get-hired?traffic_source=rss",
+      "summary": "Why is the entry level job market so broken?",
+      "published_at": "2026-09-22T08:02:37Z",
+      "region": "Oriente Médio",
+      "theme": "Comércio e Finanças",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": null,
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1578575437130-527eed3abbec?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1522071820081-009f0129c71c?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Guterres se reúne en Nueva York con Delcy Rodríguez para abordar el camino \"hacia una democracia plena\" en Venezuela",
+      "link": "https://www.europapress.es/internacional/noticia-guterres-reune-nueva-york-delcy-rodriguez-abordar-camino-democracia-plena-venezuela-20260922095954.html",
+      "summary": "El secretario general de Naciones Unidas, António Guterres, se ha reunido en las últimas horas en Nueva York con la presidenta encargada de Venezuela, Delcy Rodrígez, para abordar la situación políticas y económica en el país y el camino \"hacia una democracia plena\" tras la captura en enero del mandatario venezolano, Nicolás Maduro, en una operación militar estadounidense que dejó más de un centenar de muertos en la capital, Caracas.",
+      "published_at": "2026-09-22T07:59:54Z",
+      "region": "América do Sul",
+      "theme": "Direito Internacional e Instituições",
+      "source_name": "Europa Press",
+      "source_id": "europa_press",
+      "is_brazilian": false,
+      "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260922095954_120.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1505664194779-8beaceb93744?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "First New York, now Berlin: Why the left turn for major metropolises?",
+      "link": "https://www.france24.com/en/tv-shows/the-debate/20260922-first-new-york-now-berlin-why-the-left-turn-for-major-metropolises",
+      "summary": "There's the inroads of the far right, but also the broader desire for change. Introducing Berlin's answer to Zohran Mamdani: Elif Eralp, who led the far-left Die Linke party's historic win in Sunday's municipal elections in Berlin. We ask if the 45-year-old daughter of Turkish political exiles can push through her promises of rent freezes and nationalisation of private real estate companies. Just like in New York last year, affordable housing was a hot-button issue. It didn't hurt that her party ran a social media-savvy campaign.",
+      "published_at": "2026-09-22T07:56:32Z",
+      "region": "Europa",
+      "theme": "Política Internacional",
+      "source_name": "France 24",
+      "source_id": "france24",
+      "is_brazilian": false,
+      "image_url": "https://s.france24.com/media/display/5f7feb3a-b5e8-11f1-9cad-1d61c7110e09/w:1024/p:16x9/2026-09-20T165634Z-360619873-RC24NNADN54W-RTRMADP-3-GERMANY-ELECTION-BERLIN-LINKE-REACTION.jpg",
       "fallback_images": [
         "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
@@ -266,7 +589,7 @@
       "source_name": "Europa Press",
       "source_id": "europa_press",
       "is_brazilian": false,
-      "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260922085800_120.jpg",
+      "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260922085800_120_v2.jpg",
       "fallback_images": [
         "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
@@ -429,7 +752,7 @@
     {
       "title": "Football: France enter new era with Zinédine Zidane",
       "link": "https://www.france24.com/en/tv-shows/sports/20260922-football-france-enter-new-era-with-zin%C3%A9dine-zidane",
-      "summary": "Zinédine Zidane led his first training session as manager of Les Bleus.",
+      "summary": "Zinédine Zidane has led his first training session as manager of Les Bleus.",
       "published_at": "2026-09-22T05:35:49Z",
       "region": "Europa",
       "theme": "Outros / Multitemático",
@@ -509,6 +832,23 @@
         "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "G7 demands Houthis 'immediately' cease Saudi strikes",
+      "link": "https://www.dw.com/en/g7-demands-houthis-immediately-cease-saudi-strikes/a-79364964?maca=en-rss-en-world-4025-rdf",
+      "summary": "The G7 nations have accused Yemen's Houthi rebels of targeting civilian shipping near Saudi Arabia. UK PM Andy Burnham said he will offer \"time-limited\" and \"defensive\" military support to repel the attacks.",
+      "published_at": "2026-09-22T04:58:00Z",
+      "region": "Oriente Médio",
+      "theme": "Geopolítica e Segurança",
+      "source_name": "DW World News",
+      "source_id": "dw_english",
+      "is_brazilian": false,
+      "image_url": "https://static.dw.com/image/79346632_6.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
       ]
     },
     {
@@ -917,23 +1257,6 @@
         "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Lithuania ready to 'fight back' but has evacuation plans in face of Russia threats, PM tells BBC",
-      "link": "https://www.bbc.co.uk/news/articles/ck5yw8npxzrlo?at_medium=RSS&at_campaign=rss",
-      "summary": "Sinkevičius told BBC Newsnight Lithuanians feel \"constantly threatened\" by Moscow, but the nation was prepared to \"fight back\" if attacked.",
-      "published_at": "2026-09-22T01:04:16Z",
-      "region": "Europa",
-      "theme": "Outros / Multitemático",
-      "source_name": "BBC World News",
-      "source_id": "bbc_world",
-      "is_brazilian": false,
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4e66/live/e66f3610-b646-11f1-bc1f-3f186ca4140c.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
       ]
     },
     {
@@ -1585,14 +1908,14 @@
     {
       "title": "Ethiopia's main armed groups form anti-government alliance",
       "link": "https://www.france24.com/en/ethiopia-s-main-armed-groups-form-anti-government-alliance",
-      "summary": "In tonight's edition, a coalition of opposition groups band together in the hope of ousting Ethiopian Prime Minister Abiy Ahmed. Also, I speak to the deputy chief of the UN's peacekeeping mission in DR Congo. And with just a few days to go before the legislative elections, young Moroccans are torn between hope and skepticism ahead of the crucial vote.",
+      "summary": "In tonight's edition: A coalition of opposition groups band together in the hope of ousting Ethiopian Prime Minister Abiy Ahmed. Also, we speak to the deputy chief of the UN's peacekeeping mission in DR Congo. And with just a few days to go before legislative elections, young Moroccans are torn between hope and scepticism ahead of the crucial vote.",
       "published_at": "2026-09-21T21:16:13Z",
       "region": "África",
       "theme": "Política Internacional",
       "source_name": "France 24",
       "source_id": "france24",
       "is_brazilian": false,
-      "image_url": "https://s.france24.com/media/display/b3a17374-b600-11f1-84fc-e554abee39f5/w:1024/p:16x9/DN196930-A-01-20260914.jpg",
+      "image_url": "https://s.france24.com/media/display/1bbaadd0-b661-11f1-a105-557acd7c815c/w:1024/p:16x9/capture-13472760946ab23eb97d4a71-50255504.jpg",
       "fallback_images": [
         "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
@@ -1602,14 +1925,14 @@
     {
       "title": "Paramount, US states settle antitrust lawsuit over Warner Bros. acquisition",
       "link": "https://www.france24.com/en/tv-shows/business/20260921-paramount-us-states-settle-antitrust-lawsuit-over-warner-bros-acquisition",
-      "summary": "Paramount Skydance has settled a lawsuit with a dozen US states that sought to block its acquisition of Warner Brothers, as well as with the Writers Guild of America. California's Attorney General said that while the settlement addressed concerns over competition and protection, it did not mean a vote of support for the deal.",
+      "summary": "Paramount Skydance has settled a lawsuit with a dozen US states that sought to block its acquisition of Warner Brothers, as well as with the Writers Guild of America. California's attorney general said that while the settlement addressed concerns over competition and protection, it did not mean a vote of support for the deal.",
       "published_at": "2026-09-21T21:13:22Z",
       "region": "América do Norte",
       "theme": "Outros / Multitemático",
       "source_name": "France 24",
       "source_id": "france24",
       "is_brazilian": false,
-      "image_url": "https://s.france24.com/media/display/65877814-b600-11f1-89b2-557acd7c815c/w:1024/p:16x9/capture-2083076806ab19c78239ea9-11861395.jpg",
+      "image_url": "https://s.france24.com/media/display/17f5267e-b663-11f1-867e-4d220c210a04/w:1024/p:16x9/capture-14423808206ab2420e2de132-52314866.jpg",
       "fallback_images": [
         "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
@@ -2226,329 +2549,6 @@
         "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Polo has rapidly intensified to a hurricane and is expected to impact Mexico",
-      "link": "https://www.pbs.org/newshour/science/polo-has-rapidly-intensified-to-a-hurricane-and-is-expected-to-impact-mexico",
-      "summary": "Hurricane Polo will rapidly intensify in the Pacific Ocean and become a major hurricane later this week, forecasters said Monday.",
-      "published_at": "2026-09-21T19:34:30Z",
-      "region": "América do Norte",
-      "theme": "Outros / Multitemático",
-      "source_name": "PBS NewsHour",
-      "source_id": "pbs_newshour",
-      "is_brazilian": false,
-      "image_url": "https://d3i6fh83elv35t.cloudfront.net/static/2026/09/AP26264659913202-1024x683.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Nos EUA, Lula se reúne com prefeito de Nova York e presidente uruguaio",
-      "link": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-09/nos-eua-lula-se-reune-com-prefeito-de-nova-york-e-presidente-uruguaio",
-      "summary": "Antes da 81º Assembleia Geral das Nações Unidas (ONU), que começa nesta terça-feira (22), o presidente Luiz Inácio Lula da Silva se reuniu com o prefeito de Nova York, Zohran Mamdani, nesta segunda-feira (21). Lula também deve se encontrar hoje com o senador Bernie Sanders, do estado de Vermont. Políticos democratas, Mamdani e Sanders são opositores do presidente dos Estados Unidos (EUA), Donald Trump. Se classificando como “socialista democrata”, Zohran Mamdani é o primeiro muçulmano a virar prefeito de Nova York. Após o encontro, ambos falaram com a imprensa. Notícias relacionadas: ONU: Lula defende multilateralismo e reforma do Conselho de Segurança. Michelle Bachelet desiste da disputa pelo comando da ONU. Brasil e EUA: entenda as relações após alerta sobre eleições. O político democrata e Lula destacaram a importância de priorizar a população pobre na formulação de políticas públicas, discutiram a importância de defender a democracia, além de combater o extremismo político e a desinformação em todo o mundo. Questionado por Lula se Nova York também tinha problemas sociais, Mamdani disse que o custo de vida na cidade é muito elevado e citou a criação, durante sua gestão, dos supermercados populares. “Nós vivemos na cidade mais cara das Américas. A terceira cidade mais cara do mundo. E um em cada quatro nova-iorquinos vivem na pobreza”, disse Mandani, acrescentando que o presidente do Brasil é uma “inspiração” para ele. Lula criticou o fato de a Europa e o Japão terem aumentando os investimentos em armas e defesa militar, enquanto não teria sobrado “quase nada” para políticas de educação e de combate à fome. “Como ele [Mamdani] é uma pessoa muito jovem, que tem muitos anos [de] vida [pela frente], eu espero que ele esteja preparado para se transformar num grande soldado, para colocar fim ou diminuir a pobreza e a invisibilidade que vivem os pobres”, disse Lula a jornalistas. Presidente do Uruguai O presidente Lula ainda se reuniu, em Nova York, com o presidente do Uruguai, Yamandú Orsi. Ambos discutiram a necessidade de fortalecer o multilateralismo nas relações internacionais e a integração latino-americana. O presidente Lula durante encontro bilateral com o presidente do Uruguai, Yamandú Orsi, em Nova York - Foto: @LulaOficial/ X Lula informou que Orsi autorizou o Brasil a usar o excedente da cota uruguaia de exportação de carne bovina para a China. Os dois presidentes discutiram também medidas de regulamentação das apostas online (bets). “O presidente Orsi e eu devemos nos encontrar novamente em breve, para avançar em projetos de integração transfronteiriça, em especial a construção da ponte binacional sobre o rio Jaguarão”, escreveu Lula em uma rede social. Em nota, o governo do Uruguai informou que foram discutidos temas como comércio, infraestrutura, intercâmbio cultural e desenvolvimento produtivo. “Os líderes enfatizaram a importância de fortalecer o multilateralismo e discutiram os próximos passos na agenda regional, particularmente no âmbito da Comunidade de Estados Latino-Americanos e Caribenhos (CELAC) e do Mercosul”, informou a Presidência do país vizinho. Matéria alterada às 19h17 para corrigir informação. No momento de publicação do texto, o presidente Lula ainda não havia se reunido com o senador Bernie Sanders, como informado na matéria. .",
-      "published_at": "2026-09-21T19:27:00Z",
-      "region": "América do Sul",
-      "theme": "Política Brasileira",
-      "source_name": "Agência Brasil",
-      "source_id": "agencia_brasil",
-      "is_brazilian": true,
-      "image_url": "https://loremflickr.com/cache/resized/defaultImage.small_800_600_nofilter.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "France's new coach Zinedine Zidane leads first training session",
-      "link": "https://www.france24.com/en/sport/20260921-new-france-coach-zidane-leads-training-session-ahead-of-nations-league-campaign",
-      "summary": "France coach Zinedine Zidane on Monday oversaw his first training session with Les Bleus ahead of the new Nations League campaign. The 1998 World Cup winner led a dozen of his players through a light training session under the gaze of some 50 journalists.",
-      "published_at": "2026-09-21T19:25:07Z",
-      "region": "Europa",
-      "theme": "Cultura, Mídia e Sociedade",
-      "source_name": "France 24",
-      "source_id": "france24",
-      "is_brazilian": false,
-      "image_url": "https://s.france24.com/media/display/26d768d0-b5f2-11f1-a6cb-4d220c210a04/w:1024/p:16x9/cad2e2b4169345180942f7c4d1d0d06354bdb7c4.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1460661419201-fd4cecdf8a8b?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1508700115892-45ecd05ae2ad?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Protesters blockade Elbit Systems factory over Israel weapons supply",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/21/protesters-blockade-elbit-systems-factory-over-israel-weapons-supply?traffic_source=rss",
-      "summary": "Nine protesters blocked access to Elbit Systems’ factory in Staffordshire by attaching themselves to five ‘lock-ons’.",
-      "published_at": "2026-09-21T19:22:15Z",
-      "region": "Oriente Médio",
-      "theme": "Geopolítica e Segurança",
-      "source_name": "Al Jazeera",
-      "source_id": "aljazeera_english",
-      "is_brazilian": false,
-      "image_url": "https://loremflickr.com/cache/resized/65535_51478793658_7d1b59f788_b_800_600_nofilter.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "'A próxima coisa que veremos é ação militar direta dos EUA em diferentes países', diz jornalista americano especializado em América Latina",
-      "link": "https://www.bbc.com/portuguese/articles/c6rm9lpjz8m2o?at_medium=RSS&at_campaign=rss",
-      "summary": "Jon Lee Anderson falou à BBC News Brasil sobre a influência de Trump na América Latina e como anos de 'homens fortes' como Chávez e Ortega aumentaram a pressão sobre a região.",
-      "published_at": "2026-09-21T19:16:24Z",
-      "region": "América do Norte",
-      "theme": "Geopolítica e Segurança",
-      "source_name": "BBC News Brasil",
-      "source_id": "bbc_brasil",
-      "is_brazilian": true,
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d699/live/1595a2d0-b336-11f1-bc1f-3f186ca4140c.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Trump approval rating hits career low of 32% amid Iran war, high costs",
-      "link": "https://www.aljazeera.com/news/2026/9/21/trumps-approval-rating-hits-record-low-amid-iran-war-economy-fallout?traffic_source=rss",
-      "summary": "Republican support for Trump dips to 73 percent, down from 82 percent, as war and inflation concerns dominate polls.",
-      "published_at": "2026-09-21T19:10:52Z",
-      "region": "América do Norte",
-      "theme": "Geopolítica e Segurança",
-      "source_name": "Al Jazeera",
-      "source_id": "aljazeera_english",
-      "is_brazilian": false,
-      "image_url": "https://loremflickr.com/cache/resized/65535_48688317721_ef6974bdcc_800_600_nofilter.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Trump’s approval rating hits record low amid Iran war, economy fallout",
-      "link": "https://www.aljazeera.com/news/2026/9/21/trumps-approval-rating-hits-record-low-amid-iran-war-economy-fallout?traffic_source=rss",
-      "summary": "Republican support for Trump dips to 73 percent, down from 82 percent, as war and inflation concerns dominate polls.",
-      "published_at": "2026-09-21T19:10:52Z",
-      "region": "América do Norte",
-      "theme": "Geopolítica e Segurança",
-      "source_name": "Al Jazeera",
-      "source_id": "aljazeera_english",
-      "is_brazilian": false,
-      "image_url": "https://loremflickr.com/cache/resized/defaultImage.small_800_600_nofilter.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Photos: Gaza’s children return to class in tents and ruins",
-      "link": "https://www.aljazeera.com/gallery/2026/9/21/photos-gazas-children-return-to-class-in-tents-and-ruins?traffic_source=rss",
-      "summary": "Gaza children return to classrooms after three years, facing challenges of damaged schools, tents, and scarce supplies.",
-      "published_at": "2026-09-21T18:40:26Z",
-      "region": "Oriente Médio",
-      "theme": "Outros / Multitemático",
-      "source_name": "Al Jazeera",
-      "source_id": "aljazeera_english",
-      "is_brazilian": false,
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-09-21T105641Z_1837995358_RC26MNANRITI_RTRMADP_3_ISRAEL-PALESTINIANS-GAZA-SCHOOLS-1790006582.jpg?resize=1920%2C1440",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "US-China rivalry is reshaping global trade — and Europe is caught in the middle.",
-      "link": "https://www.dw.com/en/us-china-rivalry-is-reshaping-global-trade-and-europe-is-caught-in-the-middle/a-79356540?maca=en-rss-en-world-4025-rdf",
-      "summary": "China's Xi Jinping is traveling to Washington this week. Regardless of what comes from his talks with US President Trump, the EU will likely remain stuck between erratic US trade policy and Beijing's export machine.",
-      "published_at": "2026-09-21T18:40:00Z",
-      "region": "América do Norte",
-      "theme": "Comércio e Finanças",
-      "source_name": "DW World News",
-      "source_id": "dw_english",
-      "is_brazilian": false,
-      "image_url": "https://static.dw.com/image/77187844_6.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1578575437130-527eed3abbec?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1522071820081-009f0129c71c?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Merz expresa su agradecimiento al SPD por mantenerse en la coalición de Gobierno en Alemania",
-      "link": "https://www.europapress.es/internacional/noticia-merz-expresa-agradecimiento-spd-mantenerse-coalicion-gobierno-alemania-20260921202539.html",
-      "summary": "El canciller alemán, Friedrich Merz, de la Unión Demócrata Cristiana (CDU), ha expresado este lunes su agradecimiento al Partido Socialdemócrata de Alemania (SPD) por mantenerse en el Gobierno de coalición a pesar de las críticas, algunas procedentes del propio SPD, y de los últimos reveses en las elecciones regionales.",
-      "published_at": "2026-09-21T18:25:39Z",
-      "region": "Europa",
-      "theme": "Política Internacional",
-      "source_name": "Europa Press",
-      "source_id": "europa_press",
-      "is_brazilian": false,
-      "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260921202539_120.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Haddad diz que Faria Lima “vai ter que esperar” em eventual governo",
-      "link": "https://www.poder360.com.br/poder-eleicoes-2026/haddad-diz-que-faria-lima-vai-ter-que-esperar-em-eventual-governo/",
-      "summary": "Petista critica privatizações feitas por Tarcísio de Freitas e afirma que vai “botar o setor privado na linha”",
-      "published_at": "2026-09-21T18:01:38Z",
-      "region": "América do Sul",
-      "theme": "Economia Brasileira",
-      "source_name": "Poder360",
-      "source_id": "poder360",
-      "is_brazilian": true,
-      "image_url": "https://static.poder360.com.br/uploads/2026/09/haddad-record-antonio-chahestian-21set2026-1200x675.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1506744038136-46273834b3fb?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Germany's Merz faces election defeats, but no sign of leadership challenge",
-      "link": "https://www.pbs.org/newshour/world/germanys-merz-faces-election-defeats-but-no-sign-of-leadership-challenge",
-      "summary": "German Chancellor Friedrich Merz is standing by his vow to stay in office after his party suffered two more regional election defeats and was voted out of a state legislature in a humiliating first.",
-      "published_at": "2026-09-21T17:53:21Z",
-      "region": "Europa",
-      "theme": "Política Internacional",
-      "source_name": "PBS NewsHour",
-      "source_id": "pbs_newshour",
-      "is_brazilian": false,
-      "image_url": "https://d3i6fh83elv35t.cloudfront.net/static/2026/09/2026-09-21T123859Z_254738772_RC2ONNA2KTPA_RTRMADP_3_GERMANY-ELECTION-CDU-1024x683.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Protesters march on Islamabad over soaring fuel prices",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/21/protesters-march-on-islamabad-over-soaring-fuel-prices?traffic_source=rss",
-      "summary": "Pakistan’s Jamaat-e-Islami party has launched a protest march towards Islamabad over soaring fuel prices.",
-      "published_at": "2026-09-21T17:48:51Z",
-      "region": "Ásia",
-      "theme": "Direitos Humanos, Sociedade e Migrações",
-      "source_name": "Al Jazeera",
-      "source_id": "aljazeera_english",
-      "is_brazilian": false,
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/09/wide-thumb-pakistan-protest-1790012875.png?resize=1920%2C1080&quality=80",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1542810634-71277d95dcbb?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1489533119213-66a5cd877091?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1531206715517-5c0ba140e2b8?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "First UK charges brought over 1994 Rwanda genocide",
-      "link": "https://www.bbc.co.uk/news/articles/cr2092216nywo?at_medium=RSS&at_campaign=rss",
-      "summary": "Dr Vincent Brown, formerly Dr Vincent Bajinya, 65, will appear at Westminster Magistrates’ Court on Tuesday charged with seven offences.",
-      "published_at": "2026-09-21T17:48:23Z",
-      "region": "Europa",
-      "theme": "Outros / Multitemático",
-      "source_name": "BBC World News",
-      "source_id": "bbc_world",
-      "is_brazilian": false,
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/517f/live/051f1c30-b5e1-11f1-aff1-eb6baa3fda4f.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "'Banking on a national brand': Bolsonaro sons Carlos, Jair Renan run for power in Brazil's south",
-      "link": "https://www.france24.com/en/americas/20260921-bolsonaro-sons-carlos-and-race-for-power-brazil-south",
-      "summary": "Flavio Bolsonaro is not the only member of his family campaigning in his father’s shadow. The former president's eldest son, who is now polling neck and neck with incumbent President Luiz Inacio Lula da Silva, can count on two of his brothers, who are standing in the senatorial and legislative elections. In Santa Catarina, one of Brazil’s most pro-Bolsonaro southern states, their surname alone is enough to secure victory.",
-      "published_at": "2026-09-21T17:46:24Z",
-      "region": "América do Sul",
-      "theme": "Política Internacional",
-      "source_name": "France 24",
-      "source_id": "france24",
-      "is_brazilian": false,
-      "image_url": "https://s.france24.com/media/display/ad79a5e2-b50c-11f1-b8c1-5b4fdf021577/w:1024/p:16x9/AP25180712083292.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Ceuta solidarity shirt row: How the crisis engulfed Spanish football",
-      "link": "https://www.aljazeera.com/sports/2026/9/21/ceuta-solidarity-shirt-row-how-the-crisis-engulfed-spanish-football?traffic_source=rss",
-      "summary": "Football has been dragged into growing tensions over the influx of migrants from Morocco to the Spanish enclave Ceuta.",
-      "published_at": "2026-09-21T17:45:40Z",
-      "region": "Europa",
-      "theme": "Economia Internacional",
-      "source_name": "Al Jazeera",
-      "source_id": "aljazeera_english",
-      "is_brazilian": false,
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-09-11T210205Z_1159129090_RC27HNA4KJY9_RTRMADP_3_MIGRATION-EUROPE-SPAIN-CEUTA-1789993924.jpg?resize=1920%2C1440",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Lula dá camisa do Corinthians a Zohran Mamdani em Nova York",
-      "link": "https://www.poder360.com.br/poder-governo/lula-da-camisa-do-corinthians-a-zohran-mamdani-em-nova-york/",
-      "summary": "Prefeito da cidade presenteou o brasileiro com uniforme do New York City FC durante encontro antes da Assembleia da ONU",
-      "published_at": "2026-09-21T17:43:53Z",
-      "region": "América do Norte",
-      "theme": "Política Brasileira",
-      "source_name": "Poder360",
-      "source_id": "poder360",
-      "is_brazilian": true,
-      "image_url": "https://static.poder360.com.br/uploads/2026/09/lula-mamdani-1200x675.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Haddad chama ausência de Tarcísio em debate na “Record” de “desrespeito”",
-      "link": "https://www.poder360.com.br/poder-eleicoes-2026/haddad-chama-ausencia-de-tarcisio-em-debate-na-record-de-desrespeito/",
-      "summary": "Petista disse que confronto permitiria comparar propostas; campanha do governador citou compromissos e funções de governo",
-      "published_at": "2026-09-21T17:43:46Z",
-      "region": "América do Sul",
-      "theme": "Economia Brasileira",
-      "source_name": "Poder360",
-      "source_id": "poder360",
-      "is_brazilian": true,
-      "image_url": "https://static.poder360.com.br/uploads/2026/09/haddad-debate-record-21set2026-1200x675.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1506744038136-46273834b3fb?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Paramount settles with US states, union to win Warner Bros takeover",
-      "link": "https://www.aljazeera.com/economy/2026/9/21/paramount-settles-with-us-states-in-step-towards-merger-with-warner-bros?traffic_source=rss",
-      "summary": "Ellison-led Paramount will avoid daily $7m fee if the $110bn Warner Bros merger closes by September 30.",
-      "published_at": "2026-09-21T17:42:24Z",
-      "region": "América do Norte",
-      "theme": "Outros / Multitemático",
-      "source_name": "Al Jazeera",
-      "source_id": "aljazeera_english",
-      "is_brazilian": false,
-      "image_url": "https://loremflickr.com/cache/resized/defaultImage.small_800_600_nofilter.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
       ]
     }
   ]
