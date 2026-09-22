@@ -1,17 +1,374 @@
 {
-  "updated_at": "2026-09-22T19:03:49.565040Z",
+  "updated_at": "2026-09-22T20:04:23.849459Z",
   "news": [
     {
       "title": "Como foram discursos de Lula e Trump na Assembleia Geral da ONU",
       "link": "https://www.bbc.co.uk/portuguese/live/cq2e0yxwwpvzt?at_medium=RSS&at_campaign=rss",
       "summary": "Não há uma reunião bilateral entre Lula e Trump prevista na agenda. Até agora, nenhum dos dois governos apresentou um pedido formal para um encontro.",
-      "published_at": "2026-09-22T19:03:34.742434Z",
+      "published_at": "2026-09-22T20:04:08.116577Z",
       "region": "América do Norte",
       "theme": "Política Internacional",
       "source_name": "BBC News Brasil",
       "source_id": "bbc_brasil",
       "is_brazilian": true,
       "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4942/live/5a130870-b6a2-11f1-bc1f-3f186ca4140c.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Djibouti minister appeals for aid for Yemeni refugees",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/22/djibouti-minister-appeals-for-aid-for-yemeni-refugees?traffic_source=rss",
+      "summary": "Djibouti’s Minister of Social Affairs and Solidarity, Ouloufa Ismail Abdo, appeals for aid for Yemeni refugees",
+      "published_at": "2026-09-22T19:56:02Z",
+      "region": "Oriente Médio",
+      "theme": "Direitos Humanos, Sociedade e Migrações",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": "https://loremflickr.com/cache/resized/defaultImage.small_800_600_nofilter.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1542810634-71277d95dcbb?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1489533119213-66a5cd877091?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1531206715517-5c0ba140e2b8?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Trump admin asks top US court to reverse pro-Palestinian scholar’s release",
+      "link": "https://www.aljazeera.com/news/2026/9/22/trump-admin-asks-top-us-court-to-reverse-pro-palestinian-scholars-release?traffic_source=rss",
+      "summary": "US solicitor general challenges lower court's ruling on Georgetown scholar's detention, sparking constitutional debates.",
+      "published_at": "2026-09-22T19:52:16Z",
+      "region": "América do Norte",
+      "theme": "Política Internacional",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": "https://loremflickr.com/cache/resized/defaultImage.small_800_600_nofilter.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Fazenda vê choque persistente no petróleo e revisa PIB",
+      "link": "https://www.poder360.com.br/poder-economia/fazenda-ve-choque-persistente-no-petroleo-e-revisa-pib/",
+      "summary": "Diagnóstico foi apresentado nesta 3ª feira (22.set.2026); PIB de 2026 caiu para 2,0% e IPCA, para 4,9%",
+      "published_at": "2026-09-22T19:49:44Z",
+      "region": "América do Sul",
+      "theme": "Economia Brasileira",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2026/08/barris-de-petroleo-1200x675.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1506744038136-46273834b3fb?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Sri Lanka court convicts 15 men over deadly Easter Sunday bombings",
+      "link": "https://www.bbc.co.uk/news/articles/cqy7z275yx65o?at_medium=RSS&at_campaign=rss",
+      "summary": "Three churches and three luxury hotels were targeted in the 2019 attacks which killed 270.",
+      "published_at": "2026-09-22T19:47:44Z",
+      "region": "Global",
+      "theme": "Outros / Multitemático",
+      "source_name": "BBC World News",
+      "source_id": "bbc_world",
+      "is_brazilian": false,
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c53f/live/e033b760-b684-11f1-b1d1-571ed4d7ff2c.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Trump rejeita limitar IA e critica governança global da tecnologia",
+      "link": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-09/trump-rejeita-limitar-ia-e-critica-governanca-global-da-tecnologia",
+      "summary": "Em discurso na sede das Nações Unidas (ONU), o presidente dos Estados Unidos (EUA) Donald Trump criticou as iniciativas globais de regulação e governança da Inteligência Artificial (IA). “Os Estados Unidos também rejeitam totalmente qualquer tentativa de criar um esquema globalista para controlar a inteligência artificial”, afirmou, durante o discurso na abertura da 81ª Assembleia Geral da ONU, nesta quarta-feira (22). Notícias relacionadas: Na ONU, Trump ameaça novamente usar força militar na América Latina. \"O Brasil não cabe no quintal de ninguém”, diz Lula em discurso na ONU. ONU vive momento crítico, diz Lula ao citar indignação com guerras. A China e os EUA lideram iniciativas distintas que buscam influenciar a cadeia produtiva em torno da IA. De um lado, a iniciativa de Washington prevê um sistema com “parceiros confiáveis” para controlar o desenvolvimento da IA. De outro, a proposta liderada por Pequim convoca todas as nações para participar da governança da IA por meio de sistemas de códigos abertos, que permite a apropriação da tecnologia por qualquer empresa ou organização. >>Waico e Pax Silica: entenda disputa entre China e EUA por futuro da IA O especialista em governança de IA Ettore Arpini, fundador da organização Plures de apoio a profissionais para atuação em IA, destacou à Agência Brasil que a posição de Trump se opõe a diversas iniciativas, inclusive na ONU, com objetivo de deixar as empresas sem regulação alguma. “Isso é totalmente contrário ao movimento de outros países de formar uma aliança de potências médias para colaborarem, para trazerem de novo um multilateralismo e criarem um modelo de governança e de regulamentações internacionais para IA”, comentou. Limites à IA O presidente dos EUA Donald Trump ainda rejeitou que o país vá limitar o avanço do desenvolvimento da IA e defendeu que, quem controlar a tecnologia, será o “vencedor” da nova revolução tecnológica. “No momento, estamos muito à frente da China e de todos os outros. E vamos manter essa vantagem. Vamos manter uma postura firme e decidida. Não vou sufocar o crescimento de algo que será maior do que a Revolução Industrial”, disse. Na última semana, líderes da indústria da IA nos EUA defenderam uma desaceleração no ritmo de desenvolvimento dos modelos mais avançados, que estariam evoluindo mais rapidamente do que os mecanismos de controle e segurança. Ao mesmo tempo, economistas tem apontado uma possível “bolha” no setor devido ao elevado nível de investimentos e dúvidas da capacidade de retorno desses recursos, o que poderia gerar crises financeiras com repercussões na economia global. “A intensa competição aumenta o risco de as empresas alocarem recursos em excesso a projetos de investimento com retornos ainda incertos, tornando todas as empresas vulneráveis a decepções nos resultados da IA”, diz informe do Banco de Compensações Internacionais (BIS). Superinteligência Ainda no discurso da ONU, Trump ainda prometeu mudar o nome da tecnologia para “superinteligência”. “Daqui para frente, será oficialmente chamada de superinteligência. Mudamos o nome porque o uso da palavra \"artificial\" faz a inteligência parecer falsa”, afirmou. O especialista Ettore Arpini, do Plures, destacou que é problemático chamar a IA de superinteligência, o que pode mais confundir que ajudar, e favorecer a posição dos EUA na corrida pelo controle global da IA. “Tem uma dimensão política também, porque em Washington tem uma narrativa de que os Estados Unidos liderem a IA. Chamar a AI de superinteligência também ajuda a construir essa narrativa que favorece os EUA”, comentou. Para Arpini, o importante não é definir se é ou não inteligência. “Isso pode até nos distrair. O que importa é quais capacidades esses sistemas têm, quão autônomos eles são, quem os governa e quais consequências produzem sobre a sociedade - e quais países estão se preparando”, finalizou Analistas críticos da IA, como o cientista brasileiro Miguel Nicolelis, apontam que o termo “inteligência” da IA é uma metáfora ou estratégia de marketing para sugerir que a tecnologia possui capacidades humanas que, na realidade, os sistemas não dominam. Seria uma forma de valorizar os serviços que as gigantes da tecnologia vendem.",
+      "published_at": "2026-09-22T19:42:00Z",
+      "region": "América do Norte",
+      "theme": "Ciência, Tecnologia e Inovação",
+      "source_name": "Agência Brasil",
+      "source_id": "agencia_brasil",
+      "is_brazilian": true,
+      "image_url": "https://loremflickr.com/cache/resized/defaultImage.small_800_600_nofilter.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1518770660439-4636190af475?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1507668077129-56e32842fceb?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Brazil's Lula warns against foreign interference in elections, urges leaders to respond to global conflicts",
+      "link": "https://www.pbs.org/newshour/world/brazils-lula-warns-against-foreign-interference-in-elections-urges-leaders-to-respond-to-global-conflicts",
+      "summary": "Lula also criticized the global body for failing to prevent wars, saying its credibility is at an all-time low.",
+      "published_at": "2026-09-22T19:35:37Z",
+      "region": "América do Sul",
+      "theme": "Política Internacional",
+      "source_name": "PBS NewsHour",
+      "source_id": "pbs_newshour",
+      "is_brazilian": false,
+      "image_url": "https://d3i6fh83elv35t.cloudfront.net/static/2026/09/2026-09-22T141035Z_1993633698_RC2EONAPZPAE_RTRMADP_3_UN-ASSEMBLY-1024x683.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Flávio diz que Dino faz perseguição no STF em apuração sobre emendas",
+      "link": "https://www.poder360.com.br/poder-eleicoes-2026/flavio-diz-que-dino-faz-perseguicao-no-stf-em-apuracao-sobre-emendas/",
+      "summary": "Candidato do PL afirma que ministro blinda aliados e diz sentir “nojo” das decisões da Suprema Corte",
+      "published_at": "2026-09-22T19:33:20Z",
+      "region": "América do Sul",
+      "theme": "Política Brasileira",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2026/09/bolsonaro-flavio-coletiva-maranhao-1200x675.png",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Raquel tem 48,6% e João Campos, 47,4% no 1º turno em Pernambuco",
+      "link": "https://www.poder360.com.br/poder-eleicoes-2026/raquel-tem-486-e-joao-campos-474-no-1o-turno-em-pernambuco/",
+      "summary": "Levantamento da AtlasIntel ouviu 1.836 eleitores de 15 a 20 de setembro de 2026; margem de erro é de 2 p.p.",
+      "published_at": "2026-09-22T19:31:56Z",
+      "region": "América do Sul",
+      "theme": "Outros / Multitemático",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2026/09/Raquel-Lyra-Joao-Campos-1080-1200x675.png",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Ao vivo: Edinho, Alckmin e Haddad participam de ato em São Paulo",
+      "link": "https://www.poder360.com.br/poder-eleicoes-2026/ao-vivo-edinho-alckmin-e-haddad-participam-de-ato-em-sao-paulo/",
+      "summary": "Evento “O Brasil Pronto Para Mais” reúne integrantes e candidatos de partidos aliados de Lula às 17h",
+      "published_at": "2026-09-22T19:30:24Z",
+      "region": "América do Sul",
+      "theme": "Economia Brasileira",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2026/03/Haddad-Tebet-Alckmindez2025.jpeg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1506744038136-46273834b3fb?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Ao vivo: TSE lança campanha de combate à violência contra a mulher",
+      "link": "https://www.poder360.com.br/poder-videos/ao-vivo-tse-lanca-campanha-de-combate-a-violencia-contra-a-mulher/",
+      "summary": "Evento apresenta iniciativas contra violência política de gênero e ferramenta para identificar deepfakes de candidatos",
+      "published_at": "2026-09-22T19:30:11Z",
+      "region": "América do Sul",
+      "theme": "Política Brasileira",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2026/08/Nunes-Marques-17-ago-2026-1200x675.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Qatar denounces Israeli aggression across the region",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/22/qatar-denounces-israeli-aggression-across-the-region?traffic_source=rss",
+      "summary": "Qatari Emir Sheikh Tamim bin Hamad Al Thani has denounced Israeli aggression in neighbouring countries.",
+      "published_at": "2026-09-22T19:29:03Z",
+      "region": "Oriente Médio",
+      "theme": "Outros / Multitemático",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": "https://loremflickr.com/cache/resized/defaultImage.small_800_600_nofilter.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Cury lamenta morte de conselheiro que estava com Rick: “Grande amigo”",
+      "link": "https://www.poder360.com.br/poder-eleicoes-2026/cury-lamenta-morte-de-conselheiro-que-estava-com-rick-grande-amigo/",
+      "summary": "Candidato cancelou as agendas da tarde desta 3ª feira (22.set) após morte de Bruno Avelar em queda de helicóptero em SC",
+      "published_at": "2026-09-22T19:25:59Z",
+      "region": "América do Sul",
+      "theme": "Outros / Multitemático",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2026/09/cury-bruno-avelar-1200x675.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "What led to the 1994 Tutsi Genocide in Rwanda",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/22/what-led-to-the-1994-tutsi-genocide-in-rwanda?traffic_source=rss",
+      "summary": "A British doctor accused of killing people during the 1994 genocide against the Tutsi in Rwanda has been charged.",
+      "published_at": "2026-09-22T19:17:44Z",
+      "region": "Europa",
+      "theme": "Outros / Multitemático",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": "https://loremflickr.com/cache/resized/65535_52106198460_3e40930e59_c_800_600_nofilter.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Como Rick, da dupla Rick & Renner, ajudou a renovar a sertanejo",
+      "link": "https://www.bbc.com/portuguese/articles/c574eyxvzjzlo?at_medium=RSS&at_campaign=rss",
+      "summary": "O intérprete de 'Ela é Demais' participou de um movimento no fim dos anos 1990 com letras que exploravam um lado mais bem-humorado, malicioso e sensual do romance, em vez de apostar só no sofrimento amoroso.",
+      "published_at": "2026-09-22T19:16:39Z",
+      "region": "América do Sul",
+      "theme": "Outros / Multitemático",
+      "source_name": "BBC News Brasil",
+      "source_id": "bbc_brasil",
+      "is_brazilian": true,
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/aca9/live/263c5090-b672-11f1-b711-df5e4d50c2fd.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Pai de Vorcaro manda carta a ministros do STF e diz que mulher é ameaçada",
+      "link": "https://www.poder360.com.br/poder-justica/pai-de-vorcaro-manda-carta-a-ministros-do-stf-e-diz-que-mulher-e-ameacada/",
+      "summary": "Em pedido endereçado aos integrantes da Corte, ele diz não tinha conhecimento sobre negócios do filho no Banco Master",
+      "published_at": "2026-09-22T19:16:20Z",
+      "region": "América do Sul",
+      "theme": "Política Brasileira",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2026/05/henriquevorcaro-pai-de-vorcaro-reproducao.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Erdogan accuses Israel of ‘genocidal mindset’ at UNGA",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/22/erdogan-accuses-israel-of-genocidal-mindset-at-unga?traffic_source=rss",
+      "summary": "Turkish President Recep Tayyip Erdogan accused Israel of a “genocidal mindset” at the UN General Assembly.",
+      "published_at": "2026-09-22T19:14:41Z",
+      "region": "Oriente Médio",
+      "theme": "Política Internacional",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": "https://loremflickr.com/cache/resized/defaultImage.small_800_600_nofilter.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Lula repete há 23 anos pedido de mudança no Conselho da ONU",
+      "link": "https://www.poder360.com.br/poder-internacional/lula-repete-ha-23-anos-pedido-de-mudanca-no-conselho-da-onu/",
+      "summary": "Presidente voltou a defender mudança na composição e fim do poder do veto das potências, em discurso na 81ª Assembleia Geral",
+      "published_at": "2026-09-22T19:09:40Z",
+      "region": "América do Sul",
+      "theme": "Política Brasileira",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2026/09/Lula-ONU-Nova-York-22-set-2026-1-1200x675.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Visita ao Poder360: Lucas Pittioni",
+      "link": "https://www.poder360.com.br/poder-visitas/visita-ao-poder360-lucas-pittioni/",
+      "summary": "Vice-presidente jurídico do iFood falou em entrevista a este jornal digital sobre a competição no setor de delivery",
+      "published_at": "2026-09-22T19:08:31Z",
+      "region": "América do Sul",
+      "theme": "Política Brasileira",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2026/09/vp-juridico-ifood-1200x675.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Ukraine anger as EU removes Russian oligarchs from sanctions list",
+      "link": "https://www.bbc.co.uk/news/articles/c6dj4k98107do?at_medium=RSS&at_campaign=rss",
+      "summary": "Alisher Usmanov and Mikhail Fridman both have close ties to President Putin, and Kyiv said the move sent Moscow the wrong signals.",
+      "published_at": "2026-09-22T19:06:06Z",
+      "region": "Europa",
+      "theme": "Geopolítica e Segurança",
+      "source_name": "BBC World News",
+      "source_id": "bbc_world",
+      "is_brazilian": false,
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9373/live/8fd92fe0-b6b4-11f1-a430-4d16ee157c41.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Rick foi secretário da Cultura do Tocantins em 2014; relembre",
+      "link": "https://www.poder360.com.br/poder-gente/rick-foi-secretario-da-cultura-do-tocantins-em-2014-relembre/",
+      "summary": "Cantor da dupla com Renner permaneceu no cargo por cerca de 7 meses; Rick morreu aos 59 anos, na queda de um helicóptero, em Santa Catarina",
+      "published_at": "2026-09-22T19:03:29Z",
+      "region": "América do Sul",
+      "theme": "Cultura, Mídia e Sociedade",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2026/09/canto-rick-dupla-rickerenner-1200x675.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1460661419201-fd4cecdf8a8b?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1508700115892-45ecd05ae2ad?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Russia and Ukraine trade strikes ahead of Zelenskyy's meeting with Trump",
+      "link": "https://www.pbs.org/newshour/world/russia-and-ukraine-trade-strikes-ahead-of-zelenskyys-meeting-with-trump",
+      "summary": "Russian missiles and drones struck at least four Ukrainian regions overnight, killing five people, officials said Tuesday.",
+      "published_at": "2026-09-22T19:02:52Z",
+      "region": "Europa",
+      "theme": "Política Internacional",
+      "source_name": "PBS NewsHour",
+      "source_id": "pbs_newshour",
+      "is_brazilian": false,
+      "image_url": "https://d3i6fh83elv35t.cloudfront.net/static/2026/09/2026-09-22T175028Z_586299362_RC2HONA599SW_RTRMADP_3_UKRAINE-CRISIS-TRUMP-ZELENSKIY-1024x722.jpg",
       "fallback_images": [
         "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
@@ -223,6 +580,23 @@
       ]
     },
     {
+      "title": "US, Iran hold ‘very good’ talks, Trump says at UN meeting",
+      "link": "https://www.aljazeera.com/news/2026/9/22/trump-says-us-officials-met-with-iranian-delegation-for-three-hours-2?traffic_source=rss",
+      "summary": "US President hints at possible deal with Iran, but warns of dire consequences if no agreement is reached.",
+      "published_at": "2026-09-22T18:14:12Z",
+      "region": "América do Norte",
+      "theme": "Política Internacional",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": "https://loremflickr.com/cache/resized/121_297351221_9dc226ca7a_c_800_600_nofilter.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
       "title": "Trump says US officials met for three hours with Iranian delegation",
       "link": "https://www.aljazeera.com/news/2026/9/22/trump-says-us-officials-met-with-iranian-delegation-for-three-hours-2?traffic_source=rss",
       "summary": "This is a breaking news story.",
@@ -342,7 +716,7 @@
       ]
     },
     {
-      "title": "Lula warns against foreign interference, defends Brazil’s sovereignty at UN",
+      "title": "Lula warns against foreign interference in Brazil election at UN",
       "link": "https://www.aljazeera.com/news/2026/9/22/lula-warns-against-foreign-interference-defends-brazils-sovereignty-at-un?traffic_source=rss",
       "summary": "Lula’s remarks come as Trump asserts US power in Latin America in his own UN address.",
       "published_at": "2026-09-22T17:51:07Z",
@@ -988,23 +1362,6 @@
       ]
     },
     {
-      "title": "Como Rick, da dupla Rick & Renner, ajudou a renovar a sertanejo",
-      "link": "https://www.bbc.com/portuguese/articles/c574eyxvzjzlo?at_medium=RSS&at_campaign=rss",
-      "summary": "O intérprete de 'Ela é Demais' participou de um movimento no fim dos anos 1990 com letras que exploravam um lado mais bem-humorado, malicioso e sensual do romance, em vez de apostar só no sofrimento amoroso.",
-      "published_at": "2026-09-22T16:09:08Z",
-      "region": "América do Sul",
-      "theme": "Outros / Multitemático",
-      "source_name": "BBC News Brasil",
-      "source_id": "bbc_brasil",
-      "is_brazilian": true,
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/aca9/live/263c5090-b672-11f1-b711-df5e4d50c2fd.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
       "title": "La UE renueva finalmente las sanciones contra Rusia y las levanta a dos oligarcas cercanos al Kremlin",
       "link": "https://www.europapress.es/internacional/noticia-ue-renueva-finalmente-sanciones-contra-rusia-levanta-dos-oligarcas-cercanos-kremlin-20260922180726.html",
       "summary": "Los Veintisiete han desbloqueado este martes el acuerdo para renovar durante tres años las sanciones contra cerca de 3.000 personas y entidades por la invasión rusa de Ucrania, después de que Letonia haya retirado las objeciones que hicieron descarrilar el pacto el lunes por la noche y haya aceptado abstenerse ante la retirada de las medidas restrictivas contra los oligarcas Alisher Usmanov y Mijail Fridman que exigió Francia.",
@@ -1466,7 +1823,7 @@
     {
       "title": "\"O Brasil não cabe no quintal de ninguém”, diz Lula em discurso na ONU",
       "link": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-09/o-brasil-nao-cabe-no-quintal-de-ninguem-diz-lula-na-onu",
-      "summary": "O presidente Luiz Inácio Lula da Silva voltou a defender a soberania dos países, citando especificamente os cenários da América Latina e do Brasil, onde, segundo o presidente, há tentativas de influência estrangeira sobre processos políticos nacionais. Lula disse que a região da América Latina e do Caribe convive com pressões decorrentes da proximidade com grandes potências. Notícias relacionadas: ONU vive momento crítico, diz Lula ao citar indignação com guerras. “Na América Latina e Caribe, a proximidade geográfica com a maior potência militar do mundo é inescapável, sobretudo no contexto do recrudescimento de tentações hegemônicas. O Brasil não cabe no quintal de ninguém”, afirmou durante discurso na cerimônia de abertura da 81ª Assembleia Geral da ONU, nesta terça-feira (22) em Nova York. “Voltamos a presenciar a ingerência externa em processos eleitorais, a divisão do mundo em zonas de influência e investidas neocoloniais com recursos estratégicos constituem gestos anacrônicos”, destacou, ao citar contextos recentes registrados na Venezuela, na Nicarágua, no Haiti e em Cuba. Segundo o presidente, a região percorreu um longo caminho para consolidar regimes democráticos após períodos de ditadura e autoritarismo. Nesse contexto, ele defendeu maior integração regional e o respeito à autodeterminação dos povos. \"Precisamos de parceiros com uma agenda positiva que fomente o desenvolvimento. Diferenças ideológicas não devem ser obstáculo para uma maior integração entre vizinhos. Os países da região reconheceram os horrores dos regimes de exceção. Percorremos um longo caminho para restaurar a vontade popular\", disse. Democracia em xeque Lula também alertou para o que classificou como retorno de práticas incompatíveis com a ordem internacional contemporânea. \"A democracia está novamente em xeque\", afirmou. Em seguida, acrescentou que o mundo voltou a assistir à \"ingerência externa em processos eleitorais\", à divisão de países em zonas de influência e a \"investidas neocoloniais\" em busca de recursos estratégicos. Ao citar países da região, o presidente afirmou que cada povo deve definir seu próprio caminho. Segundo ele, o povo venezuelano deve decidir seu destino sem interferências externas, enquanto a Nicarágua não solucionará seus problemas impedindo a participação da oposição nas eleições. Lula também mencionou a crise humanitária no Haiti e voltou a criticar o embargo econômico imposto a Cuba. Redes de desinformação Lula também citou a atuação de redes de desinformação durante campanhas eleitorais e afirmou que o Estado brasileiro estará atento a possíveis tentativas de interferência. \"Não subestimamos o desafio das redes de desinformação que pretendem contaminar o debate público durante a campanha\", afirmou. Em seguida, ressaltou a confiança nas instituições e no sistema eleitoral do país. \"Não permitiremos que os inimigos da democracia, internos ou externos, atentem contra a vontade popular. O Brasil continuará sendo um país soberano. Ninguém nos afastará desse caminho\", declarou. Negacionismo Lula destacou ainda os perigos das chamadas fake news, sobretudo no que diz respeito aos achados científicos em temas como saúde e meio ambiente. “Na era da desinformação, os obscurantistas resistem às evidências da ciência”, disse, ao defender o combate ao negacionismo. “Nunca esqueceremos das milhões de vidas perdidas pelo descaso no enfrentamento à covid-19. Campanhas contra vacinas estão trazendo de volta doenças que julgávamos estar erradicadas. Enfraquecer a Organização Mundial da Saúde (OMS) torna todos mais vulneráveis.” “Até pouco tempo, a reposta à mudança do clima estava consolidada no centro da agenda internacional. Este ano, o tema desapareceu dos debates do G7 e do G20, fóruns que reúnem os maiores emissores de carbono do mundo. É hora de retomar a ofensiva e impor uma derrota ao negacionismo.” Segurança pública Ao tratar da segurança pública, Lula rejeitou a participação de forças estrangeiras no combate ao crime organizado em território nacional e defendeu a cooperação internacional em áreas específicas, como o combate ao tráfico de armas e à lavagem de dinheiro. \"Não vamos transferir a responsabilidade de defender nossas fronteiras e de garantir à população o direito de viver sem medo\", afirmou. O presidente acrescentou que o enfrentamento ao crime deve ocorrer por meio da cooperação entre governos, e não por ações militares externas. \"Não precisamos de porta-aviões vigiando nossas águas; precisamos de cooperação para estancar o fluxo de armas e de dinheiro que abastece o crime organizado\", disse. Segundo Lula, o Brasil apresentou aos Estados Unidos proposta de cooperação para combater a lavagem de dinheiro realizada por criminosos brasileiros no exterior. O presidente também afirmou que o país vem fortalecendo a coordenação entre os estados e ampliando as ações de combate às organizações criminosas.",
+      "summary": "O presidente Luiz Inácio Lula da Silva voltou a defender a soberania dos países, citando especificamente os cenários da América Latina e do Brasil, onde, segundo o presidente, há tentativas de influência estrangeira sobre processos políticos nacionais. Lula disse que a região da América Latina e do Caribe convive com pressões decorrentes da proximidade com grandes potências. Notícias relacionadas: ONU vive momento crítico, diz Lula ao citar indignação com guerras. “Na América Latina e Caribe, a proximidade geográfica com a maior potência militar do mundo é inescapável, sobretudo no contexto do recrudescimento de tentações hegemônicas. O Brasil não cabe no quintal de ninguém”, afirmou durante discurso na cerimônia de abertura da 81ª Assembleia Geral da ONU, nesta terça-feira (22) em Nova York. “Voltamos a presenciar a ingerência externa em processos eleitorais, a divisão do mundo em zonas de influência e investidas neocoloniais com recursos estratégicos constituem gestos anacrônicos”, destacou, ao citar contextos recentes registrados na Venezuela, na Nicarágua, no Haiti e em Cuba. Segundo o presidente, a região percorreu um longo caminho para consolidar regimes democráticos após períodos de ditadura e autoritarismo. Nesse contexto, ele defendeu maior integração regional e o respeito à autodeterminação dos povos. \"Precisamos de parceiros com uma agenda positiva que fomente o desenvolvimento. Diferenças ideológicas não devem ser obstáculo para uma maior integração entre vizinhos. Os países da região reconheceram os horrores dos regimes de exceção. Percorremos um longo caminho para restaurar a vontade popular\", disse. Democracia em xeque Lula também alertou para o que classificou como retorno de práticas incompatíveis com a ordem internacional contemporânea. \"A democracia está novamente em xeque\", afirmou. Em seguida, acrescentou que o mundo voltou a assistir à \"ingerência externa em processos eleitorais\", à divisão de países em zonas de influência e a \"investidas neocoloniais\" em busca de recursos estratégicos. Ao citar países da região, o presidente afirmou que cada povo deve definir seu próprio caminho. Segundo ele, o povo venezuelano deve decidir seu destino sem interferências externas, enquanto a Nicarágua não solucionará seus problemas impedindo a participação da oposição nas eleições. Lula também mencionou a crise humanitária no Haiti e voltou a criticar o embargo econômico imposto a Cuba. Redes de desinformação Lula também citou a atuação de redes de desinformação durante campanhas eleitorais e afirmou que o Estado brasileiro estará atento a possíveis tentativas de interferência. \"Não subestimamos o desafio das redes de desinformação que pretendem contaminar o debate público durante a campanha\", afirmou. Em seguida, ressaltou a confiança nas instituições e no sistema eleitoral do país. \"Não permitiremos que os inimigos da democracia, internos ou externos, atentem contra a vontade popular. O Brasil continuará sendo um país soberano. Ninguém nos afastará desse caminho\", declarou. Negacionismo Lula destacou ainda os perigos das chamadas fake news, sobretudo no que diz respeito aos achados científicos em temas como saúde e meio ambiente. “Na era da desinformação, os obscurantistas resistem às evidências da ciência”, disse, ao defender o combate ao negacionismo. “Nunca esqueceremos das milhões de vidas perdidas pelo descaso no enfrentamento à covid-19. Campanhas contra vacinas estão trazendo de volta doenças que julgávamos estar erradicadas. Enfraquecer a Organização Mundial da Saúde (OMS) torna todos mais vulneráveis.” “Até pouco tempo, a reposta à mudança do clima estava consolidada no centro da agenda internacional. Este ano, o tema desapareceu dos debates do G7 e do G20, fóruns que reúnem os maiores emissores de carbono do mundo. É hora de retomar a ofensiva e impor uma derrota ao negacionismo.” Segurança pública Ao tratar da segurança pública, Lula rejeitou a participação de forças estrangeiras no combate ao crime organizado em território nacional e defendeu a cooperação internacional em áreas específicas, como o combate ao tráfico de armas e à lavagem de dinheiro. \"Não vamos transferir a responsabilidade de defender nossas fronteiras e de garantir à população o direito de viver sem medo\", afirmou. O presidente acrescentou que o enfrentamento ao crime deve ocorrer por meio da cooperação entre governos, e não por ações militares externas. \"Não precisamos de porta-aviões vigiando nossas águas; precisamos de cooperação para estancar o fluxo de armas e de dinheiro que abastece o crime organizado\", disse. Segundo Lula, o Brasil apresentou aos Estados Unidos proposta de cooperação para combater a lavagem de dinheiro realizada por criminosos brasileiros no exterior. O presidente também afirmou que o país vem fortalecendo a coordenação entre os estados e ampliando as ações de combate às organizações criminosas. Saiba mais no Repórter Brasil Tarde, da TV Brasil",
       "published_at": "2026-09-22T15:10:00Z",
       "region": "América do Sul",
       "theme": "Política Brasileira",
@@ -1993,7 +2350,7 @@
     {
       "title": "Secretário-geral da ONU alerta para avanço de guerras e riscos da IA",
       "link": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-09/secretario-geral-da-onu-alerta-para-avanco-de-guerras-e-riscos-da-ia",
-      "summary": "O secretário-geral da Organização das Nações Unidas (ONU), António Guterres, abriu a 81ª assembleia geral da entidade nesta terça-feira (22) alertando para o avanço de conflitos e guerras, para ataques contra civis e trabalhadores humanitários e para o aprofundamento de divisões geopolíticas. “Nosso futuro será moldado pela forma como enfrentarmos quatro grandes testes de poder”, disse, citando conflitos armados e guerras, desigualdade, mudanças climáticas e inteligência artificial. Notícias relacionadas: ONU: Lula defende multilateralismo e reforma do Conselho de Segurança. IA pode representar risco “existencial”, alerta representante da ONU. \"Restaurar a confiança\" é tema da 81ª Assembleia-Geral da ONU. Ao abordar especificamente conflitos e guerras no Oriente Médio, na Ucrânia, no Sudão e em Mianmar, Guterres avaliou que o cenário demonstra o que acontece quando o poder sai do controle, a força se sobrepõe à diplomacia e a responsabilização não acontece. “Não estamos diante de crises separadas. Estamos diante de capítulos de uma mesma história: a história do poder — como ele é usado e como está mudando”, destacou em seu último discurso como secretário-geral da ONU, já que seu segundo mandato de cinco anos à frente da entidade se encerra em dezembro. Entre os principais riscos citados por Guterres está o avanço da inteligência artificial que, em sua avaliação, pode estar se desenvolvendo mais rápido do que a capacidade da própria humanidade de compreender seus efeitos. “Mesmo aqueles que criaram a inteligência artificial dizem que estão ficando cegos diante dela”, disse. “O perigo não é a tecnologia. O perigo é a tecnologia sem responsabilidade”, completou, ao conclamar os governos a fortalecerem o diálogo, a transparência, a confiança e a cooperação.",
+      "summary": "O secretário-geral da Organização das Nações Unidas (ONU), António Guterres, abriu a 81ª assembleia geral da entidade nesta terça-feira (22) alertando para o avanço de conflitos e guerras, para ataques contra civis e trabalhadores humanitários e para o aprofundamento de divisões geopolíticas. “Nosso futuro será moldado pela forma como enfrentarmos quatro grandes testes de poder”, disse, citando conflitos armados e guerras, desigualdade, mudanças climáticas e inteligência artificial. Notícias relacionadas: ONU: Lula defende multilateralismo e reforma do Conselho de Segurança. IA pode representar risco “existencial”, alerta representante da ONU. \"Restaurar a confiança\" é tema da 81ª Assembleia-Geral da ONU. Ao abordar especificamente conflitos e guerras no Oriente Médio, na Ucrânia, no Sudão e em Mianmar, Guterres avaliou que o cenário demonstra o que acontece quando o poder sai do controle, a força se sobrepõe à diplomacia e a responsabilização não acontece. “Não estamos diante de crises separadas. Estamos diante de capítulos de uma mesma história: a história do poder — como ele é usado e como está mudando”, destacou em seu último discurso como secretário-geral da ONU, já que seu segundo mandato de cinco anos à frente da entidade se encerra em dezembro. Entre os principais riscos citados por Guterres está o avanço da inteligência artificial que, em sua avaliação, pode estar se desenvolvendo mais rápido do que a capacidade da própria humanidade de compreender seus efeitos. “Mesmo aqueles que criaram a inteligência artificial dizem que estão ficando cegos diante dela”, disse. “O perigo não é a tecnologia. O perigo é a tecnologia sem responsabilidade”, completou, ao conclamar os governos a fortalecerem o diálogo, a transparência, a confiança e a cooperação. Saiba mais no Repórter Brasil Tarde, da TV Brasil",
       "published_at": "2026-09-22T13:57:00Z",
       "region": "América do Sul",
       "theme": "Direito Internacional e Instituições",
@@ -2188,363 +2545,6 @@
       "source_id": "poder360",
       "is_brazilian": true,
       "image_url": "https://static.poder360.com.br/uploads/2026/07/prismada-flavio-lula-1200x675.webp",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Sri Lanka court convicts 15 over deadly 2019 Easter bombings",
-      "link": "https://www.npr.org/2026/09/22/g-s1-144514/sri-lanka-court-convicts-15-over-deadly-2019-easter-bombings",
-      "summary": "The Islamic State group-inspired attacks were among the deadliest in Sri Lanka's history, killing 42 foreigners.",
-      "published_at": "2026-09-22T13:30:01Z",
-      "region": "Global",
-      "theme": "Outros / Multitemático",
-      "source_name": "NPR World News",
-      "source_id": "npr",
-      "is_brazilian": false,
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c53f/live/e033b760-b684-11f1-b1d1-571ed4d7ff2c.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Iran delegation to present narrative of resilience, diplomacy at UNGA",
-      "link": "https://www.aljazeera.com/news/2026/9/22/iran-delegation-to-present-narrative-of-resilience-diplomacy-at-unga?traffic_source=rss",
-      "summary": "Iran’s delegation has arrived to New York for the UNGA where the war with the United States will be raised.",
-      "published_at": "2026-09-22T13:29:53Z",
-      "region": "Oriente Médio",
-      "theme": "Política Internacional",
-      "source_name": "Al Jazeera",
-      "source_id": "aljazeera_english",
-      "is_brazilian": false,
-      "image_url": "https://loremflickr.com/cache/resized/4092_5096343736_5348e41d83_b_800_600_nofilter.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Ethiopian armed groups announce anti-government alliance",
-      "link": "https://www.france24.com/en/video/20260922-ethiopian-armed-groups-announce-anti-government-alliance",
-      "summary": "On the eve of International Peace Day, an Ethiopian rebel leader announced an alliance of seven armed groups with the stated objective of toppling Prime Minister Abiy Ahmed's ruling party and establishing a transitional government. The alliance consists of former enemies during the 2020 civil war that killed 600,000 people, and other armed groups from across the country, all fighting their own battles against federal troops. With the war in Sudan across the border, and several third parties like Eritrea siding with involved parties, there are fears of isolated armed conflicts in Ethiopia spilling over into a regional war. More from our correspondent Tom Canetti.",
-      "published_at": "2026-09-22T13:29:52Z",
-      "region": "África",
-      "theme": "Política Internacional",
-      "source_name": "France 24",
-      "source_id": "france24",
-      "is_brazilian": false,
-      "image_url": "https://s.france24.com/media/display/372332f4-b67f-11f1-b59c-d382746d948a/w:1024/p:16x9/EN-20260921-224505-224704-CS.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Hundreds flee homes in Far North Cameroon after armed group raid kills 15",
-      "link": "https://www.aljazeera.com/news/2026/9/22/hundreds-flee-homes-in-far-north-cameroon-after-armed-group-raid-kills-15?traffic_source=rss",
-      "summary": "No group claims responsibility for attack, but suspicion falls on ISIL affiliate.",
-      "published_at": "2026-09-22T13:28:07Z",
-      "region": "Oriente Médio",
-      "theme": "Geopolítica e Segurança",
-      "source_name": "Al Jazeera",
-      "source_id": "aljazeera_english",
-      "is_brazilian": false,
-      "image_url": "https://loremflickr.com/cache/resized/defaultImage.small_800_600_nofilter.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "WATCH: Trump addresses 2026 United Nations General Assembly",
-      "link": "https://www.pbs.org/newshour/world/watch-live-trump-addresses-2026-united-nations-general-assembly",
-      "summary": "President Donald Trump returned to the U.N. General Assembly on Tuesday at a tumultuous moment for the world — and for his presidency — and made the case that he's shown fortitude while other leaders have equivocated.",
-      "published_at": "2026-09-22T13:26:55Z",
-      "region": "América do Norte",
-      "theme": "Política Internacional",
-      "source_name": "PBS NewsHour",
-      "source_id": "pbs_newshour",
-      "is_brazilian": false,
-      "image_url": "https://d3i6fh83elv35t.cloudfront.net/static/2026/09/2026-09-20T213341Z_1166113885_RC2RXGAW6383_RTRMADP_3_UN-ASSEMBLY-TRUMP-1024x576.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Guterres alerta del riesgo de división del mundo en \"dos bloques rivales\" en plena \"redefinición del poder\"",
-      "link": "https://www.europapress.es/internacional/noticia-guterres-alerta-riesgo-division-mundo-dos-bloques-rivales-plena-redefinicion-poder-20260922152041.html",
-      "summary": "El secretario general de Naciones Unidas, António Guterres, ha alertado este martes del riesgo de división del mundo en \"dos bloques rivales\" ante las crecientes tensiones internacionales, en un mundo marcado por los diversos conflictos y la \"redefinición del poder\" en un momento en que se avanza hacia la multipolaridad pese a la existencia de sistemas de gobernanza internacional que reflejan realidades e intereses de \"una época ya superada\".",
-      "published_at": "2026-09-22T13:20:41Z",
-      "region": "Europa",
-      "theme": "Direito Internacional e Instituições",
-      "source_name": "Europa Press",
-      "source_id": "europa_press",
-      "is_brazilian": false,
-      "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260922152041_120.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1505664194779-8beaceb93744?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Neutral venues and no 'away' fans - how Israel v Republic of Ireland became so contentious",
-      "link": "https://www.bbc.co.uk/sport/football/articles/ckz7z5w7ey2jo?at_medium=RSS&at_campaign=rss",
-      "summary": "BBC Sport explores the backdrop to the Republic of Ireland's matches against Israel, amid fraught tensions between the nations.",
-      "published_at": "2026-09-22T13:16:49Z",
-      "region": "Europa",
-      "theme": "Geopolítica e Segurança",
-      "source_name": "BBC World News",
-      "source_id": "bbc_world",
-      "is_brazilian": false,
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b192/live/4b340370-b668-11f1-b785-7d19738c6de2.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Leia a íntegra da resposta de Mendonça sobre pedido de Moraes contra ele",
-      "link": "https://www.poder360.com.br/poder-justica/leia-a-integra-da-resposta-de-mendonca-sobre-pedido-de-moraes-contra-ele/",
-      "summary": "Ministro pede arquivamento da representação e que STF avalie apuração por abuso de autoridade e denunciação caluniosa",
-      "published_at": "2026-09-22T13:13:10Z",
-      "region": "América do Sul",
-      "theme": "Política Brasileira",
-      "source_name": "Poder360",
-      "source_id": "poder360",
-      "is_brazilian": true,
-      "image_url": "https://static.poder360.com.br/uploads/2026/09/STF-julga-no-plenario-se-Alexandre-de-Moraes-e-investigado-no-caso-Banco-Master-15set2026-mendonca-3-1200x675.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "FIFA President Infantino’s letter a ploy for re-election, says German FA",
-      "link": "https://www.aljazeera.com/sports/2026/9/22/fifa-president-infantinos-letter-a-ploy-for-re-election-says-german-fa?traffic_source=rss",
-      "summary": "Infantino proposed an independent review of FIFA's decision-making process amid criticism of his leadership.",
-      "published_at": "2026-09-22T13:11:01Z",
-      "region": "Europa",
-      "theme": "Política Internacional",
-      "source_name": "Al Jazeera",
-      "source_id": "aljazeera_english",
-      "is_brazilian": false,
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/09/reuters_6ab26cb9-1790078137_f5c60b-1790078487.jpg?resize=1200%2C630&quality=80",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "‘Disgraceful’: Did India bully umpires to win Japan T20 cricket match?",
-      "link": "https://www.aljazeera.com/sports/2026/9/22/disgraceful-did-india-bully-umpires-to-win-japan-t20-cricket-match?traffic_source=rss",
-      "summary": "India survive a big scare against the hosts, beating them by two runs in a rain-hit T20 match in Sano, Japan.",
-      "published_at": "2026-09-22T13:05:30Z",
-      "region": "Ásia",
-      "theme": "Outros / Multitemático",
-      "source_name": "Al Jazeera",
-      "source_id": "aljazeera_english",
-      "is_brazilian": false,
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/09/AP26265301034171-1790066429.jpg?resize=1920%2C1440",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Lula na ONU — discurso na Assembleia Geral começa às 10h; Trump fala depois",
-      "link": "https://www.bbc.co.uk/portuguese/live/cq2e0yxwwpvzt?at_medium=RSS&at_campaign=rss",
-      "summary": "Não há uma reunião bilateral entre Lula e Trump prevista na agenda. Até agora, nenhum dos dois governos apresentou um pedido formal para um encontro.",
-      "published_at": "2026-09-22T13:05:03.329031Z",
-      "region": "América do Norte",
-      "theme": "Política Internacional",
-      "source_name": "BBC News Brasil",
-      "source_id": "bbc_brasil",
-      "is_brazilian": true,
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b4c0/live/4a96f9f0-b685-11f1-b1d1-571ed4d7ff2c.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Nutrition expert shares easy steps to healthier eating",
-      "link": "https://www.france24.com/en/tv-shows/entre-nous/20260922-nutrition-expert-shares-easy-steps-to-healthier-eating",
-      "summary": "In this edition we're looking at how to eat healthier. We speak to Cynthia Ka, the author of \"Mes assiettes naturo\". Cynthia says cooking is your pharmacy and doing your weekly shopping is a powerful act. We find out what her go-to recipe is and how we can all make the change to healthier eating.",
-      "published_at": "2026-09-22T13:02:00Z",
-      "region": "Europa",
-      "theme": "Outros / Multitemático",
-      "source_name": "France 24",
-      "source_id": "france24",
-      "is_brazilian": false,
-      "image_url": "https://s.france24.com/media/display/713da01a-b67e-11f1-8006-557acd7c815c/w:1024/p:16x9/capture-8132248796ab26ff0552d39-30971946.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Ao vivo: Receita Federal divulga arrecadação de agosto",
-      "link": "https://www.poder360.com.br/poder-economia/ao-vivo-receita-federal-divulga-arrecadacao-de-agosto/",
-      "summary": "O levantamento serve como um dos principais indicadores para acompanhar o comportamento das receitas públicas",
-      "published_at": "2026-09-22T13:00:19Z",
-      "region": "América do Sul",
-      "theme": "Economia Brasileira",
-      "source_name": "Poder360",
-      "source_id": "poder360",
-      "is_brazilian": true,
-      "image_url": "https://static.poder360.com.br/uploads/2026/07/receita-federal-brasilia.png",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1506744038136-46273834b3fb?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "UN warns of rising Yemen displacement as thousands flee to Djibouti",
-      "link": "https://www.aljazeera.com/news/2026/9/22/un-warns-of-rising-yemen-displacement-as-thousands-flee-to-djibouti?traffic_source=rss",
-      "summary": "Renewed fighting could drive 10,000 across the Red Sea and displace more than 230,000 internally, UNHCR says.",
-      "published_at": "2026-09-22T12:58:29Z",
-      "region": "Oriente Médio",
-      "theme": "Direito Internacional e Instituições",
-      "source_name": "Al Jazeera",
-      "source_id": "aljazeera_english",
-      "is_brazilian": false,
-      "image_url": "https://loremflickr.com/cache/resized/defaultImage.small_800_600_nofilter.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1505664194779-8beaceb93744?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "White House launches ‘Trump TV’ after press bans",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/22/white-house-launches-trump-tv-after-press-bans?traffic_source=rss",
-      "summary": "Days after banning a group of news organisations from the White House, the Trump administration launches 'Trump TV'.",
-      "published_at": "2026-09-22T12:57:24Z",
-      "region": "América do Norte",
-      "theme": "Política Internacional",
-      "source_name": "Al Jazeera",
-      "source_id": "aljazeera_english",
-      "is_brazilian": false,
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/09/clean-1790081827.jpg?resize=1920%2C1081&quality=80",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Irã pode reabrir Ormuz se os EUA suspenderem bloqueio",
-      "link": "https://www.poder360.com.br/poder-internacional/ira-pode-reabrir-ormuz-se-os-eua-suspenderem-bloqueio/",
-      "summary": "Representantes do Irã que participam da Assembleia Geral da ONU receberam autorização para reabrir o canal de diálogo com Washington",
-      "published_at": "2026-09-22T12:56:59Z",
-      "region": "América do Norte",
-      "theme": "Direito Internacional e Instituições",
-      "source_name": "Poder360",
-      "source_id": "poder360",
-      "is_brazilian": true,
-      "image_url": "https://static.poder360.com.br/uploads/2026/07/estreito-de-ormuz-mapa.webp",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1505664194779-8beaceb93744?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Campanha de Jaques Wagner vai à Justiça e derruba site que exibia mensagens de Daniel Vorcaro",
-      "link": "https://www.bbc.com/portuguese/articles/cr3wj2jljej0o?at_medium=RSS&at_campaign=rss",
-      "summary": "Site apresentava mensagens atribuídas ao ex-banqueiro Daniel Vorcaro, do Banco Master, e a outras figuras públicas; BBC News Brasil teve acesso à íntegra do processo.",
-      "published_at": "2026-09-22T12:56:25Z",
-      "region": "América do Sul",
-      "theme": "Outros / Multitemático",
-      "source_name": "BBC News Brasil",
-      "source_id": "bbc_brasil",
-      "is_brazilian": true,
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c3b3/live/11de3e30-6bbb-11f1-8546-8f19e4fe30f4.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Developing El Niño becomes strongest on record weeks before expected peak",
-      "link": "https://www.bbc.co.uk/weather/articles/cmvgy4nv9d62o?at_medium=RSS&at_campaign=rss",
-      "summary": "Scientists say the developing El Niño is now the strongest on record with weather impacts already being felt around the world.",
-      "published_at": "2026-09-22T12:54:14Z",
-      "region": "Global",
-      "theme": "Outros / Multitemático",
-      "source_name": "BBC World News",
-      "source_id": "bbc_world",
-      "is_brazilian": false,
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d0c8/live/a2ab36e0-b673-11f1-b711-df5e4d50c2fd.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Iran president heads to UNGA, vows to highlight US ‘oppression’",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/22/iran-president-heads-to-unga-vows-to-highlight-us-oppression?traffic_source=rss",
-      "summary": "Iran president heads to UNGA, vows to highlight US 'oppression'",
-      "published_at": "2026-09-22T12:51:53Z",
-      "region": "América do Norte",
-      "theme": "Política Internacional",
-      "source_name": "Al Jazeera",
-      "source_id": "aljazeera_english",
-      "is_brazilian": false,
-      "image_url": "https://loremflickr.com/cache/resized/6171_6164012852_b31a7c63b5_b_800_600_nofilter.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Mendonça diz que Moraes mente e pede investigação a Fachin",
-      "link": "https://www.poder360.com.br/poder-justica/mendonca-diz-que-moraes-mente-e-pede-investigacao-a-fachin/",
-      "summary": "Ministro do STF solicitou também o arquivamento do pedido para que ele fosse incluído no inquérito das fake news",
-      "published_at": "2026-09-22T12:42:27Z",
-      "region": "América do Sul",
-      "theme": "Política Brasileira",
-      "source_name": "Poder360",
-      "source_id": "poder360",
-      "is_brazilian": true,
-      "image_url": "https://static.poder360.com.br/uploads/2026/09/andre-mendonca-alexandre-moraes-1200x675.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Moraes usou arbitrariamente o inquérito das fake news, diz Mendonça",
-      "link": "https://www.poder360.com.br/poder-justica/moraes-usou-arbitrariamente-o-inquerito-das-fake-news-diz-mendonca/",
-      "summary": "Em resposta ao pedido para apurar abuso de autoridade, o ministro do STF afirmou que o colega busca desprestigiar inquéritos do Master e do INSS",
-      "published_at": "2026-09-22T12:42:27Z",
-      "region": "América do Sul",
-      "theme": "Política Brasileira",
-      "source_name": "Poder360",
-      "source_id": "poder360",
-      "is_brazilian": true,
-      "image_url": "https://static.poder360.com.br/uploads/2026/09/andre-mendonca-alexandre-moraes-1200x675.jpg",
       "fallback_images": [
         "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
