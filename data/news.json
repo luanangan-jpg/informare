@@ -1,17 +1,187 @@
 {
-  "updated_at": "2026-09-22T22:04:16.148277Z",
+  "updated_at": "2026-09-22T23:04:15.052819Z",
   "news": [
     {
       "title": "Como foram discursos de Lula e Trump na Assembleia Geral da ONU",
       "link": "https://www.bbc.co.uk/portuguese/live/cq2e0yxwwpvzt?at_medium=RSS&at_campaign=rss",
       "summary": "Não há uma reunião bilateral entre Lula e Trump prevista na agenda. Até agora, nenhum dos dois governos apresentou um pedido formal para um encontro.",
-      "published_at": "2026-09-22T22:04:04.348018Z",
+      "published_at": "2026-09-22T23:04:05.165917Z",
       "region": "América do Norte",
       "theme": "Política Internacional",
       "source_name": "BBC News Brasil",
       "source_id": "bbc_brasil",
       "is_brazilian": true,
       "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4942/live/5a130870-b6a2-11f1-bc1f-3f186ca4140c.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Michelle Bolsonaro é internada com quadro de enxaqueca",
+      "link": "https://www.poder360.com.br/poder-gente/michelle-bolsonaro-e-internada-com-quadro-de-enxaqueca/",
+      "summary": "Ex-primeira-dama foi internada no Hospital DF Star, ainda sem previsão de alta",
+      "published_at": "2026-09-22T23:03:23Z",
+      "region": "América do Sul",
+      "theme": "Política Brasileira",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2026/08/michelle-bolsonaro-2-de-agosto.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "News Wrap: Grand jury declines to bring charges in death of Nolan Wells",
+      "link": "https://www.pbs.org/newshour/show/news-wrap-grand-jury-declines-to-bring-charges-in-death-of-nolan-wells",
+      "summary": "In our news wrap Tuesday, a grand jury declined to bring charges in the death of Nolan Wells, a coroner found that actress Hayden Panettiere died from an accidental overdose of several drugs, including fentanyl and Republican Sen. John Curtis is calling for the Senate Judiciary Committee to investigate Donald Trump Jr. after news that a Russian businessman partially bankrolled his wedding party.",
+      "published_at": "2026-09-22T22:45:43Z",
+      "region": "América do Norte",
+      "theme": "Política Internacional",
+      "source_name": "PBS NewsHour",
+      "source_id": "pbs_newshour",
+      "is_brazilian": false,
+      "image_url": "https://d3i6fh83elv35t.cloudfront.net/static/2026/09/newswrapnolanwells-1024x683.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "What the Paramount-Warner Bros. merger settlement means for Hollywood",
+      "link": "https://www.pbs.org/newshour/show/what-the-paramount-warner-bros-merger-settlement-means-for-hollywood",
+      "summary": "A day after Paramount Skydance and a group of state attorneys general announced a settlement clearing the way for its merger with Warner Bros. Discovery, questions remain about whether the deal does enough to protect consumers and competition. Geoff Bennett discussed more with Oliver Darcy of Status.",
+      "published_at": "2026-09-22T22:40:32Z",
+      "region": "Global",
+      "theme": "Outros / Multitemático",
+      "source_name": "PBS NewsHour",
+      "source_id": "pbs_newshour",
+      "is_brazilian": false,
+      "image_url": "https://d3i6fh83elv35t.cloudfront.net/static/2026/09/majormerger-1024x683.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Researchers explore new uses for abortion-related drugs",
+      "link": "https://www.pbs.org/newshour/show/researchers-explore-new-uses-for-abortion-related-drugs",
+      "summary": "For years, mifepristone and similar drugs have been used to treat uterine fibroids and endometriosis. Now researchers are exploring whether these drugs could have other uses in women's health, including preventing some cancers. But the politics and restrictions surrounding these drugs could affect the research. Special correspondent Sarah Varney reports for our series, Beyond Abortion.",
+      "published_at": "2026-09-22T22:30:36Z",
+      "region": "Global",
+      "theme": "Ciência, Tecnologia e Inovação",
+      "source_name": "PBS NewsHour",
+      "source_id": "pbs_newshour",
+      "is_brazilian": false,
+      "image_url": "https://d3i6fh83elv35t.cloudfront.net/static/2026/09/beyondabortion-1024x683.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1518770660439-4636190af475?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1507668077129-56e32842fceb?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Discurso de Trump na ONU amplia foco sobre América Latina às vésperas das eleições brasileiras",
+      "link": "https://www.bbc.com/portuguese/articles/cj3v4y3vw3w2o?at_medium=RSS&at_campaign=rss",
+      "summary": "Especialistas consultados pela BBC News Brasil avaliam que discurso do líder americano sobre possível uso de força militar para garantir interesses dos EUA na América Latina 'atinge o Brasil', apesar de país não ter sido citado diretamente",
+      "published_at": "2026-09-22T22:29:59Z",
+      "region": "América do Norte",
+      "theme": "Política Internacional",
+      "source_name": "BBC News Brasil",
+      "source_id": "bbc_brasil",
+      "is_brazilian": true,
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/eae4/live/71860f60-b6d0-11f1-bc1f-3f186ca4140c.png",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "2 years after the storm, graphic novel shares stories of Hurricane Helene survivors",
+      "link": "https://www.pbs.org/newshour/show/2-years-after-the-storm-graphic-novel-shares-stories-of-hurricane-helene-survivors",
+      "summary": "Two years after Hurricane Helene ripped through much of the Southeast, many of the communities affected by that storm are still recovering. A new project has chronicled their journey, using what might seem like an unlikely medium: a graphic novel. William Brangham discussed \"Islands in the Sky: A People's History of Hurricane Helene\" with Andrew Aydin. It's for our arts and culture series, CANVAS.",
+      "published_at": "2026-09-22T22:25:58Z",
+      "region": "Global",
+      "theme": "Meio Ambiente e Clima",
+      "source_name": "PBS NewsHour",
+      "source_id": "pbs_newshour",
+      "is_brazilian": false,
+      "image_url": "https://d3i6fh83elv35t.cloudfront.net/static/2026/09/survivorstories-e1790107633355-1-1024x683.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Como Rick, da dupla Rick & Renner, ajudou a renovar a sertanejo",
+      "link": "https://www.bbc.com/portuguese/articles/c574eyxvzjzlo?at_medium=RSS&at_campaign=rss",
+      "summary": "O intérprete de 'Ela é Demais' participou de um movimento no fim dos anos 1990 com letras que exploravam um lado mais bem-humorado, malicioso e sensual do romance, em vez de apostar só no sofrimento amoroso.",
+      "published_at": "2026-09-22T22:14:07Z",
+      "region": "América do Sul",
+      "theme": "Outros / Multitemático",
+      "source_name": "BBC News Brasil",
+      "source_id": "bbc_brasil",
+      "is_brazilian": true,
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/aca9/live/263c5090-b672-11f1-b711-df5e4d50c2fd.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Lula tem 60,5% contra 32,7% de Flávio no 2º turno em PE, diz pesquisa",
+      "link": "https://www.poder360.com.br/poder-eleicoes-2026/lula-tem-605-contra-327-de-flavio-no-2o-turno-em-pe-diz-pesquisa/",
+      "summary": "Levantamento da AtlasIntel ouviu 1.836 eleitores de 15 a 20 de setembro de 2026; a margem de erro é de 2 p.p",
+      "published_at": "2026-09-22T22:12:57Z",
+      "region": "América do Sul",
+      "theme": "Política Brasileira",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2026/08/Lula-Flavio-entrevistas-Globo-ago2026-1200x675.png",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Celebrities at the Pentagon: How unusual was the Paul brothers’ visit?",
+      "link": "https://www.aljazeera.com/economy/2026/9/22/celebrities-at-the-pentagon-how-unusual-was-the-paul-brothers-visit?traffic_source=rss",
+      "summary": "Logan and Jake Paul face social media backlash after Pentagon visit with Pete Hegseth.",
+      "published_at": "2026-09-22T22:10:25Z",
+      "region": "América do Norte",
+      "theme": "Outros / Multitemático",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/09/9954505-1790091593.jpg?resize=1920%2C1440",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "US Republican calls for probe into Donald Trump Jr’s business dealings",
+      "link": "https://www.aljazeera.com/news/2026/9/22/us-republican-calls-for-probe-into-donald-trump-jrs-business-dealings?traffic_source=rss",
+      "summary": "US Senator John Curtis's letter marks a rare effort by a member of the president's own party to hold him accountable.",
+      "published_at": "2026-09-22T22:07:50Z",
+      "region": "América do Norte",
+      "theme": "Política Internacional",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": "https://loremflickr.com/cache/resized/defaultImage.small_800_600_nofilter.jpg",
       "fallback_images": [
         "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
@@ -84,6 +254,23 @@
         "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Trump threatens to 'annihilate' Iran in UN speech as officials meet on sidelines",
+      "link": "https://www.bbc.co.uk/news/articles/c52e0ywl9pr7o?at_medium=RSS&at_campaign=rss",
+      "summary": "In his speech, the US president pondered whether a peace deal would be agreed or whether he would have to take extreme action against Iran.",
+      "published_at": "2026-09-22T21:50:31Z",
+      "region": "América do Norte",
+      "theme": "Política Internacional",
+      "source_name": "BBC World News",
+      "source_id": "bbc_world",
+      "is_brazilian": false,
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ce7/live/a35e4ee0-b6a2-11f1-ba3d-1d5c8a47f823.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
       ]
     },
     {
@@ -794,23 +981,6 @@
       "source_id": "aljazeera_english",
       "is_brazilian": false,
       "image_url": "https://loremflickr.com/cache/resized/65535_52106198460_3e40930e59_c_800_600_nofilter.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Como Rick, da dupla Rick & Renner, ajudou a renovar a sertanejo",
-      "link": "https://www.bbc.com/portuguese/articles/c574eyxvzjzlo?at_medium=RSS&at_campaign=rss",
-      "summary": "O intérprete de 'Ela é Demais' participou de um movimento no fim dos anos 1990 com letras que exploravam um lado mais bem-humorado, malicioso e sensual do romance, em vez de apostar só no sofrimento amoroso.",
-      "published_at": "2026-09-22T19:16:39Z",
-      "region": "América do Sul",
-      "theme": "Outros / Multitemático",
-      "source_name": "BBC News Brasil",
-      "source_id": "bbc_brasil",
-      "is_brazilian": true,
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/aca9/live/263c5090-b672-11f1-b711-df5e4d50c2fd.jpg",
       "fallback_images": [
         "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
@@ -2299,18 +2469,18 @@
     {
       "title": "Lula critica la falta de liderazgo de la ONU y defiende de nuevo el multilateralismo para solventar las crisis",
       "link": "https://www.europapress.es/internacional/noticia-lula-critica-falta-liderazgo-onu-defiende-nuevo-multilateralismo-solventar-crisis-20260922171230.html",
-      "summary": "El presidente brasileño defiende que \"el pueblo venezolano tiene que decidir su propio destino\" y afea a la Nicaragua de Ortega la persecución de la oposición",
+      "summary": "El presidente de Brasil, Luiz Inácio Lula da Silva, ha lamentado este martes, ante la Asamblea General de Naciones Unidas, la falta de liderazgo y credibilidad de la organización para hacer frente a un periodo marcado por numerosos conflictos y crisis internacionales, reafirmando una vez más su apuesta por el multilateralismo.",
       "published_at": "2026-09-22T15:12:30Z",
       "region": "América do Sul",
-      "theme": "Política Internacional",
+      "theme": "Direito Internacional e Instituições",
       "source_name": "Europa Press",
       "source_id": "europa_press",
       "is_brazilian": false,
       "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260922171230_120.jpg",
       "fallback_images": [
-        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
+        "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1505664194779-8beaceb93744?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop"
       ]
     },
     {
@@ -2379,176 +2549,6 @@
         "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Call of Duty's Activision to make next Halo game as Xbox cuts more jobs",
-      "link": "https://www.bbc.co.uk/news/articles/cvj64gz74ky4o?at_medium=RSS&at_campaign=rss",
-      "summary": "The news comes as part of a \"reset\" announced by Xbox in July, with 3,600 planned job losses overall.",
-      "published_at": "2026-09-22T14:51:39Z",
-      "region": "Global",
-      "theme": "Outros / Multitemático",
-      "source_name": "BBC World News",
-      "source_id": "bbc_world",
-      "is_brazilian": false,
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d3d0/live/a8257e70-b6a3-11f1-ba3d-1d5c8a47f823.png",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "PT pede ao STF auditoria em emendas de Flávio Bolsonaro desde 2019",
-      "link": "https://www.poder360.com.br/poder-eleicoes-2026/pt-pede-ao-stf-auditoria-em-emendas-de-flavio-bolsonaro-desde-2019/",
-      "summary": "Ação se baseia em indícios de desvio em repasse de R$ 200 mil a instituto esportivo; sigla quer que CGU revise repasses",
-      "published_at": "2026-09-22T14:51:09Z",
-      "region": "América do Sul",
-      "theme": "Política Brasileira",
-      "source_name": "Poder360",
-      "source_id": "poder360",
-      "is_brazilian": true,
-      "image_url": "https://static.poder360.com.br/uploads/2026/08/Pedro-Uczai-848x477-1-1200x675.png",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Leia a íntegra do discurso de Lula na Assembleia Geral da ONU",
-      "link": "https://www.poder360.com.br/poder-governo/leia-a-integra-do-discurso-de-lula-na-assembleia-geral-da-onu-2/",
-      "summary": "Em fala na abertura do evento, o petista defende a soberania nacional e diz que “Brasil não cabe no quintal de ninguém”",
-      "published_at": "2026-09-22T14:49:48Z",
-      "region": "América do Sul",
-      "theme": "Política Brasileira",
-      "source_name": "Poder360",
-      "source_id": "poder360",
-      "is_brazilian": true,
-      "image_url": "https://static.poder360.com.br/uploads/2026/09/Lula-ONU-Nova-York-22-set-2026-2-1200x675.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Why are the Houthis fighting for Yemen’s Kahboub Mountains?",
-      "link": "https://www.aljazeera.com/news/2026/9/22/why-are-the-houthis-fighting-for-yemens-kahboub-mountains?traffic_source=rss",
-      "summary": "Kahboub could help the Houthis consolidate control near one of the world’s busiest shipping routes.",
-      "published_at": "2026-09-22T14:47:25Z",
-      "region": "Oriente Médio",
-      "theme": "Outros / Multitemático",
-      "source_name": "Al Jazeera",
-      "source_id": "aljazeera_english",
-      "is_brazilian": false,
-      "image_url": "https://loremflickr.com/cache/resized/defaultImage.small_800_600_nofilter.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Lula diz na ONU que não cederá à pressão para privatizar o Pix",
-      "link": "https://www.poder360.com.br/poder-governo/lula-diz-na-onu-que-nao-cedera-a-pressao-para-privatizar-o-pix/",
-      "summary": "Presidente vinculou a defesa da ferramenta ao debate sobre tecnologia, soberania digital e regulamentação das Big Techs",
-      "published_at": "2026-09-22T14:45:13Z",
-      "region": "América do Sul",
-      "theme": "Política Brasileira",
-      "source_name": "Poder360",
-      "source_id": "poder360",
-      "is_brazilian": true,
-      "image_url": "https://static.poder360.com.br/uploads/2026/09/lula-onu-ny-22-set-2026-1200x675.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Lula leva eleições brasileiras à ONU e defende escolha do povo",
-      "link": "https://www.poder360.com.br/poder-governo/lula-leva-eleicoes-brasileiras-a-onu-e-defende-escolha-do-povo/",
-      "summary": "Presidente cita pleito de outubro, desinformação digital e interferência estrangeira durante discurso em Nova York",
-      "published_at": "2026-09-22T14:44:23Z",
-      "region": "América do Sul",
-      "theme": "Política Brasileira",
-      "source_name": "Poder360",
-      "source_id": "poder360",
-      "is_brazilian": true,
-      "image_url": "https://static.poder360.com.br/uploads/2026/09/lula-onu-ny-22-set-2026-2-1200x675.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "UN climate change body accused of conflict of interest, Saudi influence",
-      "link": "https://www.france24.com/en/video/20260922-un-climate-change-body-accused-of-conflict-of-interest-saudi-influence",
-      "summary": "An investigation conducted by the Guardian is raising questions about potential conflicts of interest among experts helping produce the next major assessment from the UN’s Inter-governmental Panel on Climate Change. Out of the 223 lead authors in the part of the body which assesses how emissions can be reduced or removed, 20 have a strong conflict of interest, according to the investigation, with more than half linked to Saudi institutions, including two employees of oil giant Saudi Aramco.",
-      "published_at": "2026-09-22T14:38:51Z",
-      "region": "Oriente Médio",
-      "theme": "Geopolítica e Segurança",
-      "source_name": "France 24",
-      "source_id": "france24",
-      "is_brazilian": false,
-      "image_url": "https://s.france24.com/media/display/4298cdac-b692-11f1-8b2b-4d220c210a04/w:1024/p:16x9/EN-20260922-161430-161543-CS.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "UN Chief condemns Gaza destruction, West Bank settlements",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/22/un-chief-condemns-gaza-destruction-west-bank-settlements?traffic_source=rss",
-      "summary": "In his final UN General Assembly address as secretary-general, Antonio Guterres condemned the killing in Gaza.",
-      "published_at": "2026-09-22T14:37:24Z",
-      "region": "Oriente Médio",
-      "theme": "Direito Internacional e Instituições",
-      "source_name": "Al Jazeera",
-      "source_id": "aljazeera_english",
-      "is_brazilian": false,
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/09/Screenshot-2026-09-22-at-15.31.15-1790087597.png?resize=1200%2C675",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1505664194779-8beaceb93744?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Lula critica ONU e diz que credibilidade “nunca esteve tão baixa”",
-      "link": "https://www.poder360.com.br/poder-governo/nos-eua-lula-critica-onu-credibilidade-nunca-esteve-tao-baixa/",
-      "summary": "Durante a Assembleia Geral da organização, disse que poder de veto do Conselho de Segurança permite “insensatez” a potências",
-      "published_at": "2026-09-22T14:36:45Z",
-      "region": "América do Sul",
-      "theme": "Direito Internacional e Instituições",
-      "source_name": "Poder360",
-      "source_id": "poder360",
-      "is_brazilian": true,
-      "image_url": "https://static.poder360.com.br/uploads/2026/09/Lula-ONU-1080-1200x675.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1505664194779-8beaceb93744?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "ONU vive momento crítico, diz Lula ao citar indignação com guerras",
-      "link": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-09/onu-vive-momento-critico-diz-lula-ao-citar-indignacao-com-guerras",
-      "summary": "O presidente Luiz Inácio Lula da Silva disse nesta terça-feira (22) que a Organização das Nações Unidas (ONU) vive, desde 2003, seu momento mais crítico. “A ONU está falhando em uma de suas missões mais elevadas: a de livrar a humanidade do flagelo da guerra. Sua credibilidade nunca esteve tão baixa”. “O sentimento que me move hoje é o da indignação”, disse . “A capacidade da ONU de proteger os mais vulneráveis, os que não têm exércitos nem arsenais, nunca foi tão pequena”, completou. Notícias relacionadas: Secretário-geral da ONU alerta para avanço de guerras e riscos da IA. A declaração foi feita durante a abertura do debate geral da 81ª Assembleia Geral da ONU, em Nova York. Em sua fala, Lula lembrou que essa é a 10ª vez em que abre o debate geral e, da tribuna, voltou a criticar especificamente o trabalho do Conselho de Segurança da organização. “Somos todos reféns do imobilismo de um Conselho de Segurança que não cumpre o seu papel”, disse. “Em 1946, já na primeira sessão dessa assembleia, o Brasil alertava para o alto preço que a comunidade internacional pagaria pelo direito de veto. Esse vício conferiu às grandes potências o privilégio da insensatez”. Antes do pronunciamento, Lula se reuniu com o secretário-geral da ONU, António Guterres. O presidente brasileiro subiu à tribuna logo no início da sessão, antes do presidente dos Estados Unidos, Donald Trump. Na segunda-feira (21), Lula se reuniu, já em Nova York, com o presidente do Uruguai, Yamandú Orsi, com o prefeito de Nova York, Zohran Mamdani, e com o senador americano Bernie Sanders. Após o discurso na assembleia geral da ONU, ele deve deixar Nova York ainda nesta terça-feira. O embarque está previsto para 13h50 no horário local, 14h50 no horário de Brasília, com chegada à capital federal prevista para as 23h40.",
-      "published_at": "2026-09-22T14:36:00Z",
-      "region": "América do Sul",
-      "theme": "Direito Internacional e Instituições",
-      "source_name": "Agência Brasil",
-      "source_id": "agencia_brasil",
-      "is_brazilian": true,
-      "image_url": "https://loremflickr.com/cache/resized/defaultImage.small_800_600_nofilter.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1505664194779-8beaceb93744?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop"
       ]
     }
   ]
