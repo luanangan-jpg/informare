@@ -1,17 +1,221 @@
 {
-  "updated_at": "2026-09-22T20:04:23.849459Z",
+  "updated_at": "2026-09-22T21:04:34.085251Z",
   "news": [
     {
       "title": "Como foram discursos de Lula e Trump na Assembleia Geral da ONU",
       "link": "https://www.bbc.co.uk/portuguese/live/cq2e0yxwwpvzt?at_medium=RSS&at_campaign=rss",
       "summary": "Não há uma reunião bilateral entre Lula e Trump prevista na agenda. Até agora, nenhum dos dois governos apresentou um pedido formal para um encontro.",
-      "published_at": "2026-09-22T20:04:08.116577Z",
+      "published_at": "2026-09-22T21:04:21.769422Z",
       "region": "América do Norte",
       "theme": "Política Internacional",
       "source_name": "BBC News Brasil",
       "source_id": "bbc_brasil",
       "is_brazilian": true,
       "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4942/live/5a130870-b6a2-11f1-bc1f-3f186ca4140c.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Políticos lamentam morte do sertanejo Rick, da dupla com Renner",
+      "link": "https://www.poder360.com.br/poder-gente/politicos-lamentam-morte-do-sertanejo-rick-da-dupla-com-renner/",
+      "summary": "Flávio Bolsonaro e outros políticos prestaram homenagens ao cantor nas redes sociais",
+      "published_at": "2026-09-22T21:03:51Z",
+      "region": "América do Sul",
+      "theme": "Política Brasileira",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://loremflickr.com/cache/resized/defaultImage.small_800_600_nofilter.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Como é feito o controle de voo dos helicópteros — e por que alguns 'somem do radar' mesmo sem acidentes",
+      "link": "https://www.bbc.com/portuguese/articles/cmvgydnl9j18o?at_medium=RSS&at_campaign=rss",
+      "summary": "Helicópteros apresentam um perfil de operação diferente em relação à maioria das aeronaves, operando com frequência mais próximos ao solo e realizando decolagens e pousos verticais",
+      "published_at": "2026-09-22T20:56:49Z",
+      "region": "América do Sul",
+      "theme": "Outros / Multitemático",
+      "source_name": "BBC News Brasil",
+      "source_id": "bbc_brasil",
+      "is_brazilian": true,
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/1fc5/live/3341ad30-b6a4-11f1-b1d1-571ed4d7ff2c.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Flávio aciona TSE pela 15ª vez contra Lula por uso da máquina",
+      "link": "https://www.poder360.com.br/poder-eleicoes-2026/flavio-aciona-tse-pela-15a-vez-contra-lula-por-uso-da-maquina/",
+      "summary": "Chapa do PL declara que presidente e aliados praticaram condutas vedadas em eventos institucionais de saúde e segurança pública",
+      "published_at": "2026-09-22T20:35:53Z",
+      "region": "América do Sul",
+      "theme": "Política Brasileira",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://loremflickr.com/cache/resized/defaultImage.small_800_600_nofilter.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Dólar cai 0,11% e fecha em R$ 5,103; Ibovespa sobe",
+      "link": "https://www.poder360.com.br/poder-economia/dolar-cai-011-e-fecha-em-r-5103-ibovespa-sobe/",
+      "summary": "Os investidores reagiram à divulgação da ata do Copom, ao discurso de Lula na ONU e a pesquisa Quaest",
+      "published_at": "2026-09-22T20:33:48Z",
+      "region": "América do Sul",
+      "theme": "Comércio e Finanças",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://loremflickr.com/cache/resized/defaultImage.small_800_600_nofilter.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1578575437130-527eed3abbec?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1522071820081-009f0129c71c?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Saudi Arabia’s King Salman slams targeting of Mecca by ‘terrorist’ Houthis",
+      "link": "https://www.aljazeera.com/news/2026/9/22/saudi-king-slams-heinous-targeting-of-mecca-by-terrorist-houthis?traffic_source=rss",
+      "summary": "Saudi monarch's rare condemnation hints at sense of urgency in the kingdom amid ramped-up attacks from Yemen.",
+      "published_at": "2026-09-22T20:27:45Z",
+      "region": "Oriente Médio",
+      "theme": "Outros / Multitemático",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/09/SAUDIKING-1790102756_364134-1790106052.jpg?resize=1200%2C630&quality=80",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Trump: US-Iran meeting at UN was ‘very good’",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/22/trump-us-iran-meeting-at-un-was-very?traffic_source=rss",
+      "summary": "US President Donald Trump says he had a ‘very good’ three-hour meeting with Iranian officials at the UN.",
+      "published_at": "2026-09-22T20:23:48Z",
+      "region": "América do Norte",
+      "theme": "Política Internacional",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": "https://loremflickr.com/cache/resized/121_297351221_9dc226ca7a_c_800_600_nofilter.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Maioria dos eleitores rejeita Gilmar, Fachin, Kassio, Moraes e Toffoli",
+      "link": "https://www.poder360.com.br/poder-eleicoes-2026/maioria-dos-eleitores-rejeita-gilmar-fachin-kassio-moraes-e-toffoli/",
+      "summary": "Pesquisa AtlasIntel sobre imagem do Supremo indica que 61% dos brasileiros não confiam na Corte; os ministros mais bem avaliados são Cármen Lúcia, Mendonça e Dino",
+      "published_at": "2026-09-22T20:22:47Z",
+      "region": "América do Sul",
+      "theme": "Ciência, Tecnologia e Inovação",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://loremflickr.com/cache/resized/defaultImage.small_800_600_nofilter.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1518770660439-4636190af475?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1507668077129-56e32842fceb?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Miriam Belchior se reúne com ministros e discute eleições nesta 3ª feira",
+      "link": "https://www.poder360.com.br/poder-governo/miriam-belchior-se-reune-com-ministros-e-discute-eleicoes-nesta-3a-feira/",
+      "summary": "Chefe da Casa Civil convidou integrantes do governo para um jantar a 12 dias do 1º turno",
+      "published_at": "2026-09-22T20:14:29Z",
+      "region": "América do Sul",
+      "theme": "Política Brasileira",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://loremflickr.com/cache/resized/defaultImage.small_800_600_nofilter.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "US refusing to give Sudan's de facto leader visa for UN",
+      "link": "https://www.france24.com/en/us-refusing-to-give-sudan-s-de-facto-leader-visa-for-un",
+      "summary": "In tonight's edition, the United States is withholding a visa for Sudanese army chief al-Burhan ahead of his scheduled UN appearance. Also, Ghana’s beefing up its drugs authority in the wake of major drug busts in France, Belgium and South Africa. And it’s back-to-school season in Ivory Coast.",
+      "published_at": "2026-09-22T20:13:30Z",
+      "region": "África",
+      "theme": "Direito Internacional e Instituições",
+      "source_name": "France 24",
+      "source_id": "france24",
+      "is_brazilian": false,
+      "image_url": "https://s.france24.com/media/display/0e378640-b6c2-11f1-8a88-e554abee39f5/w:1024/p:16x9/capture-10838219656ab2e15fe7a857-34442302.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1505664194779-8beaceb93744?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Macron urges world to 'stand firm' against 'abuse of power by empires' in final UN speech",
+      "link": "https://www.france24.com/en/france/20260922-macron-urges-world-stand-firm-against-abuse-of-power-by-empires-final-un-speech",
+      "summary": "French President Emmanuel Macron used his last address before the UN General Assembly as France's leader to urge the world's nations to stand alongside the United Nations in the face of a resurgent \"law of the jungle\". Macron also called for a moratorium on strikes on civilian and energy infrastructure in the Russia-Ukraine war and an \"open-source\" model for frontier AI independent of China and the US.",
+      "published_at": "2026-09-22T20:08:28Z",
+      "region": "Europa",
+      "theme": "Política Internacional",
+      "source_name": "France 24",
+      "source_id": "france24",
+      "is_brazilian": false,
+      "image_url": "https://s.france24.com/media/display/1a0a7a22-b6bd-11f1-be68-1d61c7110e09/w:1024/p:16x9/AP26265675284236.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "NYC Mayor Mamdani reaches record DoorDash settlement for underpaid workers",
+      "link": "https://www.aljazeera.com/economy/2026/9/22/nyc-mayor-mamdani-reaches-record-doordash-settlement-for-underpaid-workers?traffic_source=rss",
+      "summary": "Settlement is largest of its kind in any US city and is set to affect 260,000 delivery drivers.",
+      "published_at": "2026-09-22T20:03:50Z",
+      "region": "América do Norte",
+      "theme": "Outros / Multitemático",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-09-21T160237Z_1168235865_RC2SNNAY7LH2_RTRMADP_3_USA-MAMDANI-LULA-1790104520.jpg?resize=1920%2C1440",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Brazil’s Lula: Gaza’s ‘pain and trauma’ will last generations",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/22/brazils-lula-gazas-pain-and-trauma-will-last-generations?traffic_source=rss",
+      "summary": "Brazilian President Luiz Inacio Lula da Silva condemned the “pain and trauma” inflicted by Israel’s government in Gaza.",
+      "published_at": "2026-09-22T19:59:36Z",
+      "region": "América do Sul",
+      "theme": "Política Internacional",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/09/wide_thumb_Lula-1790107161.jpg?resize=1920%2C1080&quality=80",
       "fallback_images": [
         "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
@@ -157,7 +361,7 @@
     {
       "title": "Ao vivo: Edinho, Alckmin e Haddad participam de ato em São Paulo",
       "link": "https://www.poder360.com.br/poder-eleicoes-2026/ao-vivo-edinho-alckmin-e-haddad-participam-de-ato-em-sao-paulo/",
-      "summary": "Evento “O Brasil Pronto Para Mais” reúne integrantes e candidatos de partidos aliados de Lula às 17h",
+      "summary": "Evento “O Brasil Pronto Para Mais” reúne integrantes e candidatos de partidos aliados de Lula a partir das 19h",
       "published_at": "2026-09-22T19:30:24Z",
       "region": "América do Sul",
       "theme": "Economia Brasileira",
@@ -429,7 +633,7 @@
     {
       "title": "Qatar’s emir urges diplomacy as Gulf at ‘one of the most dangerous phases’",
       "link": "https://www.aljazeera.com/news/2026/9/22/qatars-emir-urges-diplomacy-as-gulf-at-one-of-the-most-dangerous?traffic_source=rss",
-      "summary": "Sheikh Tamim says years of delayed diplomacy led to the US-Israeli war on Iran.",
+      "summary": "Sheikh Tamim says years of delayed diplomacy led to the US-Israel war on Iran.",
       "published_at": "2026-09-22T18:48:37Z",
       "region": "Oriente Médio",
       "theme": "Política Internacional",
@@ -495,23 +699,6 @@
       ]
     },
     {
-      "title": "Como é feito o controle de voo dos helicópteros — e por que alguns 'somem do radar' mesmo sem acidentes",
-      "link": "https://www.bbc.com/portuguese/articles/cmvgydnl9j18o?at_medium=RSS&at_campaign=rss",
-      "summary": "Helicópteros apresentam um perfil de operação diferente em relação à maioria das aeronaves, operando com frequência mais próximos ao solo e realizando decolagens e pousos verticais",
-      "published_at": "2026-09-22T18:36:37Z",
-      "region": "América do Sul",
-      "theme": "Outros / Multitemático",
-      "source_name": "BBC News Brasil",
-      "source_id": "bbc_brasil",
-      "is_brazilian": true,
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/1fc5/live/3341ad30-b6a4-11f1-b1d1-571ed4d7ff2c.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
       "title": "Qatar urges diplomacy, rejects Strait of Hormuz ‘bargaining’",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/9/22/qatar-urges-diplomacy-rejects-strait-of-hormuz?traffic_source=rss",
       "summary": "Qatari Emir Sheikh Tamim bin Hamad Al Thani called for the reopening of the Strait of Hormuz while speaking at the UN.",
@@ -573,23 +760,6 @@
       "source_id": "france24",
       "is_brazilian": false,
       "image_url": "https://s.france24.com/media/display/5563ab84-b6ae-11f1-93d1-d5a6f2570fbe/w:1024/p:16x9/2026-09-22T175028Z-586299362-RC2HONA599SW-RTRMADP-3-UKRAINE-CRISIS-TRUMP-ZELENSKIY.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "US, Iran hold ‘very good’ talks, Trump says at UN meeting",
-      "link": "https://www.aljazeera.com/news/2026/9/22/trump-says-us-officials-met-with-iranian-delegation-for-three-hours-2?traffic_source=rss",
-      "summary": "US President hints at possible deal with Iran, but warns of dire consequences if no agreement is reached.",
-      "published_at": "2026-09-22T18:14:12Z",
-      "region": "América do Norte",
-      "theme": "Política Internacional",
-      "source_name": "Al Jazeera",
-      "source_id": "aljazeera_english",
-      "is_brazilian": false,
-      "image_url": "https://loremflickr.com/cache/resized/121_297351221_9dc226ca7a_c_800_600_nofilter.jpg",
       "fallback_images": [
         "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
@@ -2375,176 +2545,6 @@
       "source_id": "bbc_brasil",
       "is_brazilian": true,
       "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a3a4/live/d6c542b0-b68a-11f1-97fb-8d66d3951490.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Lithuania ready to 'fight back' but has evacuation plans in face of Russia threats, PM tells BBC",
-      "link": "https://www.bbc.co.uk/news/articles/ck5yw8npxzrlo?at_medium=RSS&at_campaign=rss",
-      "summary": "Sinkevičius told BBC Newsnight Lithuanians feel \"constantly threatened\" by Moscow, but the nation was prepared to \"fight back\" if attacked.",
-      "published_at": "2026-09-22T13:49:22Z",
-      "region": "Europa",
-      "theme": "Outros / Multitemático",
-      "source_name": "BBC World News",
-      "source_id": "bbc_world",
-      "is_brazilian": false,
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4e66/live/e66f3610-b646-11f1-bc1f-3f186ca4140c.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Vilela lidera disputa ao governo de Goiás, diz pesquisa",
-      "link": "https://www.poder360.com.br/poder-eleicoes-2026/vilela-lidera-disputa-ao-governo-de-goias-diz-pesquisa/",
-      "summary": "Real Time Big Data: Candidato do MDB tem 58% contra 28% de Marconi em cenário de 2º turno",
-      "published_at": "2026-09-22T13:48:27Z",
-      "region": "América do Sul",
-      "theme": "Política Brasileira",
-      "source_name": "Poder360",
-      "source_id": "poder360",
-      "is_brazilian": true,
-      "image_url": "https://static.poder360.com.br/uploads/2025/12/Daniel-Vilela-Romullo-Carvalho-Secom.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Colombia eases gun restrictions despite fears of more violence",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/22/colombia-eases-gun-restrictions-despite-fears-of-more-violence?traffic_source=rss",
-      "summary": "Colombia has loosened gun laws after more than a decade of restrictions. Some fear it will lead to even more violence.",
-      "published_at": "2026-09-22T13:45:31Z",
-      "region": "América do Sul",
-      "theme": "Outros / Multitemático",
-      "source_name": "Al Jazeera",
-      "source_id": "aljazeera_english",
-      "is_brazilian": false,
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1790084512.jpg?resize=1920%2C1080&quality=80",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Trump trasladará a Zelenski la propuesta de una tregua en los ataques contra infraestructura energética",
-      "link": "https://www.europapress.es/internacional/noticia-trump-trasladara-zelenski-propuesta-tregua-ataques-contra-infraestructura-energetica-20260922154523.html",
-      "summary": "El secretario de Estado de Estados Unidos, Marco Rubio, ha revelado que el presidente Donald Trump trasladará a su homólogo ucraniano, Volodimir Zelenski, la propuesta de una tregua en los ataques contra la infraestructura energética, en el encuentro previsto este martes en los márgenes de la Asamblea General de la ONU.",
-      "published_at": "2026-09-22T13:45:23Z",
-      "region": "América do Norte",
-      "theme": "Política Internacional",
-      "source_name": "Europa Press",
-      "source_id": "europa_press",
-      "is_brazilian": false,
-      "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260922154523_120.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "União Europeia multa Google por uso indevido de dados de localização",
-      "link": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-09/uniao-europeia-multa-google-em-403-milhoes-de-euros",
-      "summary": "A principal autoridade reguladora de proteção de dados da União Europeia (UE) multou o Google em 403 milhões de euros, após uma investigação sobre o tratamento de dados de localização. A empresa alega que suas políticas já foram atualizadas. Notícias relacionadas: AGU notifica Google para remover perfis que promovem apostas ilegais. Governo identifica 97 médicos falsos de IA no Youtube e aciona Google. TSE e Google lançam ferramenta para proteger candidatos de deepfakes. A Comissão de Proteção de Dados da Irlanda (DPC, na sigla em inglês) informou ter constatado que o Google havia infringido as regras de privacidade da UE, conhecidas como Regulamento Geral de Proteção de Dados, por meio de três de seus recursos específicos: “Atividade na Web e em aplicativos”, “Histórico de localização” e “Precisão de localização”. As infrações teriam ocorrido entre 2018 e 2020. Um porta-voz do Google afirmou que o caso girava em torno de políticas antigas e que a empresa havia lançado ferramentas robustas e aprimorado significativamente suas práticas de gerenciamento de dados de localização desde 2019. O Google, que está sujeito a três inquéritos legais distintos em andamento, foi intimado pelo órgão regulador a adequar seu processamento de dados de localização às normas em vigor no prazo de seis meses. A multa foi a quarta maior entre os mais de 4 bilhões de euros aplicados pela DPC desde que se tornou o principal órgão regulador da União Europeia para a maioria das grandes empresas de tecnologia dos EUA, conforme o regulamento de 2018, devido à localização das operações dessas companhias na Irlanda. “Como resultado das falhas do Google, as pessoas poderiam não ter percebido que sua localização estava sendo usada, por exemplo, para influenciá-las com anúncios ou para inferir seus interesses, e poderiam perder o controle sobre seus dados pessoais”, afirmou o vice-comissário da DPC, Graham Doyle, em comunicado. A DPC iniciou a investigação em 2020, após reclamações de várias entidades europeias de defesa dos direitos do consumidor, incluindo a organização pan-europeia de consumidores BEUC, relativas ao tratamento de dados de localização pelo Google. As infrações incluíram a legalidade e a equidade do tratamento de dados de localização pelo Google na “Atividade na Web e em aplicativos”, uma configuração de conta que processa informações relacionadas à atividade dos usuários nos serviços da ferramenta de busca, e no “Histórico de localização”, que rastreia a localização dos usuários por meio de dispositivos móveis. *É proibida a reprodução deste conteúdo. O Google afirmou que, desde o período investigado, introduziu atualizações que permitem aos usuários excluir automaticamente dados pessoais de forma contínua, armazenar dados da linha do tempo diretamente no dispositivo e gerenciar como os dados, incluindo a localização, são utilizados para anúncios. Além disso, a empresa armazena uma área geral estimada, em vez da localização precisa do dispositivo, quando um usuário realiza uma busca no Google, acrescentou.",
-      "published_at": "2026-09-22T13:43:00Z",
-      "region": "Europa",
-      "theme": "Ciência, Tecnologia e Inovação",
-      "source_name": "Agência Brasil",
-      "source_id": "agencia_brasil",
-      "is_brazilian": true,
-      "image_url": "https://loremflickr.com/cache/resized/1867_43396040325_f1180c2f23_b_800_600_nofilter.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1518770660439-4636190af475?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1507668077129-56e32842fceb?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Iran must stop arming Houthis in Yemen, G7 says ahead of UN General Assembly",
-      "link": "https://www.bbc.co.uk/news/articles/cwm2qpmepmlzo?at_medium=RSS&at_campaign=rss",
-      "summary": "The G7 also condemns \"in the strongest terms\" Houthi attacks on Saudi Arabia, saying that the escalation in fighting in Yemen jeopardises global energy security.",
-      "published_at": "2026-09-22T13:39:09Z",
-      "region": "Oriente Médio",
-      "theme": "Direito Internacional e Instituições",
-      "source_name": "BBC World News",
-      "source_id": "bbc_world",
-      "is_brazilian": false,
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d7c/live/6082be10-b686-11f1-b1d1-571ed4d7ff2c.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1505664194779-8beaceb93744?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "'Nunca tinha visto modelos apontarem uma área tão grande de risco': temporal que já deixou vítimas no RS agora ameaça Estado com enchentes",
-      "link": "https://www.bbc.com/portuguese/articles/cw5y4ej510zko?at_medium=RSS&at_campaign=rss",
-      "summary": "Inmet emitiu alerta vermelho para 699 municípios do Sul do país; Defesa Civil confirma morte, feridos e desaparecidos, enquanto rios Taquari, Caí e dos Sinos sobem na Serra Gaúcha.",
-      "published_at": "2026-09-22T13:38:29Z",
-      "region": "América do Sul",
-      "theme": "Meio Ambiente e Clima",
-      "source_name": "BBC News Brasil",
-      "source_id": "bbc_brasil",
-      "is_brazilian": true,
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/1891/live/537c4be0-b597-11f1-8ac1-4d5f189a56fb.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "US threatens South Sudan with sanctions over aid obstruction",
-      "link": "https://www.france24.com/en/video/20260922-us-threatens-south-sudan-with-sanctions-over-aid-obstruction",
-      "summary": "The United States has threatened to impose sanctions on South Sudan over alleged obstruction of humanitarian assistance, accusing officials at national, state and local levels of treating aid as a source of revenue.",
-      "published_at": "2026-09-22T13:34:04Z",
-      "region": "América do Norte",
-      "theme": "Geopolítica e Segurança",
-      "source_name": "France 24",
-      "source_id": "france24",
-      "is_brazilian": false,
-      "image_url": "https://s.france24.com/media/display/18dba4b0-b680-11f1-b6b5-4d220c210a04/w:1024/p:16x9/EN-20260921-225222-225420-CS.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Ladin: Dolomites villages refuse to give up on ancient language",
-      "link": "https://www.france24.com/en/europe/20260922-ladin-dolomites-villages-refuse-to-give-up-on-ancient-language",
-      "summary": "Year after year, the mountains of the Dolomites become more popular with tourists. Amid millions of visitors, 30,000 inhabitants speak a language only they understand: Ladin, one of the oldest minority languages in Europe.",
-      "published_at": "2026-09-22T13:30:40Z",
-      "region": "Europa",
-      "theme": "Outros / Multitemático",
-      "source_name": "France 24",
-      "source_id": "france24",
-      "is_brazilian": false,
-      "image_url": "https://s.france24.com/media/display/95696006-b5c4-11f1-bde2-d5a6f2570fbe/w:1024/p:16x9/TN-PANNEAU-ELENA.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Flávio tem 57% contra 33% de Lula no 2º turno em Goiás, diz pesquisa",
-      "link": "https://www.poder360.com.br/poder-eleicoes-2026/flavio-tem-57-contra-33-de-lula-no-2o-turno-em-goias-diz-pesquisa/",
-      "summary": "Levantamento Real Time Big Data mostra o ex-governador de Goiás, Ronaldo Caiado (PSD), com 31% das intenções de voto no 1º turno",
-      "published_at": "2026-09-22T13:30:18Z",
-      "region": "América do Sul",
-      "theme": "Política Brasileira",
-      "source_name": "Poder360",
-      "source_id": "poder360",
-      "is_brazilian": true,
-      "image_url": "https://static.poder360.com.br/uploads/2026/07/prismada-flavio-lula-1200x675.webp",
       "fallback_images": [
         "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
