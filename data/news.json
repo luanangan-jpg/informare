@@ -1,17 +1,51 @@
 {
-  "updated_at": "2026-09-23T03:04:31.035988Z",
+  "updated_at": "2026-09-23T04:04:43.966394Z",
   "news": [
     {
       "title": "Como foram discursos de Lula e Trump na Assembleia Geral da ONU",
       "link": "https://www.bbc.co.uk/portuguese/live/cq2e0yxwwpvzt?at_medium=RSS&at_campaign=rss",
       "summary": "Não há uma reunião bilateral entre Lula e Trump prevista na agenda. Até agora, nenhum dos dois governos apresentou um pedido formal para um encontro.",
-      "published_at": "2026-09-23T03:04:25.074506Z",
+      "published_at": "2026-09-23T04:04:31.024113Z",
       "region": "América do Norte",
       "theme": "Política Internacional",
       "source_name": "BBC News Brasil",
       "source_id": "bbc_brasil",
       "is_brazilian": true,
       "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4942/live/5a130870-b6a2-11f1-bc1f-3f186ca4140c.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Venezuelans protest interim leader Delcy Rodriguez at UN headquarters",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/23/aje-onl-nf_venezuelans-protest-delcy-rodriguez-at-unga-220926?traffic_source=rss",
+      "summary": "Venezuelans protested in New York against interim President Delcy Rodriguez's participation in the UN General Assembly.",
+      "published_at": "2026-09-23T03:08:51Z",
+      "region": "América do Norte",
+      "theme": "Direito Internacional e Instituições",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": "https://loremflickr.com/cache/resized/defaultImage.small_800_600_nofilter.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1505664194779-8beaceb93744?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Após retaliação da imprensa, Trump faz discurso inaudível",
+      "link": "https://www.poder360.com.br/poder-internacional/apos-retaliacao-da-imprensa-trump-faz-discurso-inaudivel/",
+      "summary": "Presidente norte-americano restringiu acesso de veículos à Casa Branca, levando 5 redes a suspender cobertura conjunta",
+      "published_at": "2026-09-23T03:07:29Z",
+      "region": "América do Norte",
+      "theme": "Política Internacional",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2026/09/trump-discurso-mudo-21-set-2026-1200x675.png",
       "fallback_images": [
         "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
@@ -50,6 +84,23 @@
         "https://images.unsplash.com/photo-1518770660439-4636190af475?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1507668077129-56e32842fceb?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "France rebukes world over Gaza as Canada, UK back Palestinian state at UNGA",
+      "link": "https://www.aljazeera.com/news/2026/9/23/canada-pledges-aid-for-palestine-as-uk-and-france-demand-action-at-unga?traffic_source=rss",
+      "summary": "France's Macron says suffering in Gaza should 'shame all of us' as Canada's Carney pledges $71m for two-state efforts.",
+      "published_at": "2026-09-23T02:36:32Z",
+      "region": "Europa",
+      "theme": "Política Internacional",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": "https://loremflickr.com/cache/resized/defaultImage.small_800_600_nofilter.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
       ]
     },
     {
@@ -2498,57 +2549,6 @@
         "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Trump ameaça usar poder militar dos EUA para garantir 'interesses' na América Latina",
-      "link": "https://www.bbc.com/portuguese/articles/cq3d7ykxgj3no?at_medium=RSS&at_campaign=rss",
-      "summary": "Ele foi o segundo líder a discursar na Assembleia Geral das Nações Unidas, em Nova York, depois do discurso do presidente Lula.",
-      "published_at": "2026-09-22T16:15:43Z",
-      "region": "América do Norte",
-      "theme": "Política Internacional",
-      "source_name": "BBC News Brasil",
-      "source_id": "bbc_brasil",
-      "is_brazilian": true,
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e468/live/110cece0-b698-11f1-a430-4d16ee157c41.png",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "REPLAY: Trump defends Iran war, attacks ICC in UN speech",
-      "link": "https://www.france24.com/en/video/20260922-replay-trump-defends-iran-war-attacks-icc-in-un-speech",
-      "summary": "US President Donald Trump called Tuesday for all nations that are part of the International Criminal Court to quit the body, calling it \"out of control.\" He also used the speech to argue that the war with Iran prevented Tehran from obtaining a nuclear weapon and warn that he could \"annihilate the Islamic Republic\" if no deal is reached to end the conflict. Watch his speech in full above.",
-      "published_at": "2026-09-22T16:13:28Z",
-      "region": "América do Norte",
-      "theme": "Direito Internacional e Instituições",
-      "source_name": "France 24",
-      "source_id": "france24",
-      "is_brazilian": false,
-      "image_url": "https://s.france24.com/media/display/37b640be-b69b-11f1-8d1d-4d220c210a04/w:1024/p:16x9/EN-20260922-162749-170515-CS.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1505664194779-8beaceb93744?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "La UE renueva finalmente las sanciones contra Rusia y las levanta a dos oligarcas cercanos al Kremlin",
-      "link": "https://www.europapress.es/internacional/noticia-ue-renueva-finalmente-sanciones-contra-rusia-levanta-dos-oligarcas-cercanos-kremlin-20260922180726.html",
-      "summary": "Los Veintisiete han desbloqueado este martes el acuerdo para renovar durante tres años las sanciones contra cerca de 3.000 personas y entidades por la invasión rusa de Ucrania, después de que Letonia haya retirado las objeciones que hicieron descarrilar el pacto el lunes por la noche y haya aceptado abstenerse ante la retirada de las medidas restrictivas contra los oligarcas Alisher Usmanov y Mijail Fridman que exigió Francia.",
-      "published_at": "2026-09-22T16:07:26Z",
-      "region": "Europa",
-      "theme": "Geopolítica e Segurança",
-      "source_name": "Europa Press",
-      "source_id": "europa_press",
-      "is_brazilian": false,
-      "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260922180726_120.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
       ]
     }
   ]
