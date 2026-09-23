@@ -1,6 +1,312 @@
 {
-  "updated_at": "2026-09-23T14:05:05.734335Z",
+  "updated_at": "2026-09-23T15:04:19.395487Z",
   "news": [
+    {
+      "title": "ChatVote: TSE lança assistente com IA para tirar dúvidas sobre as eleições",
+      "link": "https://www.poder360.com.br/poder-tech/chatvote-tse-lanca-assistente-com-ia-para-tirar-duvidas-sobre-as-eleicoes/",
+      "summary": "Ferramenta responde a perguntas sobre local de votação, justificativa de ausência e serviços eleitorais",
+      "published_at": "2026-09-23T15:03:16Z",
+      "region": "América do Sul",
+      "theme": "Política Brasileira",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2026/09/chatvote-tse-assistente-virtual-1200x675.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Lula tem 49,9% contra 47,1% de Flávio no 2º turno em MG, diz pesquisa",
+      "link": "https://www.poder360.com.br/poder-eleicoes/lula-tem-499-contra-471-de-flavio-no-2o-turno-em-mg-diz-pesquisa/",
+      "summary": "Levantamento AtlasIntel ouviu 1.799 eleitores de Minas Gerais de 15 a 20 de setembro; margem de erro é de 2 p.p.",
+      "published_at": "2026-09-23T15:00:35Z",
+      "region": "América do Sul",
+      "theme": "Política Brasileira",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2026/08/lula-flavio-prismada-1200x675.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Flávio tem 48,8% contra 42,8% de Lula no 2º turno no SP, diz pesquisa",
+      "link": "https://www.poder360.com.br/poder-eleicoes-2026/flavio-tem-488-contra-428-de-lula-no-2o-turno-no-sp-diz-pesquisa/",
+      "summary": "Levantamento AtlasIntel ouviu 1.800 eleitores de São Paulo de 15 a 20 de setembro; margem de erro é de 2 p.p.",
+      "published_at": "2026-09-23T15:00:30Z",
+      "region": "América do Sul",
+      "theme": "Política Brasileira",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2026/09/flavio-lula-prismada.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Cleitinho tem 53,1% contra 41,1% de Patrus no 2º turno em MG",
+      "link": "https://www.poder360.com.br/poder-eleicoes/cleitinho-tem-531-contra-411-de-patrus-no-2o-turno-em-mg/",
+      "summary": "Levantamento da AtlasIntel ouviu 1.799 eleitores de Minas Gerais de 15 a 20 de setembro; a margem de erro é de 2 p.p.",
+      "published_at": "2026-09-23T15:00:25Z",
+      "region": "América do Sul",
+      "theme": "Outros / Multitemático",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2026/09/ve-cleitinho-patrus-prisma-1200x675.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Tarcísio tem 55,6%% contra 41,7% de Haddad no 2º turno, diz pesquisa",
+      "link": "https://www.poder360.com.br/poder-eleicoes/tarcisio-tem-556-contra-417-de-haddad-no-2o-turno-diz-pesquisa/",
+      "summary": "Levantamento AtlasIntel ouviu 1.800 eleitores de São Paulo de 15 a 20 de setembro; margem de erro é de 2 p.p.",
+      "published_at": "2026-09-23T15:00:19Z",
+      "region": "América do Sul",
+      "theme": "Economia Brasileira",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2026/09/tarcisio-haddad-prismada-1200x675.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1506744038136-46273834b3fb?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Iran’s Pezeshkian tells UN his country is ‘victim’ of US ‘terrorism’",
+      "link": "https://www.france24.com/en/iran-s-pezeshkian-tells-un-his-country-is-victim-of-us-terrorism",
+      "summary": "Iranian President Masoud Pezeshkian has hit back at US President Donald Trump’s speech in his address to the UN General Assembly. He opened by showing images of Iranian civilians killed in US strikes, saying they demonstrated the impact of US and Israeli military action against Iran. During his speech, the US delegation walked out of the General Assembly hall. France 24 International Affairs Editor Kethevane Gorjestani has more.",
+      "published_at": "2026-09-23T14:57:47Z",
+      "region": "América do Norte",
+      "theme": "Direito Internacional e Instituições",
+      "source_name": "France 24",
+      "source_id": "france24",
+      "is_brazilian": false,
+      "image_url": "https://s.france24.com/media/display/3cb495ca-b75e-11f1-ab5b-55848da96185/w:1024/p:16x9/EN-20260923-162850-163821-CS.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1505664194779-8beaceb93744?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Ethiopia and Tigray accuse each of launching offensives, fuelling fears of new war",
+      "link": "https://www.bbc.co.uk/news/articles/cry8zwwq21pxo?at_medium=RSS&at_campaign=rss",
+      "summary": "The local authorities reportedly seize Tigray's airports following reports of recent drone strikes.",
+      "published_at": "2026-09-23T14:55:51Z",
+      "region": "África",
+      "theme": "Geopolítica e Segurança",
+      "source_name": "BBC World News",
+      "source_id": "bbc_world",
+      "is_brazilian": false,
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dd1c/live/f9fdfbe0-b74e-11f1-a430-4d16ee157c41.png",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Corpo de Rick e das 4 vítimas de queda de helicóptero em SC são liberados",
+      "link": "https://www.poder360.com.br/poder-brasil/corpo-de-rick-e-das-4-vitimas-de-queda-de-helicoptero-em-sc-sao-liberados/",
+      "summary": "Cantor da dupla Rick & Renner será velado na 5ª feira em Sorocaba; Cenipa investiga as causas do acidente",
+      "published_at": "2026-09-23T14:53:18Z",
+      "region": "América do Sul",
+      "theme": "Outros / Multitemático",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2026/09/helicoptero-queda-urubici-sc-cantor-rick-1200x675.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Lula leva à TV “vítimas das bets” para falar contra apostas",
+      "link": "https://www.poder360.com.br/poder-eleicoes-2026/lula-leva-a-tv-vitimas-das-bets-para-falar-contra-apostas/",
+      "summary": "Na propaganda eleitoral, presidente mostra relatos de pessoas que enfrentaram problemas com apostas on-line",
+      "published_at": "2026-09-23T14:51:58Z",
+      "region": "América do Sul",
+      "theme": "Política Brasileira",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2026/09/Lula-GeraldoAlckmin-Entregadores-Aplicativos-Motoboy-MotoristasDeAplicativos-14Set2025-31-1200x675.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "MTST realiza protesto contra bets em SP",
+      "link": "https://www.poder360.com.br/poder-economia/mtst-realiza-protesto-contra-bets-em-sp/",
+      "summary": "Ação ocorre em momento no qual o presidente Lula ensaia restringir apostas esportivas e cassinos on-line",
+      "published_at": "2026-09-23T14:44:51Z",
+      "region": "América do Sul",
+      "theme": "Direitos Humanos, Sociedade e Migrações",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2026/09/protesto-mtst-betano-sao-paulo-1200x675.png",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1542810634-71277d95dcbb?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1489533119213-66a5cd877091?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1531206715517-5c0ba140e2b8?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "REPLAY: Iranian President Pezeshkian adresses UNGA",
+      "link": "https://www.france24.com/en/video/20260923-replay-iranian-president-pezeshkian-adresses-unga-1",
+      "summary": "Iranian President Masoud Pezeshkian is speaking before the UN General Assembly Wednesday in his first speech at the world body since the US and Israel launched the conflict with his country. His address comes a day after US President Donald Trump told the UNGA he could \"annihilate the Islamic Republic\" and \"drive them into hell\".",
+      "published_at": "2026-09-23T14:44:13Z",
+      "region": "Oriente Médio",
+      "theme": "Política Internacional",
+      "source_name": "France 24",
+      "source_id": "france24",
+      "is_brazilian": false,
+      "image_url": "https://s.france24.com/media/display/c8cdb674-b75c-11f1-b426-55848da96185/w:1024/p:16x9/EN-20260923-161034-162844-CS.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Sem Lula nem Flávio, “Record” cancela debate do dia 27",
+      "link": "https://www.poder360.com.br/poder-midia/sem-lula-nem-flavio-record-cancela-debate-do-dia-27/",
+      "summary": "Emissora informou que o presidente e o senador do PL informaram que não compareceriam ao encontro",
+      "published_at": "2026-09-23T14:42:40Z",
+      "region": "América do Sul",
+      "theme": "Política Brasileira",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2026/08/prismada-lula-flavio-bolsonaro-2026.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Azerbaijan pardons Frenchman after EU lifts sanctions on Russian billionaire",
+      "link": "https://www.bbc.co.uk/news/articles/cwp84rrrymd0o?at_medium=RSS&at_campaign=rss",
+      "summary": "Martin Ryan is pardoned months after he was jailed on charges of spying, but a second Frenchman remains in prison.",
+      "published_at": "2026-09-23T14:32:42Z",
+      "region": "Europa",
+      "theme": "Geopolítica e Segurança",
+      "source_name": "BBC World News",
+      "source_id": "bbc_world",
+      "is_brazilian": false,
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fc15/live/41c899f0-b748-11f1-8846-e70401199dae.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Lei aumenta penas para crimes de furto e roubo de combustíveis",
+      "link": "https://www.poder360.com.br/poder-diario-oficial/lei-aumenta-penas-para-crimes-de-furto-e-roubo-de-combustiveis/",
+      "summary": "Acréscimo será de 2/3 nos casos em que provocar consequências como desabastecimento, incêndios, danos ambientais ou morte",
+      "published_at": "2026-09-23T14:25:08Z",
+      "region": "América do Sul",
+      "theme": "Meio Ambiente e Clima",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2026/06/gasolina-combustivel-diesel-etanol.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "WATCH LIVE: Ukrainian President Zelenskyy addresses 2026 UN General Assembly",
+      "link": "https://www.pbs.org/newshour/world/watch-live-ukrainian-president-zelenskyy-addresses-2026-un-general-assembly",
+      "summary": "Russia hammered Ukraine's capital, Kyiv, with drones in daylight attacks on Wednesday, hours before Ukrainian President Volodymyr Zelenskyy was due to address world leaders at the U.N. General Assembly.",
+      "published_at": "2026-09-23T14:22:21Z",
+      "region": "Europa",
+      "theme": "Política Internacional",
+      "source_name": "PBS NewsHour",
+      "source_id": "pbs_newshour",
+      "is_brazilian": false,
+      "image_url": "https://d3i6fh83elv35t.cloudfront.net/static/2026/09/2026-09-22T181725Z_238007159_RC2HONANALOQ_RTRMADP_3_UKRAINE-CRISIS-TRUMP-ZELENSKIY-1024x683.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Moroccans head to polls amid economic uncertainty to decide next parliament",
+      "link": "https://www.aljazeera.com/news/2026/9/23/moroccans-head-to-polls-amid-economic-uncertainty-to-decide-next-parliament?traffic_source=rss",
+      "summary": "Millions of Moroccans vote today for a 395-seat parliament amid new digital proxy and anti-fraud measures.",
+      "published_at": "2026-09-23T14:16:37Z",
+      "region": "Oriente Médio",
+      "theme": "Política Internacional",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/09/epa_6ab3a9993f1f-1790159257.jpg?resize=1920%2C1440",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "As ambições da China com IA em meio às conversas de Trump com Xi",
+      "link": "https://www.bbc.com/portuguese/articles/c6d79wpnwgrdo?at_medium=RSS&at_campaign=rss",
+      "summary": "A BBC visitou a Mongólia Interior, no norte da China, onde a infraestrutura de IA do país avança rapidamente — em 'velocidade chinesa', segundo um trabalhador da região.",
+      "published_at": "2026-09-23T14:08:57Z",
+      "region": "Ásia",
+      "theme": "Ciência, Tecnologia e Inovação",
+      "source_name": "BBC News Brasil",
+      "source_id": "bbc_brasil",
+      "is_brazilian": true,
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/daac/live/5f345920-b757-11f1-a430-4d16ee157c41.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1518770660439-4636190af475?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1507668077129-56e32842fceb?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Polonia denuncia una violación de su espacio aéreo por parte de un helicóptero militar de Rusia",
+      "link": "https://www.europapress.es/internacional/noticia-polonia-denuncia-violacion-espacio-aereo-parte-helicoptero-militar-rusia-20260923160737.html",
+      "summary": "Las Fuerzas Armadas de Polonia han denunciado este miércoles una breve violación de su espacio aéreo por parte de un helicóptero militar ruso modelo Mi-8, un incidente que ha obligado a Varsovia a movilizar a sus aviones de combate.",
+      "published_at": "2026-09-23T14:07:37Z",
+      "region": "Europa",
+      "theme": "Geopolítica e Segurança",
+      "source_name": "Europa Press",
+      "source_id": "europa_press",
+      "is_brazilian": false,
+      "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260923160737_120.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
     {
       "title": "Flávio exibe quadro de Jair Bolsonaro e provoca TRE-RJ: ‘Vem tomar’",
       "link": "https://www.poder360.com.br/poder-eleicoes-2026/flavio-exibe-quadro-de-jair-bolsonaro-e-provoca-tre-rj-vem-tomar/",
@@ -36,16 +342,101 @@
       ]
     },
     {
-      "title": "WATCH LIVE: Iranian President Pezeshkian addresses 2026 UN General Assembly",
+      "title": "WATCH: Iranian President Pezeshkian addresses 2026 UN General Assembly",
       "link": "https://www.pbs.org/newshour/world/watch-live-iranian-president-pezeshkian-addresses-2026-un-general-assembly",
-      "summary": "President Masoud Pezeshkian is set to make a rare appearance Wednesday on the world stage when he speaks at the U.N. General Assembly in what is likely the first time a foreign leader addresses the world body while their country is at war with the host nation.",
+      "summary": "Iran's president said Wednesday that his people have been \"victims of terrorism\" by the United States, delivering a rare wartime speech at U.N. General Assembly a day after President Donald Trump said he could \"annihilate\" the Islamic republic.",
       "published_at": "2026-09-23T14:00:29Z",
       "region": "Oriente Médio",
       "theme": "Política Internacional",
       "source_name": "PBS NewsHour",
       "source_id": "pbs_newshour",
       "is_brazilian": false,
-      "image_url": "https://d3i6fh83elv35t.cloudfront.net/static/2026/09/2026-09-11T184907Z_164910755_RC26HNARSFSB_RTRMADP_3_BRICS-SUMMIT-1024x683.jpg",
+      "image_url": "https://d3i6fh83elv35t.cloudfront.net/static/2026/09/2026-09-23T144036Z_364831266_RC22PNAN3U4T_RTRMADP_3_UN-ASSEMBLY-1024x683.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Putin aplaude la participación \"activa\" de la población en las legislativas en Rusia pese a los intentos de \"injerencia\"",
+      "link": "https://www.europapress.es/internacional/noticia-putin-aplaude-participacion-activa-poblacion-legislativas-rusia-pese-intentos-injerencia-20260923160027.html",
+      "summary": "El presidente de Rusia, Vladimir Putin, ha aplaudido este miércoles la participación \"activa\" de la población en las elecciones legislativas celebradas la semana pasada, en las que su partido, Rusia Unida, se ha hecho con una clara victoria, al tiempo que ha denunciado los intentos de \"injerencia\" en el proceso de votación.",
+      "published_at": "2026-09-23T14:00:27Z",
+      "region": "Europa",
+      "theme": "Política Internacional",
+      "source_name": "Europa Press",
+      "source_id": "europa_press",
+      "is_brazilian": false,
+      "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260923160027_120.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "U.S. ambassador to the U.N. discusses progress on key issues",
+      "link": "https://www.npr.org/2026/09/23/nx-s1-5978682/u-s-ambassador-to-the-u-n-discusses-progress-on-key-issues",
+      "summary": "NPR's Steve Inskeep speaks with U.S. Ambassador to the U.N. Mike Waltz about President Trump's visit to the U.N. General Assembly and whether progress has been made on key issues.",
+      "published_at": "2026-09-23T14:00:19Z",
+      "region": "América do Norte",
+      "theme": "Política Internacional",
+      "source_name": "NPR World News",
+      "source_id": "npr",
+      "is_brazilian": false,
+      "image_url": null,
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "How much is UK supporting Saudi Arabia in its war with Iran-backed Houthis?",
+      "link": "https://www.aljazeera.com/news/2026/9/23/how-much-is-uk-supporting-saudi-arabia-in-its-war-with-iran-backed-houthis?traffic_source=rss",
+      "summary": "UK to refuel Saudi fighter jets and France to secure energy infrastructure amid fighting with Yemen's Houthi group.",
+      "published_at": "2026-09-23T13:57:50Z",
+      "region": "Oriente Médio",
+      "theme": "Geopolítica e Segurança",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/09/AFP__20260922__C8ZZ2NQ__v1__HighRes__SaudiDefenceNationalDay-1790160746.jpg?resize=1920%2C1440",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "UN poverty goal faces reality check",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/23/un-poverty-goal-faces-reality-check?traffic_source=rss",
+      "summary": "The UN wants to accelerate progress to end poverty by 2030, but people over the world say millions are still struggling.",
+      "published_at": "2026-09-23T13:54:55Z",
+      "region": "Oriente Médio",
+      "theme": "Direitos Humanos, Sociedade e Migrações",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1790171686.jpg?resize=1918%2C1080&quality=80",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1542810634-71277d95dcbb?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1489533119213-66a5cd877091?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1531206715517-5c0ba140e2b8?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Can flurry of New York diplomacy lead to US-Iran diplomatic breakthrough?",
+      "link": "https://www.aljazeera.com/news/2026/9/23/flurry-of-diplomacy-trumps-fiery-threats-us-iran-war-deal-still-elusive?traffic_source=rss",
+      "summary": "Analysts say a deal this week is unlikely - core disagreements between Washington and Tehran remain unresolved.",
+      "published_at": "2026-09-23T13:52:27Z",
+      "region": "América do Norte",
+      "theme": "Política Internacional",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/09/AFP__20260922__C8Z39B6__v1__HighRes__SpeechesByHeadsOfStateAndGovernmentAtUnGeneralA-1790167379.jpg?resize=1920%2C1440",
       "fallback_images": [
         "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
@@ -67,6 +458,23 @@
         "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1460661419201-fd4cecdf8a8b?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1508700115892-45ecd05ae2ad?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Pakistan's jailed former PM Khan's sons told DW the authorities are cracking down ahead of new PTI protests",
+      "link": "https://www.dw.com/en/pakistan-s-jailed-former-pm-khan-s-sons-told-dw-the-authorities-are-cracking-down-ahead-of-new-pti-protests/a-79392147?maca=en-rss-en-world-4025-rdf",
+      "summary": "The sons of jailed Pakistani ex-PM Imran Khan told DW their father is in ill-health while being isolated from family and doctors. Other family members have been detained ahead of a planned opposition protest.",
+      "published_at": "2026-09-23T13:39:00Z",
+      "region": "Ásia",
+      "theme": "Direitos Humanos, Sociedade e Migrações",
+      "source_name": "DW World News",
+      "source_id": "dw_english",
+      "is_brazilian": false,
+      "image_url": null,
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1542810634-71277d95dcbb?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1489533119213-66a5cd877091?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1531206715517-5c0ba140e2b8?q=80&w=800&auto=format&fit=crop"
       ]
     },
     {
@@ -172,6 +580,23 @@
       ]
     },
     {
+      "title": "Golan Heights will 'remain Syrian', President Ahmed al-Sharaa vows at UN",
+      "link": "https://www.france24.com/en/middle-east/20260923-golan-heights-will-remain-syrian-president-al-sharaa-vows-to-un",
+      "summary": "Syria's President Ahmed al-Sharaa told the UN Wednesday that the contested Golan Heights region would \"remain Syrian\" despite ongoing military occupation by Israel. The Syrian leader also used his second turn at the UN rostrum to denounce repeated Israeli strikes on his country.",
+      "published_at": "2026-09-23T13:31:32Z",
+      "region": "Oriente Médio",
+      "theme": "Direito Internacional e Instituições",
+      "source_name": "France 24",
+      "source_id": "france24",
+      "is_brazilian": false,
+      "image_url": "https://s.france24.com/media/display/16d963e0-b753-11f1-9328-cd71256adcef/w:1024/p:16x9/29a71b1492a79ef56b3578045668a323a302b6b2.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1505664194779-8beaceb93744?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
       "title": "Ex-atletas da NBA querem forçar WNBA a definir o que é uma mulher",
       "link": "https://www.poder360.com.br/poder-sportsmkt/ex-atletas-da-nba-querem-forcar-wnba-a-definir-o-que-e-uma-mulher/",
       "summary": "Enes Kanter Freedom e Royce White disseram que vão participar do draft da principal liga profissional de basquete feminino dos EUA",
@@ -249,7 +674,7 @@
       "source_name": "Al Jazeera",
       "source_id": "aljazeera_english",
       "is_brazilian": false,
-      "image_url": null,
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1790169372.jpg?resize=1917%2C1080&quality=80",
       "fallback_images": [
         "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
@@ -322,23 +747,6 @@
         "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Ethiopia and Tigray accuse each of launching offensives, fuelling fears of new war",
-      "link": "https://www.bbc.co.uk/news/articles/cry8zwwq21pxo?at_medium=RSS&at_campaign=rss",
-      "summary": "The local authorities reportedly seize Tigray's airports following reports of recent drone strikes.",
-      "published_at": "2026-09-23T13:17:11Z",
-      "region": "África",
-      "theme": "Geopolítica e Segurança",
-      "source_name": "BBC World News",
-      "source_id": "bbc_world",
-      "is_brazilian": false,
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dd1c/live/f9fdfbe0-b74e-11f1-a430-4d16ee157c41.png",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
       ]
     },
     {
@@ -555,7 +963,7 @@
       "source_name": "BBC World News",
       "source_id": "bbc_world",
       "is_brazilian": false,
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bc76/live/1fb1ec20-b740-11f1-aa9c-3d062fa3aea7.jpg",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3750/live/bcba89f0-b759-11f1-a430-4d16ee157c41.jpg",
       "fallback_images": [
         "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
@@ -696,6 +1104,23 @@
         "https://images.unsplash.com/photo-1518770660439-4636190af475?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1507668077129-56e32842fceb?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "UN General Assembly live: Iran ‘victim of terrorism – Pezeshkian to Trump",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/9/23/un-general-assembly-live-irans-pezeshkian-ukraines-zelenskyy-to-speak?traffic_source=rss",
+      "summary": "Second day of UN General Assembly kicks off with speeches from world leaders, including from Syria, Iran and Ukraine.",
+      "published_at": "2026-09-23T12:00:00Z",
+      "region": "Oriente Médio",
+      "theme": "Direito Internacional e Instituições",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": null,
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1505664194779-8beaceb93744?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop"
       ]
     },
     {
@@ -1036,6 +1461,23 @@
         "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "U.N. Ambassador Mike Waltz on Iran, Venezuela and Trump's foreign policy",
+      "link": "https://www.npr.org/2026/09/23/nx-s1-5977753/mike-waltz-iran-venezuela-trump-united-nations",
+      "summary": "Deals, threats and oil are all on the table as the president's foreign policy takes center stage.",
+      "published_at": "2026-09-23T10:48:47Z",
+      "region": "América do Norte",
+      "theme": "Política Internacional",
+      "source_name": "NPR World News",
+      "source_id": "npr",
+      "is_brazilian": false,
+      "image_url": null,
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
       ]
     },
     {
@@ -2061,7 +2503,7 @@
     {
       "title": "Por que os candidatos a presidente querem construir mais data centers no Brasil",
       "link": "https://www.bbc.com/portuguese/articles/cr4vx3krnnqo?at_medium=RSS&at_campaign=rss",
-      "summary": "Proposta aparece nos planos de governo de candidatos com maior intenção de votos nas pesquisas, atrelada à redução de impostos e outros incentivos.",
+      "summary": "Tema aparece nos planos de governo de candidatos com maior intenção de votos nas pesquisas, atrelado à redução de impostos e outros incentivos.",
       "published_at": "2026-09-23T08:22:22Z",
       "region": "América do Sul",
       "theme": "Política Brasileira",
@@ -2107,448 +2549,6 @@
         "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1505664194779-8beaceb93744?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Azerbaijan pardons jailed Frenchman after EU lifts sanctions on Russian billionaire",
-      "link": "https://www.france24.com/en/europe/20260923-azerbaijan-pardons-jailed-frenchman-after-eu-lifts-sanctions-on-russian-oligarchs",
-      "summary": "Azerbaijan's President ​Ilham Aliyev on Wednesday pardoned a ​French national imprisoned for espionage a day ​after ‌the ⁠EU lifted sanctions on a Russian billionaire.",
-      "published_at": "2026-09-23T07:53:17Z",
-      "region": "Europa",
-      "theme": "Geopolítica e Segurança",
-      "source_name": "France 24",
-      "source_id": "france24",
-      "is_brazilian": false,
-      "image_url": "https://s.france24.com/media/display/d3cf478e-b722-11f1-8a14-1d61c7110e09/w:1024/p:16x9/AP26202440573121.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "World lagging on key UN biodiversity targets",
-      "link": "https://www.dw.com/en/world-lagging-on-key-un-biodiversity-targets/a-79383304?maca=en-rss-en-world-4025-rdf",
-      "summary": "Hundreds of nations signed on to a goal to protect 30% of the world's land and sea by 2030. As the timeline reaches the halfway point, activists say the current protection estimates are way behind.",
-      "published_at": "2026-09-23T07:49:00Z",
-      "region": "Europa",
-      "theme": "Direito Internacional e Instituições",
-      "source_name": "DW World News",
-      "source_id": "dw_english",
-      "is_brazilian": false,
-      "image_url": "https://static.dw.com/image/60751978_6.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1505664194779-8beaceb93744?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Rusia derriba más de 500 drones lanzados por Ucrania, que cifra en más 120 las interceptaciones",
-      "link": "https://www.europapress.es/internacional/noticia-rusia-derriba-mas-500-drones-lanzados-ucrania-cifra-mas-120-interceptaciones-20260923094120.html",
-      "summary": "Las autoridades de Rusia han anunciado este miércoles el derribo de más de 500 drones lanzados durante la noche por el Ejército de Ucrania, que por su parte ha cifrado en más de 120 las interceptaciones, en el marco de un nuevo intercambio de ataques al hilo de la invasión rusa, desatada en febrero de 2022.",
-      "published_at": "2026-09-23T07:41:20Z",
-      "region": "Europa",
-      "theme": "Geopolítica e Segurança",
-      "source_name": "Europa Press",
-      "source_id": "europa_press",
-      "is_brazilian": false,
-      "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260923094120_120.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "At least 11 people killed in South Africa township shooting",
-      "link": "https://www.aljazeera.com/news/2026/9/23/at-least-11-people-killed-in-south-africa-township-shooting?traffic_source=rss",
-      "summary": "Armed men open fire at a house party in a Durban township, killing a pregnant woman and 10 others.",
-      "published_at": "2026-09-23T07:31:58Z",
-      "region": "África",
-      "theme": "Outros / Multitemático",
-      "source_name": "Al Jazeera",
-      "source_id": "aljazeera_english",
-      "is_brazilian": false,
-      "image_url": null,
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Fachin e Mendonça rejeitam pedidos de audiência da defesa de Vorcaro",
-      "link": "https://www.poder360.com.br/poder-justica/fachin-e-mendonca-rejeitam-pedidos-de-audiencia-da-defesa-de-vorcaro/",
-      "summary": "Mendonça disse que retomará o caso somente quando tiver a relatoria devolvida por Fachin",
-      "published_at": "2026-09-23T07:22:55Z",
-      "region": "América do Sul",
-      "theme": "Geopolítica e Segurança",
-      "source_name": "Poder360",
-      "source_id": "poder360",
-      "is_brazilian": true,
-      "image_url": "https://static.poder360.com.br/uploads/2026/09/mendonca-fachin-stf-sessa-moraes-caso-master-1200x675.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Urna eletrônica: só Brasil, Cuba e Venezuela usam?",
-      "link": "https://www.bbc.com/portuguese/articles/cm8xk2rg1qxdo?at_medium=RSS&at_campaign=rss",
-      "summary": "Explicamos como funciona o sistema brasileiro e por que a urna eletrônica é diferente de outros modelos usados pelo mundo.",
-      "published_at": "2026-09-23T07:22:53Z",
-      "region": "América do Sul",
-      "theme": "Outros / Multitemático",
-      "source_name": "BBC News Brasil",
-      "source_id": "bbc_brasil",
-      "is_brazilian": true,
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7726/live/c28e21e0-b6d5-11f1-bc1f-3f186ca4140c.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Pakistan’s latest Trump bet is on drone firm already selling to India",
-      "link": "https://www.aljazeera.com/news/2026/9/23/pakistans-new-drone-deal-is-with-trump-backed-firm-also-selling-to-india?traffic_source=rss",
-      "summary": "The company's cofounder is also an ex-Israeli soldier. Pakistan does not recognise Israel.",
-      "published_at": "2026-09-23T07:18:54Z",
-      "region": "Ásia",
-      "theme": "Política Internacional",
-      "source_name": "Al Jazeera",
-      "source_id": "aljazeera_english",
-      "is_brazilian": false,
-      "image_url": null,
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Pakistan’s new drone deal is with Trump-backed firm also selling to India",
-      "link": "https://www.aljazeera.com/news/2026/9/23/pakistans-new-drone-deal-is-with-trump-backed-firm-also-selling-to-india?traffic_source=rss",
-      "summary": "The company's cofounder is also an ex-Israeli soldier. Pakistan does not recognise Israel.",
-      "published_at": "2026-09-23T07:18:54Z",
-      "region": "Ásia",
-      "theme": "Política Internacional",
-      "source_name": "Al Jazeera",
-      "source_id": "aljazeera_english",
-      "is_brazilian": false,
-      "image_url": null,
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Moroccans vote in parliamentary elections after migrant rush to Ceuta",
-      "link": "https://www.france24.com/en/africa/20260923-moroccans-vote-in-parliamentary-elections-after-migrant-rush-to-ceuta",
-      "summary": "Moroccan voters are choosing a new parliament Wednesday in elections dominated by economic concerns after a mass migration surge to the Spanish enclave of Ceuta in the summer highlighted concerns over rising youth unemployment and the cost of living. Nearly 16 million Moroccans have registered to elect 395 members of the House of Representatives.",
-      "published_at": "2026-09-23T07:14:59Z",
-      "region": "Europa",
-      "theme": "Política Internacional",
-      "source_name": "France 24",
-      "source_id": "france24",
-      "is_brazilian": false,
-      "image_url": "https://s.france24.com/media/display/1d346ea0-b6eb-11f1-aa11-1d61c7110e09/w:1024/p:16x9/44dbf0673a7d44bf38d6d3e05a03f1b86d9d6c7f.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "WHO’S FUTURE IS IT: CHINA OR THE WEST?",
-      "link": "https://www.aljazeera.com/video/doha-debates/2026/9/23/whos-future-is-it-china-or-the-west?traffic_source=rss",
-      "summary": "As global power shifts, how different are these two visions, and does the future belong to just one?",
-      "published_at": "2026-09-23T07:03:30Z",
-      "region": "Ásia",
-      "theme": "Saúde",
-      "source_name": "Al Jazeera",
-      "source_id": "aljazeera_english",
-      "is_brazilian": false,
-      "image_url": null,
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1584515901367-f1c2a12a50ea?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1505751172876-fa1923c5c528?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1584036561566-baf2418a7c21?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Pakistan seals roads to Islamabad before protests for Imran Khan’s release",
-      "link": "https://www.aljazeera.com/news/2026/9/23/pakistan-seals-islamabad-roads-before-protests-for-imran-khans-release?traffic_source=rss",
-      "summary": "Police close major highways into Islamabad as supporters of jailed former prime minister plan to march into the capital.",
-      "published_at": "2026-09-23T06:59:03Z",
-      "region": "Ásia",
-      "theme": "Política Internacional",
-      "source_name": "Al Jazeera",
-      "source_id": "aljazeera_english",
-      "is_brazilian": false,
-      "image_url": null,
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "‘I had never heard of Eswatini’: Deported by the US to a country that rejects them",
-      "link": "https://www.france24.com/en/africa/20260923-never-heard-eswatini-deported-by-us-country-that-rejects-them-forbidden-stories",
-      "summary": "Migrants previously convicted by US courts have been imprisoned in Africa’s last absolute monarchy, Eswatini, over the past several months. Since being deported from the US, they have found themselves in a country about which they know nothing, and where local residents look on these “criminal” arrivals with suspicion. Their abrupt journey to the small southern African kingdom stems from a secret deal struck by Trump administration as part of his programme of mass deportations investigated by “The Deportation Project”, undertaken by Forbidden Stories and a network of 72 journalists across 15 countries.",
-      "published_at": "2026-09-23T06:56:42Z",
-      "region": "América do Norte",
-      "theme": "Política Internacional",
-      "source_name": "France 24",
-      "source_id": "france24",
-      "is_brazilian": false,
-      "image_url": "https://s.france24.com/media/display/93c0b974-b683-11f1-9880-4d220c210a04/w:1024/p:16x9/1920x1080-Eswatini.png",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Irán confirma que la reunión en Nueva York entre Araqchi y un enviado de Trump tuvo lugar \"con mediación qatarí\"",
-      "link": "https://www.europapress.es/internacional/noticia-iran-confirma-reunion-nueva-york-araqchi-enviado-trump-tuvo-lugar-mediacion-qatari-20260923085629.html",
-      "summary": "El Gobierno de Irán ha confirmado este miércoles que la reunión celebrada el martes en Nueva York entre el ministro de Exteriores iraní, Abbas Araqchi, y Steve Witkoff, enviado del presidente de Estados Unidos, Donald Trump, tuvo lugar \"con mediación qatarí\", en medio de los esfuerzos para relanzar el proceso de negociaciones para un acuerdo de paz.",
-      "published_at": "2026-09-23T06:56:29Z",
-      "region": "América do Norte",
-      "theme": "Política Internacional",
-      "source_name": "Europa Press",
-      "source_id": "europa_press",
-      "is_brazilian": false,
-      "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260923085629_120.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Anac atualiza regras sobre atrasos e cancelamentos de voos",
-      "link": "https://www.poder360.com.br/poder-infra/anac-atualiza-regras-sobre-atrasos-e-cancelamentos-de-voos/",
-      "summary": "Norma detalha comunicação, reacomodação e assistência em casos de imprevistos",
-      "published_at": "2026-09-23T06:52:30Z",
-      "region": "América do Sul",
-      "theme": "Outros / Multitemático",
-      "source_name": "Poder360",
-      "source_id": "poder360",
-      "is_brazilian": true,
-      "image_url": "https://static.poder360.com.br/uploads/2026/07/aeroporto-guarulhos.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Machado intentó de forma infructuosa volver a Venezuela en tres ocasiones en pleno viaje de Rodríguez a EEUU",
-      "link": "https://www.europapress.es/internacional/noticia-machado-intento-forma-infructuosa-volver-venezuela-tres-ocasiones-pleno-viaje-rodriguez-eeuu-20260923082029.html",
-      "summary": "La líder opositora venezolana María Corina Machado habría intentado volver de forma infructuosa a Venezuela en tres ocasiones durante la jornada del 21 de septiembre, en todos estos casos desde Panamá, según ha denunciado este miércoles el asesor para relaciones internacionales de la Premio Nobel de la Paz, Pedro Urruchurtu.",
-      "published_at": "2026-09-23T06:20:29Z",
-      "region": "América do Sul",
-      "theme": "Outros / Multitemático",
-      "source_name": "Europa Press",
-      "source_id": "europa_press",
-      "is_brazilian": false,
-      "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260923082029_120.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Is Syria's 'new' economy for the rich only?",
-      "link": "https://www.dw.com/en/is-syria-s-new-economy-for-the-rich-only/a-79378442?maca=en-rss-en-world-4025-rdf",
-      "summary": "The Syrian government says it is restructuring the economy and announces prosperity. But ordinary Syrians are not feeling it. In fact, they say their lives are getting worse. Who exactly is likely to benefit then?",
-      "published_at": "2026-09-23T06:15:00Z",
-      "region": "Oriente Médio",
-      "theme": "Política Internacional",
-      "source_name": "DW World News",
-      "source_id": "dw_english",
-      "is_brazilian": false,
-      "image_url": "https://static.dw.com/image/79378935_6.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "US and Iran hold first talks since June after Trump's 'annihilation' threat",
-      "link": "https://www.bbc.co.uk/news/articles/ck62m1631d7po?at_medium=RSS&at_campaign=rss",
-      "summary": "The talks are the first since a ceasefire collapsed in June, with the sides exchanging fire intermittently.",
-      "published_at": "2026-09-23T06:12:56Z",
-      "region": "América do Norte",
-      "theme": "Política Internacional",
-      "source_name": "BBC World News",
-      "source_id": "bbc_world",
-      "is_brazilian": false,
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/94af/live/1e4085d0-b714-11f1-8d21-19ad84e0e822.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Delcy Rodríguez celebra un \"histórico\" encuentro con Trump a puerta cerrada en Nueva York",
-      "link": "https://www.europapress.es/internacional/noticia-delcy-rodriguez-celebra-historico-encuentro-trump-puerta-cerrada-nueva-york-20260923075403.html",
-      "summary": "El presidente estadounidense, Donald Trump, y la presidenta encargada de Venezuela, Delcy Rodríguez, han celebrado este martes un \"histórico\" encuentro a puerta cerrada al margen de la Asamblea General de Naciones Unidas celebrada en Nueva York, en el que constituye el primer cara a cara entre ambos líderes desde la llegada de Rodríguez a Miraflores.",
-      "published_at": "2026-09-23T05:54:03Z",
-      "region": "América do Norte",
-      "theme": "Política Internacional",
-      "source_name": "Europa Press",
-      "source_id": "europa_press",
-      "is_brazilian": false,
-      "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260923075403_120.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Trump rallies Latin American allies against drug cartels",
-      "link": "https://www.aljazeera.com/news/2026/9/23/trump-rallies-shield-of-the-americas-coalition-against-drug-cartels?traffic_source=rss",
-      "summary": "US-led Shield of the Americas coalition backs sanctions against crime groups after Trump urges stronger action.",
-      "published_at": "2026-09-23T05:34:40Z",
-      "region": "América do Norte",
-      "theme": "Política Internacional",
-      "source_name": "Al Jazeera",
-      "source_id": "aljazeera_english",
-      "is_brazilian": false,
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/09/reuters_6ab33814-1790130196.jpg?resize=1920%2C1440",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Trump rallies Shield of the Americas coalition against drug cartels",
-      "link": "https://www.aljazeera.com/news/2026/9/23/trump-rallies-shield-of-the-americas-coalition-against-drug-cartels?traffic_source=rss",
-      "summary": "US-led anti-cartel alliance backs sanctions against crime groups after Trump urges stronger action.",
-      "published_at": "2026-09-23T05:34:40Z",
-      "region": "América do Norte",
-      "theme": "Política Internacional",
-      "source_name": "Al Jazeera",
-      "source_id": "aljazeera_english",
-      "is_brazilian": false,
-      "image_url": null,
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "AI risks, Iran war to take center stage at UN",
-      "link": "https://www.france24.com/en/live-news/20260923-ai-risks-iran-war-to-take-center-stage-at-un",
-      "summary": "The future of artificial intelligence and the stalled US war against Iran, with its ripple effect on the global economy, are expected to dominate the UN gathering of world leaders Wednesday.",
-      "published_at": "2026-09-23T05:29:07Z",
-      "region": "Oriente Médio",
-      "theme": "Geopolítica e Segurança",
-      "source_name": "France 24",
-      "source_id": "france24",
-      "is_brazilian": false,
-      "image_url": "https://s.france24.com/media/display/b20b80d0-b70f-11f1-82c3-d5a6f2570fbe/w:1024/p:16x9/d21018921ae0925321f17d5ef1de5c7a38dab802.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Cooperation is the goal at the UNGA, but is it possible?",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/23/cooperation-is-the-goal-at-the-unga-but-is-it-possible?traffic_source=rss",
-      "summary": "Debate opened at the UN General Assembly and leaders from across the world made their arguments.",
-      "published_at": "2026-09-23T05:07:26Z",
-      "region": "Oriente Médio",
-      "theme": "Direito Internacional e Instituições",
-      "source_name": "Al Jazeera",
-      "source_id": "aljazeera_english",
-      "is_brazilian": false,
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1790139982.jpg?resize=1920%2C1080&quality=80",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1505664194779-8beaceb93744?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Reports of violence against women in Gaza surge, UN agency finds",
-      "link": "https://www.bbc.co.uk/news/articles/c94gm7dp40y0o?at_medium=RSS&at_campaign=rss",
-      "summary": "The UN Population Fund also says there has been a \"severe escalation\" in the number of early and forced marriages.",
-      "published_at": "2026-09-23T05:02:26Z",
-      "region": "Oriente Médio",
-      "theme": "Direito Internacional e Instituições",
-      "source_name": "BBC World News",
-      "source_id": "bbc_world",
-      "is_brazilian": false,
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7adb/live/a6e48140-b717-11f1-bc1f-3f186ca4140c.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1505664194779-8beaceb93744?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Six-year-old sets Rubik’s Cube world record twice in three days",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/23/six-year-old-sets-rubiks-cube-world-record-twice-in-three-days?traffic_source=rss",
-      "summary": "Six-year-old Lian Yunzhi broke the women’s Rubik’s Cube world record twice in three days, averaging under 4.5 seconds.",
-      "published_at": "2026-09-23T04:58:08Z",
-      "region": "Oriente Médio",
-      "theme": "Outros / Multitemático",
-      "source_name": "Al Jazeera",
-      "source_id": "aljazeera_english",
-      "is_brazilian": false,
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1790139449.jpg?resize=1920%2C1080&quality=80",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "US, Iran hold mediated UNGA talks on ending war, opening Strait of Hormuz",
-      "link": "https://www.aljazeera.com/news/2026/9/23/us-iran-hold-mediated-unga-talks-on-ending-war-opening-strait-of-hormuz?traffic_source=rss",
-      "summary": "Tehran ties diplomatic progress to lifting shipping blockades and unfreezing assets during New York negotiations.",
-      "published_at": "2026-09-23T04:42:15Z",
-      "region": "América do Norte",
-      "theme": "Geopolítica e Segurança",
-      "source_name": "Al Jazeera",
-      "source_id": "aljazeera_english",
-      "is_brazilian": false,
-      "image_url": "https://loremflickr.com/cache/resized/3264_2767887224_50cefd0a08_b_800_600_nofilter.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Sánchez defiende junto a Macron la protección de la infancia ante la IA para evitar \"una jungla sin ley\"",
-      "link": "https://www.europapress.es/internacional/noticia-sanchez-defiende-junto-macron-proteccion-infancia-ia-evitar-jungla-ley-20260923063038.html",
-      "summary": "El presidente del Gobierno de España, Pedro Sánchez, ha defendido la implementación de normativas frente a la inteligencia artificial (IA) a fin de evitar que el mundo digital se convierta en \"una jungla sin ley\", en el marco de un nuevo encuentro del Diálogo de Alto Nivel para la protección de los derechos de la infancia frente a la Inteligencia Artificial, junto a los mandatarios de Francia, Kenia y Australia, copresidentes de la coalición junto a Sánchez.",
-      "published_at": "2026-09-23T04:30:38Z",
-      "region": "Europa",
-      "theme": "Política Internacional",
-      "source_name": "Europa Press",
-      "source_id": "europa_press",
-      "is_brazilian": false,
-      "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260923063038_120.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
       ]
     }
   ]
