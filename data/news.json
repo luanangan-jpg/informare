@@ -1,10 +1,231 @@
 {
-  "updated_at": "2026-09-23T12:06:06.025634Z",
+  "updated_at": "2026-09-23T13:06:04.232177Z",
   "news": [
     {
-      "title": "Flavio pede ao TSE que proíba Lula de usar discurso da ONU em campanha",
+      "title": "18,9% dos ocupados trabalham com comércio e veículos",
+      "link": "https://www.poder360.com.br/poder-economia/189-dos-ocupados-trabalham-com-comercio-e-veiculos/",
+      "summary": "Das 103 milhões de pessoas ocupadas no ano passado, 19,5 milhões trabalhavam nesse ramo, segundo o IBGE",
+      "published_at": "2026-09-23T13:00:59Z",
+      "region": "América do Sul",
+      "theme": "Outros / Multitemático",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2026/09/2populacao-ocupada-trabalha-comercio-veiculos-21-set-2026-1200x675.png",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "8,8% da população ocupada é associada a sindicatos",
+      "link": "https://www.poder360.com.br/poder-economia/88-da-populacao-ocupada-e-associada-a-sindicatos/",
+      "summary": "Taxa de 2025 caiu 0,1 ponto percentual em relação aos 8,9% de 2024, segundo dados do IBGE",
+      "published_at": "2026-09-23T13:00:02Z",
+      "region": "América do Sul",
+      "theme": "Outros / Multitemático",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2026/09/capa-sindicatos-IBGE-1200x675.png",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Al menos dos heridos tras impactar un \"proyectil desconocido\" contra un petrolero en el estrecho de Ormuz",
+      "link": "https://www.europapress.es/internacional/noticia-menos-dos-heridos-impactar-proyectil-desconocido-contra-petrolero-estrecho-ormuz-20260923145223.html",
+      "summary": "Al menos dos personas han resultado heridas este miércoles por el impacto de un \"proyectil desconocido\" contra un petrolero cuando transitaba el estrecho de Ormuz, según ha informado el centro de Operaciones Marítimas Comerciales de Reino Unido (UKMTO, por sus siglas en inglés).",
+      "published_at": "2026-09-23T12:52:23Z",
+      "region": "Europa",
+      "theme": "Direito Internacional e Instituições",
+      "source_name": "Europa Press",
+      "source_id": "europa_press",
+      "is_brazilian": false,
+      "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260923145223_120.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1505664194779-8beaceb93744?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Dramatic eviction of woman aged 87 highlights Spain's housing shortage",
+      "link": "https://www.bbc.co.uk/news/articles/c6vgy55lm8z1o?at_medium=RSS&at_campaign=rss",
+      "summary": "The tenant of the flat in Madrid, Maricarmen, was unable to pay the rent set by the firm which recently bought it.",
+      "published_at": "2026-09-23T12:31:31Z",
+      "region": "Europa",
+      "theme": "Outros / Multitemático",
+      "source_name": "BBC World News",
+      "source_id": "bbc_world",
+      "is_brazilian": false,
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bc76/live/1fb1ec20-b740-11f1-aa9c-3d062fa3aea7.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Pope Leo XIV visit expected to boost Lourdes economy",
+      "link": "https://www.france24.com/en/pope-leo-xiv-visit-expected-to-boost-lourdes-economy",
+      "summary": "The town of Lourdes in southern France will be the second stop on Pope Leo XIV’s visit to the country, following his time in Paris. Around 150,000 people are expected to attend a mass led by the pontiff at the Sanctuary of Our Lady of Lourdes on Sunday. Local businesses are hoping the influx of visitors will also boost the economy, as pilgrims spend money on souvenirs, food and other goods. Our report by C. Neidhardt, C. Romain, E. Auriaux and C. Bénétreau.",
+      "published_at": "2026-09-23T12:31:16Z",
+      "region": "Europa",
+      "theme": "Outros / Multitemático",
+      "source_name": "France 24",
+      "source_id": "france24",
+      "is_brazilian": false,
+      "image_url": "https://s.france24.com/media/display/9cb776b8-b745-11f1-940c-cd71256adcef/w:1024/p:16x9/EN-20260923-131635-131753-CS.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "AFCON 2027 qualifiers: Teams, top players, schedule, format, matches",
+      "link": "https://www.aljazeera.com/sports/2026/9/23/africa-cup-of-nations-afcon-2027-teams-schedule-salah-hakimi-mane?traffic_source=rss",
+      "summary": "The 2027 Africa Cup of Nations will be held in Kenya, Uganda and Tanzania, with 24 qualification spots up for grabs.",
+      "published_at": "2026-09-23T12:29:21Z",
+      "region": "África",
+      "theme": "Outros / Multitemático",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": null,
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Chinese beauty products prove resilient amid US-China trade war",
+      "link": "https://www.france24.com/en/chinese-beauty-products-prove-resilient-amid-us-china-trade-war",
+      "summary": "The US-China trade war has hit exports ranging from soybeans to solar panels, but one industry appears to be weathering the tariffs remarkably well. As Donald Trump and Xi Jinping prepare to meet in Washington this week, big-ticket exports are likely to be high on the agenda. But Chinese beauty products such as wigs, hair extensions and false eyelashes have proved highly resilient, with low prices and strong demand encouraging consumers to absorb the extra costs. China’s press-on nail industry, concentrated largely in one city, is also coming through the trade war without a scratch. Bryan Quinn",
+      "published_at": "2026-09-23T12:29:15Z",
+      "region": "Ásia",
+      "theme": "Comércio e Finanças",
+      "source_name": "France 24",
+      "source_id": "france24",
+      "is_brazilian": false,
+      "image_url": "https://s.france24.com/media/display/96a82182-b745-11f1-bff2-4d7b41827f6c/w:1024/p:16x9/EN-20260923-131214-131359-CS.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1578575437130-527eed3abbec?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1522071820081-009f0129c71c?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Hurricane Polo downgraded but remains 'very powerful' off coast of Mexico",
+      "link": "https://www.bbc.co.uk/news/articles/ckddvlrlr5qeo?at_medium=RSS&at_campaign=rss",
+      "summary": "The large storm in the Pacific Ocean is being driven by warm waters caused by the El Niño weather phenomenon.",
+      "published_at": "2026-09-23T12:24:02Z",
+      "region": "América do Norte",
+      "theme": "Meio Ambiente e Clima",
+      "source_name": "BBC World News",
+      "source_id": "bbc_world",
+      "is_brazilian": false,
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0cbc/live/9fb1a7e0-b721-11f1-a430-4d16ee157c41.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Dolly Parton's manager accuses her nephew of threats and intimidation",
+      "link": "https://www.bbc.co.uk/news/articles/c670lydl5wg5o?at_medium=RSS&at_campaign=rss",
+      "summary": "Bryan Seaver, who announced Parton's death to the world, is accused of trying to extort her estate.",
+      "published_at": "2026-09-23T12:22:53Z",
+      "region": "Global",
+      "theme": "Saúde",
+      "source_name": "BBC World News",
+      "source_id": "bbc_world",
+      "is_brazilian": false,
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4c5d/live/94bf0a90-b72f-11f1-9f81-a10976817ca3.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1584515901367-f1c2a12a50ea?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1505751172876-fa1923c5c528?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1584036561566-baf2418a7c21?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "As Xi meets Trump, who’s winning their trade war?",
+      "link": "https://www.aljazeera.com/features/2026/9/23/as-xi-meets-trump-whos-winning-their-trade-war?traffic_source=rss",
+      "summary": "Trade war has been central to Trump's presidency, but it didn't slash US deficits. Meanwhile, China recorded a surplus.",
+      "published_at": "2026-09-23T12:20:40Z",
+      "region": "América do Norte",
+      "theme": "Geopolítica e Segurança",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": null,
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "PM de SP cria batalhão com duplas em motos e fuzis",
+      "link": "https://www.poder360.com.br/poder-seguranca-publica/pm-de-sp-cria-batalhao-com-duplas-em-motos-e-fuzis/",
+      "summary": "Entre os crimes que estão no foco da iniciativa estão roubos e furtos de celulares e ações conhecidas como \"quebra-vidro\"",
+      "published_at": "2026-09-23T12:17:25Z",
+      "region": "América do Sul",
+      "theme": "Outros / Multitemático",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2026/09/BRAvO-policia-sp-1200x675.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "OpenAI gives cyber defence tools to Ukraine",
+      "link": "https://www.bbc.co.uk/news/articles/c90kly26d7pzo?at_medium=RSS&at_campaign=rss",
+      "summary": "Ukraine will get access to OpenAI's advanced GPT 5.6 Sol model under the deal - a rival to Anthropic's Mythos and Fable",
+      "published_at": "2026-09-23T12:01:37Z",
+      "region": "Europa",
+      "theme": "Ciência, Tecnologia e Inovação",
+      "source_name": "BBC World News",
+      "source_id": "bbc_world",
+      "is_brazilian": false,
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d33f/live/a1cce6f0-b746-11f1-8846-e70401199dae.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1518770660439-4636190af475?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1507668077129-56e32842fceb?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "UN General Assembly live: Iran’s Pezeshkian, Ukraine’s Zelenskyy to speak",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/9/23/un-general-assembly-live-irans-pezeshkian-ukraines-zelenskyy-to-speak?traffic_source=rss",
+      "summary": "Second day of UN General Assembly kicks off with speeches from world leaders, including from Syria, Iran and Ukraine.",
+      "published_at": "2026-09-23T12:00:00Z",
+      "region": "Oriente Médio",
+      "theme": "Direito Internacional e Instituições",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": null,
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1505664194779-8beaceb93744?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Flávio pede que TSE proíba Lula de usar discurso da ONU em campanha",
       "link": "https://www.poder360.com.br/poder-eleicoes-2026/flavio-pede-ao-tse-que-proiba-lula-de-usar-discurso-da-onu-em-campanha/",
-      "summary": "Candidato do PL alega que petista fez discurso eleitoral em Nova York e diz que, em 2022, Jair Bolsonaro foi proibido de colocar na propaganda eleitoral trechos de discurso na ONU",
+      "summary": "Candidato do PL alega que petista fez discurso eleitoral em Nova York e diz que, em 2022, Bolsonaro foi proibido de colocar na propaganda eleitoral trechos de discurso na ONU",
       "published_at": "2026-09-23T11:59:57Z",
       "region": "América do Sul",
       "theme": "Política Brasileira",
@@ -50,6 +271,23 @@
         "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "As the EU advances free trade with Southeast Asia, why is there no ASEAN-wide deal?",
+      "link": "https://www.dw.com/en/as-the-eu-advances-free-trade-with-southeast-asia-why-is-there-no-asean-wide-deal/a-79388278?maca=en-rss-en-world-4025-rdf",
+      "summary": "After years of arduous negotiations, the EU is closing on a string of bilateral trade deals with countries in Southeast Asia. And yet, a bloc-to-bloc agreement between the EU and ASEAN remains a distant prospect.",
+      "published_at": "2026-09-23T11:49:00Z",
+      "region": "Europa",
+      "theme": "Comércio e Finanças",
+      "source_name": "DW World News",
+      "source_id": "dw_english",
+      "is_brazilian": false,
+      "image_url": "https://static.dw.com/image/78093682_6.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1578575437130-527eed3abbec?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1522071820081-009f0129c71c?q=80&w=800&auto=format&fit=crop"
       ]
     },
     {
@@ -412,7 +650,7 @@
     {
       "title": "Saiba como estão Lula e Flávio nas últimas pesquisas para presidente",
       "link": "https://www.poder360.com.br/poder-eleicoes-2026/saiba-como-estao-lula-e-flavio-nas-ultimas-pesquisas-para-presidente/",
-      "summary": "Senador fica numericamente à frente em 4 e Lula, em 4 estudos sobre eventual 2º turno entre os 2; o Poder360 compila os resultados dos levantamentos nacionais mais recentes",
+      "summary": "Senador fica numericamente à frente em 4 estudos e Lula em outros 4 sobre eventual 2º turno entre os 2; o Poder360 compila os resultados dos levantamentos nacionais mais recentes",
       "published_at": "2026-09-23T10:30:53Z",
       "region": "América do Sul",
       "theme": "Política Brasileira",
@@ -458,6 +696,23 @@
         "https://images.unsplash.com/photo-1518770660439-4636190af475?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1507668077129-56e32842fceb?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "ICC convicts Central African Republic rebel leader of crimes against humanity",
+      "link": "https://www.france24.com/en/africa/20260923-icc-convicts-central-african-republic-rebel-leader-of-crimes-against-humanity",
+      "summary": "The International Criminal Court on Wednesday convicted former Central African Republic militia commander Mahamat Said Abdel Kani of torture and unlawful imprisonment. Said oversaw a detention centre in the capital Bangui infamous for its brutal conditions during the country's sectarian civil war.",
+      "published_at": "2026-09-23T10:27:34Z",
+      "region": "África",
+      "theme": "Direito Internacional e Instituições",
+      "source_name": "France 24",
+      "source_id": "france24",
+      "is_brazilian": false,
+      "image_url": "https://s.france24.com/media/display/637d92bc-b739-11f1-9542-513157f91e8c/w:1024/p:16x9/2d99e0625dca081335e504ec5a5c72cc00ec52cd.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1505664194779-8beaceb93744?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop"
       ]
     },
     {
@@ -2294,261 +2549,6 @@
         "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1460661419201-fd4cecdf8a8b?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1508700115892-45ecd05ae2ad?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Iran war live: Trump confirms ‘very good’ meeting with Iran at UN",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/9/23/iran-war-live-trump-confirms-very-good-meeting-with-iran-at-un?traffic_source=rss",
-      "summary": "President Trump says US officials held a 'very good' meeting on Tuesday with the Iranian delegation at UN.",
-      "published_at": "2026-09-23T00:00:00Z",
-      "region": "Oriente Médio",
-      "theme": "Política Internacional",
-      "source_name": "Al Jazeera",
-      "source_id": "aljazeera_english",
-      "is_brazilian": false,
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/09/AFP__20260922__C9363CT__v1__HighRes__DonaldTrumpParticipatesInAMultilateralMeetingWi-1790116832.jpg?resize=1920%2C1440",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Zelenski y Von der Leyen discuten nuevas vías de apoyo financiero y de defensa para Ucrania",
-      "link": "https://www.europapress.es/internacional/noticia-zelenski-von-der-leyen-discuten-nuevas-vias-apoyo-financiero-defensa-ucrania-20260923015446.html",
-      "summary": "El presidente ucraniano, Volodimir Zelenski, y la presidenta de la Comisión Europea, Ursula von der Leyen, han abordado este martes el estado de la situación financiera de Ucrania tras cuatro años de conflicto con Rusia y han barajado nuevas vías de apoyo económico para Kiev para este año y el siguiente, todo ello en un encuentro al margen de la primera sesión de la Asamblea General de Naciones Unidas que se celebra en Nueva York.",
-      "published_at": "2026-09-22T23:54:46Z",
-      "region": "Europa",
-      "theme": "Geopolítica e Segurança",
-      "source_name": "Europa Press",
-      "source_id": "europa_press",
-      "is_brazilian": false,
-      "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260923015446_120.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Marina Silva diz que discurso de Lula na ONU é “documento histórico”",
-      "link": "https://www.poder360.com.br/poder-eleicoes-2026/marina-silva-diz-que-discurso-de-lula-na-onu-e-documento-historico/",
-      "summary": "Candidata ao Senado afirmou que presidente teve “coragem moral” ao defender a soberania brasileira",
-      "published_at": "2026-09-22T23:52:38Z",
-      "region": "América do Sul",
-      "theme": "Política Brasileira",
-      "source_name": "Poder360",
-      "source_id": "poder360",
-      "is_brazilian": true,
-      "image_url": "https://static.poder360.com.br/uploads/2026/09/marina-silva-plenaria-sp-1200x675.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Iran flights to Baghdad, Muscat cancelled ahead of US aviation sanctions",
-      "link": "https://www.aljazeera.com/news/2026/9/22/iran-flights-to-baghdad-muscat-cancelled-ahead-of-us-aviation-sanctions?traffic_source=rss",
-      "summary": "Iran's aviation officials negotiate with Oman and Iraq as US's Bessent targets carriers seven months into the conflict.",
-      "published_at": "2026-09-22T23:46:06Z",
-      "region": "Oriente Médio",
-      "theme": "Geopolítica e Segurança",
-      "source_name": "Al Jazeera",
-      "source_id": "aljazeera_english",
-      "is_brazilian": false,
-      "image_url": "https://loremflickr.com/cache/resized/3772_13796293033_d72a17650e_b_800_600_nofilter.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Lula faz gestos aos Calheiros e a João Campos com incursão no Nordeste",
-      "link": "https://www.poder360.com.br/poder-eleicoes-2026/lula-faz-gestos-aos-calheiros-e-a-joao-campos-com-incursao-no-nordeste/",
-      "summary": "Presidente visitará Alagoas e Pernambuco, Estados em que ainda não foi na busca pela reeleição; também estará no Rio de Janeiro para atos na 4ª feira (23.set) e na 5ª feira (24.set)",
-      "published_at": "2026-09-22T23:44:25Z",
-      "region": "América do Sul",
-      "theme": "Política Brasileira",
-      "source_name": "Poder360",
-      "source_id": "poder360",
-      "is_brazilian": true,
-      "image_url": "https://static.poder360.com.br/uploads/2022/01/lula-renan-calheiros.jpeg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "US judge blocks deportation of DoorDash driver shot by ICE",
-      "link": "https://www.bbc.co.uk/news/articles/cr6241825757o?at_medium=RSS&at_campaign=rss",
-      "summary": "The delivery driver was transferred from a hospital to a detention centre after the shooting on Sunday.",
-      "published_at": "2026-09-22T23:36:12Z",
-      "region": "América do Norte",
-      "theme": "Outros / Multitemático",
-      "source_name": "BBC World News",
-      "source_id": "bbc_world",
-      "is_brazilian": false,
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/97eb/live/8e6f0380-b5ee-11f1-aff1-eb6baa3fda4f.png",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Lula fará novo aceno ao PIB em reunião a 9 dias do 1º turno",
-      "link": "https://www.poder360.com.br/poder-eleicoes-2026/lula-fara-novo-aceno-ao-pib-em-reuniao-a-9-dias-do-1o-turno/",
-      "summary": "Presidente participará de jantar com nomes do setor produtivo e do mercado financeiro na 6ª feira (25.set), às 18h45, em São Paulo",
-      "published_at": "2026-09-22T23:29:09Z",
-      "region": "América do Sul",
-      "theme": "Política Brasileira",
-      "source_name": "Poder360",
-      "source_id": "poder360",
-      "is_brazilian": true,
-      "image_url": "https://static.poder360.com.br/uploads/2026/09/Lula-Evangelicos-Janja-Pastores-EUA-sergio-lima-16-set-2026-2-1200x675.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "14 países se unem aos EUA e declaram PCC e CV como narcoterroristas",
-      "link": "https://www.poder360.com.br/poder-internacional/escudo-das-americas-inclui-pcc-e-cv-em-lista-de-ameacas/",
-      "summary": "Grupo Escudo das Américas, liderado por Donald Trump, assina acordo que impõe punições coordenadas, bloqueio de bens e ações financeiras contra facções criminosas",
-      "published_at": "2026-09-22T23:23:37Z",
-      "region": "América do Norte",
-      "theme": "Política Internacional",
-      "source_name": "Poder360",
-      "source_id": "poder360",
-      "is_brazilian": true,
-      "image_url": "https://static.poder360.com.br/uploads/2026/09/grupo-escudo-das-americas-reuniao-com-trump-22-set-2026-2-1200x675.png",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Escudo das Américas inclui PCC e CV em lista de ameaças",
-      "link": "https://www.poder360.com.br/poder-internacional/escudo-das-americas-inclui-pcc-e-cv-em-lista-de-ameacas/",
-      "summary": "Acordo de 15 países estabelece sanções coordenadas, bloqueio de bens e ações financeiras contra facções criminosas",
-      "published_at": "2026-09-22T23:23:37Z",
-      "region": "América do Sul",
-      "theme": "Geopolítica e Segurança",
-      "source_name": "Poder360",
-      "source_id": "poder360",
-      "is_brazilian": true,
-      "image_url": "https://static.poder360.com.br/uploads/2026/06/trump-22jun2026.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Efeito Muse faz ações da Meta dispararem 20% em duas semanas",
-      "link": "https://www.poder360.com.br/poder-economia/efeito-muse-faz-acoes-da-meta-dispararem-20-em-duas-semanas/",
-      "summary": "Ação bate recorde de US$ 741,25 e valor de mercado chega a US$ 1,89 trilhão; rali também beneficia AMD, Intel e Arm",
-      "published_at": "2026-09-22T23:22:53Z",
-      "region": "América do Norte",
-      "theme": "Ciência, Tecnologia e Inovação",
-      "source_name": "Poder360",
-      "source_id": "poder360",
-      "is_brazilian": true,
-      "image_url": "https://static.poder360.com.br/uploads/2026/09/muse-ai-reproducao-1200x675.png",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1518770660439-4636190af475?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1507668077129-56e32842fceb?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Kamala Harris campaigns with Abdul El-Sayed to unify Democratic voters",
-      "link": "https://www.aljazeera.com/news/2026/9/22/kamala-harris-campaigns-with-abdul-el-sayed-to-unify-democratic-voters?traffic_source=rss",
-      "summary": "The former vice president joins Abdul El-Sayed in Detroit to bolster Democratic unity in swing-state Michigan.",
-      "published_at": "2026-09-22T23:20:17Z",
-      "region": "América do Norte",
-      "theme": "Política Internacional",
-      "source_name": "Al Jazeera",
-      "source_id": "aljazeera_english",
-      "is_brazilian": false,
-      "image_url": "https://loremflickr.com/cache/resized/65535_54120218074_5c7730a6f2_b_800_600_nofilter.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "PT prepara mobilização nacional pró-Lula uma semana antes da eleição",
-      "link": "https://www.poder360.com.br/poder-eleicoes-2026/pt-prepara-mobilizacao-nacional-pro-lula-uma-semana-antes-da-eleicao/",
-      "summary": "Presidente do partido, Edinho Silva convocou apoiadores durante plenária do partido nesta 3ª feira em São Paulo",
-      "published_at": "2026-09-22T23:07:57Z",
-      "region": "América do Sul",
-      "theme": "Política Brasileira",
-      "source_name": "Poder360",
-      "source_id": "poder360",
-      "is_brazilian": true,
-      "image_url": "https://static.poder360.com.br/uploads/2024/01/LuizInacioLulaDaSilva-Lula-CamiloSantana-Brasil-35-scaled.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Michelle Bolsonaro é internada com quadro de enxaqueca",
-      "link": "https://www.poder360.com.br/poder-gente/michelle-bolsonaro-e-internada-com-quadro-de-enxaqueca/",
-      "summary": "Ex-primeira-dama foi internada no Hospital DF Star, ainda sem previsão de alta",
-      "published_at": "2026-09-22T23:03:23Z",
-      "region": "América do Sul",
-      "theme": "Política Brasileira",
-      "source_name": "Poder360",
-      "source_id": "poder360",
-      "is_brazilian": true,
-      "image_url": "https://static.poder360.com.br/uploads/2026/08/michelle-bolsonaro-2-de-agosto.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Trump defends Iran war and threatens annihilation at UN General Assembly",
-      "link": "https://www.pbs.org/newshour/show/trump-defends-iran-war-and-threatens-annihilation-at-un-general-assembly",
-      "summary": "President Trump took his \"America First\" foreign policy to the world stage, using his address to the UN General Assembly to defend the war with Iran and issue a stark warning to Iran's leadership. Trump said a deal could come after the midterm elections and that the alternative was to \"annihilate the Islamic Republic.\" Nick Schifrin reports.",
-      "published_at": "2026-09-22T22:55:13Z",
-      "region": "América do Norte",
-      "theme": "Política Internacional",
-      "source_name": "PBS NewsHour",
-      "source_id": "pbs_newshour",
-      "is_brazilian": false,
-      "image_url": "https://d3i6fh83elv35t.cloudfront.net/static/2026/09/worldstage-1-1024x683.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "UNGA Day 1: US and Iran hold talks despite Trump’s threat",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/22/unga-day-1-us-and-iran-hold-talks-despite-trumps-threat?traffic_source=rss",
-      "summary": "The US and Iran hold talks on UNGA’s first day, despite Trump threatening to ‘annihilate’ Iran in his opening address.",
-      "published_at": "2026-09-22T22:48:56Z",
-      "region": "América do Norte",
-      "theme": "Política Internacional",
-      "source_name": "Al Jazeera",
-      "source_id": "aljazeera_english",
-      "is_brazilian": false,
-      "image_url": "https://loremflickr.com/cache/resized/defaultImage.small_800_600_nofilter.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
       ]
     }
   ]
