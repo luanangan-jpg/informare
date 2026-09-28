@@ -1,10 +1,792 @@
 {
-  "updated_at": "2026-09-28T02:41:35.773014Z",
+  "updated_at": "2026-09-28T09:09:06.681968Z",
   "news": [
+    {
+      "title": "Lula tem 46% contra 44% de Flávio no 2º turno, diz BTG/Nexus",
+      "link": "https://www.poder360.com.br/poder-eleicoes-2026/lula-tem-46-contra-44-de-flavio-no-2o-turno-diz-btg-nexus/",
+      "summary": "Pesquisa também mediu aprovação do governo Lula e rejeição dos principais candidatos à Presidência",
+      "published_at": "2026-09-28T09:04:48Z",
+      "region": "América do Sul",
+      "theme": "Política Brasileira",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2026/07/lula-flavio-prismada.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Fux deve relatar no Supremo ações contra o fim das bets",
+      "link": "https://www.poder360.com.br/poder-justica/fux-deve-relatar-no-supremo-acoes-contra-o-fim-das-bets/",
+      "summary": "Ministro já comanda 3 processos de ações que questionam a regulamentação das apostas on-line, mas ainda não apresentou relatórios para esse casos",
+      "published_at": "2026-09-28T09:00:52Z",
+      "region": "América do Sul",
+      "theme": "Outros / Multitemático",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2025/09/STF_JairBoilsonaro_GolpeDeEstado_PrimeiraTurma_Golpe_8DeJaneiro_Fux-scaled.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Pacote de bondades de Lula soma R$ 411,2 bi a 7 dias das eleições",
+      "link": "https://www.poder360.com.br/poder-eleicoes-2026/pacote-de-bondades-de-lula-soma-r-4112-bi-a-7-dias-das-eleicoes/",
+      "summary": "Petista faz aceno ao eleitorado mais pobre e busca agradar a classe média na tentativa de inédito 4º mandato",
+      "published_at": "2026-09-28T09:00:46Z",
+      "region": "América do Sul",
+      "theme": "Política Brasileira",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2026/09/pacote-bondade-lula-411-bi-25-set-2026-2-1200x675.png",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Lula mira voto útil e faz giro por 5 Estados na semana final",
+      "link": "https://www.poder360.com.br/poder-eleicoes-2026/lula-mira-voto-util-e-faz-giro-por-5-estados-na-semana-final/",
+      "summary": "Presidente intensifica busca por indecisos, mira eleitores de candidatos menores e mobiliza militância antes do 1º turno",
+      "published_at": "2026-09-28T09:00:27Z",
+      "region": "América do Sul",
+      "theme": "Política Brasileira",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2026/09/viagens-lula-campanha-27-set-2026-02-1200x675.png",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Powerful storm batters US northeast",
+      "link": "https://www.france24.com/en/video/20260928-powerful-storm-batters-us-northeast",
+      "summary": "Residents of coastal communities in the US northeast slogged through floodwaters for a second day as a powerful storm pummeled the shoreline Sunday, knocking out power to tens of thousands of homes. Tidal surges swamped low-lying neighborhoods in New Jersey while wind gusts toppled trees on New York's Long Island, damaging homes and bringing down utility poles.",
+      "published_at": "2026-09-28T08:56:27Z",
+      "region": "América do Norte",
+      "theme": "Meio Ambiente e Clima",
+      "source_name": "France 24",
+      "source_id": "france24",
+      "is_brazilian": false,
+      "image_url": "https://s.france24.com/media/display/f71d9402-bb19-11f1-8402-91cf9f3cd539/w:1024/p:16x9/EN-20260928-101410-101533-CS.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "'The last thing you expect': Locals near UK airbase react to 'terrorist act' arrests",
+      "link": "https://www.france24.com/en/video/20260928-the-last-thing-you-expect-locals-near-uk-airbase-react-to-terrorist-act-arrests",
+      "summary": "British police were questioning five men on Monday on suspicion of explosives and terrorism offences after they were detained near an air base that has been used by the US to strike Iran. Residents of a village that's situated under a mile away from the base were ordered to evacuate on Sunday as the investigation continues, with many left taken aback by the developments.",
+      "published_at": "2026-09-28T08:55:19Z",
+      "region": "Europa",
+      "theme": "Outros / Multitemático",
+      "source_name": "France 24",
+      "source_id": "france24",
+      "is_brazilian": false,
+      "image_url": "https://s.france24.com/media/display/214e1d06-bb19-11f1-9ec0-91cf9f3cd539/w:1024/p:16x9/EN-20260928-101213-101347-CS.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Pope to speak on European unity on last day of France visit",
+      "link": "https://www.france24.com/en/video/20260928-pope-to-speak-on-european-unity-on-last-day-of-france-visit",
+      "summary": "Pope Leo on Monday arrived in Metz to speak on the future of Europe on the final day of his visit to France. Metz, a northeastern city that repeatedly changed hands between France and Germany in past conflicts, is closely associated with Robert Schuman, considered one of the founding fathers of the European Union, who is buried just outside Metz. France 24’s Luke Shrago in Metz and Douglas Herbert in the studio take a look at what’s on the agenda.",
+      "published_at": "2026-09-28T08:53:33Z",
+      "region": "Europa",
+      "theme": "Saúde",
+      "source_name": "France 24",
+      "source_id": "france24",
+      "is_brazilian": false,
+      "image_url": "https://s.france24.com/media/display/0ca7a4d6-bb18-11f1-8d70-8f3418d01115/w:1024/p:16x9/EN-20260928-100237-101129-CS.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1584515901367-f1c2a12a50ea?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1505751172876-fa1923c5c528?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1584036561566-baf2418a7c21?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Mapping Israel’s 300 checkpoints: Where they are and how they work",
+      "link": "https://www.aljazeera.com/news/2026/9/28/mapping-israels-300-checkpoints-where-they-are-and-how-they-work?traffic_source=rss",
+      "summary": "Israel has shut occupied West Bank crossings for a week, further restricting Palestinian movement and holy site access.",
+      "published_at": "2026-09-28T08:50:37Z",
+      "region": "Oriente Médio",
+      "theme": "Outros / Multitemático",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": null,
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Saiba como estão Lula e Flávio nas pesquisas a 6 dias da eleição",
+      "link": "https://www.poder360.com.br/poder-eleicoes-2026/saiba-como-estao-lula-e-flavio-nas-pesquisas-a-6-dias-da-eleicao/",
+      "summary": "Candidato do PL aparece numericamente à frente em 5 estudos e o petista em outros 4 sobre eventual 2º turno entre os 2",
+      "published_at": "2026-09-28T08:47:16Z",
+      "region": "América do Sul",
+      "theme": "Política Brasileira",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2026/09/pesquisas-nacionais-nesta-semana-lula-flavio-21-set-2026-2-1200x675.png",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "‘Terror’ incident near RAF base used for Iran war: What we know",
+      "link": "https://www.aljazeera.com/news/2026/9/28/terror-incident-near-raf-base-used-for-iran-war-what-we-know?traffic_source=rss",
+      "summary": "Five men were arrested on suspicion of the 'preparation of a terrorist act' near RAF Fairford, a base used by the US.",
+      "published_at": "2026-09-28T08:44:16Z",
+      "region": "Oriente Médio",
+      "theme": "Geopolítica e Segurança",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": null,
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Por que cada vez menos jovens votam no Brasil — e o que explica esse fenômeno",
+      "link": "https://www.bbc.com/portuguese/articles/cdx5lwnrnr3o?at_medium=RSS&at_campaign=rss",
+      "summary": "Levantamento mostra queda de 22% na participação de eleitores de 16 a 24 anos desde 2010 — mesmo décadas após conquista histórica puxada por estudantes secundaristas",
+      "published_at": "2026-09-28T08:34:22Z",
+      "region": "América do Sul",
+      "theme": "Outros / Multitemático",
+      "source_name": "BBC News Brasil",
+      "source_id": "bbc_brasil",
+      "is_brazilian": true,
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/13ff/live/4444fd90-bb17-11f1-a430-4d16ee157c41.png",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Iran’s children return to school under the shadow of war",
+      "link": "https://www.aljazeera.com/features/2026/9/28/irans-children-return-to-school-under-the-shadow-of-war?traffic_source=rss",
+      "summary": "Iranian children have missed schooling due to the US war.",
+      "published_at": "2026-09-28T08:25:49Z",
+      "region": "Oriente Médio",
+      "theme": "Geopolítica e Segurança",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": null,
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Kallas pide estar \"vigilantes\" porque Rusia está aumentando actos de sabotaje para \"dividir e intimidar\" a la UE",
+      "link": "https://www.europapress.es/internacional/noticia-kallas-pide-estar-vigilantes-porque-rusia-aumentando-actos-sabotaje-dividir-intimidar-ue-20260928102303.html",
+      "summary": "La Alta Representante de Política Exterior de la UE, Kaja Kallas, ha avisado este lunes de que el bloque debe permanecer \"vigilante\" ante el aumento de los intentos de sabotaje en suelo europeo por parte de Rusia, que busca \"dividir\" e \"intimidar\" a los europeos para que cesen su apoyo a Ucrania.",
+      "published_at": "2026-09-28T08:23:03Z",
+      "region": "Europa",
+      "theme": "Outros / Multitemático",
+      "source_name": "Europa Press",
+      "source_id": "europa_press",
+      "is_brazilian": false,
+      "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260928102303_120.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Nations League: With France's Mbappé away, Dembélé steps into new role",
+      "link": "https://www.france24.com/en/tv-shows/sports/20260928-nations-league-with-mbapp%C3%A9-away-demb%C3%A9l%C3%A9-steps-into-new-role",
+      "summary": "France face Belgium on Matchday 2 of the Nations League. With Kylian Mbappé out due to injury, Ousmane Dembélé will serve as captain if he starts.",
+      "published_at": "2026-09-28T08:14:54Z",
+      "region": "Europa",
+      "theme": "Outros / Multitemático",
+      "source_name": "France 24",
+      "source_id": "france24",
+      "is_brazilian": false,
+      "image_url": "https://s.france24.com/media/display/c3316fb2-bad6-11f1-9515-91cf9f3cd539/w:1024/p:16x9/zizou-2.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "France’s far-right National Rally gains ground in Senate vote",
+      "link": "https://www.aljazeera.com/news/2026/9/28/frances-far-right-national-rally-gains-ground-in-senate-vote?traffic_source=rss",
+      "summary": "The vote marks the first time the far-right party gained enough seats to form its own caucus.",
+      "published_at": "2026-09-28T08:10:17Z",
+      "region": "Europa",
+      "theme": "Política Internacional",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": "https://s.france24.com/media/display/459856d8-ba45-11f1-8647-555a0aff87a4/w:1024/p:16x9/89f26f0ba40bd2695376d951d4b7dad7d724f76a.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "'Nunca descartaria uma interferência de Trump na eleição brasileira', diz jornalista americano",
+      "link": "https://www.bbc.com/portuguese/articles/c9rk33x1z2nlo?at_medium=RSS&at_campaign=rss",
+      "summary": "Jon Lee Anderson falou à BBC News Brasil sobre a influência de Trump na América Latina e como anos de 'homens fortes' como Chávez e Ortega aumentaram a pressão sobre a região.",
+      "published_at": "2026-09-28T08:09:07Z",
+      "region": "América do Norte",
+      "theme": "Política Internacional",
+      "source_name": "BBC News Brasil",
+      "source_id": "bbc_brasil",
+      "is_brazilian": true,
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/39ce/live/011e5d20-b952-11f1-a430-4d16ee157c41.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Live: Pope Leo XIV arrives in Metz for final stop of France visit",
+      "link": "https://www.france24.com/en/france/20260928-live-pope-leo-xiv-arrives-in-metz-for-final-stop-of-france-visit",
+      "summary": "Pope Leo XIV on Monday arrived in the northeastern city of Metz, where he is expected to discuss hopes for peace in Europe on the fourth and final day of his visit to France. He will also lead a Mass in the afternoon which is set to be attended by French President Emmanuel Macron. Follow our liveblog for all the latest.",
+      "published_at": "2026-09-28T08:03:57Z",
+      "region": "Europa",
+      "theme": "Política Internacional",
+      "source_name": "France 24",
+      "source_id": "france24",
+      "is_brazilian": false,
+      "image_url": "https://s.france24.com/media/display/dc0c61a8-bb0e-11f1-ae3f-8f3418d01115/w:1024/p:16x9/000-C9HT7KA.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "As mulheres que atacam o voto feminino no Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cq2dw67e517jo?at_medium=RSS&at_campaign=rss",
+      "summary": "Um discurso que parecia restrito a nichos da internet passou a ecoar no debate político do Brasil e nos círculos conservadores nos Estados Unidos: o ataque ao voto feminino.",
+      "published_at": "2026-09-28T08:03:56Z",
+      "region": "América do Sul",
+      "theme": "Geopolítica e Segurança",
+      "source_name": "BBC News Brasil",
+      "source_id": "bbc_brasil",
+      "is_brazilian": true,
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/66a4/live/28e89990-bb0c-11f1-bd21-bdf910f2cec6.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Belgium vs France – Nations League: Team line-ups, head-to-head, Mbappe",
+      "link": "https://www.aljazeera.com/sports/2026/9/28/belgium-france-uefa-nations-league-mbappe-injury-olise-de-bruyne?traffic_source=rss",
+      "summary": "Two-time world champions France travel to Belgium for Monday's Nations League clash without captain Kylian Mbappe.",
+      "published_at": "2026-09-28T08:02:30Z",
+      "region": "Europa",
+      "theme": "Outros / Multitemático",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": null,
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Trump-Xi summit: What wasn't said might matter the most",
+      "link": "https://www.bbc.co.uk/news/articles/cxp84g2ly1mjo?at_medium=RSS&at_campaign=rss",
+      "summary": "The most revealing thing about the summit in Washington may be what the two leaders did not say - and what we still don't know.",
+      "published_at": "2026-09-28T07:52:23Z",
+      "region": "América do Norte",
+      "theme": "Política Internacional",
+      "source_name": "BBC World News",
+      "source_id": "bbc_world",
+      "is_brazilian": false,
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0b3c/live/3b3dc640-bb09-11f1-913f-9dfd502f2fcc.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Bispos católicos criticam fala de Flávio sobre fake news de padroeira",
+      "link": "https://www.poder360.com.br/poder-eleicoes-2026/bispos-catolicos-criticam-fala-de-flavio-sobre-fake-news-de-padroeira/",
+      "summary": "Senador e candidato à Presidência disse que CNBB ajudou PT a espalhar notícia falsa",
+      "published_at": "2026-09-28T07:46:19Z",
+      "region": "América do Sul",
+      "theme": "Política Brasileira",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2026/09/bispos-CNBB-Consep-22-set-2026-1200x675.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Por que Lula acusa Trump de tentar interferir na eleição a favor de Flávio Bolsonaro",
+      "link": "https://www.bbc.com/portuguese/articles/c6pvewvn2j79o?at_medium=RSS&at_campaign=rss",
+      "summary": "Como os EUA passaram de primeiros a reconhecer a vitória de Lula, em 2022, a serem acusados pelo governo brasileiro de tentar interferir na eleição atual, e o que o Planalto tem feito nos bastidores para esfriar a crise.",
+      "published_at": "2026-09-28T07:34:10Z",
+      "region": "América do Sul",
+      "theme": "Política Brasileira",
+      "source_name": "BBC News Brasil",
+      "source_id": "bbc_brasil",
+      "is_brazilian": true,
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/52bc/live/662d1490-bb0f-11f1-a430-4d16ee157c41.png",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Eviction of 87-year-old sparks protests in Madrid over housing crisis",
+      "link": "https://www.npr.org/2026/09/28/nx-s1-5983303/encampment-protest-madrid-housing-crisis",
+      "summary": "Tens of thousands marched through Madrid on Saturday to protest Spain's housing crisis and the eviction of an 87-year-old woman, camping overnight in Madrid's historic Puerta del Sol plaza.",
+      "published_at": "2026-09-28T07:20:18Z",
+      "region": "Europa",
+      "theme": "Economia Internacional",
+      "source_name": "NPR World News",
+      "source_id": "npr",
+      "is_brazilian": false,
+      "image_url": "https://d3i6fh83elv35t.cloudfront.net/static/2026/09/2026-09-27T092718Z_1500392323_RC2JRNAOWPTJ_RTRMADP_3_SPAIN-HOUSING-PROTEST-1024x683.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Leo building on Francis' legacy while reincorporating 'more traditional elements of papal activity'",
+      "link": "https://www.france24.com/en/leo-building-on-francis-legacy-while-reincorporating-more-traditional-elements-of-papal-activity",
+      "summary": "Erin Ogunkeye is pleased to welcome Miles Pattenden, historian of the Catholic Church at the University of Oxford. For Pattenden, Pope Leo XIV’s visit to France is part of a broader recalibration of the papacy. While Pope Francis placed particular emphasis on the Catholic Church’s peripheries and the needs of the Global South, Leo is subtly bringing the Church’s historic European heartlands back into focus. France is especially significant in this regard, given its deep historical relationship with Catholicism and its evolving relationship with Christianity, European identity, secularism and contemporary geopolitical debates.",
+      "published_at": "2026-09-28T07:17:35Z",
+      "region": "Europa",
+      "theme": "Outros / Multitemático",
+      "source_name": "France 24",
+      "source_id": "france24",
+      "is_brazilian": false,
+      "image_url": "https://s.france24.com/media/display/b4b603fc-bb09-11f1-9e2e-11fa9f8a3b4f/w:1024/p:16x9/EN-20260925-140700-141752-CS.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Lula diz que dívida pública “irreal” não lhe causa pânico",
+      "link": "https://www.poder360.com.br/poder-governo/lula-diz-que-divida-publica-irreal-nao-lhe-causa-panico/",
+      "summary": "Presidente cita reservas de US$ 370 bilhões e afirma que relação com PIB pode cair com o crescimento econômico nacional",
+      "published_at": "2026-09-28T07:12:57Z",
+      "region": "América do Sul",
+      "theme": "Política Brasileira",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2026/09/lula-canal-livre-27-set-2026-1200x675.png",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Rescuers search for 12 missing after Nepal avalanche kills two",
+      "link": "https://www.aljazeera.com/news/2026/9/28/rescuers-search-for-12-missing-after-nepal-avalanche-kills-two?traffic_source=rss",
+      "summary": "Rescue teams resume search for missing people after avalanche on Himlung Himal killed two people during severe weather.",
+      "published_at": "2026-09-28T07:10:58Z",
+      "region": "Ásia",
+      "theme": "Outros / Multitemático",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": null,
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Ministro da AGU, Jorge Messias defende CNBB após crítica de Flávio",
+      "link": "https://www.poder360.com.br/poder-eleicoes-2026/ministro-da-agu-jorge-messias-defende-cnbb-apos-critica-de-flavio/",
+      "summary": "Em Goiânia, senador e candidato do PL à Presidência disse que a entidade ajudou PT a espalhar notícia falsa",
+      "published_at": "2026-09-28T07:01:45Z",
+      "region": "América do Sul",
+      "theme": "Política Brasileira",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2026/04/Jorge-Messias-derrota-Senado-sergio-lima-poder360-29abr2026.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Corea del Sur pide a Ucrania que se disculpe por desvelar el traslado de dos soldados norcoreanos capturados",
+      "link": "https://www.europapress.es/internacional/noticia-corea-sur-pide-ucrania-disculpe-desvelar-traslado-dos-soldados-norcoreanos-capturados-20260928085211.html",
+      "summary": "La Presidencia de Corea del Sur ha reclamado a Ucrania que \"dé explicaciones y presente disculpas\" por negar que existiera un acuerdo de confidencialidad en torno al traslado desde el país de dos militares norcoreanos capturados en el marco de los combates con el Ejército de Rusia en la región de Kursk, después de que Seúl cargara contra Kiev por desvelar su llegada a territorio surcoreano.",
+      "published_at": "2026-09-28T06:52:11Z",
+      "region": "Europa",
+      "theme": "Geopolítica e Segurança",
+      "source_name": "Europa Press",
+      "source_id": "europa_press",
+      "is_brazilian": false,
+      "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260928085211_120.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "SpaceX to attempt putting Starship rocket into Earth orbit for first time",
+      "link": "https://www.france24.com/en/science/20260928-spacex-aims-put-starship-rocket-into-earth-orbit-first-time",
+      "summary": "Space X on Monday will attempt to launch its Starship rocket from Texas into Earth's orbit in a 10-hour flight which would deploy 26 Starlink satellites and would represent a milestone in the development of the massive launch vehicle. But the success of the launch is uncertain, as many previous tests have failed.",
+      "published_at": "2026-09-28T06:50:31Z",
+      "region": "Europa",
+      "theme": "Ciência, Tecnologia e Inovação",
+      "source_name": "France 24",
+      "source_id": "france24",
+      "is_brazilian": false,
+      "image_url": "https://s.france24.com/media/display/f6b60bd2-bb02-11f1-9bdf-8f3418d01115/w:1024/p:16x9/2026-09-27T184833Z-726814345-RC2TRNA5XH2D-RTRMADP-3-SPACE-SPACEX-STARSHIP.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1518770660439-4636190af475?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1507668077129-56e32842fceb?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Lula quer polícia nas comunidades e jovens do Exército contra o crime",
+      "link": "https://www.poder360.com.br/poder-governo/lula-quer-policia-nas-comunidades-e-jovens-do-exercito-contra-o-crime/",
+      "summary": "Presidente e candidato à reeleição diz que pretende ampliar presença policial nas comunidades e estudar mudança na lei para manter recrutas em nova força nacional",
+      "published_at": "2026-09-28T06:47:12Z",
+      "region": "América do Sul",
+      "theme": "Geopolítica e Segurança",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2026/09/lula-canal-livre-27-set-20265-1200x675.png",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Two mass shootings in South Africa leave 28 dead",
+      "link": "https://www.bbc.co.uk/news/articles/ck5ywnp075d1o?at_medium=RSS&at_campaign=rss",
+      "summary": "The two attacks hours apart come as the country struggles to stop high levels of gang-related armed violence.",
+      "published_at": "2026-09-28T06:46:03Z",
+      "region": "África",
+      "theme": "Outros / Multitemático",
+      "source_name": "BBC World News",
+      "source_id": "bbc_world",
+      "is_brazilian": false,
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ccd0/live/83714c70-ba4b-11f1-952f-c5888b744c34.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Moraes é filmado sorrindo enquanto filho dança valsa em casamento",
+      "link": "https://www.poder360.com.br/poder-gente/moraes-e-filmado-sorrindo-enquanto-filho-danca-valsa-em-casamento/",
+      "summary": "Vídeo curto foi feito durante luxuosa cerimônia de Alexandre Barci de Moraes, em São Paulo",
+      "published_at": "2026-09-28T06:32:19Z",
+      "region": "América do Sul",
+      "theme": "Outros / Multitemático",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2026/09/Moraes_STF_Julgamento-Jair_Bolsonaro_Golpe_8_de_janeiro-Reproducao--1200x675.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "US, China list goods recommended for tariff cuts following Trump-Xi summit",
+      "link": "https://www.aljazeera.com/economy/2026/9/28/us-china-list-goods-recommended-for-tariff-cuts-following-trump-xi-summit?traffic_source=rss",
+      "summary": "Washington and Beijing announce details of agreement to reduce tariffs on $60bn of trade.",
+      "published_at": "2026-09-28T06:24:33Z",
+      "region": "América do Norte",
+      "theme": "Política Internacional",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": null,
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Serbia’s snap election: Can Vucic outmanoeuvre the student revolt?",
+      "link": "https://www.aljazeera.com/features/2026/9/28/serbias-snap-election-can-vucic-outmanoeuvre-the-student-revolt?traffic_source=rss",
+      "summary": "The country's early parliamentary elections won’t end its crisis or defuse Vucic’s troubles, analysts say.",
+      "published_at": "2026-09-28T06:23:02Z",
+      "region": "Oriente Médio",
+      "theme": "Política Internacional",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": null,
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Las FDI anuncian la muerte de un francotirador de Hamás en el sur de Gaza",
+      "link": "https://www.europapress.es/internacional/noticia-fdi-anuncian-muerte-francotirador-hamas-sur-gaza-20260928080132.html",
+      "summary": "Las Fuerzas de Defensa de Israel (FDI) han informado de la muerte de Adi Adli Abed al Azaar, identificado por el Ejército israelí como integrante del brazo militar del Movimiento de Resistencia Islámica (Hamás) y francotirador de la organización, durante un ataque llevado a cabo en el sur de la Franja de Gaza.",
+      "published_at": "2026-09-28T06:01:32Z",
+      "region": "Oriente Médio",
+      "theme": "Direito Internacional e Instituições",
+      "source_name": "Europa Press",
+      "source_id": "europa_press",
+      "is_brazilian": false,
+      "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260928080132_120.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1505664194779-8beaceb93744?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Virat Kohli passes 15,000 ODI runs as India beat West Indies",
+      "link": "https://www.aljazeera.com/sports/2026/9/28/virat-kohli-passes-15000-odi-runs-as-india-beat-west-indies?traffic_source=rss",
+      "summary": "Kohli remained not out on 139 off 88 balls as the hosts romped to an eight-wicket win in their first ODI of the series.",
+      "published_at": "2026-09-28T05:40:06Z",
+      "region": "Ásia",
+      "theme": "Outros / Multitemático",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": null,
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "‘Still a lockdown’: Deadly floods hit Nepal tourism as peak season begins",
+      "link": "https://www.aljazeera.com/news/2026/9/28/still-a-lockdown-deadly-floods-hit-nepal-tourism-as-peak-season-begins?traffic_source=rss",
+      "summary": "As Himalayan nation recovers from devastating floods, a million people dependent on tourism struggle to make ends meet.",
+      "published_at": "2026-09-28T05:28:29Z",
+      "region": "Ásia",
+      "theme": "Outros / Multitemático",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": null,
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Al menos dos muertos y ocho heridos en Kiev tras otra noche de ataques rusos con drones y misiles",
+      "link": "https://www.europapress.es/internacional/noticia-menos-dos-muertos-ocho-heridos-kiev-ucrania-otra-noche-ataques-rusos-drones-misiles-20260928071745.html",
+      "summary": "Al menos dos personas han fallecido y otras ocho han resultado heridas en Kiev como consecuencia de una nueva oleada de ataques rusos con drones y misiles que se ha prolongado durante varias horas durante la madrugad de este lunes, con impactos y daños en zonas residenciales y civiles de la capital ucraniana.",
+      "published_at": "2026-09-28T05:17:45Z",
+      "region": "Europa",
+      "theme": "Outros / Multitemático",
+      "source_name": "Europa Press",
+      "source_id": "europa_press",
+      "is_brazilian": false,
+      "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260928071745_120_v2.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Russian strikes kill eight, injure dozens across Ukraine",
+      "link": "https://www.aljazeera.com/news/2026/9/28/russian-strikes-kill-eight-injure-dozens-across-ukraine?traffic_source=rss",
+      "summary": "Ukrainian leader Zelenskyy says Moscow launched nearly 4,000 drones, aerial bombs and missiles on Ukraine in past week.",
+      "published_at": "2026-09-28T05:06:11Z",
+      "region": "Europa",
+      "theme": "Geopolítica e Segurança",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": null,
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Sudanese army impounds dozens of motorcycles in Blue Nile curfew",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/28/sudanese-army-impounds-dozens-of-motorcycles-in-blue-nile-curfew?traffic_source=rss",
+      "summary": "Dozens of motorcycles were impounded in Sudan’s Blue Nile State, after their riders were accused of flouting a curfew.",
+      "published_at": "2026-09-28T04:56:00Z",
+      "region": "África",
+      "theme": "Geopolítica e Segurança",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": null,
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Serbia’s president resigns to run for prime minister",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/28/28-09-sv-serbias-vucic-resigns-to-run-for-pm-sb?traffic_source=rss",
+      "summary": "Serbia’s Aleksandar Vucic has resigned as president and will lead his ruling party into a snap parliamentary election.",
+      "published_at": "2026-09-28T04:50:46Z",
+      "region": "Oriente Médio",
+      "theme": "Política Internacional",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": null,
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "14 killed, a dozen missing as Nepal is hit by more floods and landslides",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/28/14-killed-a-dozen-missing-as-nepal-is-hit-by-more-floods-and-landslides?traffic_source=rss",
+      "summary": "At least 14 people have been killed and 11 remain missing after heavy rain triggered floods and landslides across Nepal.",
+      "published_at": "2026-09-28T04:44:12Z",
+      "region": "Ásia",
+      "theme": "Outros / Multitemático",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": null,
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "EEUU y China acuerdan un marco para estudiar rebajas arancelarias recíprocas sobre 60.000 millones de dólares en bienes",
+      "link": "https://www.europapress.es/internacional/noticia-eeuu-china-acuerdan-marco-estudiar-rebajas-arancelarias-reciprocas-60000-millones-dolares-bienes-20260928062123.html",
+      "summary": "Estados Unidos y China han acordado este domingo poner en marcha un marco de diálogo comercial orientado a estudiar restricciones arancelarias recíprocas sobre determinadas mercancías por un valor aproximado de 30.000 millones de dólares (unos 25.500 millones de euros) por cada parte, según los términos de referencia de la nueva Junta de Comercio bilateral.",
+      "published_at": "2026-09-28T04:21:23Z",
+      "region": "Ásia",
+      "theme": "Direito Internacional e Instituições",
+      "source_name": "Europa Press",
+      "source_id": "europa_press",
+      "is_brazilian": false,
+      "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260928062123_120.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1505664194779-8beaceb93744?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Anthropic CEO Amodei to have dinner with Trump at White House",
+      "link": "https://www.aljazeera.com/economy/2026/9/28/anthropic-ceo-amodei-to-have-dinner-with-trump-at-white-house?traffic_source=rss",
+      "summary": "Private dinner will be the first one-on-one meeting between the two men, according to reports.",
+      "published_at": "2026-09-28T02:57:28Z",
+      "region": "América do Norte",
+      "theme": "Política Internacional",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": null,
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Araqchi asegura que Irán mantiene abierta la vía diplomática pero está preparado para una nueva guerra con EEUU",
+      "link": "https://www.europapress.es/internacional/noticia-araqchi-asegura-iran-mantiene-abierta-via-diplomatica-preparado-nueva-guerra-eeuu-20260928043716.html",
+      "summary": "El ministro de Exteriores iraní, Abbas Araqchi, ha asegurado este domingo que Teherán continúa dispuesto a negociar con Estados Unidos, pese al rechazo del presidente estadounidense, Donald Trump, a su propuesta de alto el fuego de siete días, aunque ha advertido de que su país también está preparado para afrontar una eventual reanudación de las operaciones militares.",
+      "published_at": "2026-09-28T02:37:16Z",
+      "region": "América do Norte",
+      "theme": "Geopolítica e Segurança",
+      "source_name": "Europa Press",
+      "source_id": "europa_press",
+      "is_brazilian": false,
+      "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260928043716_120.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Derecha y centroderecha francesas conservan su mayoría en elecciones parciales al Senado y la ultraderecha forma grupo",
+      "link": "https://www.europapress.es/internacional/noticia-derecha-centroderecha-francesas-conservan-mayoria-elecciones-parciales-senado-ultraderecha-forma-grupo-20260928040737.html",
+      "summary": "El partido de derecha Los Republicanos y la centroderechista Unión Centrista han cumplido con las expectativas y se han hecho con la victoria en las elecciones parciales al Senado francés disputadas este domingo, logrando conservar según los resultados provisionales su mayoría en una cámara en la que el Partido Socialista se mantiene a priori como segunda fuerza y donde la ultraderechista Agrupación Nacional ha conseguido formar grupo por primera vez y La Francia Insumisa, de izquierda, ha logrado representación.",
+      "published_at": "2026-09-28T02:07:37Z",
+      "region": "Europa",
+      "theme": "Política Internacional",
+      "source_name": "Europa Press",
+      "source_id": "europa_press",
+      "is_brazilian": false,
+      "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260928040737_120.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
     {
       "title": "Taylor Swift becomes most-awarded artist in MTV VMA history with 31 wins",
       "link": "https://www.france24.com/en/culture/20260928-taylor-swift-most-awarded-mtv-vmas-31-wins",
-      "summary": "Taylor Swift became the most-awarded artist in MTV Video Music Awards history on Sunday, receiving the inaugural Artist Director Honors and moving past Beyoncé with 31 awards. Swift, who said she had written and directed 18 music videos, also premiered her self-directed video for “Patient Zero,” starring Colin Farrell and Dakota Johnson.",
+      "summary": "Taylor Swift became the most-awarded artist in MTV Video Music Awards history on Sunday, receiving the inaugural Artist Director Honors and moving past Beyoncé with her 31 awards. Swift, who said she had written and directed 18 music videos, also premiered her self-directed video for “Patient Zero”, starring Colin Farrell and Dakota Johnson.",
       "published_at": "2026-09-28T02:07:35Z",
       "region": "Europa",
       "theme": "Cultura, Mídia e Sociedade",
@@ -104,6 +886,40 @@
       ]
     },
     {
+      "title": "Corea del Sur y el Mando de la ONU investigan una explosión de mina en la zona desmilitarizada",
+      "link": "https://www.europapress.es/internacional/noticia-corea-sur-mando-onu-investigan-explosion-mina-zona-desmilitarizada-20260928032109.html",
+      "summary": "El Ejército de Corea del Sur y el Mando de Naciones Unidas (UNC, por sus siglas en inglés) han realizado una primera investigación conjunta sobre el terreno para esclarecer el origen de una explosión atribuida inicialmente a una posible mina terrestre en la Zona Desmilitarizada (DMZ) que separa las dos Coreas, aunque la operación deberá continuar en una fecha posterior debido a las condiciones de seguridad.",
+      "published_at": "2026-09-28T01:21:09Z",
+      "region": "Europa",
+      "theme": "Direito Internacional e Instituições",
+      "source_name": "Europa Press",
+      "source_id": "europa_press",
+      "is_brazilian": false,
+      "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260928032109_120.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1505664194779-8beaceb93744?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Pope Leo to speak on EU integration from French border town of Metz",
+      "link": "https://www.france24.com/en/france/20260928-pope-to-speak-on-united-eu-from-french-border-town",
+      "summary": "After three days marked by popular enthusiasm and crowds of worshippers in Paris and Lourdes, Pope Leo XIV will end his four-day visit to France on Monday in the northeastern city of Metz with a Mass and a speech about the future of European integration.",
+      "published_at": "2026-09-28T01:18:09Z",
+      "region": "Europa",
+      "theme": "Outros / Multitemático",
+      "source_name": "France 24",
+      "source_id": "france24",
+      "is_brazilian": false,
+      "image_url": "https://s.france24.com/media/display/76cd95e8-bada-11f1-ad71-11fa9f8a3b4f/w:1024/p:16x9/049d9f50b5a8f96993e7cd438efc1438d5a4cc17.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
       "title": "Flávio diz que CNBB ajudou PT a espalhar fake news sobre padroeira",
       "link": "https://www.poder360.com.br/poder-eleicoes-2026/flavio-diz-que-cnbb-ajudou-pt-a-espalhar-fake-news-sobre-padroeira/",
       "summary": "Horas depois, conferência episcopal rebateu a afirmação e disse em nota que \"a mentira não se combate com outra mentira\"",
@@ -169,6 +985,23 @@
         "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Las elecciones locales de Baja Sajonia (Alemania) cierran con una segunda vuelta que deja sin cargos electos a la AfD",
+      "link": "https://www.europapress.es/internacional/noticia-elecciones-locales-baja-sajonia-alemania-cierran-segunda-vuelta-deja-cargos-electos-afd-20260928025716.html",
+      "summary": "El partido de extrema derecha Alternativa para Alemania (AfD, por sus siglas en alemán) no ha logrado obtener ninguna alcaldía o administración regional en las segundas vueltas electorales celebradas este domingo en el estado federado de Baja Sajonia, en el noroeste de Alemania, tras una primera vuelta en la que se impuso la Unión Demócrata Cristiana (CDU), seguida del Partido Socialdemócrata (SPD), líder y socio, respectivamente, del Gobierno central.",
+      "published_at": "2026-09-28T00:57:16Z",
+      "region": "Europa",
+      "theme": "Política Internacional",
+      "source_name": "Europa Press",
+      "source_id": "europa_press",
+      "is_brazilian": false,
+      "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260928025716_120.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
       ]
     },
     {
@@ -249,7 +1082,7 @@
       "source_name": "BBC World News",
       "source_id": "bbc_world",
       "is_brazilian": false,
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/02b2/live/68ead9b0-b9ca-11f1-bc1f-3f186ca4140c.jpg",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b42f/live/3352b3b0-bb03-11f1-bd21-bdf910f2cec6.jpg",
       "fallback_images": [
         "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?q=80&w=800&auto=format&fit=crop",
@@ -325,6 +1158,23 @@
       ]
     },
     {
+      "title": "Why some Indian civil servants become heroes for doing their jobs",
+      "link": "https://www.bbc.co.uk/news/articles/cw980vje6l3eo?at_medium=RSS&at_campaign=rss",
+      "summary": "In a system often marked by red tape and exhausting delays, officers seen to be following the rules get adulation.",
+      "published_at": "2026-09-27T23:01:37Z",
+      "region": "Ásia",
+      "theme": "Outros / Multitemático",
+      "source_name": "BBC World News",
+      "source_id": "bbc_world",
+      "is_brazilian": false,
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9cf7/live/b0944a30-b80d-11f1-b205-219f899eccc7.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
       "title": "Powerful storm floods US Northeast, causes power outages",
       "link": "https://www.aljazeera.com/news/2026/9/27/powerful-storm-floods-us-northeast-causes-power-outages?traffic_source=rss",
       "summary": "The nor'easter causes another round of flooding in low-lying areas in New Jersey and New York City and knocks out power.",
@@ -339,6 +1189,23 @@
         "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Al menos dos palestinos muertos por disparos del Ejército israelí en Jan Yunis (Gaza)",
+      "link": "https://www.europapress.es/internacional/noticia-menos-dos-palestinos-muertos-disparos-ejercito-israeli-jan-yunis-gaza-20260928004137.html",
+      "summary": "Al menos dos civiles palestinos han perdido la vida a última hora de este domingo tras ser alcanzados por disparos de las fuerzas israelíes en distintos puntos de la Franja de Gaza, ha informado la agencia palestina de noticias Wafa citando fuentes médicas.",
+      "published_at": "2026-09-27T22:41:37Z",
+      "region": "Oriente Médio",
+      "theme": "Geopolítica e Segurança",
+      "source_name": "Europa Press",
+      "source_id": "europa_press",
+      "is_brazilian": false,
+      "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260928004137_120.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
       ]
     },
     {
@@ -378,7 +1245,7 @@
     {
       "title": "Trump expects Iran talks next week after rejecting seven-day truce proposal",
       "link": "https://www.france24.com/en/middle-east/20260927-trump-expects-iran-talks-next-week-after-rejecting-seven-day-truce-proposal",
-      "summary": "US President Donald Trump said on Sunday he expected talks with Iran to resume next week, despite rejecting Tehran’s proposal for a seven-day truce followed by the reopening of the Strait of Hormuz. Trump has raised the possibility of renewed air strikes on Iran, but told Axios he anticipated further negotiations.",
+      "summary": "US President Donald Trump on Sunday said he expected talks with Iran to resume next week, despite rejecting Tehran’s proposal for a seven-day truce followed by the reopening of the Strait of Hormuz. Trump raised the possibility of renewed air strikes on Iran but also said he anticipated further negotiations.",
       "published_at": "2026-09-27T22:10:44Z",
       "region": "América do Norte",
       "theme": "Política Internacional",
@@ -412,7 +1279,7 @@
     {
       "title": "Russian attacks kill eight in Ukraine after Moscow vows to continue war",
       "link": "https://www.france24.com/en/europe/20260927-russian-strikes-kill-eight-ukraine-war-moscow",
-      "summary": "Russian strikes killed eight people across Ukraine on Sunday, authorities said, a day after Moscow vowed to continue the war. President Volodymyr Zelensky said Russia had launched about 3,900 drones, aerial bombs and missiles over the past week. Ukraine accused Moscow of deliberately targeting civilians as winter approaches.",
+      "summary": "Russian strikes killed eight people across Ukraine on Sunday, authorities said, a day after Moscow vowed to continue the war. Ukraine's President Volodymyr Zelensky said Russia had launched about 3,900 drones, aerial bombs and missiles over the past week. Kyiv accused Moscow of deliberately targeting civilians as winter approaches.",
       "published_at": "2026-09-27T21:55:28Z",
       "region": "Europa",
       "theme": "Geopolítica e Segurança",
@@ -954,23 +1821,6 @@
       ]
     },
     {
-      "title": "France's far right gains ground in indirect Senate elections",
-      "link": "https://www.france24.com/en/france/20260927-france-s-far-right-gains-ground-in-indirect-senate-elections",
-      "summary": "Marine Le Pen's far-right National Rally and its allies won enough seats in France's Senate to form a parliamentary group in the upper house for the first time in the party's history Sunday, securing 14 seats out of 348. Half the upper house is elected through indirect voting every three years, with senators in the right-wing dominated chamber serving for six years.",
-      "published_at": "2026-09-27T19:34:30Z",
-      "region": "Europa",
-      "theme": "Política Internacional",
-      "source_name": "France 24",
-      "source_id": "france24",
-      "is_brazilian": false,
-      "image_url": "https://s.france24.com/media/display/459856d8-ba45-11f1-8647-555a0aff87a4/w:1024/p:16x9/89f26f0ba40bd2695376d951d4b7dad7d724f76a.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
       "title": "Denuncian la destrucción de un tramo de la Gran Muralla china por una mina de carbón",
       "link": "https://www.europapress.es/internacional/noticia-denuncian-destruccion-tramo-gran-muralla-china-mina-carbon-20260927213228.html",
       "summary": "Un tramo de seis metros de ancho de la Gran Muralla china situada en el condado de Ningwu, provincia de Shanxi, ha quedado destruido tras años de uso para el paso de los residuos de una mina de carbón que operaba sin licencia.",
@@ -1328,6 +2178,23 @@
       ]
     },
     {
+      "title": "Flávio Bolsonaro volta a parecer à frente de Lula no 2º turno no Agregador de Pesquisas para presidente da BBC News Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/czd2prld130o?at_medium=RSS&at_campaign=rss",
+      "summary": "Acompanhe as últimas estimativas de intenção de voto para Lula x Flávio na eleição presidencial de 2026 reunidas no agregador de pesquisas eleitorais da BBC News Brasil.",
+      "published_at": "2026-09-27T17:21:55Z",
+      "region": "América do Sul",
+      "theme": "Política Brasileira",
+      "source_name": "BBC News Brasil",
+      "source_id": "bbc_brasil",
+      "is_brazilian": true,
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/72cc/live/817e0f20-b05f-11f1-bc1f-3f186ca4140c.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
       "title": "Clique aqui",
       "link": "https://www.bbc.com/portuguese/articles/czd2prld130o?at_medium=RSS&at_campaign=rss",
       "summary": "Confira as estimativas de votos para Eleição 2026 no Agregador da BBC News Brasil",
@@ -1678,873 +2545,6 @@
       "source_id": "aljazeera_english",
       "is_brazilian": false,
       "image_url": null,
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Venezuela releases dozens of political prisoners as election calls grow",
-      "link": "https://www.bbc.co.uk/news/articles/c620lrw2xr12o?at_medium=RSS&at_campaign=rss",
-      "summary": "A slew of dissidents being released from long-term detention comes days after the nation's interim leader met the US president.",
-      "published_at": "2026-09-27T15:56:25Z",
-      "region": "América do Sul",
-      "theme": "Política Internacional",
-      "source_name": "BBC World News",
-      "source_id": "bbc_world",
-      "is_brazilian": false,
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/856d/live/3b0c2900-ba87-11f1-befc-25c189e9eebf.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Who is Gavin Bazunu, and why is he boycotting the Ireland vs Israel match?",
-      "link": "https://www.aljazeera.com/sports/2026/9/27/who-is-gavin-bazunu-and-why-is-he-boycotting-the-ireland-vs-israel-match?traffic_source=rss",
-      "summary": "Bazunu says his decision to withdraw was based on a 'personal belief that the killing of innocent people is wrong'.",
-      "published_at": "2026-09-27T15:51:18Z",
-      "region": "Europa",
-      "theme": "Saúde",
-      "source_name": "Al Jazeera",
-      "source_id": "aljazeera_english",
-      "is_brazilian": false,
-      "image_url": null,
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1584515901367-f1c2a12a50ea?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1505751172876-fa1923c5c528?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1584036561566-baf2418a7c21?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Suiza rechaza en referéndum endurecer su política de neutralidad",
-      "link": "https://www.europapress.es/internacional/noticia-suiza-rechaza-referendum-endurecer-politica-neutralidad-20260927175111.html",
-      "summary": "Un 70,2% de los votantes han rechazado este domingo en referéndum una iniciativa para endurecer la tradicional política de neutralidad de Suiza recogida en su Constitución.",
-      "published_at": "2026-09-27T15:51:11Z",
-      "region": "Europa",
-      "theme": "Direito Internacional e Instituições",
-      "source_name": "Europa Press",
-      "source_id": "europa_press",
-      "is_brazilian": false,
-      "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260927175111_120.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1505664194779-8beaceb93744?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "The longevity boom is getting ahead of the science",
-      "link": "https://www.aljazeera.com/opinions/2026/9/27/the-longevity-boom-is-getting-ahead-of-the-science?traffic_source=rss",
-      "summary": "Billions are pouring into anti-ageing biotech, but manipulating ageing has risks we are only beginning to understand.",
-      "published_at": "2026-09-27T15:48:16Z",
-      "region": "Oriente Médio",
-      "theme": "Ciência, Tecnologia e Inovação",
-      "source_name": "Al Jazeera",
-      "source_id": "aljazeera_english",
-      "is_brazilian": false,
-      "image_url": null,
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1518770660439-4636190af475?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1507668077129-56e32842fceb?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Reino Unido prende 5 por suspeita de atentado perto de base dos EUA",
-      "link": "https://www.poder360.com.br/poder-internacional/reino-unido-prende-5-por-suspeita-de-atentado-perto-de-base-dos-eua-2/",
-      "summary": "Cinco homens detidos em Whelford, perto da RAF Fairford, agora suspeitos de terrorismo; 85 casas evacuadas",
-      "published_at": "2026-09-27T15:45:55Z",
-      "region": "América do Norte",
-      "theme": "Geopolítica e Segurança",
-      "source_name": "Poder360",
-      "source_id": "poder360",
-      "is_brazilian": true,
-      "image_url": "https://static.poder360.com.br/uploads/2026/09/bandeira-reino-unido-1200x675.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Eviction of 87-year-old sparks encampment protest in Madrid over housing crisis",
-      "link": "https://www.pbs.org/newshour/world/eviction-of-87-year-old-sparks-encampment-protest-in-madrid-over-housing-crisis",
-      "summary": "Tens of thousands marched through Madrid on Saturday to protest the eviction of María del Carmen Abascal from the apartment in the upscale Retiro neighborhood where she had lived for more than seven decades.",
-      "published_at": "2026-09-27T15:40:37Z",
-      "region": "Europa",
-      "theme": "Direitos Humanos, Sociedade e Migrações",
-      "source_name": "PBS NewsHour",
-      "source_id": "pbs_newshour",
-      "is_brazilian": false,
-      "image_url": "https://d3i6fh83elv35t.cloudfront.net/static/2026/09/2026-09-27T092718Z_1500392323_RC2JRNAOWPTJ_RTRMADP_3_SPAIN-HOUSING-PROTEST-1024x683.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1542810634-71277d95dcbb?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1489533119213-66a5cd877091?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1531206715517-5c0ba140e2b8?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Lula critica times de futebol e Janja faz sinal para presidente parar",
-      "link": "https://www.poder360.com.br/poder-economia/lula-critica-times-de-futebol-e-janja-faz-sinal-para-presidente-parar/",
-      "summary": "Petista afirmou que Flamengo lidera falas de que se governo acaba com as bets, acaba com o futebol; primeira-dama torcedora do clube carioca apoiou o discurso, mas fez sinal para o presidente incluir outros times",
-      "published_at": "2026-09-27T15:39:45Z",
-      "region": "América do Sul",
-      "theme": "Política Brasileira",
-      "source_name": "Poder360",
-      "source_id": "poder360",
-      "is_brazilian": true,
-      "image_url": "https://static.poder360.com.br/uploads/2026/09/lula-janja-1200x675.png",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Trump manda jornalista “ficar quieta” após perguntas sobre banimento",
-      "link": "https://www.poder360.com.br/poder-internacional/trump-manda-jornalista-ficar-quieta-apos-perguntas-sobre-banimento/",
-      "summary": "Situação se deu depois de a repórter do \"MS Now\" questionar se o presidente dos EUA não aceita \"perguntas difíceis\"",
-      "published_at": "2026-09-27T15:33:49Z",
-      "region": "América do Norte",
-      "theme": "Política Internacional",
-      "source_name": "Poder360",
-      "source_id": "poder360",
-      "is_brazilian": true,
-      "image_url": "https://static.poder360.com.br/uploads/2026/08/trump-24jul2026.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Rio Grande do Sul tem domingo de temporais e chuva forte",
-      "link": "https://www.poder360.com.br/poder-brasil/rio-grande-do-sul-tem-domingo-de-temporais-e-chuva-forte/",
-      "summary": "Granizo e rajadas de vento são previstos em várias regiões; instabilidade deve aumentar na 2ª (28.set) e na 3ª feira (29.set)",
-      "published_at": "2026-09-27T15:30:02Z",
-      "region": "América do Sul",
-      "theme": "Outros / Multitemático",
-      "source_name": "Poder360",
-      "source_id": "poder360",
-      "is_brazilian": true,
-      "image_url": "https://static.poder360.com.br/uploads/2026/09/chuva-sp-10set2026-1-1200x675.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Finding Desert Angels: Searching for the missing at the US-Mexico border",
-      "link": "https://www.aljazeera.com/video/witness/2026/9/27/finding-desert-angels-searching-for-the-missing-at-the-us-mexico-border?traffic_source=rss",
-      "summary": "An ageing trailblazer of search and rescue risks his life to find a woman’s missing son in the US-Mexico borderlands.",
-      "published_at": "2026-09-27T15:30:00Z",
-      "region": "América do Norte",
-      "theme": "Outros / Multitemático",
-      "source_name": "Al Jazeera",
-      "source_id": "aljazeera_english",
-      "is_brazilian": false,
-      "image_url": null,
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "For Libya, the Hormuz crisis can be a trap or an opportunity",
-      "link": "https://www.aljazeera.com/opinions/2026/9/27/for-libya-the-hormuz-crisis-can-be-a-trap-or-an-opportunity?traffic_source=rss",
-      "summary": "Libyan hydrocarbons are increasingly sought after. To take full advantage, the country needs a new economic strategy.",
-      "published_at": "2026-09-27T15:29:19Z",
-      "region": "África",
-      "theme": "Economia Internacional",
-      "source_name": "Al Jazeera",
-      "source_id": "aljazeera_english",
-      "is_brazilian": false,
-      "image_url": null,
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Fazenda estima em R$ 1,7 bi saldo de apostadores em sites de apostas",
-      "link": "https://www.poder360.com.br/poder-economia/fazenda-estima-em-r-17-bi-saldo-de-apostadores-em-sites-de-apostas/",
-      "summary": "Valor em plataformas de apostas esportivas e jogos online deverá ser sacado até 5 de outubro de 2026; depois disso, ficará indisponível",
-      "published_at": "2026-09-27T15:11:12Z",
-      "region": "América do Sul",
-      "theme": "Outros / Multitemático",
-      "source_name": "Poder360",
-      "source_id": "poder360",
-      "is_brazilian": true,
-      "image_url": "https://static.poder360.com.br/uploads/2026/07/arte-bets-2-jun-2025-10.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "47% dos brasileiros reprovam ministros do STF, diz Datafolha",
-      "link": "https://www.poder360.com.br/poder-justica/47-dos-brasileiros-reprovam-ministros-do-stf-diz-datafolha/",
-      "summary": "Entre eleitores de Flávio Bolsonaro, só 6% dizem considerar o trabalho dos magistrados ótimo ou bom",
-      "published_at": "2026-09-27T15:05:44Z",
-      "region": "América do Sul",
-      "theme": "Política Brasileira",
-      "source_name": "Poder360",
-      "source_id": "poder360",
-      "is_brazilian": true,
-      "image_url": "https://static.poder360.com.br/uploads/2026/09/plenario-ministros-stf-15set2-26-1200x675.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Tebet omite Lula, Haddad e Marina em 1 milhão de panfletos",
-      "link": "https://www.poder360.com.br/poder-eleicoes-2026/tebet-omite-lula-haddad-e-marina-em-1-milhao-de-panfletos/",
-      "summary": "Material de campanha deixa também Marina Silva fora e foi produzido a pedido de políticos do PSD e do MDB",
-      "published_at": "2026-09-27T15:01:54Z",
-      "region": "América do Sul",
-      "theme": "Política Brasileira",
-      "source_name": "Poder360",
-      "source_id": "poder360",
-      "is_brazilian": true,
-      "image_url": "https://static.poder360.com.br/uploads/2026/09/simone-tebet-1200x675.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Church confronts shock of abuse crisis",
-      "link": "https://www.france24.com/en/church-confronts-shock-of-abuse-crisis",
-      "summary": "After two days in Paris, where he drew hundreds of thousands of worshippers, Pope Leo XIV is continuing his visit to France in the southwestern pilgrimage town of Lourdes. There, he is due to meet privately with survivors of clergy sexual abuse. His four-day trip is the first official papal visit to France in nearly two decades. For more reaction, we can speak to Marc Artzrouni, the French representative for the global coalition “Ending Clergy Abuse”.",
-      "published_at": "2026-09-27T15:01:16Z",
-      "region": "Europa",
-      "theme": "Economia Internacional",
-      "source_name": "France 24",
-      "source_id": "france24",
-      "is_brazilian": false,
-      "image_url": "https://s.france24.com/media/display/8eeac378-ba83-11f1-860b-177f79e345bf/w:1024/p:16x9/EN-20260927-091757-092659-CS.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "UK: Police arrest 5 on suspicion of preparing a terrorist act",
-      "link": "https://www.france24.com/en/uk-police-arrest-5-on-suspicion-of-preparing-a-terrorist-act",
-      "summary": "British police have evacuated homes near an air force base in Gloucestershire, as army bomb disposal experts examined several vehicles in what authorities described as a major incident. Five men have been arrested on suspicion of preparing a terrorist act and offences under the Explosives Act. RAF Fairford, the base involved, is also being used by the US for strikes on Iranian missile sites targeting ships in the Strait of Hormuz. US Air Force personnel at the base have been told to remain vigilant, while police say the incident is now contained. France 24 international affairs editor",
-      "published_at": "2026-09-27T14:55:13Z",
-      "region": "Europa",
-      "theme": "Geopolítica e Segurança",
-      "source_name": "France 24",
-      "source_id": "france24",
-      "is_brazilian": false,
-      "image_url": "https://s.france24.com/media/display/acb97716-ba81-11f1-a119-11fa9f8a3b4f/w:1024/p:16x9/EN-20260927-160244-160722-CS.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Reino Unido asegura que Argentina \"no tiene capacidad\" para tomar las Malvinas",
-      "link": "https://www.europapress.es/internacional/noticia-reino-unido-asegura-argentina-no-tiene-capacidad-tomar-malvinas-20260927164458.html",
-      "summary": "El ministro de Defensa británico, Wes Streeting, ha afirmado que Argentina \"no tiene capacidad\" para tomar el control de las islas Malvinas y que, en cambio, Reino Unido está capacitado para defender el archipiélago.",
-      "published_at": "2026-09-27T14:44:58Z",
-      "region": "América do Sul",
-      "theme": "Geopolítica e Segurança",
-      "source_name": "Europa Press",
-      "source_id": "europa_press",
-      "is_brazilian": false,
-      "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260927164458_120.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Strait of Hormuz tensions linger as Iran and US move further from a deal",
-      "link": "https://www.aljazeera.com/economy/2026/9/27/strait-of-hormuz-tensions-linger-as-iran-and-us-move-further-from-a-deal?traffic_source=rss",
-      "summary": "There are fears of renewed fighting between the US and Iran, after President Trump rejected a deal.",
-      "published_at": "2026-09-27T14:36:44Z",
-      "region": "América do Norte",
-      "theme": "Geopolítica e Segurança",
-      "source_name": "Al Jazeera",
-      "source_id": "aljazeera_english",
-      "is_brazilian": false,
-      "image_url": null,
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Al menos 14 desaparecidos tras una avalancha en el Himalaya",
-      "link": "https://www.europapress.es/internacional/noticia-menos-14-desaparecidos-avalancha-himalaya-20260927163043.html",
-      "summary": "Al menos 14 personas, todas ellas de nacionalidad nepalí, están desaparecidas tras una avalancha ocurrida en el pico de Himlung Himal, en la región de Nar Phu, provincia de Manang, en el Himalaya nepalí.",
-      "published_at": "2026-09-27T14:30:43Z",
-      "region": "Europa",
-      "theme": "Outros / Multitemático",
-      "source_name": "Europa Press",
-      "source_id": "europa_press",
-      "is_brazilian": false,
-      "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260927163043_120.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "'Ela também é uma vítima': quem é Christa Pike, que pode ser a primeira mulher executada no Tennessee em 200 anos",
-      "link": "https://www.bbc.com/portuguese/articles/cwdr78jg54jlo?at_medium=RSS&at_campaign=rss",
-      "summary": "Os advogados de Pike, que matou uma colega estudante em 1995, afirmam que ela deveria receber clemência e não seria condenada à morte se o crime acontecesse hoje.",
-      "published_at": "2026-09-27T14:18:31Z",
-      "region": "América do Sul",
-      "theme": "Outros / Multitemático",
-      "source_name": "BBC News Brasil",
-      "source_id": "bbc_brasil",
-      "is_brazilian": true,
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6c63/live/9ec92970-b8de-11f1-b1d1-571ed4d7ff2c.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "True Crime Reports: The Dosa King’s Deadly Obsession",
-      "link": "https://www.aljazeera.com/video/true-crime-reports/2026/9/27/true-crime-reports-the-dosa-kings-deadly-obsession?traffic_source=rss",
-      "summary": "The Dosa King built an empire. After a woman rejects him, her husband is found dead – and the pursuit of justice begins.",
-      "published_at": "2026-09-27T14:09:23Z",
-      "region": "Oriente Médio",
-      "theme": "Outros / Multitemático",
-      "source_name": "Al Jazeera",
-      "source_id": "aljazeera_english",
-      "is_brazilian": false,
-      "image_url": null,
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Two mass shootings in South Africa leave 27 dead",
-      "link": "https://www.bbc.co.uk/news/articles/ck5ywnp075d1o?at_medium=RSS&at_campaign=rss",
-      "summary": "The two attacks hours apart come as the country struggles to stop high levels of gang-related armed violence.",
-      "published_at": "2026-09-27T14:09:22Z",
-      "region": "África",
-      "theme": "Outros / Multitemático",
-      "source_name": "BBC World News",
-      "source_id": "bbc_world",
-      "is_brazilian": false,
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ccd0/live/83714c70-ba4b-11f1-952f-c5888b744c34.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Yemen’s health system could collapse in some areas, minister warns",
-      "link": "https://www.aljazeera.com/news/2026/9/27/yemens-health-system-could-collapse-in-some-areas-minister-warns?traffic_source=rss",
-      "summary": "Yemen's healthcare system may not be able to support the population as war strains resources, minister tells Al Jazeera.",
-      "published_at": "2026-09-27T14:07:55Z",
-      "region": "Oriente Médio",
-      "theme": "Saúde",
-      "source_name": "Al Jazeera",
-      "source_id": "aljazeera_english",
-      "is_brazilian": false,
-      "image_url": null,
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1584515901367-f1c2a12a50ea?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1505751172876-fa1923c5c528?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1584036561566-baf2418a7c21?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Israel’s Smotrich calls for ‘war’ in West Bank: Rhetoric or real threat?",
-      "link": "https://www.aljazeera.com/news/2026/9/27/israels-smotrich-urges-war-in-west-bank-poll-rhetoric-or-real-threat?traffic_source=rss",
-      "summary": "Smotrich’s words should not be dismissed as mere election rhetoric, human rights experts and analysts warn.",
-      "published_at": "2026-09-27T14:03:45Z",
-      "region": "Oriente Médio",
-      "theme": "Geopolítica e Segurança",
-      "source_name": "Al Jazeera",
-      "source_id": "aljazeera_english",
-      "is_brazilian": false,
-      "image_url": null,
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Thousands evacuated amid Bangkok floods",
-      "link": "https://www.france24.com/en/thousands-evacuated-amid-bangkok-floods",
-      "summary": "Rain is easing in Thailand’s capital, but flooding continues in several low-lying areas. Thousands of people have been forced into temporary shelters after the government declared Bangkok a disaster zone on Saturday. At least eight people have died over the past 10 days as heavy rains caused widespread disruption. Juliette Brown reports.",
-      "published_at": "2026-09-27T13:59:00Z",
-      "region": "Ásia",
-      "theme": "Política Internacional",
-      "source_name": "France 24",
-      "source_id": "france24",
-      "is_brazilian": false,
-      "image_url": "https://s.france24.com/media/display/27f9a0a2-ba7a-11f1-89cb-8f3418d01115/w:1024/p:16x9/EN-20260927-150645-150805-CS.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "South Africa shootings leave 27 killed",
-      "link": "https://www.france24.com/en/south-africa-shootings-leave-27-killed",
-      "summary": "It has been a deadly night in South Africa, with 27 people killed in two separate shooting incidents. Police say 17 people were shot dead at a tavern outside Johannesburg by suspects armed with assault rifles, while another 10 were killed near Cape Town when gunmen opened fire at a venue selling grilled meat. No arrests have been made as police search for the attackers. Initial investigations suggest one shooting may have been linked to a turf war between illegal miners, while the other could have stemmed from a business rivalry. France 24 correspondent Eurice Masson reports the latest from South Africa.",
-      "published_at": "2026-09-27T13:56:20Z",
-      "region": "África",
-      "theme": "Geopolítica e Segurança",
-      "source_name": "France 24",
-      "source_id": "france24",
-      "is_brazilian": false,
-      "image_url": "https://s.france24.com/media/display/c574c970-ba79-11f1-82d3-8f3418d01115/w:1024/p:16x9/EN-20260927-150222-150535-CS.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "First Protestant march in Catholic area in nearly 30 years",
-      "link": "https://www.france24.com/en/first-protestant-march-in-catholic-area-in-nearly-30-years",
-      "summary": "Tensions are running high in Northern Ireland after the High Court in Belfast approved a controversial parade. Around 2,000 protesters have blocked the route into a Catholic area where the Protestant march was due to pass. It is the first time in nearly 30 years that the Orange Order has been allowed to march along this route, which was a notorious flashpoint before the 1998 Good Friday Agreement largely brought an end to the bloodshed of the Troubles. UK Prime Minister Andy Burnham has appealed for calm on all sides, saying he does not want to see Northern Ireland “go backwards.”",
-      "published_at": "2026-09-27T13:54:28Z",
-      "region": "Europa",
-      "theme": "Geopolítica e Segurança",
-      "source_name": "France 24",
-      "source_id": "france24",
-      "is_brazilian": false,
-      "image_url": "https://s.france24.com/media/display/deae2e46-ba78-11f1-af5d-177f79e345bf/w:1024/p:16x9/EN-20260927-143500-143649-CS.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Femicides on the rise in South Africa",
-      "link": "https://www.france24.com/en/femicides-on-the-rise-in-south-africa",
-      "summary": "Two more women have been found dead in Johannesburg this weekend, bringing the number of women killed in a single municipality to 11 in just two months. Most of the other victims were in their 20s and 30s, with some found partially undressed and showing signs of sexual assault, raising fears that a serial killer could be responsible. Police have offered a $25,000 reward for information leading to the arrest of the suspected killer or killers. The deaths have sparked a national outcry over violence against women in South Africa, which has one of the world’s highest rates of gender-based violence. Tegan Snayman, Research, Campaigns and Communications Assistant at Amnesty International South Africa, shares further insights.",
-      "published_at": "2026-09-27T13:51:12Z",
-      "region": "África",
-      "theme": "Ciência, Tecnologia e Inovação",
-      "source_name": "France 24",
-      "source_id": "france24",
-      "is_brazilian": false,
-      "image_url": "https://s.france24.com/media/display/68d44160-ba78-11f1-bb89-177f79e345bf/w:1024/p:16x9/EN-20260927-140516-141214-CS.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1518770660439-4636190af475?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1507668077129-56e32842fceb?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Major incident at UK airbase used by US",
-      "link": "https://www.france24.com/en/major-incident-at-uk-airbase-used-by-us",
-      "summary": "British police have evacuated homes near an air force base in Gloucestershire, as army bomb disposal experts examined several vehicles in what authorities described as a major incident. Five men have been arrested on suspicion of preparing a terrorist act and offences under the Explosives Act. RAF Fairford, the base involved, is also being used by the US for strikes on Iranian missile sites targeting ships in the Strait of Hormuz. US Air Force personnel at the base have been told to remain vigilant, while police say the incident is now contained. Caroline Baum reports.",
-      "published_at": "2026-09-27T13:49:45Z",
-      "region": "América do Norte",
-      "theme": "Geopolítica e Segurança",
-      "source_name": "France 24",
-      "source_id": "france24",
-      "is_brazilian": false,
-      "image_url": "https://s.france24.com/media/display/ee8a79ce-ba77-11f1-8718-852b23529bb9/w:1024/p:16x9/EN-20260927-140131-140252-CS.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "European cities seek ways of boosting affordable housing",
-      "link": "https://www.dw.com/en/european-cities-seek-ways-of-boosting-affordable-housing/a-79438939?maca=en-rss-en-world-4025-rdf",
-      "summary": "In many major urban centers of Europe, the housing shortage has become an explosive social issue. DW looks into various models that have been put in place across the continent.",
-      "published_at": "2026-09-27T13:47:00Z",
-      "region": "Europa",
-      "theme": "Outros / Multitemático",
-      "source_name": "DW World News",
-      "source_id": "dw_english",
-      "is_brazilian": false,
-      "image_url": "https://static.dw.com/image/77803987_6.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Behind the scenes of Céline Dion's high-tech comeback",
-      "link": "https://www.france24.com/en/tv-shows/tech-24/20260927-behind-the-scenes-of-c%C3%A9line-dion-s-high-tech-comeback",
-      "summary": "You'll have seen the coverage of Céline Dion's return from illness and her Paris residency. But here's a different angle: the audio technology keeping her stage quiet, and the artificial intelligence isolating her voice from the noise of a 30,000-seat stadium.",
-      "published_at": "2026-09-27T13:38:31Z",
-      "region": "Europa",
-      "theme": "Ciência, Tecnologia e Inovação",
-      "source_name": "France 24",
-      "source_id": "france24",
-      "is_brazilian": false,
-      "image_url": "https://s.france24.com/media/display/1a6376d2-ba77-11f1-b462-555a0aff87a4/w:1024/p:16x9/C%C3%A9line.png",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1518770660439-4636190af475?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1507668077129-56e32842fceb?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "'Nasci enquanto minha mãe era mantida viva em um pulmão de aço'",
-      "link": "https://www.bbc.com/portuguese/articles/cq23xdk94vlgo?at_medium=RSS&at_campaign=rss",
-      "summary": "A mãe de Susan, Elizabeth, estava grávida de cinco meses quando contraiu poliomielite, na década de 1950",
-      "published_at": "2026-09-27T13:14:54Z",
-      "region": "América do Sul",
-      "theme": "Outros / Multitemático",
-      "source_name": "BBC News Brasil",
-      "source_id": "bbc_brasil",
-      "is_brazilian": true,
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/081a/live/5e88d2a0-b5b1-11f1-8d1d-a985658d9d3a.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "South Africa reels from spate of mass shootings that killed 38 people in a week",
-      "link": "https://www.npr.org/2026/09/27/nx-s1-5982488/south-africa-mass-shootings-killed-38-week",
-      "summary": "On Saturday night, there were separate mass shootings near South Africa's two largest cities.",
-      "published_at": "2026-09-27T13:01:27Z",
-      "region": "África",
-      "theme": "Outros / Multitemático",
-      "source_name": "NPR World News",
-      "source_id": "npr",
-      "is_brazilian": false,
-      "image_url": null,
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Nor'easter brings flooding as New York and New Jersey declare emergency",
-      "link": "https://www.bbc.co.uk/news/articles/ck1wxxzn5jndo?at_medium=RSS&at_campaign=rss",
-      "summary": "Tens of millions of people from Maine to Virginia are in the path of the powerful storm.",
-      "published_at": "2026-09-27T12:34:26Z",
-      "region": "América do Norte",
-      "theme": "Meio Ambiente e Clima",
-      "source_name": "BBC World News",
-      "source_id": "bbc_world",
-      "is_brazilian": false,
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/02b2/live/68ead9b0-b9ca-11f1-bc1f-3f186ca4140c.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Gunmen kill at least 27 people in separate mass shootings in South Africa",
-      "link": "https://www.france24.com/en/africa/20260927-gunmen-kill-27-people-in-separate-mass-shootings-in-south-africa",
-      "summary": "At least 27 people were killed in separate mass shootings in Cape Town and Johannesburg, police said Sunday. No suspects have been arrested in either shooting, and the motives for the attacks remain unknown.",
-      "published_at": "2026-09-27T12:34:08Z",
-      "region": "África",
-      "theme": "Outros / Multitemático",
-      "source_name": "France 24",
-      "source_id": "france24",
-      "is_brazilian": false,
-      "image_url": "https://s.france24.com/media/display/bbadf4d4-ba6f-11f1-92a2-8f3418d01115/w:1024/p:16x9/d993f9ad0c332534d5079604b8f3152ba7f0e398.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "CEOs da OpenAI e da Anthropic são convocados na Austrália",
-      "link": "https://www.poder360.com.br/poder-internacional/ceos-da-openai-e-da-anthropic-sao-convocados-na-australia/",
-      "summary": "Sam Altman e Dario Amodei deverão prestar depoimento a comissão do Senado sobre IA",
-      "published_at": "2026-09-27T12:31:31Z",
-      "region": "Oceania",
-      "theme": "Ciência, Tecnologia e Inovação",
-      "source_name": "Poder360",
-      "source_id": "poder360",
-      "is_brazilian": true,
-      "image_url": "https://static.poder360.com.br/uploads/2026/09/logo-da-OpenAI-1200x675.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1518770660439-4636190af475?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1507668077129-56e32842fceb?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "A mulher que envia US$ 10 mil por semana para crianças migrantes detidas nos EUA comprarem comida",
-      "link": "https://www.bbc.com/portuguese/articles/cqn745gepm3po?at_medium=RSS&at_campaign=rss",
-      "summary": "Casey Revkin começou a ajudar menores atingidos pelas políticas migratórias dos Estados Unidos durante o primeiro mandato de Donald Trump. Hoje, ela faz depósitos nas contas das famílias detidas no centro de Dilley, no Texas.",
-      "published_at": "2026-09-27T12:27:31Z",
-      "region": "América do Norte",
-      "theme": "Política Internacional",
-      "source_name": "BBC News Brasil",
-      "source_id": "bbc_brasil",
-      "is_brazilian": true,
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/670b/live/cd028060-b678-11f1-aa5f-039462a18036.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Governo planeja reunião com clubes após proibição das bets",
-      "link": "https://www.poder360.com.br/poder-governo/governo-planeja-reuniao-com-clubes-apos-proibicao-das-bets/",
-      "summary": "Encontro deve discutir impactos financeiros da medida que encerra operações de apostas no Brasil",
-      "published_at": "2026-09-27T12:25:14Z",
-      "region": "América do Sul",
-      "theme": "Outros / Multitemático",
-      "source_name": "Poder360",
-      "source_id": "poder360",
-      "is_brazilian": true,
-      "image_url": "https://static.poder360.com.br/uploads/2026/09/lula-reuniao-bets-1-set-2026-8-1200x675.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Clima extremo afeta o bolso do consumidor no mundo",
-      "link": "https://www.poder360.com.br/poder-sustentavel/clima-extremo-afeta-o-bolso-do-consumidor-no-mundo/",
-      "summary": "Ondas de calor, secas e incêndios florestais já elevam preços, provocam queda de produtividade, reduzem renda e pressionam economias",
-      "published_at": "2026-09-27T12:20:37Z",
-      "region": "América do Sul",
-      "theme": "Meio Ambiente e Clima",
-      "source_name": "Poder360",
-      "source_id": "poder360",
-      "is_brazilian": true,
-      "image_url": "https://static.poder360.com.br/uploads/2026/07/Calor-EUA-4jul.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Novo método barateia diagnóstico da tuberculose e beneficia saúde",
-      "link": "https://www.poder360.com.br/poder-saude/novo-metodo-barateia-diagnostico-da-tuberculose-e-beneficia-saude/",
-      "summary": "Método permite o uso de um meio de cultura com pH mais adequado ao crescimento do principal agente causador da doença",
-      "published_at": "2026-09-27T12:10:53Z",
-      "region": "América do Sul",
-      "theme": "Cultura, Mídia e Sociedade",
-      "source_name": "Poder360",
-      "source_id": "poder360",
-      "is_brazilian": true,
-      "image_url": "https://static.poder360.com.br/uploads/2026/09/embrapametodologiapatentetuberculose-1200x675.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1460661419201-fd4cecdf8a8b?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1508700115892-45ecd05ae2ad?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Amid changing dynamics in the Middle East, Turkey seeks to emerge as a leader",
-      "link": "https://www.npr.org/2026/09/27/nx-s1-5949210/amid-changing-dynamics-in-the-middle-east-turkey-seeks-to-emerge-as-a-leader",
-      "summary": "Turkey's attempts at expanding its Middle East footprint has put it in a position of power, coming head-to-head with Israel.",
-      "published_at": "2026-09-27T12:06:19Z",
-      "region": "Oriente Médio",
-      "theme": "Outros / Multitemático",
-      "source_name": "NPR World News",
-      "source_id": "npr",
-      "is_brazilian": false,
-      "image_url": null,
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Luísa Sonza declara apoio a Lula durante show em Londrina",
-      "link": "https://www.poder360.com.br/poder-eleicoes-2026/luisa-sonza-declara-apoio-a-lula-durante-show-em-londrina/",
-      "summary": "Cantora pediu votos para o petista no 1º turno das eleições, marcado para 4 de outubro",
-      "published_at": "2026-09-27T12:04:38Z",
-      "region": "América do Sul",
-      "theme": "Política Brasileira",
-      "source_name": "Poder360",
-      "source_id": "poder360",
-      "is_brazilian": true,
-      "image_url": "https://static.poder360.com.br/uploads/2026/09/Luisa-Sonza-1-1200x675.png",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Floods and landslides kill at least 56 people in India, 12 in Nepal",
-      "link": "https://www.aljazeera.com/news/2026/9/27/floods-and-landslides-kill-at-least-56-people-in-india-12-in-nepal?traffic_source=rss",
-      "summary": "Authorities report increasing death toll over three days as rivers rise above danger levels in parts of both countries.",
-      "published_at": "2026-09-27T12:02:50Z",
-      "region": "Ásia",
-      "theme": "Outros / Multitemático",
-      "source_name": "Al Jazeera",
-      "source_id": "aljazeera_english",
-      "is_brazilian": false,
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/09/afp_6ab8fdbe2246-1790508478.jpg?resize=1920%2C1440",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Biomarcadores sanguíneos ajudam a estimar resposta ao tratamento de câncer",
-      "link": "https://www.poder360.com.br/poder-saude/biomarcadores-sanguineos-ajudam-a-estimar-resposta-ao-tratamento-de-cancer/",
-      "summary": "Pesquisadores apoiados pela FAPESP identificaram proteínas em células de defesa que antecipam a resposta do paciente com câncer de pulmão à medicação",
-      "published_at": "2026-09-27T12:00:12Z",
-      "region": "América do Sul",
-      "theme": "Geopolítica e Segurança",
-      "source_name": "Poder360",
-      "source_id": "poder360",
-      "is_brazilian": true,
-      "image_url": "https://static.poder360.com.br/uploads/2026/08/cancer-de-pulmao-agencia-einstein.png",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Playing 'La Bamba' for an hour? Must be a Mexican fandango!",
-      "link": "https://www.npr.org/2026/09/27/nx-s1-5973237/la-bamba-mexico-fandango",
-      "summary": "A 300-year-old Mexican musical tradition is finding new life around the world — one sweaty, joyous, all-night fandango at a time.",
-      "published_at": "2026-09-27T12:00:00Z",
-      "region": "América do Norte",
-      "theme": "Outros / Multitemático",
-      "source_name": "NPR World News",
-      "source_id": "npr",
-      "is_brazilian": false,
-      "image_url": null,
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "TikTok pagará US$ 300 mi e fará mudanças por segurança infantil",
-      "link": "https://www.poder360.com.br/poder-internacional/tiktok-pagara-us-300-mi-e-fara-mudancas-por-seguranca-infantil/",
-      "summary": "Acordo encerra processo no Alabama e inclui limite de uso e restrições de acesso para adolescentes na plataforma",
-      "published_at": "2026-09-27T11:58:27Z",
-      "region": "América do Norte",
-      "theme": "Outros / Multitemático",
-      "source_name": "Poder360",
-      "source_id": "poder360",
-      "is_brazilian": true,
-      "image_url": "https://static.poder360.com.br/uploads/2026/07/tiktok.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Photos: This may be the most inspirational night school on Earth",
-      "link": "https://www.npr.org/2026/09/27/g-s1-143582/night-school-shepherds-lesotho",
-      "summary": "Many thousands of boys and men in Lesotho take up the vital profession of herding but have to give up their education. A small network of schools on a shoestring budget is teaching them the ABCs.",
-      "published_at": "2026-09-27T11:53:42Z",
-      "region": "Global",
-      "theme": "Outros / Multitemático",
-      "source_name": "NPR World News",
-      "source_id": "npr",
-      "is_brazilian": false,
-      "image_url": null,
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Photos: These shepherds climb down a mountain to go to night school",
-      "link": "https://www.npr.org/2026/09/27/g-s1-143582/night-school-shepherds-lesotho",
-      "summary": "Many thousands of boys and men in Lesotho take up the vital profession of herding but have to give up their education. A small network of schools on a shoestring budget is teaching them the ABCs.",
-      "published_at": "2026-09-27T11:53:42Z",
-      "region": "Global",
-      "theme": "Outros / Multitemático",
-      "source_name": "NPR World News",
-      "source_id": "npr",
-      "is_brazilian": false,
-      "image_url": null,
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "USP desenvolve gelatina balística no padrão FBI para perícia policial",
-      "link": "https://www.poder360.com.br/poder-seguranca-publica/usp-desenvolve-gelatina-balistica-no-padrao-fbi-para-pericia-policial-2/",
-      "summary": "Material criado por pesquisadores de Ribeirão Preto reduz dependência de importação e segue padrão exigido pelo FBI",
-      "published_at": "2026-09-27T11:50:56Z",
-      "region": "América do Sul",
-      "theme": "Comércio e Finanças",
-      "source_name": "Poder360",
-      "source_id": "poder360",
-      "is_brazilian": true,
-      "image_url": "https://static.poder360.com.br/uploads/2025/12/praca-relogio-usp-sp.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1578575437130-527eed3abbec?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1522071820081-009f0129c71c?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "“Silêncio dos neurônios” pode ajudar a prever e evitar crises epilépticas",
-      "link": "https://www.poder360.com.br/poder-saude/silencio-dos-neuronios-pode-ajudar-a-prever-e-evitar-crises-epilepticas/",
-      "summary": "Pesquisa brasileira e norte-americana mostra pausa na atividade cerebral que pode prever convulsões em até 160 milissegundos",
-      "published_at": "2026-09-27T11:40:21Z",
-      "region": "América do Norte",
-      "theme": "Ciência, Tecnologia e Inovação",
-      "source_name": "Poder360",
-      "source_id": "poder360",
-      "is_brazilian": true,
-      "image_url": "https://static.poder360.com.br/uploads/2026/09/cerebro-desenho-1200x675.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1518770660439-4636190af475?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1507668077129-56e32842fceb?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Em baixa, montadoras alemãs querem jornadas maiores com mesmo salário",
-      "link": "https://www.poder360.com.br/poder-economia/em-baixa-montadoras-alemas-querem-jornadas-maiores-com-mesmo-salario/",
-      "summary": "Automobilísticas defendem ampliar semana de trabalho de 35 para 40 horas sem aumento salarial para enfrentar crise; sindicatos contestam",
-      "published_at": "2026-09-27T11:40:00Z",
-      "region": "América do Sul",
-      "theme": "Outros / Multitemático",
-      "source_name": "Poder360",
-      "source_id": "poder360",
-      "is_brazilian": true,
-      "image_url": "https://static.poder360.com.br/uploads/2025/06/Linha-Montagem-Carros-1080.png",
       "fallback_images": [
         "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
