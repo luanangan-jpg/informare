@@ -1,6 +1,822 @@
 {
-  "updated_at": "2026-09-30T18:43:49.726905Z",
+  "updated_at": "2026-09-30T22:44:47.468040Z",
   "news": [
+    {
+      "title": "TCU adia decisão sobre retomada de trecho da Transnordestina",
+      "link": "https://www.poder360.com.br/poder-infra/tcu-adia-decisao-sobre-retomada-de-trecho-da-transnordestina/",
+      "summary": "Ministro Jonathan de Jesus pediu vista por 15 dias para “alinhar” ideias com o relator do caso, Benjamin Zymler",
+      "published_at": "2026-09-30T22:37:26Z",
+      "region": "América do Sul",
+      "theme": "Outros / Multitemático",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2025/08/jhonatan-de-jesus-tcu.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Vídeos mostram passageiros socorrendo piloto ferido em voo a Israel",
+      "link": "https://www.poder360.com.br/poder-internacional/videos-mostram-passageiros-socorrendo-piloto-ferido-em-voo-a-israel/",
+      "summary": "Voo que seguia de Dubai a Tel Aviv foi desviado para a Arábia Saudita depois que o piloto foi esfaqueado; aeronave perdeu altitude bruscamente",
+      "published_at": "2026-09-30T22:27:47Z",
+      "region": "Oriente Médio",
+      "theme": "Outros / Multitemático",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2026/09/passageiros-voo-flydubai-israel-1200x675.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "TSE tem 3 votos por proibição de posts que ligam Flávio Bolsonaro a Nossa Senhora e 2 votos divergentes; siga julgamento",
+      "link": "https://www.bbc.com/portuguese/articles/cmvgy277qg5po?at_medium=RSS&at_campaign=rss",
+      "summary": "Corte eleitoral julga nesta quarta (30/9), em plenário virtual, se confirma ou não decisão de Mendonça que determinou a exclusão de postagens que associavam Flávio Bolsonaro (PL) a um projeto para retirar o título de Nossa Senhora Aparecida de Padroeira do Brasil. Acompanhe voto a voto.",
+      "published_at": "2026-09-30T22:24:35Z",
+      "region": "América do Sul",
+      "theme": "Política Brasileira",
+      "source_name": "BBC News Brasil",
+      "source_id": "bbc_brasil",
+      "is_brazilian": true,
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/733a/live/bf218cb0-bcdc-11f1-babe-4199b0e7ccea.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Paramount takeover of Warner Bros. Discovery clears legal hurdle",
+      "link": "https://www.france24.com/en/americas/20260930-paramount-takeover-of-warner-bros-discovery-clears-legal-hurdle",
+      "summary": "A federal judge on Wednesday approved a settlement clearing Paramount’s takeover of Warner Bros. Discovery after 12 US states challenged the deal on antitrust grounds. The agreement includes safeguards for CNN’s editorial independence and requires the merged studio to release at least 30 films a year for its first two years.",
+      "published_at": "2026-09-30T22:19:23Z",
+      "region": "América do Norte",
+      "theme": "Outros / Multitemático",
+      "source_name": "France 24",
+      "source_id": "france24",
+      "is_brazilian": false,
+      "image_url": "https://s.france24.com/media/display/2c2a999a-bd1a-11f1-8121-d367a0468893/w:1024/p:16x9/063-2296482973.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Mau tempo impede Lula de ir a ato do PT em Juiz de Fora",
+      "link": "https://www.poder360.com.br/poder-eleicoes-2026/mau-tempo-impede-lula-de-ir-a-ato-do-pt-em-juiz-de-fora/",
+      "summary": "Condições não permitiram a decolagem segura do helicóptero; agenda está mantida com as candidaturas majoritárias",
+      "published_at": "2026-09-30T22:18:59Z",
+      "region": "América do Sul",
+      "theme": "Política Brasileira",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2026/09/jero-lula-wagner-29-set-2026-salvador-1200x675.png",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Hong Kong journalist arrested on sedition charge",
+      "link": "https://www.aljazeera.com/news/2026/9/30/hong-kong-journalist-arrested-on-sedition-charge?traffic_source=rss",
+      "summary": "Authorities detain media founder over Prince Edward station clash video, as press freedom groups voice concern.",
+      "published_at": "2026-09-30T22:16:01Z",
+      "region": "Oriente Médio",
+      "theme": "Cultura, Mídia e Sociedade",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": null,
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1460661419201-fd4cecdf8a8b?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1508700115892-45ecd05ae2ad?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Russian drone crashes into Kyiv playground without exploding",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/30/aje-onl-nf_russian-drone-crashes-on-kyiv-playground-300926?traffic_source=rss",
+      "summary": "A Russian attack drone crashed into a children’s playground in Kyiv, Ukraine without exploding.",
+      "published_at": "2026-09-30T22:13:35Z",
+      "region": "Europa",
+      "theme": "Geopolítica e Segurança",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": null,
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Partido Missão pede ao TSE inclusão de Renan Santos em debate",
+      "link": "https://www.poder360.com.br/poder-eleicoes-2026/partido-missao-pede-ao-tse-inclusao-de-renan-santos-em-debate/",
+      "summary": "Pedido vem após Zema ser incluído no debate da \"TV Globo\"; ausência de Lula no evento é usado como argumento",
+      "published_at": "2026-09-30T22:11:12Z",
+      "region": "América do Sul",
+      "theme": "Política Brasileira",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2026/09/renan-santos-1-1200x675.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Gaza: NGO reports dire camp conditions, says Israel is moving 'Yellow Line'",
+      "link": "https://www.dw.com/en/gaza-ngo-reports-dire-camp-conditions-says-israel-is-moving-yellow-line/a-79488777?maca=en-rss-en-world-4025-rdf",
+      "summary": "The Danish Refugee Council alleges that Israel is employing \"a policy of protracted displacement\" in Gaza. It says the so-called \"Yellow Line\" is creeping west toward the coast, preventing many from returning home.",
+      "published_at": "2026-09-30T22:10:00Z",
+      "region": "Oriente Médio",
+      "theme": "Outros / Multitemático",
+      "source_name": "DW World News",
+      "source_id": "dw_english",
+      "is_brazilian": false,
+      "image_url": "https://static.dw.com/image/79493435_6.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Trekkers helicoptered off mountains as more deadly landslides hit Nepal",
+      "link": "https://www.bbc.co.uk/news/articles/c607l4l3vn0eo?at_medium=RSS&at_campaign=rss",
+      "summary": "A month after mass catastrophic flooding, around 30 people have died in landslides and heavy rain.",
+      "published_at": "2026-09-30T22:01:16Z",
+      "region": "Ásia",
+      "theme": "Outros / Multitemático",
+      "source_name": "BBC World News",
+      "source_id": "bbc_world",
+      "is_brazilian": false,
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8ee5/live/a7dfc5c0-bcec-11f1-bc2e-018d645d8d21.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Leonardo Avalanche desiste de disputar a Presidência",
+      "link": "https://www.poder360.com.br/poder-eleicoes-2026/leonardo-avalanche-desiste-de-disputar-a-presidencia/",
+      "summary": "Nas redes sociais, substituto de Pablo Marçal no PRTB disse que decisão foi tomada por motivos \"técnicos, jurídicos e pessoais\"",
+      "published_at": "2026-09-30T22:00:59Z",
+      "region": "América do Sul",
+      "theme": "Ciência, Tecnologia e Inovação",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2026/08/Leonardo-Avalanche-PRTB-1200x675.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1518770660439-4636190af475?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1507668077129-56e32842fceb?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Regras para doação de sangue mudam a partir desta 4ª; entenda",
+      "link": "https://www.poder360.com.br/poder-saude/regras-para-doacao-de-sangue-mudam-a-partir-desta-4a-entenda/",
+      "summary": "Novas normas reduzem prazos depois de tatuagens e exames e permitem que doadores habituais continuem a doar depois dos 70 anos",
+      "published_at": "2026-09-30T22:00:03Z",
+      "region": "América do Sul",
+      "theme": "Outros / Multitemático",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2026/08/Foto-site.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Huck nega sociedade com Vorcaro e diz que relação era por patrocínio",
+      "link": "https://www.poder360.com.br/poder-gente/huck-nega-sociedade-com-vorcaro-e-diz-que-relacao-era-por-patrocinio/",
+      "summary": "Apresentador afirma que interação com fundador do Master envolveu captação e gestão de contrato do Will Bank",
+      "published_at": "2026-09-30T21:49:55Z",
+      "region": "América do Sul",
+      "theme": "Outros / Multitemático",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2023/10/luciano-huck-riw-5out2023-1.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "China estende investigações sobre barreiras comerciais dos EUA",
+      "link": "https://www.poder360.com.br/poder-china/china-estende-investigacoes-sobre-barreiras-comerciais-dos-eua/",
+      "summary": "Investigação de práticas que prejudicam cadeias globais de produção se estende até 27 de dezembro",
+      "published_at": "2026-09-30T21:44:32Z",
+      "region": "América do Norte",
+      "theme": "Outros / Multitemático",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2026/09/bandeiras-china-eua-xinhua-1200x675.jpeg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Leia as mensagens entre Luciano Huck e Daniel Vorcaro",
+      "link": "https://www.poder360.com.br/poder-gente/leia-as-mensagens-entre-luciano-huck-e-daniel-vorcaro/",
+      "summary": "Apresentador convidou o fundador do Master para show de Madonna e pizza com Ronaldo Fenômeno; ex-banqueiro emprestou avião",
+      "published_at": "2026-09-30T21:40:42Z",
+      "region": "América do Sul",
+      "theme": "Cultura, Mídia e Sociedade",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2026/09/huck-vorcaro-mensagens-whatsapp-2-1200x675.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1460661419201-fd4cecdf8a8b?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1508700115892-45ecd05ae2ad?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "What we know about stabbing on Flydubai flight to Israel",
+      "link": "https://www.bbc.co.uk/news/articles/cqjdv7pmj9dno?at_medium=RSS&at_campaign=rss",
+      "summary": "A pilot has been arrested and is being questioned after another pilot was stabbed, officials say.",
+      "published_at": "2026-09-30T21:36:31Z",
+      "region": "Oriente Médio",
+      "theme": "Outros / Multitemático",
+      "source_name": "BBC World News",
+      "source_id": "bbc_world",
+      "is_brazilian": false,
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/83af/live/a2587eb0-bce4-11f1-a64c-550be9e3c66b.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "It’s the ‘closest thing to an HIV vaccine’, but who gets access?",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/30/its-the-closest-thing-to-an-hiv-vaccine-but-who-gets-access?traffic_source=rss",
+      "summary": "A twice-yearly injection could revolutionise HIV prevention, but who gets access raises bigger questions.",
+      "published_at": "2026-09-30T21:34:30Z",
+      "region": "Oriente Médio",
+      "theme": "Saúde",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": null,
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1584515901367-f1c2a12a50ea?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1505751172876-fa1923c5c528?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1584036561566-baf2418a7c21?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Like a 'rollercoaster': passengers describe harrowing flydubai flight",
+      "link": "https://www.france24.com/en/like-a-rollercoaster-passengers-describe-harrowing-flydubai-flight",
+      "summary": "As flight FZ 1073 from Dubai to Tel Aviv approached the Jordanian border on Wednesday, passengers knew in an instant that something was wrong when the plane began plummeting from the sky in a rapid dive. It was like \"we were having very big turbulence, but there was no turbulence\", passenger Almog Italie told AFP, describing the sensation of losing thousands of feet of altitude in seconds as similar to riding a \"rollercoaster\". FRANCE 24's August Hakansson reports.",
+      "published_at": "2026-09-30T21:31:34Z",
+      "region": "Europa",
+      "theme": "Outros / Multitemático",
+      "source_name": "France 24",
+      "source_id": "france24",
+      "is_brazilian": false,
+      "image_url": "https://s.france24.com/media/display/133b75fc-bd16-11f1-b85e-d367a0468893/w:1024/p:16x9/capture-16771745746abd7f51257970-94832487.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "EUA cancelam visto de procurador que investiga ex-assessor de Milei",
+      "link": "https://www.poder360.com.br/poder-internacional/eua-cancelam-visto-de-procurador-que-investiga-ex-assessor-de-milei/",
+      "summary": "O procurador-geral boliviano Roger Mariaca classificou a restrição como uma violação à soberania do país; ligado a Trump, Fernando Cerimedo foi responsável por assessorar Javier Milei e Rodrigo Paz",
+      "published_at": "2026-09-30T21:29:19Z",
+      "region": "América do Norte",
+      "theme": "Política Internacional",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2025/10/trump-milei.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Trump administration files complaint against judges over media comments",
+      "link": "https://www.aljazeera.com/news/2026/9/30/trump-administration-files-complaint-against-judges-over-media-comments?traffic_source=rss",
+      "summary": "Seven Minnesota judges face ethics complaint after speaking publicly about US president's immigration crackdown.",
+      "published_at": "2026-09-30T21:28:43Z",
+      "region": "América do Norte",
+      "theme": "Política Internacional",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": null,
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Flydubai passengers arrive in Tel Aviv after pilot stabbing",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/30/flydubai-passengers-arrive-in-tel-aviv-after-pilot-stabbing?traffic_source=rss",
+      "summary": "A replacement Flydubai aircraft has landed in Israel, carrying passengers from the flight on which a pilot was stabbed.",
+      "published_at": "2026-09-30T21:12:46Z",
+      "region": "Oriente Médio",
+      "theme": "Outros / Multitemático",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": null,
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "UK PM Burnham reopens divisive debate on rejoining EU",
+      "link": "https://www.france24.com/en/tv-shows/a-propos/20260930-uk-pm-burnham-reopens-divisive-debate-on-rejoining-eu",
+      "summary": "Andy Burnham put the idea of Britain rejoining the EU on the table Wednesday, breaking a taboo for a UK prime minister and reopening the divisive Brexit debate. Speaking with FRANCE 24's Monte Francis, Catherine Barnard, Professor of European Law at the University of Cambridge, says that Burnham \"is sending the message that actually it's been pretty cold being on the outside of the EU so we're now looking at the alternatives\".",
+      "published_at": "2026-09-30T21:08:39Z",
+      "region": "Europa",
+      "theme": "Política Internacional",
+      "source_name": "France 24",
+      "source_id": "france24",
+      "is_brazilian": false,
+      "image_url": "https://s.france24.com/media/display/af69c10a-bd10-11f1-8116-d367a0468893/w:1024/p:16x9/EN-20260930-223109-224328-CS.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Gas pipeline explodes in Syria, knocks three power plants offline",
+      "link": "https://www.aljazeera.com/news/2026/9/30/gas-pipeline-explodes-in-syria-knocks-three-power-plants-offline?traffic_source=rss",
+      "summary": "Powe rationing hours are to increase as a result of the blast.",
+      "published_at": "2026-09-30T21:01:13Z",
+      "region": "Oriente Médio",
+      "theme": "Outros / Multitemático",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": null,
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Ethiopian AI expert, Timnit Gebru, wins 'alternative Nobel'",
+      "link": "https://www.france24.com/en/ethiopian-ai-expert-timnit-gebru-wins-alternative-nobel",
+      "summary": "In tonight's edition, Africa's richest man breaks ground on a 16 billion dollar oil refinery in Kenya. Also, at universities across Cameroon, programming is overshadowed with uncertainty amidst an indefinite strike by lecturers. And I speak to Ethiopian-born computer scientist and pioneering AI ethicist Timnit Gebru as she is honored with the Swedish Right Livelihood Award for her work on how AI is influenced by biases.",
+      "published_at": "2026-09-30T20:44:49Z",
+      "region": "África",
+      "theme": "Ciência, Tecnologia e Inovação",
+      "source_name": "France 24",
+      "source_id": "france24",
+      "is_brazilian": false,
+      "image_url": "https://s.france24.com/media/display/a9e0f72e-bd0d-11f1-bb26-7be0f5469a6a/w:1024/p:16x9/DN197084-A-01-20260921-01.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1518770660439-4636190af475?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1507668077129-56e32842fceb?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "O cálculo de Lula para não ir ao debate da Globo",
+      "link": "https://www.bbc.com/portuguese/articles/cr5y511e9edwo?at_medium=RSS&at_campaign=rss",
+      "summary": "Especialistas ouvidos pela BBC News Brasil avaliam que Lula tem mais a perder do que a ganhar com a exposição e que, ao não participar do confronto, se poupa de ataques e de eventuais deslizes.",
+      "published_at": "2026-09-30T20:35:48Z",
+      "region": "América do Sul",
+      "theme": "Política Brasileira",
+      "source_name": "BBC News Brasil",
+      "source_id": "bbc_brasil",
+      "is_brazilian": true,
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5f63/live/e3a1a620-bcf4-11f1-babe-4199b0e7ccea.png",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Israeli attacks across Gaza kill at least eight",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/30/israeli-attacks-across-gaza-kill-at-least-eight?traffic_source=rss",
+      "summary": "Israeli attacks on residential areas across Gaza killed at least eight civilians and wounded others on Wednesday",
+      "published_at": "2026-09-30T20:12:22Z",
+      "region": "Oriente Médio",
+      "theme": "Outros / Multitemático",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": null,
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Meet 'America': Trump’s AI chatbot changes answers after challenging his claims",
+      "link": "https://www.france24.com/en/meet-america-trump-s-ai-chatbot-changes-answers-after-challenging-his-claims-1",
+      "summary": "Donald Trump has launched “America”, an AI chatbot designed as a digital portal for US government information. But its responses appear to be changing. The chatbot initially challenged several of Trump’s claims, including on the 2020 election and inflation, providing evidence and links. More recently, it has refused to answer some of the same questions. Other responses still contradict Trump, while some echo his views. Vedika Bahl tests the chatbot, and its varying answers in Truth or Fake.",
+      "published_at": "2026-09-30T20:08:13Z",
+      "region": "América do Norte",
+      "theme": "Política Internacional",
+      "source_name": "France 24",
+      "source_id": "france24",
+      "is_brazilian": false,
+      "image_url": "https://s.france24.com/media/display/2e053cc0-bd06-11f1-b6c3-7be0f5469a6a/w:1024/p:16x9/capture-9934752996abd64a62a23a7-71615901.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "US judge rules Wisconsin mosque leader Salah Sarsour can be deported",
+      "link": "https://www.aljazeera.com/news/2026/9/30/us-judge-rules-wisconsin-mosque-leader-salah-sarsour-can-be-deported?traffic_source=rss",
+      "summary": "Sarsour’s lawyers say the decision threatens free speech protections and plan to fight the ruling.",
+      "published_at": "2026-09-30T20:00:36Z",
+      "region": "América do Norte",
+      "theme": "Outros / Multitemático",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": null,
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "What to know about the terrifying FlyDubai flight forced to land in Saudi Arabia",
+      "link": "https://www.pbs.org/newshour/world/what-to-know-about-the-terrifying-flydubai-flight-forced-to-land-in-saudi-arabia",
+      "summary": "One pilot stabbed another and attempted to crash a flight from the United Arab Emirates to Israel, according to Israel's prime minister. Here's what we know — and don't know — about what happened on FlyDubai flight FZ1073.",
+      "published_at": "2026-09-30T20:00:22Z",
+      "region": "Oriente Médio",
+      "theme": "Política Internacional",
+      "source_name": "PBS NewsHour",
+      "source_id": "pbs_newshour",
+      "is_brazilian": false,
+      "image_url": "https://d3i6fh83elv35t.cloudfront.net/static/2026/09/2026-09-30T153917Z_408196494_RC2RTNA8208M_RTRMADP_3_ISRAEL-GULF-FLIGHT-1-1024x685.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "'Hard to see Man City getting anything other than the book thrown at them', expert says",
+      "link": "https://www.france24.com/en/hard-to-see-man-city-getting-anything-other-than-the-book-thrown-at-them-expert-says",
+      "summary": "Manchester City enjoyed a meteoric rise from mid-table mediocrity to Premier League domination, but their golden era could be forever tarnished after they were found guilty of scores of financial rule breaches. FRANCE 24's Mark Owen speaks with James Reade, Professor of Economics at the University of Reading. He says that it's unlikely that the club will see any leniency from football authorities: \"it's hard to see it getting anything other than the book thrown at them\".",
+      "published_at": "2026-09-30T19:56:07Z",
+      "region": "Europa",
+      "theme": "Outros / Multitemático",
+      "source_name": "France 24",
+      "source_id": "france24",
+      "is_brazilian": false,
+      "image_url": "https://s.france24.com/media/display/a89e3c52-bd06-11f1-9418-1b050e7dec5f/w:1024/p:16x9/EN-20260930-210843-212132-CS.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Quem está por trás da campanha que dissemina desconfiança da urna eletrônica às vésperas da votação?",
+      "link": "https://www.bbc.com/portuguese/articles/cr158yn44l1po?at_medium=RSS&at_campaign=rss",
+      "summary": "BBC News Brasil identificou posts em plataforma aberta de anúncios; publicações pagas saíram do ar após contato da reportagem e Meta anuncia suspensão temporária de novos impulsionamentos.",
+      "published_at": "2026-09-30T19:53:15Z",
+      "region": "América do Sul",
+      "theme": "Política Brasileira",
+      "source_name": "BBC News Brasil",
+      "source_id": "bbc_brasil",
+      "is_brazilian": true,
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ff09/live/6440ed50-bcc2-11f1-babe-4199b0e7ccea.png",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Netanyahu praises stabbed Indian pilot for saving lives on Flydubai flight",
+      "link": "https://www.aljazeera.com/news/2026/9/30/netanyahu-praises-indian-pilot-for-saving-lives-on-flydubai-flight?traffic_source=rss",
+      "summary": "The Israeli prime minister thanks 'true hero' Captain Smit Machchhar for 'extraordinary bravery'.",
+      "published_at": "2026-09-30T19:49:21Z",
+      "region": "Oriente Médio",
+      "theme": "Política Internacional",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": null,
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "US regulator launches probe into AI companies",
+      "link": "https://www.aljazeera.com/economy/2026/9/30/us-regulator-launches-probe-into-ai-companies?traffic_source=rss",
+      "summary": "FTC investigates AI firms amid concerns over rogue agents and potential threats to humanity within the next decade.",
+      "published_at": "2026-09-30T19:46:35Z",
+      "region": "América do Norte",
+      "theme": "Ciência, Tecnologia e Inovação",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": null,
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1518770660439-4636190af475?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1507668077129-56e32842fceb?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "How does Trump’s White House AI accord work?",
+      "link": "https://www.aljazeera.com/economy/2026/9/30/how-does-trumps-white-house-ai-accord-work?traffic_source=rss",
+      "summary": "Trump announces voluntary pact on AI, urging companies to self-police amid growing calls for strict safety regulations.",
+      "published_at": "2026-09-30T19:44:42Z",
+      "region": "América do Norte",
+      "theme": "Política Internacional",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": null,
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Displaced by war, young Sudanese turn to entrepeneurship to survive",
+      "link": "https://www.aljazeera.com/features/2026/9/30/displaced-by-war-young-sudanese-turn-to-entrepeneurship-to-survive?traffic_source=rss",
+      "summary": "Displaced by war and shut out of formal jobs, young Sudanese are turning to art, small businesses, and entrepeneurship.",
+      "published_at": "2026-09-30T19:43:47Z",
+      "region": "África",
+      "theme": "Geopolítica e Segurança",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": null,
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "French court sentences 13 men over deadliest small-boat crossing to UK",
+      "link": "https://www.aljazeera.com/news/2026/9/30/french-court-sentences-13-men-over-deadliest-small-boat-crossing-to-uk?traffic_source=rss",
+      "summary": "Six people smugglers are found guilty of involuntary homicide after 31 migrants died in the English Channel in 2021.",
+      "published_at": "2026-09-30T19:41:43Z",
+      "region": "Europa",
+      "theme": "Direitos Humanos, Sociedade e Migrações",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": null,
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1542810634-71277d95dcbb?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1489533119213-66a5cd877091?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1531206715517-5c0ba140e2b8?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Flydubai FZ1073 timeline: How the Israel-bound flight emergency unfolded",
+      "link": "https://www.aljazeera.com/news/2026/9/30/flydubai-fz1073-timeline-how-the-israel-bound-flight-emergency-unfolded?traffic_source=rss",
+      "summary": "Flydubai flight diverts to Saudi Arabia after cockpit emergency, as Netanyahu alleges a crash attempt.",
+      "published_at": "2026-09-30T19:39:50Z",
+      "region": "Oriente Médio",
+      "theme": "Outros / Multitemático",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": null,
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "US Fed watchdog finds no criminal wrongdoing in Powell-era renovation costs",
+      "link": "https://www.aljazeera.com/news/2026/9/30/us-fed-watchdog-finds-no-criminal-wrongdoing-in-powell-era-renovation-costs?traffic_source=rss",
+      "summary": "Trump said former Fed chair Jerome Powell should resign anyway.",
+      "published_at": "2026-09-30T19:24:11Z",
+      "region": "América do Norte",
+      "theme": "Economia Internacional",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": null,
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Five EU states plan first deportation center in Africa for 2027",
+      "link": "https://www.dw.com/en/five-eu-states-plan-first-deportation-center-in-africa-for-2027/a-79490162?maca=en-rss-en-world-4025-rdf",
+      "summary": "Greece, Germany, Austria, Denmark and the Netherlands are moving forward with plans to establish deportation centers outside the EU. An African partner country has reportedly already been selected.",
+      "published_at": "2026-09-30T19:16:00Z",
+      "region": "Europa",
+      "theme": "Outros / Multitemático",
+      "source_name": "DW World News",
+      "source_id": "dw_english",
+      "is_brazilian": false,
+      "image_url": "https://static.dw.com/image/73340756_6.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Da pergunta sobre Deus a FHC à cadeirada de Datena: 5 debates que marcaram as eleições brasileiras",
+      "link": "https://www.bbc.com/portuguese/articles/cqe9ekkzdl89o?at_medium=RSS&at_campaign=rss",
+      "summary": "Analista político elenca episódios de 1985, 1989, 2022 e 2024 que ajudam a entender como os programas passaram da TV para a lógica dos memes e dos cortes.",
+      "published_at": "2026-09-30T19:15:54Z",
+      "region": "América do Sul",
+      "theme": "Política Brasileira",
+      "source_name": "BBC News Brasil",
+      "source_id": "bbc_brasil",
+      "is_brazilian": true,
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6d2c/live/8f1d1b40-bce8-11f1-8ce2-417f8f7cb095.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Ronaldo leaves Portugal training camp after coach drops him from upcoming match",
+      "link": "https://www.france24.com/en/sport/20260930-ronaldo-leaves-portugal-training-camp-after-coach-drops-him-from-upcoming-match",
+      "summary": "Portugal captain and striker Cristiano Ronaldo said Wednesday he had walked out on the national team's training camp in Copenhagen after coach Jorge Jesus announced the 41-year-old player would be dropped from the team's next match against Denmark.",
+      "published_at": "2026-09-30T19:14:33Z",
+      "region": "Europa",
+      "theme": "Outros / Multitemático",
+      "source_name": "France 24",
+      "source_id": "france24",
+      "is_brazilian": false,
+      "image_url": "https://s.france24.com/media/display/a94802c6-bcf9-11f1-ab0c-ddce071186a9/w:1024/p:16x9/5e59e151fd9de4028ee658699a78fdd885897e2d.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Clashes between French teens, police as school blockades intensify",
+      "link": "https://www.france24.com/en/clashes-between-french-teens-police-as-school-blockades-intensify",
+      "summary": "French teenagers on Tuesday set fire to rubbish bins and threw projectiles at police who responded with batons and tear gas, with hundreds detained across the country over the blockades and protests demanding better conditions at schools. Since last week, students have staged protests outside hundreds of schools over grievances including timetables, class sizes and a shortage of teachers as well as overheated classrooms during this year's heatwaves. FRANCE 24's Rachel Griffiths reports.",
+      "published_at": "2026-09-30T19:07:32Z",
+      "region": "Europa",
+      "theme": "Saúde",
+      "source_name": "France 24",
+      "source_id": "france24",
+      "is_brazilian": false,
+      "image_url": "https://s.france24.com/media/display/5b148b08-bd01-11f1-ac56-1b050e7dec5f/w:1024/p:16x9/EN-20260930-204115-204316-CS.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1584515901367-f1c2a12a50ea?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1505751172876-fa1923c5c528?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1584036561566-baf2418a7c21?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Ethiopia back to civil war? Horn of Africa fears spillover effect of renewed fighting",
+      "link": "https://www.france24.com/en/tv-shows/the-debate/20260930-ethiopia-back-to-civil-war-horn-of-africa-fears-spillover-effect-of-renewed-fighting",
+      "summary": "After contagion in the Arabian Peninsula, should the entire Horn of Africa fear a domino effect? Just as Donald Trump’s decision to invade Iran drew the Saudis back to Yemen: did threats over the Strait of Bab el-Mandeb light the fuse in Ethiopia, where last week, unresolved issues between the government and its Tigray region erupted? Could a potential return to civil war draw in regional rivals?",
+      "published_at": "2026-09-30T19:04:20Z",
+      "region": "África",
+      "theme": "Geopolítica e Segurança",
+      "source_name": "France 24",
+      "source_id": "france24",
+      "is_brazilian": false,
+      "image_url": "https://s.france24.com/media/display/b4b4ab32-b81c-11f1-9a75-9d4ae5c4ba17/w:1024/p:16x9/2026-09-24T101012Z-919341318-RC2KPNA74E5F-RTRMADP-3-ETHIOPIA-SECURITY.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "As construções monumentais 'escondidas' na Amazônia descobertas por cientistas",
+      "link": "https://www.bbc.com/portuguese/articles/cm4gvnv14zlgo?at_medium=RSS&at_campaign=rss",
+      "summary": "Trabalho publicado no periódico acadêmico Nature usou uma tecnologia de ponta para desvendar o que há abaixo da copa das árvores — e revelou a existência de estruturas construídas por séculos, numa região que pode ter abrigado milhões de pessoas. Entenda o que esse trabalho indica sobre o passado da maior floresta tropical do mundo",
+      "published_at": "2026-09-30T19:02:13Z",
+      "region": "América do Sul",
+      "theme": "Meio Ambiente e Clima",
+      "source_name": "BBC News Brasil",
+      "source_id": "bbc_brasil",
+      "is_brazilian": true,
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7499/live/dfaf1330-bcc8-11f1-9f83-d9975ff80416.png",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "British PM alleges there are 'strong indications' Iran was involved in Fairford airbase incident",
+      "link": "https://www.france24.com/en/europe/20260930-british-pm-alleges-there-are-strong-indications-iran-was-involved-in-fairford-airbase-incident",
+      "summary": "UK Prime Minister Andy Burnham on Wednesday insisted that there were \"strong indications\" that Tehran was involved in a security incident on Sunday near an airbase in England that the US military uses in its war against Iran. The British government has still not explained the nature of the incident – in which five British men were arrested only to be later released on bail – and no explosives were found at the scene.",
+      "published_at": "2026-09-30T19:01:30Z",
+      "region": "Europa",
+      "theme": "Geopolítica e Segurança",
+      "source_name": "France 24",
+      "source_id": "france24",
+      "is_brazilian": false,
+      "image_url": "https://s.france24.com/media/display/79072c1c-bc0a-11f1-9add-555a0aff87a4/w:1024/p:16x9/2026-09-29T064654Z-1635109463-RC2USNAUC1I4-RTRMADP-3-BRITAIN-USA-FAIRFORD.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Italia prorroga por otros 15 días los controles a pasajeros de España",
+      "link": "https://www.europapress.es/internacional/noticia-italia-prorroga-otros-15-dias-controles-pasajeros-espana-20260930205734.html",
+      "summary": "El Gobierno de Italia ha decidido este miércoles prorrogar durante otros 15 días los controles fronterizos a los pasajeros que por mar o aire accedan a su territorio desde España, al considerar que persisten las condiciones que le llevaron a tomar por primera vez esta decisión a raíz de la entrada masiva de migrantes en la ciudad autónoma de Ceuta a finales de julio.",
+      "published_at": "2026-09-30T18:57:34Z",
+      "region": "Europa",
+      "theme": "Política Internacional",
+      "source_name": "Europa Press",
+      "source_id": "europa_press",
+      "is_brazilian": false,
+      "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260930205734_120.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Debate presidencial da Globo: tudo o que se sabe sobre embate entre os candidatos antes do 1º turno",
+      "link": "https://www.bbc.com/portuguese/articles/ck0j30y05djeo?at_medium=RSS&at_campaign=rss",
+      "summary": "Confronto, transmitido nesta quinta-feira, será o último antes do primeiro turno das eleições, que ocorre no domingo.",
+      "published_at": "2026-09-30T18:55:59Z",
+      "region": "América do Sul",
+      "theme": "Política Brasileira",
+      "source_name": "BBC News Brasil",
+      "source_id": "bbc_brasil",
+      "is_brazilian": true,
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6e3e/live/958d3c50-bc9b-11f1-bd21-bdf910f2cec6.png",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "WATCH: Hegseth confirms the U.S. military will cut 20% of its generals and admirals",
+      "link": "https://www.pbs.org/newshour/world/watch-live-hegseth-delivers-state-of-the-force-address-expected-to-make-cuts-to-top-ranks",
+      "summary": "Defense Secretary Pete Hegseth confirmed Wednesday that the U.S. military will cut 20% of its generals and admirals as he delivered what he is calling his \"State of the Force\" address.",
+      "published_at": "2026-09-30T18:53:55Z",
+      "region": "Global",
+      "theme": "Geopolítica e Segurança",
+      "source_name": "PBS NewsHour",
+      "source_id": "pbs_newshour",
+      "is_brazilian": false,
+      "image_url": "https://d3i6fh83elv35t.cloudfront.net/static/2026/09/2026-09-30T192150Z_617141733_RC2VTNABFPN8_RTRMADP_3_USA-DEFENSE-1024x683.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
     {
       "title": "Brasil e EUA criam grupo específico para negociar tarifaço",
       "link": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-09/brasil-e-eua-criam-grupo-especifico-para-negociar-tarifaco",
@@ -50,23 +866,6 @@
         "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "O cálculo de Lula para não ir ao debate da Globo",
-      "link": "https://www.bbc.com/portuguese/articles/cr5y511e9edwo?at_medium=RSS&at_campaign=rss",
-      "summary": "Especialistas ouvidos pela BBC News Brasil avaliam que Lula tem mais a perder do que a ganhar com a exposição e que, ao não participar do confronto, se poupa de ataques e de eventuais deslizes.",
-      "published_at": "2026-09-30T18:26:13Z",
-      "region": "América do Sul",
-      "theme": "Política Brasileira",
-      "source_name": "BBC News Brasil",
-      "source_id": "bbc_brasil",
-      "is_brazilian": true,
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5f63/live/e3a1a620-bcf4-11f1-babe-4199b0e7ccea.png",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
       ]
     },
     {
@@ -223,23 +1022,6 @@
       ]
     },
     {
-      "title": "What we know about stabbing on Flydubai flight to Israel",
-      "link": "https://www.bbc.co.uk/news/articles/cqjdv7pmj9dno?at_medium=RSS&at_campaign=rss",
-      "summary": "The captain and first officer were injured, and one pilot has been arrested, officials say.",
-      "published_at": "2026-09-30T17:51:49Z",
-      "region": "Oriente Médio",
-      "theme": "Outros / Multitemático",
-      "source_name": "BBC World News",
-      "source_id": "bbc_world",
-      "is_brazilian": false,
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/83af/live/a2587eb0-bce4-11f1-a64c-550be9e3c66b.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
       "title": "Greetings from Syria, where time seems to melt as a glassmaker braves scorching temps",
       "link": "https://www.npr.org/2026/09/30/nx-s1-5983516/damascus-syria-glass",
       "summary": "As a Syrian glassmaker created his wares in Damascus, watching his craft reminded this reporter to slow down and enjoy the moment.",
@@ -254,23 +1036,6 @@
         "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Debate presidencial da Globo: tudo o que se sabe sobre embate entre os candidatos antes do 1º turno",
-      "link": "https://www.bbc.com/portuguese/articles/ck0j30y05djeo?at_medium=RSS&at_campaign=rss",
-      "summary": "Confronto, transmitido nesta quinta-feira, será o último antes do primeiro turno das eleições, que ocorre no domingo.",
-      "published_at": "2026-09-30T17:48:17Z",
-      "region": "América do Sul",
-      "theme": "Política Brasileira",
-      "source_name": "BBC News Brasil",
-      "source_id": "bbc_brasil",
-      "is_brazilian": true,
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6e3e/live/958d3c50-bc9b-11f1-bd21-bdf910f2cec6.png",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
       ]
     },
     {
@@ -356,23 +1121,6 @@
         "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Quem está por trás da campanha que dissemina desconfiança da urna eletrônica às vésperas da votação?",
-      "link": "https://www.bbc.com/portuguese/articles/cr158yn44l1po?at_medium=RSS&at_campaign=rss",
-      "summary": "BBC News Brasil identificou posts em plataforma aberta de anúncios; publicações pagas saíram do ar após contato da reportagem e Meta anuncia suspensão temporária de novos impulsionamentos.",
-      "published_at": "2026-09-30T17:26:46Z",
-      "region": "América do Sul",
-      "theme": "Política Brasileira",
-      "source_name": "BBC News Brasil",
-      "source_id": "bbc_brasil",
-      "is_brazilian": true,
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ff09/live/6440ed50-bcc2-11f1-babe-4199b0e7ccea.png",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
       ]
     },
     {
@@ -548,18 +1296,18 @@
     {
       "title": "Burnham ve \"indicios claros\" sobre la implicación de Irán en el incidente cerca de la base de Fairford",
       "link": "https://www.europapress.es/internacional/noticia-burnham-ve-indicios-claros-implicacion-iran-incidente-cerca-base-fairford-20260930185105.html",
-      "summary": "El primer ministro británico, Andy Burnham, ha asegurado este miércoles que existen \"indicios claros\" sobre la implicación de Irán en el incidente del pasado domingo cerca de la base aérea de Fairford, que cuenta con presencia del Ejército estadounidense, que las autoridades investigan como \"terrorista\".",
+      "summary": "Araqchi responde que se está \"equivocando de camino\" aludiendo a la puesta en libertad de los cinco sospechosos de planear un atentado",
       "published_at": "2026-09-30T16:51:05Z",
       "region": "Europa",
-      "theme": "Geopolítica e Segurança",
+      "theme": "Direito Internacional e Instituições",
       "source_name": "Europa Press",
       "source_id": "europa_press",
       "is_brazilian": false,
       "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260930185105_120.jpg",
       "fallback_images": [
-        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
+        "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1505664194779-8beaceb93744?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop"
       ]
     },
     {
@@ -997,7 +1745,7 @@
       "source_name": "Europa Press",
       "source_id": "europa_press",
       "is_brazilian": false,
-      "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260930162326_120_v2.jpg",
+      "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260930162326_120_v3.jpg",
       "fallback_images": [
         "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
@@ -1007,7 +1755,7 @@
     {
       "title": "U.S. military says its withdrawal of troops from Iraq for Islamic State fight is complete",
       "link": "https://www.pbs.org/newshour/world/u-s-military-says-its-withdrawal-of-troops-from-iraq-for-islamic-state-fight-is-complete",
-      "summary": "Baghdad touted the end of the U.S. mission as a sign of the country's increasing strength and sovereignty.",
+      "summary": "The U.S. military announced Wednesday that it completed the withdrawal of all American troops from Iraq, ending a 12-year mission to fight the Islamic State group and prompting President Donald Trump to hail the conclusion of \"a very expensive excursion into Hell.\"",
       "published_at": "2026-09-30T14:07:39Z",
       "region": "Oriente Médio",
       "theme": "Geopolítica e Segurança",
@@ -1104,6 +1852,23 @@
         "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "On flight to Israel, pilot is stabbed, plane plunges before passengers tackle attacker",
+      "link": "https://www.npr.org/2026/09/30/nx-s1-5985806/flydubai-flight-dubai-tel-aviv-israel",
+      "summary": "As the plane went into a spin and began to plunge, passengers and crew members got into the cockpit, subdued the pilot and diverted the flight to land in Saudi Arabia, Israel's leader says.",
+      "published_at": "2026-09-30T13:35:11Z",
+      "region": "Oriente Médio",
+      "theme": "Outros / Multitemático",
+      "source_name": "NPR World News",
+      "source_id": "npr",
+      "is_brazilian": false,
+      "image_url": null,
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
       ]
     },
     {
@@ -1784,771 +2549,6 @@
         "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Africa's richest man launches Kenya oil refinery despite land protests",
-      "link": "https://www.bbc.co.uk/news/articles/cmkg8dpwy25po?at_medium=RSS&at_campaign=rss",
-      "summary": "The Kenya refinery is part of Dangote's ambitious bid to expand and help industralise Africa by 2030.",
-      "published_at": "2026-09-30T11:25:12Z",
-      "region": "África",
-      "theme": "Outros / Multitemático",
-      "source_name": "BBC World News",
-      "source_id": "bbc_world",
-      "is_brazilian": false,
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c3ff/live/eb5c7d60-bcac-11f1-a3e9-bbda6f9b9e25.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Alcanzados tres petroleros por \"proyectiles desconocidos\" cuando transitaban por el estrecho de Ormuz",
-      "link": "https://www.europapress.es/internacional/noticia-alcanzados-tres-petroleros-proyectiles-desconocidos-cuando-transitaban-estrecho-ormuz-20260930131916.html",
-      "summary": "MADRID, 30 (EUROPA PRESS) Al menos tres buques han sido alcanzados en las últimas horas por \"proyectiles desconocidos\" cuando transitaban por el estrecho de Ormuz, según ha denunciado este miércoles por el el centro de Operaciones Marítimas Comerciales de Reino Unido (UKMTO, por sus siglas en inglés), vinculado a la Armada británica.",
-      "published_at": "2026-09-30T11:19:16Z",
-      "region": "Europa",
-      "theme": "Cultura, Mídia e Sociedade",
-      "source_name": "Europa Press",
-      "source_id": "europa_press",
-      "is_brazilian": false,
-      "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260930131916_120.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1460661419201-fd4cecdf8a8b?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1508700115892-45ecd05ae2ad?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "N Korea and S Korea exchange threats over DMZ blast",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/30/n-korea-and-s-korea-exchange-threats-over-dmz-blast?traffic_source=rss",
-      "summary": "A landmine explosion which injured three South Korean soldiers in the Korean Demilitarized Zone last week.",
-      "published_at": "2026-09-30T11:19:10Z",
-      "region": "Ásia",
-      "theme": "Outros / Multitemático",
-      "source_name": "Al Jazeera",
-      "source_id": "aljazeera_english",
-      "is_brazilian": false,
-      "image_url": null,
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Why is the US withdrawing its troops from Iraq?",
-      "link": "https://www.france24.com/en/video/20260930-why-is-the-us-withdrawing-its-troops-from-iraq",
-      "summary": "A US-led coalition deployed in Iraq more than a decade ago to fight jihadists concluded its mission on Wednesday, a move celebrated by the country's leaders, but which some fear will embolden pro-Iran armed factions. France 24's Angela Diffley takes a look at the security challenges facing the country and why the US has chosen this moment to take its troops out.",
-      "published_at": "2026-09-30T11:18:55Z",
-      "region": "América do Norte",
-      "theme": "Outros / Multitemático",
-      "source_name": "France 24",
-      "source_id": "france24",
-      "is_brazilian": false,
-      "image_url": "https://s.france24.com/media/display/10f2ba54-bcc0-11f1-a5c4-098db7fa8bc7/w:1024/p:16x9/EN-20260930-123506-123935-CS.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "U.S. forces exit Iraq amid Iran war. And, SCOTUS revives Trump deportation policy",
-      "link": "https://www.npr.org/2026/09/30/g-s1-145604/up-first-newsletter-iraq-us-troops-scotus-deportations-trump-ai",
-      "summary": "The U.S. has withdrawn its final troops from Iraq, leaving its defense future uncertain. And, the Supreme Court has sided for now with the Trump administration on third-country deportations.",
-      "published_at": "2026-09-30T11:13:17Z",
-      "region": "Oriente Médio",
-      "theme": "Geopolítica e Segurança",
-      "source_name": "NPR World News",
-      "source_id": "npr",
-      "is_brazilian": false,
-      "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x3375+0+313/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F4c%2F57%2Fbf5fb6714747859e293114dddcc3%2Fgettyimages-2297194981.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Eiffel Tower chief to step down after female staff scandal",
-      "link": "https://www.france24.com/en/video/20260930-eiffel-tower-chief-to-step-down-after-female-staff-scandal",
-      "summary": "The head of the company that runs the Eiffel Tower will step down at the end of the year after female staff at the landmark building in Paris were excluded during a visit by a Hindu religious group. The incident sparked outrage in France and prompted a staff walkout that saw the Eiffel Tower forced to close for a day.",
-      "published_at": "2026-09-30T11:11:41Z",
-      "region": "Europa",
-      "theme": "Outros / Multitemático",
-      "source_name": "France 24",
-      "source_id": "france24",
-      "is_brazilian": false,
-      "image_url": "https://s.france24.com/media/display/52106b8e-bcbc-11f1-876c-098db7fa8bc7/w:1024/p:16x9/EN-20260930-104410-104523-CS.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Pesquisas eleitorais: como funcionam e por que nem sempre acertam o resultado final",
-      "link": "https://www.bbc.com/portuguese/articles/cqrk3g5egkl8o?at_medium=RSS&at_campaign=rss",
-      "summary": "A BBC News Brasil levou essa e outras perguntas a especialistas para discutir como as pesquisas são feitas, quais suas limitações e por que elas são importantes",
-      "published_at": "2026-09-30T11:09:29Z",
-      "region": "América do Sul",
-      "theme": "Outros / Multitemático",
-      "source_name": "BBC News Brasil",
-      "source_id": "bbc_brasil",
-      "is_brazilian": true,
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4460/live/d8b65b70-bcb8-11f1-bc2e-018d645d8d21.png",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "'Cornell won't, we will': Student journalists 'relentlessly' reporting on university rape",
-      "link": "https://www.france24.com/en/tv-shows/press-review/20260930-cornell-won-t-we-will-student-journalists-relentlessly-reporting-on-university-rape",
-      "summary": "PRESS REVIEW – Wednesday, September 30: The Cornell University gang rape investigation reopens. But first: students and prisoners protest in Iran \"in a rare show of dissent\". Journalist Evan Gershkovich speaks about his 16 months in a Russian prison. Bonus: what can we do to be less lonely? Finally, Fat Bear Week has chosen its winner.",
-      "published_at": "2026-09-30T11:06:57Z",
-      "region": "Europa",
-      "theme": "Cultura, Mídia e Sociedade",
-      "source_name": "France 24",
-      "source_id": "france24",
-      "is_brazilian": false,
-      "image_url": "https://s.france24.com/media/display/f8dc1c6e-bcbd-11f1-a7bc-7be0f5469a6a/w:1024/p:16x9/capture-17127727366abceb811018e3-32198856.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1460661419201-fd4cecdf8a8b?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1508700115892-45ecd05ae2ad?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "The October 7 warnings threatening Netanyahu’s Israeli election campaign",
-      "link": "https://www.aljazeera.com/news/2026/9/30/the-october-7-warnings-threatening-netanyahus-israel-election-campaign?traffic_source=rss",
-      "summary": "Netanyahu faces continued pressure over alleged warnings before the 2023 Hamas attack as October 27 elections draw near.",
-      "published_at": "2026-09-30T11:03:01Z",
-      "region": "Oriente Médio",
-      "theme": "Política Internacional",
-      "source_name": "Al Jazeera",
-      "source_id": "aljazeera_english",
-      "is_brazilian": false,
-      "image_url": null,
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "What’s behind French student protests that turned violent?",
-      "link": "https://www.aljazeera.com/news/2026/9/30/whats-behind-french-student-protests-that-turned-violent?traffic_source=rss",
-      "summary": "The school protests coincide with public sector strikes over planned budget cuts.",
-      "published_at": "2026-09-30T11:01:19Z",
-      "region": "Europa",
-      "theme": "Outros / Multitemático",
-      "source_name": "Al Jazeera",
-      "source_id": "aljazeera_english",
-      "is_brazilian": false,
-      "image_url": null,
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "‘We no longer eat three meals’: Yemen’s displaced face daily fight for food",
-      "link": "https://www.aljazeera.com/news/2026/9/30/we-no-longer-eat-three-meals-yemens-displaced-face-daily-fight-for-food?traffic_source=rss",
-      "summary": "Yemen's latest fighting has redrawn front lines after more than a decade of war, deepening hunger and displacement.",
-      "published_at": "2026-09-30T11:01:10Z",
-      "region": "Oriente Médio",
-      "theme": "Geopolítica e Segurança",
-      "source_name": "Al Jazeera",
-      "source_id": "aljazeera_english",
-      "is_brazilian": false,
-      "image_url": null,
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "'People have been buying into the detoxification of the National Rally', French politics expert says",
-      "link": "https://www.france24.com/en/tv-shows/perspective/20260930-people-have-been-buying-into-the-detoxification-of-the-national-rally-says-andrew-smith",
-      "summary": "A French politics observer says the allegations of anti-Semitism against the head of France's far-right National Rally have really damaged the party. Andrew Smith from Queen Mary University of London says people have been buying into the detoxification of the party, despite its legacy as an anti-Semitic and racist outfit. But that makes this week's allegations against Jordan Bardella even more shocking. Bardella is accused by the investigative news website Mediapart of sending a series of anti-Semitic remarks from 2013 to 2015. Andrew Smith spoke to us in Perspective.",
-      "published_at": "2026-09-30T10:58:31Z",
-      "region": "Europa",
-      "theme": "Outros / Multitemático",
-      "source_name": "France 24",
-      "source_id": "france24",
-      "is_brazilian": false,
-      "image_url": "https://s.france24.com/media/display/6e28ce7e-bcc6-11f1-8320-ddce071186a9/w:1024/p:16x9/capture-18021169836abcf9b1ecf558-15827062.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Medicine prices soar in Iran as US blockade and sanctions hit hard",
-      "link": "https://www.france24.com/en/video/20260930-medicine-prices-soar-in-iran-as-us-blockade-and-sanctions-hit-hard",
-      "summary": "Medication prices are soaring in Iran and some treatments have become hard to find, leaving patients and their families scrambling as a US blockade and stepped-up sanctions squeeze the country's pharmaceuticals industry.",
-      "published_at": "2026-09-30T10:39:05Z",
-      "region": "América do Norte",
-      "theme": "Geopolítica e Segurança",
-      "source_name": "France 24",
-      "source_id": "france24",
-      "is_brazilian": false,
-      "image_url": "https://s.france24.com/media/display/ec07580a-bcb8-11f1-ba2b-7be0f5469a6a/w:1024/p:16x9/EN-20260930-103944-104135-CS.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Argentina shuns meat as purchasing plummets under Milei",
-      "link": "https://www.france24.com/en/video/20260930-argentina-shuns-meat-as-purchasing-plummets-under-milei",
-      "summary": "In Argentina, a nation of meat lovers par excellence, where barbecuing is a ritual central to the national identity and the steaks are among the best in the world, meat consumption has now reached an all-time low. The reason: the drastic decline in purchasing power for most Argentines since Javier Milei took office. Our reporters explain.",
-      "published_at": "2026-09-30T10:37:59Z",
-      "region": "América do Sul",
-      "theme": "Outros / Multitemático",
-      "source_name": "France 24",
-      "source_id": "france24",
-      "is_brazilian": false,
-      "image_url": "https://s.france24.com/media/display/9e60ceba-bcb8-11f1-b3f7-1b050e7dec5f/w:1024/p:16x9/EN-20260930-103639-103833-CS.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "'A face lift once a month': Growing pressure to conform amid the rise of Korea's 'K-Beauty'",
-      "link": "https://www.france24.com/en/video/20260930-a-face-lift-once-a-month-growing-pressure-to-conform-amid-the-rise-of-korea-s-k-beauty",
-      "summary": "In the last ten years, South Korea has established itself as a powerhouse of beauty and cosmetics. But, behind the innovative creams, serums, and treatments that have allowed so-called K-beauty to conquer the world, Korean society has also felt the impacts, and people now face rising social pressure to conform to new beauty standards. France 24’s Christina Yoon, Mélodie Sforza and Jan Camezind Broomby sent this report from Seoul.",
-      "published_at": "2026-09-30T10:35:34Z",
-      "region": "Ásia",
-      "theme": "Outros / Multitemático",
-      "source_name": "France 24",
-      "source_id": "france24",
-      "is_brazilian": false,
-      "image_url": "https://s.france24.com/media/display/2888ea68-bcb5-11f1-9c08-098db7fa8bc7/w:1024/p:16x9/EN-20260930-102345-102547-CS.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Man City scandal: 'Sham' deals and inflated revenues",
-      "link": "https://www.france24.com/en/video/20260930-man-city-scandal-sham-deals-and-inflated-revenues",
-      "summary": "In what may be the biggest financial scandal in Premier League history, Manchester City have been found guilty of using \"sham\" commercial contracts as part of schemes to inflate revenue and understate costs by more than £900 million over nearly a decade, the Premier League said on Tuesday. The club, which denies wrongdoing, said in a statement that it would appeal.",
-      "published_at": "2026-09-30T10:34:09Z",
-      "region": "Europa",
-      "theme": "Comércio e Finanças",
-      "source_name": "France 24",
-      "source_id": "france24",
-      "is_brazilian": false,
-      "image_url": "https://s.france24.com/media/display/062d83c6-bcb4-11f1-a8d6-d367a0468893/w:1024/p:16x9/EN-20260930-102129-102312-CS.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1578575437130-527eed3abbec?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1522071820081-009f0129c71c?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Was Netanyahu warned of October 7 Hamas attacks?",
-      "link": "https://www.france24.com/en/video/20260930-was-netanyahu-warned-of-october-7-hamas-attacks",
-      "summary": "Benjamin Netanyahu travelled secretly to the United Arab Emirates over the weekend, Israeli media has reported, to ask its leader to deny claims he had warned the Israeli prime minister about a looming Hamas threat ahead of the Palestinian militant group's Oct. 7, 2023 attack on southern Israel. Netanyahu himself has confirmed making the secret trip, but denies he urged his UAE counterpart to do anything of the kind. France 24’s Douglas Herbert takes a closer look.",
-      "published_at": "2026-09-30T10:12:34Z",
-      "region": "Oriente Médio",
-      "theme": "Geopolítica e Segurança",
-      "source_name": "France 24",
-      "source_id": "france24",
-      "is_brazilian": false,
-      "image_url": "https://s.france24.com/media/display/429de330-bcb1-11f1-859d-098db7fa8bc7/w:1024/p:16x9/EN-20260930-101334-101848-CS.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Que países usam voto eletrônico além do Brasil?",
-      "link": "https://www.bbc.com/portuguese/articles/cxp847m3l7n9o?at_medium=RSS&at_campaign=rss",
-      "summary": "Informação de que apenas Brasil, Venezuela e Cuba usam o modelo é falsa. Segundo levantamento, ao menos 34 países usam ou já usaram algum tipo de sistema eletrônico de votação em processos oficiais.",
-      "published_at": "2026-09-30T10:10:18Z",
-      "region": "América do Sul",
-      "theme": "Política Internacional",
-      "source_name": "BBC News Brasil",
-      "source_id": "bbc_brasil",
-      "is_brazilian": true,
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9066/live/f99300d0-b819-11f1-b1d1-571ed4d7ff2c.png",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Fatima Ezzahra El Mansouri named Morocco's first woman PM",
-      "link": "https://www.france24.com/en/video/20260930-fatima-ezzahra-el-mansouri-named-morocco-s-first-woman-pm",
-      "summary": "The king of Morocco on Tuesday named Marrakesh mayor Fatima Ezzahra El Mansouri the country's first woman prime minister after her centre-right Authenticity and Modernity Party (PAM) party won last week's parliamentary elections. El Mansouri joined the PAM in 2008 and was also the first woman to serve as mayor of Marrakesh, winning the office in 2009 before losing it six years later, then retaking it again in 2021.",
-      "published_at": "2026-09-30T09:56:25Z",
-      "region": "África",
-      "theme": "Política Internacional",
-      "source_name": "France 24",
-      "source_id": "france24",
-      "is_brazilian": false,
-      "image_url": "https://s.france24.com/media/display/f0f28544-bcb1-11f1-aa54-098db7fa8bc7/w:1024/p:16x9/EN-20260930-101915-102055-CS.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Ethiopia's last Jews dream of visa for Israel",
-      "link": "https://www.france24.com/en/tv-shows/focus/20260930-ethiopia-s-last-jews-dream-of-visa-for-israel",
-      "summary": "Ethiopia has one of the oldest Jewish communities in the world, rumoured to be the descendants of the Queen of Sheba and King Solomon in 950 BC. From the 1970s to 1990s, this community known as Beta Israel was persecuted under the Communist regime, and Israel evacuated more than 20,000 Ethiopian Jews in dramatic airlifts known as Operation Solomon and Operation Moses. But a few thousand were left behind.",
-      "published_at": "2026-09-30T09:55:38Z",
-      "region": "Oriente Médio",
-      "theme": "Outros / Multitemático",
-      "source_name": "France 24",
-      "source_id": "france24",
-      "is_brazilian": false,
-      "image_url": "https://s.france24.com/media/display/ffb1ae56-bcb2-11f1-a442-816a8398162d/w:1024/p:16x9/capture-9486861776abcd9182b3702-78110521.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Singapore launches matchmaking service for government workers",
-      "link": "https://www.bbc.co.uk/news/articles/cqzjzr893yv4o?at_medium=RSS&at_campaign=rss",
-      "summary": "The launch of FirstDate comes as the ageing nation wrestles with a record-low fertility rate.",
-      "published_at": "2026-09-30T09:42:36Z",
-      "region": "Ásia",
-      "theme": "Política Internacional",
-      "source_name": "BBC World News",
-      "source_id": "bbc_world",
-      "is_brazilian": false,
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/468f/live/78984d40-bcac-11f1-a3e9-bbda6f9b9e25.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "BBC News Brasil fará cobertura AO VIVO sobre debate e jornada eleitoral, apuração e resultados do primeiro turno das eleições 2026",
-      "link": "https://www.bbc.com/portuguese/articles/cvj64l9408k0o?at_medium=RSS&at_campaign=rss",
-      "summary": "Você poderá acompanhar cobertura em tempo real de debate da TV Globo na quinta-feira; no domingo, haverá transmissão ao vivo durante apuração dos resultados.",
-      "published_at": "2026-09-30T09:39:48Z",
-      "region": "América do Sul",
-      "theme": "Política Brasileira",
-      "source_name": "BBC News Brasil",
-      "source_id": "bbc_brasil",
-      "is_brazilian": true,
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/cd6e/live/8c8a7c90-bcb3-11f1-a64c-550be9e3c66b.png",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Is US President Donald Trump right to rename AI as 'Super Intelligence'?",
-      "link": "https://www.dw.com/en/is-us-president-donald-trump-right-to-rename-ai-as-super-intelligence/a-79430388?maca=en-rss-en-world-4025-rdf",
-      "summary": "Donald Trump thinks the name artificial intelligence sounds \"fake\" and has ordered US agencies to use \"Super Intelligence\" instead. Yet, tech firms and researchers have little reason to play along.",
-      "published_at": "2026-09-30T09:33:00Z",
-      "region": "América do Norte",
-      "theme": "Política Internacional",
-      "source_name": "DW World News",
-      "source_id": "dw_english",
-      "is_brazilian": false,
-      "image_url": "https://static.dw.com/image/79428047_6.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Ireland will boycott Eurovision again because of Israel's participation, but the song contest is still expanding",
-      "link": "https://www.dw.com/en/ireland-will-boycott-eurovision-again-because-of-israel-s-participation-but-the-song-contest-is-still-expanding/a-79401752?maca=en-rss-en-world-4025-rdf",
-      "summary": "The 2026 Eurovision Song Contest was marred by boycotts in protest against Israel's participation in the midst of its war on Gaza. It still aims to keep growing.",
-      "published_at": "2026-09-30T09:18:00Z",
-      "region": "Oriente Médio",
-      "theme": "Geopolítica e Segurança",
-      "source_name": "DW World News",
-      "source_id": "dw_english",
-      "is_brazilian": false,
-      "image_url": "https://static.dw.com/image/78342765_6.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Eurovision seeks to expand brand despite frictions",
-      "link": "https://www.dw.com/en/eurovision-seeks-to-expand-brand-despite-frictions/a-79401752?maca=en-rss-en-world-4025-rdf",
-      "summary": "The 2026 Eurovision Song Contest was marred by boycotts in protest against Israel's participation in the midst of its war on Gaza. It still aims to keep growing.",
-      "published_at": "2026-09-30T09:18:00Z",
-      "region": "Oriente Médio",
-      "theme": "Geopolítica e Segurança",
-      "source_name": "DW World News",
-      "source_id": "dw_english",
-      "is_brazilian": false,
-      "image_url": "https://static.dw.com/image/78342765_6.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Crise de moradia na Espanha: reviravolta pode levar idosa de 87 anos de volta para casa após ser desalojada em Madri",
-      "link": "https://www.bbc.com/portuguese/articles/c6d9415vjgweo?at_medium=RSS&at_campaign=rss",
-      "summary": "Segundo advogada da espanhola, empresa proprietária do imóvel permitirá que ela pague um aluguel proporcional à sua aposentadoria.",
-      "published_at": "2026-09-30T09:16:37Z",
-      "region": "Europa",
-      "theme": "Outros / Multitemático",
-      "source_name": "BBC News Brasil",
-      "source_id": "bbc_brasil",
-      "is_brazilian": true,
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/bcd8/live/5b716f40-bbed-11f1-9074-3d74885a19d6.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Tensions mount as South Korea demands apology from North over mine blast",
-      "link": "https://www.france24.com/en/video/20260930-tensions-mount-as-south-korea-demands-apology-from-north-over-mine-blast",
-      "summary": "North Korea has this Wednesday rejected accusations that it planted the mines that injured three South Korean soldiers in the DMZ on September 21. In a statement, Kim Jo Jong, Kim Jong Un's powerful sister, threatened retaliation against the south if there is any escalation.",
-      "published_at": "2026-09-30T09:14:47Z",
-      "region": "Ásia",
-      "theme": "Geopolítica e Segurança",
-      "source_name": "France 24",
-      "source_id": "france24",
-      "is_brazilian": false,
-      "image_url": "https://s.france24.com/media/display/2d83f03c-bca9-11f1-b09e-177f79e345bf/w:1024/p:16x9/EN-20260930-101121-101248-CS.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Mueren siete palestinos por ataques de Israel contra la ciudad de Gaza a pesar del alto el fuego",
-      "link": "https://www.europapress.es/internacional/noticia-muere-palestina-nuevo-ataque-israel-contra-ciudad-gaza-pesar-alto-fuego-20260930111122.html",
-      "summary": "Al menos siete palestinos han muerto y otros quince han resultado heridos este miércoles por ataques del Ejército de Israel contra varias zonas de la Franja de Gaza, a pesar del alto el fuego pactado en octubre de 2025 al hilo de la propuesta presentada por Estados Unidos para el futuro del territorio costero, aceptada por Israel y el Movimiento de Resistencia Islámica (Hamás).",
-      "published_at": "2026-09-30T09:11:22Z",
-      "region": "Oriente Médio",
-      "theme": "Geopolítica e Segurança",
-      "source_name": "Europa Press",
-      "source_id": "europa_press",
-      "is_brazilian": false,
-      "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260930111122_120.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "South Korea: Lost shark draws over half a million visitors",
-      "link": "https://www.dw.com/en/south-korea-lost-shark-draws-over-half-a-million-visitors/a-79482014?maca=en-rss-en-world-4025-rdf",
-      "summary": "The South Korean port of Busan says that a stranded shark has become a major tourist draw. It's also named the ocean predator an honorary ambassador to the city.",
-      "published_at": "2026-09-30T09:07:00Z",
-      "region": "Ásia",
-      "theme": "Outros / Multitemático",
-      "source_name": "DW World News",
-      "source_id": "dw_english",
-      "is_brazilian": false,
-      "image_url": "https://static.dw.com/image/79482075_6.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "US actor Chad Lowe 'heartbroken' by death of daughter Fiona aged 13",
-      "link": "https://www.bbc.co.uk/news/articles/c3x2z9k1zdn4o?at_medium=RSS&at_campaign=rss",
-      "summary": "Lowe and his wife Kim Painter announce the death of their daughter, who \"was the light of our lives\".",
-      "published_at": "2026-09-30T08:59:38Z",
-      "region": "América do Norte",
-      "theme": "Saúde",
-      "source_name": "BBC World News",
-      "source_id": "bbc_world",
-      "is_brazilian": false,
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8a27/live/37eb2f00-bcad-11f1-a3e9-bbda6f9b9e25.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1584515901367-f1c2a12a50ea?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1505751172876-fa1923c5c528?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1584036561566-baf2418a7c21?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "'He will never walk free': Indian judge's letter promises child sex abuse survivor",
-      "link": "https://www.bbc.co.uk/news/articles/cq7832kn4252o?at_medium=RSS&at_campaign=rss",
-      "summary": "In the emotional letter, the judge describes the survivor as \"the bravest little girl this court has ever seen\".",
-      "published_at": "2026-09-30T08:45:45Z",
-      "region": "Ásia",
-      "theme": "Outros / Multitemático",
-      "source_name": "BBC World News",
-      "source_id": "bbc_world",
-      "is_brazilian": false,
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/05ca/live/633f6fc0-bcaa-11f1-a3e9-bbda6f9b9e25.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Lula e Flávio Bolsonaro voltam a empatar no 2º turno, e distância cai no 1º no Agregador de Pesquisas da BBC News Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/czd2prld130o?at_medium=RSS&at_campaign=rss",
-      "summary": "Acompanhe as últimas estimativas de intenção de voto para Lula x Flávio na eleição presidencial de 2026 reunidas no agregador de pesquisas eleitorais da BBC News Brasil.",
-      "published_at": "2026-09-30T08:43:05Z",
-      "region": "América do Sul",
-      "theme": "Política Brasileira",
-      "source_name": "BBC News Brasil",
-      "source_id": "bbc_brasil",
-      "is_brazilian": true,
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7ac5/live/9ab95820-bcb0-11f1-bc2e-018d645d8d21.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Clique aqui",
-      "link": "https://www.bbc.com/portuguese/articles/czd2prld130o?at_medium=RSS&at_campaign=rss",
-      "summary": "Confira as estimativas de votos para Eleição 2026 no Agregador da BBC News Brasil",
-      "published_at": "2026-09-30T08:43:05Z",
-      "region": "América do Sul",
-      "theme": "Política Brasileira",
-      "source_name": "BBC News Brasil",
-      "source_id": "bbc_brasil",
-      "is_brazilian": true,
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/caa9/live/a04f7e60-4a1c-11f1-b55d-0f258dce1735.png",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "U.S. military withdraws from Iraq two decades after invasion",
-      "link": "https://www.npr.org/2026/09/30/nx-s1-5983426/u-s-withdraws-final-troops-from-iraq",
-      "summary": "23 years after the United States military invaded Iraq, sparking an insurgency and a civil war, the U.S. has withdrawn its forces, as the country still tries to combat Iranian influence.",
-      "published_at": "2026-09-30T08:43:00Z",
-      "region": "Oriente Médio",
-      "theme": "Geopolítica e Segurança",
-      "source_name": "NPR World News",
-      "source_id": "npr",
-      "is_brazilian": false,
-      "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1024x576+0+54/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F97%2Fa4%2F804bc8ed418196634b31e74a5953%2Fgettyimages-2297156537.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Retired general who led troops in Iraq warns U.S. exit may give Iran, ISIS an opening",
-      "link": "https://www.npr.org/2026/09/30/nx-s1-5984953/mcmaster-us-troop-withdrawal-iraq-iran-isis",
-      "summary": "Retired Lt. Gen. H.R. McMaster, who commanded U.S. troops in Iraq, says the withdrawal could strengthen Iran and leave Iraq more vulnerable to ISIS.",
-      "published_at": "2026-09-30T08:42:46Z",
-      "region": "Oriente Médio",
-      "theme": "Saúde",
-      "source_name": "NPR World News",
-      "source_id": "npr",
-      "is_brazilian": false,
-      "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4192x2358+0+475/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fe8%2F01%2Fabb6cc0b40d988106d670272d6b1%2Fap17051743650566.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1584515901367-f1c2a12a50ea?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1505751172876-fa1923c5c528?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1584036561566-baf2418a7c21?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Irán confirma que recibió la respuesta oficial de EEUU a su última propuesta para un acuerdo de paz",
-      "link": "https://www.europapress.es/internacional/noticia-iran-confirma-recibio-respuesta-oficial-eeuu-ultima-propuesta-acuerdo-paz-20260930104246.html",
-      "summary": "El Gobierno de Irán ha confirmado este miércoles que ha recibido la respuesta oficial de Estados Unidos a su propuesta para reactivar el proceso de conversaciones para un acuerdo de paz, días después de que el presidente estadounidense, Donald Trump, expresara su rechazo al plan presentado por Teherán.",
-      "published_at": "2026-09-30T08:42:46Z",
-      "region": "América do Norte",
-      "theme": "Direito Internacional e Instituições",
-      "source_name": "Europa Press",
-      "source_id": "europa_press",
-      "is_brazilian": false,
-      "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260930104246_120.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1505664194779-8beaceb93744?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "A teoria da conspiração que diz que Lula é um clone e que convenceu 12% do eleitorado — e por que ela volta de tempos em tempos",
-      "link": "https://www.bbc.com/portuguese/articles/cr86x2j642q5o?at_medium=RSS&at_campaign=rss",
-      "summary": "Narrativa surgiu após a eleição de 2022 e ganhou novas versões ao longo dos anos; hoje, vídeos que afirmam que presidente foi substituído por um sósia ou clone são compartilhados por perfis com milhões de seguidores, enquanto pesquisa aponta que 1 a cada 8 pessoas dizem acreditar na teoria.",
-      "published_at": "2026-09-30T07:48:08Z",
-      "region": "América do Sul",
-      "theme": "Política Brasileira",
-      "source_name": "BBC News Brasil",
-      "source_id": "bbc_brasil",
-      "is_brazilian": true,
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9bb2/live/30d4ce60-bca3-11f1-bd21-bdf910f2cec6.png",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "An 87-year-old woman whose eviction sparked protests in Spain is returning home",
-      "link": "https://www.npr.org/2026/09/30/nx-s1-5985703/woman-eviction-protests-spain",
-      "summary": "María del Carmen Abascal's case has drawn tens of thousands of people to the streets in recent days and led the Spanish government to present measures to address the country's housing crisis.",
-      "published_at": "2026-09-30T07:07:42Z",
-      "region": "Europa",
-      "theme": "Política Internacional",
-      "source_name": "NPR World News",
-      "source_id": "npr",
-      "is_brazilian": false,
-      "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3743x2105+0+195/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F9d%2F80%2Fa663d0674e16a1c106100d8fa204%2Fap26269636820427.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "'Alternative Nobel' honors women's rights activists, AI researcher",
-      "link": "https://www.dw.com/en/alternative-nobel-honors-women-s-rights-activists-ai-researcher/a-79481171?maca=en-rss-en-world-4025-rdf",
-      "summary": "The Right Livelihood Award has gone to a female AI researcher and women fighting repression. The Sweden-based prize has been dubbed an \"alternative Nobel.\"",
-      "published_at": "2026-09-30T06:14:00Z",
-      "region": "Europa",
-      "theme": "Ciência, Tecnologia e Inovação",
-      "source_name": "DW World News",
-      "source_id": "dw_english",
-      "is_brazilian": false,
-      "image_url": "https://static.dw.com/image/70406719_6.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1518770660439-4636190af475?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1507668077129-56e32842fceb?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Aumentan a cinco los muertos, incluido un niño, por la última oleada de ataques de Rusia contra Ucrania",
-      "link": "https://www.europapress.es/internacional/noticia-menos-dos-muertos-incluido-nino-nuevo-ataque-ruso-misiles-drones-contra-kiev-ucrania-20260930074443.html",
-      "summary": "El balance de muertos a causa de la última oleada de ataques lanzada por el Ejército de Rusia contra Ucrania ha aumentado a cinco, incluido un niño, según ha denunciado el presidente ucraniano, Volodimir Zelenski, quien ha hablado de \"ataque difícil\" y ha reiterado su llamamiento a los socios para que aumenten su ayuda a Kiev.",
-      "published_at": "2026-09-30T05:44:43Z",
-      "region": "Europa",
-      "theme": "Direito Internacional e Instituições",
-      "source_name": "Europa Press",
-      "source_id": "europa_press",
-      "is_brazilian": false,
-      "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260930074443_120.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1505664194779-8beaceb93744?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Live: Several people killed as Russia launches new round of strikes on Kyiv",
-      "link": "https://www.france24.com/en/europe/20260930-live-several-people-killed-as-russia-launches-new-round-of-strikes-on-kyiv",
-      "summary": "At least three people, including a child, have died after Russia launched another round of strikes on Kyiv and its surrounding regions overnight to Wednesday, officials said. Several people were also wounded in the attacks. In Poland, two airports, in Lublin and Rzeszow, were briefly shut over “military aviation activity” during Russian attacks on Ukraine. Follow our liveblog for all the latest updates.",
-      "published_at": "2026-09-30T05:35:15Z",
-      "region": "Europa",
-      "theme": "Geopolítica e Segurança",
-      "source_name": "France 24",
-      "source_id": "france24",
-      "is_brazilian": false,
-      "image_url": "https://s.france24.com/media/display/05499916-bc8e-11f1-8dc9-177f79e345bf/w:1024/p:16x9/000-C9QP39E.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "South Korea demands apology from Pyongyang for landmine blasts that injured three",
-      "link": "https://www.bbc.co.uk/news/articles/cwj3dkvpm4e7o?at_medium=RSS&at_campaign=rss",
-      "summary": "Blasts in the Demilitarised Zone (DMZ) injured three South Korean personnel earlier this month.",
-      "published_at": "2026-09-30T05:24:52Z",
-      "region": "Ásia",
-      "theme": "Outros / Multitemático",
-      "source_name": "BBC World News",
-      "source_id": "bbc_world",
-      "is_brazilian": false,
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1795/live/6e65f480-bc7f-11f1-8f6a-cb544b8fa0f7.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Hegseth to cut number of US general and admiral positions by 20%",
-      "link": "https://www.aljazeera.com/news/2026/9/30/hegseth-to-cut-number-of-us-general-and-admiral-positions-by-20?traffic_source=rss",
-      "summary": "Pentagon official says the plan will be announced in the defence secretary's 'State of the Force' address in Virginia.",
-      "published_at": "2026-09-30T05:05:35Z",
-      "region": "América do Norte",
-      "theme": "Outros / Multitemático",
-      "source_name": "Al Jazeera",
-      "source_id": "aljazeera_english",
-      "is_brazilian": false,
-      "image_url": null,
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Girl has multiple surgeries to control infections after strike in Gaza",
-      "link": "https://www.bbc.co.uk/news/videos/c8n5d0e0n6wdo?at_medium=RSS&at_campaign=rss",
-      "summary": "Witnesses say Raseel's tent was hit by an Israeli helicopter strike. Israel’s military says it has no record of the attack.",
-      "published_at": "2026-09-30T05:02:50Z",
-      "region": "Oriente Médio",
-      "theme": "Geopolítica e Segurança",
-      "source_name": "BBC World News",
-      "source_id": "bbc_world",
-      "is_brazilian": false,
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e9c7/live/7d112a00-bc92-11f1-bc1f-3f186ca4140c.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "'Backpack' declared Alaska's Fat Bear Week winner",
-      "link": "https://www.bbc.co.uk/news/articles/ck8d3vl9mj13o?at_medium=RSS&at_campaign=rss",
-      "summary": "\"Backpack\" defeated a bear known only as \"910\" in the final round of the annual competition.",
-      "published_at": "2026-09-30T05:01:04Z",
-      "region": "Global",
-      "theme": "Outros / Multitemático",
-      "source_name": "BBC World News",
-      "source_id": "bbc_world",
-      "is_brazilian": false,
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/028c/live/57071760-bc89-11f1-bc1f-3f186ca4140c.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
       ]
     }
   ]
