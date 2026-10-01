@@ -1,6 +1,669 @@
 {
-  "updated_at": "2026-10-01T01:42:47.732443Z",
+  "updated_at": "2026-10-01T08:03:26.694170Z",
   "news": [
+    {
+      "title": "Flydubai cockpit incident turns focus to crew-related hijackings",
+      "link": "https://www.france24.com/en/middle-east/20261001-flydubai-cockpit-incident-turns-focus-to-crew-related-hijackings",
+      "summary": "The pilot of the flydubai flight is suspected of having stabbed his copilot midflight in an apparent attempt to crash the plane. The incident has turned focus to similar incidents in the past, where deliberate crashes or near crashes have been instigated by on or off-duty crew.",
+      "published_at": "2026-10-01T08:01:44Z",
+      "region": "Europa",
+      "theme": "Outros / Multitemático",
+      "source_name": "France 24",
+      "source_id": "france24",
+      "is_brazilian": false,
+      "image_url": "https://s.france24.com/media/display/943c8a4c-bd6b-11f1-8b55-7be0f5469a6a/w:1024/p:16x9/AP25311357526495.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "El gobernador de California prohíbe el matrimonio infantil, aún legal en más de 30 estados de EEUU",
+      "link": "https://www.europapress.es/internacional/noticia-gobernador-california-prohibe-matrimonio-infantil-aun-legal-mas-30-estados-eeuu-20261001094947.html",
+      "summary": "El gobernador del estado de California, Gavin Newson, ha ratificado la prohibición del matrimonio infantil, aún legal en más de 30 estados de Estados Unidos, una medida que entrará en vigor el de enero de 2027.",
+      "published_at": "2026-10-01T07:49:47Z",
+      "region": "América do Norte",
+      "theme": "Outros / Multitemático",
+      "source_name": "Europa Press",
+      "source_id": "europa_press",
+      "is_brazilian": false,
+      "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20261001094947_120.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Defesa e Educação são mais afetados por contenção no Orçamento",
+      "link": "https://www.poder360.com.br/poder-governo/defesa-e-educacao-sao-mais-afetados-por-contencao-no-orcamento/",
+      "summary": "Ministérios lideram em valores absolutos; R$ 3,3 bilhões em emendas parlamentares ficam congelados",
+      "published_at": "2026-10-01T07:41:40Z",
+      "region": "América do Sul",
+      "theme": "Geopolítica e Segurança",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2026/09/foto-Lula-planalto-20jul2026-sergiolima-poder360-1200x675.jpeg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Zimbabwe tycoon Wicknell Chivayo and wife killed in helicopter crash",
+      "link": "https://www.bbc.co.uk/news/articles/cr4gvg0yenl4o?at_medium=RSS&at_campaign=rss",
+      "summary": "Chivayo was known for his lavish lifestyle, close ties to African presidents and lucrative government contracts.",
+      "published_at": "2026-10-01T07:29:23Z",
+      "region": "África",
+      "theme": "Política Internacional",
+      "source_name": "BBC World News",
+      "source_id": "bbc_world",
+      "is_brazilian": false,
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f21c/live/576a4920-bd51-11f1-b976-539055889f76.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Too early to say what motive for Dubai-Tel Aviv flight attack was, Israeli PM says",
+      "link": "https://www.bbc.co.uk/news/articles/cqgmrm7xd8wyo?at_medium=RSS&at_campaign=rss",
+      "summary": "A pilot who stabbed another pilot on an Israel-bound plane is under investigation in Saudi Arabia, Benjamin Netanyahu says.",
+      "published_at": "2026-10-01T07:27:25Z",
+      "region": "Oriente Médio",
+      "theme": "Geopolítica e Segurança",
+      "source_name": "BBC World News",
+      "source_id": "bbc_world",
+      "is_brazilian": false,
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/565c/live/ce323a50-bd69-11f1-bc2e-018d645d8d21.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Palestinians to bury remains of 105 people killed in Israeli attack on Gaza",
+      "link": "https://www.aljazeera.com/news/2026/10/1/palestinians-to-bury-remains-of-105-people-killed-in-israeli-attack-on-gaza?traffic_source=rss",
+      "summary": "Coffins containing the remains of those killed will be carried in a funeral procession involving family members.",
+      "published_at": "2026-10-01T07:23:18Z",
+      "region": "Oriente Médio",
+      "theme": "Geopolítica e Segurança",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/10/2023-10-25T000000Z_764081463_RC2QZ3A17OLB_RTRMADP_3_ISRAEL-PALESTINIANS-1790828969.jpg?resize=1920%2C1440",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Paulinho da Força pede impeachment de Kassio, Mendonça e Fux",
+      "link": "https://www.poder360.com.br/poder-eleicoes-2026/paulinho-da-forca-pede-impeachment-de-kassio-mendonca-e-fux/",
+      "summary": "Aliado de Alexandre de Moraes, presidente do Solidariedade diz que ministros do STF praticam crime de responsabilidade",
+      "published_at": "2026-10-01T07:03:26Z",
+      "region": "América do Sul",
+      "theme": "Política Brasileira",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2025/09/paulinho-da-forca.jpeg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "US death row inmate survives execution attempt after two lethal injections",
+      "link": "https://www.bbc.co.uk/news/articles/cq8r6rjdvlx6o?at_medium=RSS&at_campaign=rss",
+      "summary": "Killer Christa Pike's lawyer says she is being given \"life-saving measures\" in hospital after two syringes of pentobarbital.",
+      "published_at": "2026-10-01T07:01:16Z",
+      "region": "América do Norte",
+      "theme": "Outros / Multitemático",
+      "source_name": "BBC World News",
+      "source_id": "bbc_world",
+      "is_brazilian": false,
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8b6b/live/4ce5c930-bd5a-11f1-babe-4199b0e7ccea.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "India vs Pakistan live: Asian Games hockey semifinal",
+      "link": "https://www.aljazeera.com/sports/liveblog/2026/10/1/india-vs-pakistan-live-asian-games-hockey-semifinal?traffic_source=rss",
+      "summary": "Follow our build-up to the match in Japan, field hockey rivalry history, score, photos and live text commentary.",
+      "published_at": "2026-10-01T06:40:43Z",
+      "region": "Ásia",
+      "theme": "Outros / Multitemático",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/08/AFP__20230807__33QQ68X__v2__HighRes__FhockeyAsianChampions2023PakChn-1786441857.jpg?resize=1920%2C1440",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Portugal: Ronaldo walks away",
+      "link": "https://www.france24.com/en/tv-shows/sports/20261001-portugal-ronaldo-walks-away",
+      "summary": "Cristiano Ronaldo has left Portugal’s training camp after several days of tensions with head coach Jorge Jesus. Portuguese Football Federation president Pedro Proença travelled to Copenhagen to try to ease the situation, without success. Ronaldo eventually missed training and left Denmark on his private jet. The five-time Ballon d’Or winner must now explain his decision.",
+      "published_at": "2026-10-01T06:14:53Z",
+      "region": "Europa",
+      "theme": "Geopolítica e Segurança",
+      "source_name": "France 24",
+      "source_id": "france24",
+      "is_brazilian": false,
+      "image_url": "https://s.france24.com/media/display/48ecc248-bd3c-11f1-95ef-ddce071186a9/w:1024/p:16x9/cr7-1.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Live: FlyDubai suspends flights to and from Israel after pilot attack",
+      "link": "https://www.france24.com/en/middle-east/20261001-live-flydubai-suspends-flights-to-and-from-israel-after-pilot-attack",
+      "summary": "FlyDubai, the budget airline owned by Emirates Airlines, has temporarily suspended flights to and from Israel after one of its pilot stabbed his copilot midflight in what appears to have been an attempt to crash the Tel Aviv-bound passenger yet. Israel’s defence minister has labelled the incident as a thwarted “terror attack”. Follow our liveblog for all the latest developments.",
+      "published_at": "2026-10-01T05:58:55Z",
+      "region": "Oriente Médio",
+      "theme": "Geopolítica e Segurança",
+      "source_name": "France 24",
+      "source_id": "france24",
+      "is_brazilian": false,
+      "image_url": "https://s.france24.com/media/display/46c3c9c0-bce8-11f1-8f3e-098db7fa8bc7/w:1024/p:16x9/AP26273571043073.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "El Gobierno de Trump revoca más de 250.000 visados por motivos de seguridad, fraude y \"turismo de nacimientos\"",
+      "link": "https://www.europapress.es/internacional/noticia-gobierno-trump-revoca-mas-250000-visados-motivos-seguridad-fraude-turismo-nacimientos-20261001075119.html",
+      "summary": "El Departamento de Estado de Estados Unidos ha revocado más de 250.000 visados desde la llegada de Donald Trump a la Presidencia, en el marco de una ofensiva de la Administración para frenar la inmigración irregular y endurecer los controles de acceso al país.",
+      "published_at": "2026-10-01T05:51:19Z",
+      "region": "América do Norte",
+      "theme": "Política Internacional",
+      "source_name": "Europa Press",
+      "source_id": "europa_press",
+      "is_brazilian": false,
+      "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20261001075119_120.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Modi’s India takes on Trump more openly, from ‘terrorism’ to tariffs",
+      "link": "https://www.aljazeera.com/news/2026/10/1/modis-india-takes-on-trump-more-openly-from-terrorism-to-tariffs?traffic_source=rss",
+      "summary": "After months of wait-and-watch, India is calling out differences with Trump head on as domestic pressure mounts.",
+      "published_at": "2026-10-01T05:37:39Z",
+      "region": "Ásia",
+      "theme": "Política Internacional",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-09-18T140838Z_381384836_RC2ZTCARS57T_RTRMADP_3_UKRAINE-CRISIS-USA-SANCTIONS-INDIA-1790766570.jpg?resize=1920%2C1440",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Los talibán denuncian nueve civiles muertos en bombardeos de Pakistán contra el este de Afganistán",
+      "link": "https://www.europapress.es/internacional/noticia-afganistan-denuncia-menos-nueve-muertos-bombardeos-paquistanies-kunar-helmand-20261001073540.html",
+      "summary": "El portavoz del Gobierno de Afganistán, Zabihulá Muyahid, ha denunciado que aviones paquistaníes han bombardeado durante toda la noche varias zonas de las provincias afganas de Kunar y Helmand, causando la muerte de al menos nueve civiles, entre ellos mujeres y niños, e hiriendo a otras once personas.",
+      "published_at": "2026-10-01T05:35:40Z",
+      "region": "Europa",
+      "theme": "Política Internacional",
+      "source_name": "Europa Press",
+      "source_id": "europa_press",
+      "is_brazilian": false,
+      "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20261001073540_120.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Execution of convicted US killer Christa Pike fails despite two lethal injections",
+      "link": "https://www.france24.com/en/americas/20261001-execution-of-convicted-us-killer-christa-pike-fails-despite-two-lethal-injections",
+      "summary": "Christa Pike, who has been on death row for more than 30 years for torturing and murdering a classmate, was on Wednesday set to be executed, but the lethal injections meant to kill her failed. Pike was then transported to a medical facility, but except for the fact that she is still alive, her lawyers said they had not been informed about her condition.",
+      "published_at": "2026-10-01T05:32:16Z",
+      "region": "América do Norte",
+      "theme": "Saúde",
+      "source_name": "France 24",
+      "source_id": "france24",
+      "is_brazilian": false,
+      "image_url": "https://s.france24.com/media/display/7a4f7cc8-bce1-11f1-a0fb-1b050e7dec5f/w:1024/p:16x9/2026-09-30T135639Z-1416470123-RC2PTNAYXSRM-RTRMADP-3-TENNESSEE-EXECUTION.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1584515901367-f1c2a12a50ea?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1505751172876-fa1923c5c528?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1584036561566-baf2418a7c21?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Hospitalizada tras recibir dos inyecciones letales Christa Pike, condenada por asesinato en 1996",
+      "link": "https://www.europapress.es/internacional/noticia-hospitalizada-recibir-dos-inyecciones-letales-christa-pike-condenada-asesinato-1996-20261001073127.html",
+      "summary": "Christa Pike, la mujer condenada a muerte por asesinato en primer grado de una compañera de clase en 1996 --cuando tenía 19 años--, ha sido hospitalizada tras recibir dos inyecciones letales, según ha informado su equipo legal, que ha criticado la actuación de las autoridades durante la ejecución, a la que dio luz verde horas antes el Tribunal Supremo al anular una suspensión temporal de la misma para revisar el análisis judicial de los abusos que habría sufrido en la infancia.",
+      "published_at": "2026-10-01T05:31:27Z",
+      "region": "Europa",
+      "theme": "Outros / Multitemático",
+      "source_name": "Europa Press",
+      "source_id": "europa_press",
+      "is_brazilian": false,
+      "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20261001073127_120_v2.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "El Ejército de Israel mata en un ataque aéreo en Gaza a un comandante de Hamás por \"violar\" el alto el fuego",
+      "link": "https://www.europapress.es/internacional/noticia-ejercito-israel-mata-ataque-aereo-gaza-comandante-hamas-violar-alto-fuego-20261001072459.html",
+      "summary": "Las Fuerzas de Defensa de Israel (FDI) han anunciado la muerte de un comandante de pelotón de la rama militar del Movimiento de Resistencia Islámica (Hamás), identificado como Amar Mahmud Homad Sharafi, en un ataque aéreo perpetrado en el área de la ciudad de Gaza.",
+      "published_at": "2026-10-01T05:24:59Z",
+      "region": "Oriente Médio",
+      "theme": "Geopolítica e Segurança",
+      "source_name": "Europa Press",
+      "source_id": "europa_press",
+      "is_brazilian": false,
+      "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20261001072459_120.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Mourners bury DR Congo official killed after defending Ebola response",
+      "link": "https://www.aljazeera.com/news/2026/10/1/dr-congo-official-beaten-to-death-after-defending-ebola-response-is-buried?traffic_source=rss",
+      "summary": "Marie-Celestin Karondwa died of his injuries after being beaten at his home in Butembo, an Ebola hotspot, on Sunday.",
+      "published_at": "2026-10-01T05:18:52Z",
+      "region": "África",
+      "theme": "Outros / Multitemático",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/10/AP26273785327523-1790821395.jpg?resize=1920%2C1440",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Gaza prepares to bury 105 Palestinians killed in October 2023",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/1/gaza-prepares-to-bury-105-palestinians-killed-in-october-2023?traffic_source=rss",
+      "summary": "The bodies of 105 Palestinians have been recovered from the rubble of a residential block destroyed by Israel.",
+      "published_at": "2026-10-01T05:04:28Z",
+      "region": "Oriente Médio",
+      "theme": "Outros / Multitemático",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/10/image-1790831048.jpg?resize=1920%2C1080&quality=80",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "‘Catastrophic year’ as Swiss glaciers lose 5% of ice after heatwaves",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/1/catastrophic-year-as-swiss-glaciers-lose-5-of-ice-after-heatwaves?traffic_source=rss",
+      "summary": "Scientists are warning that Switzerland's glaciers have lost an ‘enormous’ amount of ice this year.",
+      "published_at": "2026-10-01T04:58:48Z",
+      "region": "Europa",
+      "theme": "Outros / Multitemático",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/10/image-1790830717.jpg?resize=1920%2C1080&quality=80",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Execution of US woman Christa Pike fails after botched lethal injection",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/1/execution-of-us-woman-christa-pike-fails-after-botched-lethal-injection?traffic_source=rss",
+      "summary": "The high-profile execution of murderer Christa Pike is in disarray after two lethal injections failed to kill her.",
+      "published_at": "2026-10-01T04:55:02Z",
+      "region": "América do Norte",
+      "theme": "Outros / Multitemático",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/10/image-1790830479.jpg?resize=1920%2C1079&quality=80",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Netanyahu detalla que un pasajero israelí evitó \"otro 11-S\" en el vuelo de Flydubai",
+      "link": "https://www.europapress.es/internacional/noticia-netanyahu-detalla-pasajero-israeli-evito-otro-11-vuelo-flydubai-20261001064342.html",
+      "summary": "El primer ministro israelí, Benjamin Netanyahu, ha ofrecido nuevos detalles sobre el incidente registrado este miércoles en un vuelo de la compañía emiratí Flydubai, revelando que fue un pasajero israelí, de profesión fontanero, quien evitó \"otro 11-S\" al irrumpir en la cabina y hacerse con los mandos después de que uno de los pilotos apuñalara a su compañero en lo que asegura fue un intento de estrellar el avión.",
+      "published_at": "2026-10-01T04:43:42Z",
+      "region": "Oriente Médio",
+      "theme": "Direito Internacional e Instituições",
+      "source_name": "Europa Press",
+      "source_id": "europa_press",
+      "is_brazilian": false,
+      "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20261001064342_120_v2.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1505664194779-8beaceb93744?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Pakistan says 22 fighters killed in air attacks on Afghanistan",
+      "link": "https://www.aljazeera.com/news/2026/10/1/afghanistan-says-nine-killed-in-pakistani-air-raids-on-kunar-helmand?traffic_source=rss",
+      "summary": "Kabul says the strikes on Kunar and Helmand provinces killed nine women and children.",
+      "published_at": "2026-10-01T04:16:19Z",
+      "region": "Ásia",
+      "theme": "Outros / Multitemático",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/10/2026-10-01T071140Z_501348126_RC26UNANQ45L_RTRMADP_3_AFGHANISTAN-PAKISTAN-1790839358.jpg?resize=1920%2C1440",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "South Korea’s exports hit record high on AI boom",
+      "link": "https://www.aljazeera.com/economy/2026/10/1/south-koreas-exports-hit-record-high-on-ai-boom?traffic_source=rss",
+      "summary": "Exports jump 83.5 percent to top $120bn for the first time amid ferocious semiconductor demand.",
+      "published_at": "2026-10-01T04:08:15Z",
+      "region": "Ásia",
+      "theme": "Comércio e Finanças",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/10/AFP__20191121__1MF9NT__v1__MidRes__SkoreaEconomyTelecommunicationLabourSamsung-1790819092_8253fb-1790824681.jpg?resize=1200%2C630&quality=80",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1578575437130-527eed3abbec?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1522071820081-009f0129c71c?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Trump dice que \"se acerca el momento\" de llegar a un acuerdo con Irán o \"quizás volarlos por los aires\"",
+      "link": "https://www.europapress.es/internacional/noticia-trump-dice-acerca-momento-llegar-acuerdo-iran-quizas-volarlos-aires-20261001052510.html",
+      "summary": "El presidente de Estados Unidos, Donald Trump, ha advertido de que \"se acerca el momento\" de tomar una decisión definitiva sobre Irán, sugiriendo que su Administración podría optar por alcanzar un pacto que ponga fin a la guerra o \"quizás volarlos por los aires\", asegurando que el conflicto en el estrecho de Ormuz concluirá \"muy pronto de una forma u otra\".",
+      "published_at": "2026-10-01T03:25:10Z",
+      "region": "América do Norte",
+      "theme": "Política Internacional",
+      "source_name": "Europa Press",
+      "source_id": "europa_press",
+      "is_brazilian": false,
+      "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20261001052510_120.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "AFCON 2027: East Africa races to get tournament-ready",
+      "link": "https://www.aljazeera.com/news/2026/10/1/afcon-2027-east-africa-races-to-get-tournament-ready?traffic_source=rss",
+      "summary": "Kenya, Uganda and Tanzania have less than nine months to prepare for AFCON 2027.",
+      "published_at": "2026-10-01T03:04:24Z",
+      "region": "África",
+      "theme": "Outros / Multitemático",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/09/IMG-20260928-WA0038-1790773659.jpg?resize=1424%2C1080",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Zettel diz que Vorcaro guardou R$ 20 bilhões no exterior",
+      "link": "https://www.poder360.com.br/poder-justica/zettel-diz-que-vorcaro-guardou-r-20-bilhoes-no-exterior/",
+      "summary": "Gravação divulgada pela revista “Piauí” registra afirmação de Fabiano Zettel, cunhado e operador financeiro do fundador do Master, feita depois da liquidação do banco",
+      "published_at": "2026-10-01T03:01:06Z",
+      "region": "América do Sul",
+      "theme": "Outros / Multitemático",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2026/01/fabiano-zettel.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Hegseth encarga a Elon Musk un proyecto sobre el futuro de la guerra en una amplia reforma del Pentágono",
+      "link": "https://www.europapress.es/internacional/noticia-hegseth-encarga-elon-musk-proyecto-futuro-guerra-amplia-reforma-pentagono-20261001045647.html",
+      "summary": "El secretario de Defensa de Estados Unidos, Pete Hegseth, ha anunciado una reestructuración de las Fuerzas Armadas que incluye la creación de nuevos comandos y una iniciativa liderada por los empresarios tecnológicos Elon Musk y Palmer Luckey para investigar el futuro armamentístico del país.",
+      "published_at": "2026-10-01T02:56:47Z",
+      "region": "América do Norte",
+      "theme": "Geopolítica e Segurança",
+      "source_name": "Europa Press",
+      "source_id": "europa_press",
+      "is_brazilian": false,
+      "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20261001045647_120.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Bitcoin sobe 6,51% e Ibovespa 5,03% em setembro; ouro cai 6,52%",
+      "link": "https://www.poder360.com.br/poder-economia/bitcoin-sobe-651-e-ibovespa-503-em-setembro-ouro-cai-652/",
+      "summary": "Ouro tem o pior desempenho entre 13 indicadores; dólar comercial recua 0,12% e Risco Brasil sobe 6,56%, a 124,90 pontos",
+      "published_at": "2026-10-01T02:55:58Z",
+      "region": "América do Sul",
+      "theme": "Comércio e Finanças",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2026/06/Bitcoin-unsplash.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1578575437130-527eed3abbec?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1522071820081-009f0129c71c?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Falido, Bordeaux anuncia venda por 1 euro para grupo dos EUA",
+      "link": "https://www.poder360.com.br/poder-sportsmkt/falido-bordeaux-anuncia-venda-por-1-euro-para-grupo-dos-eua/",
+      "summary": "Hexacampeão francês terá dívidas reestruturadas pelo fundo de investimento Park Bench; declarou falência em julho de 2024",
+      "published_at": "2026-10-01T02:46:16Z",
+      "region": "América do Norte",
+      "theme": "Comércio e Finanças",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2026/08/bordeaux-e-vendido-a-1-euro.png",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1578575437130-527eed3abbec?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1522071820081-009f0129c71c?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "TSE proíbe posts que ligam Flávio a plano de tirar título de padroeira de Nossa Senhora Aparecida; Mendonça suaviza voto sobre publicação de Antonio Tabet",
+      "link": "https://www.bbc.com/portuguese/articles/cmvgy277qg5po?at_medium=RSS&at_campaign=rss",
+      "summary": "O Tribunal Superior Eleitoral (TSE) decidiu nesta quarta-feira (30/9) manter a proibição a publicações que associem Flávio Bolsonaro (PL) a um projeto para retirar o título de Nossa Senhora Aparecida de Padroeira do Brasil. Em recuo, o ministro André Mendonça passou a apoiar a liberação de um post do humorista Antonio Tabet.",
+      "published_at": "2026-10-01T02:45:25Z",
+      "region": "América do Sul",
+      "theme": "Política Brasileira",
+      "source_name": "BBC News Brasil",
+      "source_id": "bbc_brasil",
+      "is_brazilian": true,
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7ee7/live/6492eb60-bd66-11f1-bc2e-018d645d8d21.png",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Tennessee inmate Christa Pike survives lethal injection execution attempt",
+      "link": "https://www.aljazeera.com/news/2026/10/1/us-supreme-court-clears-way-for-christa-pikes-execution-in-tennessee?traffic_source=rss",
+      "summary": "Lawyers say Pike was taken away from the prison in an ambulance and is being treated in hospital.",
+      "published_at": "2026-10-01T02:35:59Z",
+      "region": "Oriente Médio",
+      "theme": "Outros / Multitemático",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": null,
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Hegseth announces 20% cut to US military commanders",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/1/hegseth-announces-20-cut-to-us-military-commanders?traffic_source=rss",
+      "summary": "US Secretary of Defense Pete Hegseth says he’s firing 20% of the military’s generals and admirals.",
+      "published_at": "2026-10-01T02:34:55Z",
+      "region": "América do Norte",
+      "theme": "Geopolítica e Segurança",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": null,
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "El Salvador sets date for 2027 presidential election as Bukele seeks third term",
+      "link": "https://www.france24.com/en/americas/20261001-el-salvador-sets-2027-presidential-election-as-nayib-bukele-seeks-third-term",
+      "summary": "El Salvador will hold presidential elections on February 28, 2027, the electoral tribunal said Wednesday, opening the way for President Nayib Bukele to seek a third term after constitutional changes removed presidential term limits. Bukele has drawn praise for sharply reducing gang violence but faced criticism over rights abuses during his crackdown.",
+      "published_at": "2026-10-01T02:32:45Z",
+      "region": "América Central",
+      "theme": "Política Internacional",
+      "source_name": "France 24",
+      "source_id": "france24",
+      "is_brazilian": false,
+      "image_url": "https://s.france24.com/media/display/a0e6140c-bd39-11f1-9971-7be0f5469a6a/w:1024/p:16x9/000-C6CE3FN.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "What we know about stabbing on Flydubai flight to Israel",
+      "link": "https://www.bbc.co.uk/news/articles/cqjdv7pmj9dno?at_medium=RSS&at_campaign=rss",
+      "summary": "A pilot has been arrested and is being questioned after another pilot was stabbed, officials say.",
+      "published_at": "2026-10-01T02:31:24Z",
+      "region": "Oriente Médio",
+      "theme": "Outros / Multitemático",
+      "source_name": "BBC World News",
+      "source_id": "bbc_world",
+      "is_brazilian": false,
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/83af/live/a2587eb0-bce4-11f1-a64c-550be9e3c66b.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "UK says Iran may be linked to alleged RAF Fairford plot, drawing denial",
+      "link": "https://www.aljazeera.com/news/2026/10/1/uk-says-iran-may-be-linked-to-alleged-airbase-plot-drawing-angry-denial?traffic_source=rss",
+      "summary": "Andy Burnham says UK has 'strong indications' Iran involved in alleged security incident at RAF base used by US.",
+      "published_at": "2026-10-01T02:30:45Z",
+      "region": "Europa",
+      "theme": "Outros / Multitemático",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": null,
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Zettel diz em áudio que Moraes é “melhor amigo” de Vorcaro",
+      "link": "https://www.poder360.com.br/poder-justica/zettel-diz-em-audio-que-moraes-e-melhor-amigo-de-vorcaro/",
+      "summary": "Gravação divulgada pela revista “Piauí” cita afirmação sobre R$ 20 bilhões guardados no exterior antes da prisão do fundador do Master",
+      "published_at": "2026-10-01T02:30:10Z",
+      "region": "América do Sul",
+      "theme": "Outros / Multitemático",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2026/09/daniel-vorcaro-alexandre-de-moraes-1200x675.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Russia launches major attack on Ukraine’s energy grid, causing power cuts",
+      "link": "https://www.france24.com/en/europe/20261001-russia-launches-major-attack-on-ukraine-energy-grid-causing-power-cuts",
+      "summary": "Russia launched its heaviest combined assault on Ukraine’s energy infrastructure in months on Wednesday, killing seven people and triggering emergency power cuts in Kyiv and nearby regions. The strikes came as officials warned of a difficult winter amid Russian attacks on Ukraine’s power and heating infrastructure.",
+      "published_at": "2026-10-01T02:21:15Z",
+      "region": "Europa",
+      "theme": "Geopolítica e Segurança",
+      "source_name": "France 24",
+      "source_id": "france24",
+      "is_brazilian": false,
+      "image_url": "https://s.france24.com/media/display/01bc8c06-bd27-11f1-9426-ddce071186a9/w:1024/p:16x9/000-C9R88CQ.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Congresistas demócratas de EEUU presentan una ley para sancionar la expansión de asentamientos israelíes",
+      "link": "https://www.europapress.es/internacional/noticia-congresistas-democratas-eeuu-presentan-ley-sancionar-expansion-asentamientos-israelies-20261001033121.html",
+      "summary": "Un grupo de seis representantes demócratas del Congreso de Estados Unidos ha anunciado la presentación de una proposición de ley destinada a imponer sanciones contra individuos y entidades extranjeras que participen en la construcción o expansión de asentamientos israelíes en Cisjordania y la Franja de Gaza. La iniciativa, denominada 'Stop the Settlements Act' (Ley para Detener los Asentamientos), busca frenar la \"apropiación de tierras\" y \"preservar la viabilidad de un futuro Estado palestino\".",
+      "published_at": "2026-10-01T01:31:21Z",
+      "region": "Oriente Médio",
+      "theme": "Direito Internacional e Instituições",
+      "source_name": "Europa Press",
+      "source_id": "europa_press",
+      "is_brazilian": false,
+      "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20261001033121_120.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1505664194779-8beaceb93744?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
     {
       "title": "Iraq celebrates Sovereignty Day as US troops complete withdrawal",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/10/1/iraq-celebrates-sovereignty-day-as-us-troops-complete-withdrawal?traffic_source=rss",
@@ -87,6 +750,23 @@
       ]
     },
     {
+      "title": "Trump anuncia una inversión de hasta 176.000 millones de euros de Corea del Sur en EEUU en infraestructura energética",
+      "link": "https://www.europapress.es/internacional/noticia-trump-anuncia-inversion-176000-millones-euros-corea-sur-eeuu-infraestructura-energetica-20261001023230.html",
+      "summary": "El presidente de Estados Unidos, Donald Trump, ha anunciado junto al secretario de Comercio, Howard Lutnick, una inversión de hasta 200.000 millones de dólares (176.000 millones de euros) procedentes del Gobierno de Corea del Sur destinada a tres grandes proyectos de infraestructura energética en suelo estadounidense. Se trata de ocho nuevas centrales nucleares de gran escala, una planta de generación eléctrica por gas natural en Texas y el inicio del gasoducto de gas natural licuado (GNL) de Alaska.",
+      "published_at": "2026-10-01T00:32:30Z",
+      "region": "América do Norte",
+      "theme": "Política Internacional",
+      "source_name": "Europa Press",
+      "source_id": "europa_press",
+      "is_brazilian": false,
+      "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20261001023230_120.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
       "title": "TSE decide sobre posts de Nossa Senhora: após votos divergentes, Mendonça ajusta decisão para liberar publicação de Antonio Tabet",
       "link": "https://www.bbc.com/portuguese/articles/cmvgy277qg5po?at_medium=RSS&at_campaign=rss",
       "summary": "Corte eleitoral julga nesta quarta (30/9), em plenário virtual, se confirma ou não decisão de Mendonça que determinou a exclusão de postagens que associavam Flávio Bolsonaro (PL) a um projeto para retirar o título de Nossa Senhora Aparecida de Padroeira do Brasil. Acompanhe voto a voto.",
@@ -114,6 +794,23 @@
       "source_id": "bbc_world",
       "is_brazilian": false,
       "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6311/live/31a802d0-bd25-11f1-bc2e-018d645d8d21.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Hundreds of students detained, dozens of officers injured in French school protests",
+      "link": "https://www.france24.com/en/france/20261001-hundreds-of-students-detained-dozens-of-officers-injured-in-french-school-protests",
+      "summary": "More than 600 people, most of them students, have been detained and dozens of police officers injured amid increasingly violent school protests in France. The protests began last week, when secondary school students started mobilising against a shortage of teachers, over-crowded classrooms and what they argued were unreasonable timetables.",
+      "published_at": "2026-10-01T00:14:36Z",
+      "region": "Europa",
+      "theme": "Outros / Multitemático",
+      "source_name": "France 24",
+      "source_id": "france24",
+      "is_brazilian": false,
+      "image_url": "https://s.france24.com/media/display/151ea5c6-bd2d-11f1-82f0-7be0f5469a6a/w:1024/p:16x9/1635579c27fc01c4f75885ac5fca8c35cb5de4a6.jpg",
       "fallback_images": [
         "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
@@ -325,7 +1022,7 @@
       ]
     },
     {
-      "title": "Putin shows no sign of stopping the war as Russia doubles down on Ukraine",
+      "title": "Rosenberg: Putin shows no sign of stopping the war as Russia doubles down on Ukraine",
       "link": "https://www.bbc.co.uk/news/articles/cqx2ze420kpyo?at_medium=RSS&at_campaign=rss",
       "summary": "A foreign policy speech by the Russian president will be keenly watched, but all signs point to the full-scale invasion continuing.",
       "published_at": "2026-09-30T23:10:06Z",
@@ -750,23 +1447,6 @@
       ]
     },
     {
-      "title": "What we know about stabbing on Flydubai flight to Israel",
-      "link": "https://www.bbc.co.uk/news/articles/cqjdv7pmj9dno?at_medium=RSS&at_campaign=rss",
-      "summary": "A pilot has been arrested and is being questioned after another pilot was stabbed, officials say.",
-      "published_at": "2026-09-30T21:36:31Z",
-      "region": "Oriente Médio",
-      "theme": "Outros / Multitemático",
-      "source_name": "BBC World News",
-      "source_id": "bbc_world",
-      "is_brazilian": false,
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/83af/live/a2587eb0-bce4-11f1-a64c-550be9e3c66b.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
       "title": "It’s the ‘closest thing to an HIV vaccine’, but who gets access?",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/9/30/its-the-closest-thing-to-an-hiv-vaccine-but-who-gets-access?traffic_source=rss",
       "summary": "A twice-yearly injection could revolutionise HIV prevention, but who gets access raises bigger questions.",
@@ -934,6 +1614,23 @@
         "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Pentagon’s Hegseth says 20 percent of US generals, admirals cut, ‘no fatties, no trannies’",
+      "link": "https://www.france24.com/en/americas/20260930-pentagon-s-hegseth-says-20-pct-of-us-generals-admirals-cut-no-fatties-no-trannies",
+      "summary": "US Defence Secretary Pete Hegseth said Wednesday that his department had cut 20 percent of US admirals, generals and officers who did not fit his vision. \"Simple translation of that: no fatties, no trannies, no beardos, no weirdos, no wimps, no radicals. Just warriors – just tough, ready, committed troops,\" he said.",
+      "published_at": "2026-09-30T20:16:31Z",
+      "region": "América do Norte",
+      "theme": "Saúde",
+      "source_name": "France 24",
+      "source_id": "france24",
+      "is_brazilian": false,
+      "image_url": "https://s.france24.com/media/display/d2613efe-bd0b-11f1-b9fd-098db7fa8bc7/w:1024/p:16x9/Part-GTY-2297940528-1-1-0.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1584515901367-f1c2a12a50ea?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1505751172876-fa1923c5c528?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1584036561566-baf2418a7c21?q=80&w=800&auto=format&fit=crop"
       ]
     },
     {
@@ -1184,7 +1881,7 @@
       "source_name": "BBC News Brasil",
       "source_id": "bbc_brasil",
       "is_brazilian": true,
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6d2c/live/8f1d1b40-bce8-11f1-8ce2-417f8f7cb095.jpg",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e7b9/live/d155c8d0-bd66-11f1-a64c-550be9e3c66b.png",
       "fallback_images": [
         "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
@@ -1852,703 +2549,6 @@
         "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "US appeals court halts Tennessee execution of Christa Pike",
-      "link": "https://www.aljazeera.com/news/2026/9/30/us-appeals-court-halts-tennessee-execution-of-christa-pike?traffic_source=rss",
-      "summary": "Christa Pike was set to become the first woman executed by Tennessee in more than 200 years.",
-      "published_at": "2026-09-30T16:44:16Z",
-      "region": "América do Norte",
-      "theme": "Outros / Multitemático",
-      "source_name": "Al Jazeera",
-      "source_id": "aljazeera_english",
-      "is_brazilian": false,
-      "image_url": null,
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Swiss Football Association withdraws support for FIFA boss Gianni Infantino",
-      "link": "https://www.aljazeera.com/sports/2026/9/30/swiss-football-association-withdraws-support-for-fifa-boss-gianni-infantino?traffic_source=rss",
-      "summary": "Executive committee reverses its support ‌for the ​Swiss football administrator after endorsing his candidacy in June.",
-      "published_at": "2026-09-30T16:38:25Z",
-      "region": "Oriente Médio",
-      "theme": "Outros / Multitemático",
-      "source_name": "Al Jazeera",
-      "source_id": "aljazeera_english",
-      "is_brazilian": false,
-      "image_url": null,
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Avião para Israel despenca no ar após piloto esfaquear outro, e reação dos passageiros evita desastre; o que se sabe",
-      "link": "https://www.bbc.com/portuguese/articles/ck1e5w1503jjo?at_medium=RSS&at_campaign=rss",
-      "summary": "O primeiro-ministro israelense Benjamin Netanyahu disse que o piloto responsável pelo ataque pretendia derrubar o avião. Ele foi preso e está sendo interrogado.",
-      "published_at": "2026-09-30T16:36:59Z",
-      "region": "Oriente Médio",
-      "theme": "Meio Ambiente e Clima",
-      "source_name": "BBC News Brasil",
-      "source_id": "bbc_brasil",
-      "is_brazilian": true,
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/81d1/live/a35d1a10-bcbb-11f1-bc2e-018d645d8d21.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Jerusalem Daily: Flight carrying Israelis diverted after stabbing",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/30/jerusalem-daily-flight-carrying-israelis-diverted-after-stabbing?traffic_source=rss",
-      "summary": "A Flydubai flight to Tel Aviv was diverted after a stabbing, with Israeli officials calling it 'an act of terror'.",
-      "published_at": "2026-09-30T16:36:52Z",
-      "region": "Oriente Médio",
-      "theme": "Geopolítica e Segurança",
-      "source_name": "Al Jazeera",
-      "source_id": "aljazeera_english",
-      "is_brazilian": false,
-      "image_url": null,
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Pentagon says US troop withdrawal from Iraq is complete",
-      "link": "https://www.aljazeera.com/news/2026/9/30/pentagon-says-us-troop-withdrawal-from-iraq-is-complete?traffic_source=rss",
-      "summary": "Trump hails completion of 'very expensive excursion into Hell' as US-led coalition anti-ISIL mission ends.",
-      "published_at": "2026-09-30T16:33:02Z",
-      "region": "América do Norte",
-      "theme": "Política Internacional",
-      "source_name": "Al Jazeera",
-      "source_id": "aljazeera_english",
-      "is_brazilian": false,
-      "image_url": null,
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Romania’s political crisis intensifies as Parliament rejects pro-EU PM",
-      "link": "https://www.aljazeera.com/news/2026/9/30/romanian-political-crisis-intensifies-as-parliament-rejects-pro-eu-pm?traffic_source=rss",
-      "summary": "Siegfried Muresan's loss of the confidence motion increases the prospect for snap elections.",
-      "published_at": "2026-09-30T16:18:11Z",
-      "region": "Europa",
-      "theme": "Política Internacional",
-      "source_name": "Al Jazeera",
-      "source_id": "aljazeera_english",
-      "is_brazilian": false,
-      "image_url": null,
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "As denúncias de lesão cerebral que fizeram parque Six Flags fechar montanha-russa X2 na Califórnia",
-      "link": "https://www.bbc.com/portuguese/articles/c8ly4dr35redo?at_medium=RSS&at_campaign=rss",
-      "summary": "Centenas de passageiros teriam se ferido no X2, montanha-russa cujos assentos giravam 360 graus",
-      "published_at": "2026-09-30T16:17:30Z",
-      "region": "Europa",
-      "theme": "Outros / Multitemático",
-      "source_name": "BBC News Brasil",
-      "source_id": "bbc_brasil",
-      "is_brazilian": true,
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/220d/live/ab8024a0-bc55-11f1-8053-53e939fa7624.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "‘Attempted terror attack’: What happened on board the rerouted Flydubai flight?",
-      "link": "https://www.france24.com/en/video/20260930-attempted-terror-attack-what-happened-on-board-the-rerouted-flydubai-flight",
-      "summary": "The co-pilot of a flight from Dubai to Tel Aviv ​tried ‌to crash the plane after stabbing the pilot, but passengers then ⁠held him down while other pilots landed the plane safely in Saudi Arabia, Israeli Prime Minister Benjamin Netanyahu said ‌on Wednesday.",
-      "published_at": "2026-09-30T16:04:30Z",
-      "region": "Oriente Médio",
-      "theme": "Geopolítica e Segurança",
-      "source_name": "France 24",
-      "source_id": "france24",
-      "is_brazilian": false,
-      "image_url": "https://s.france24.com/media/display/b44a2bda-bce6-11f1-9437-098db7fa8bc7/w:1024/p:16x9/mini3-1.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Appeals court halts execution of Tennessee woman less than two hours before lethal injection",
-      "link": "https://www.france24.com/en/americas/20260930-appeals-court-halts-execution-of-tennessee-woman-less-than-two-hours-before-lethal-injection",
-      "summary": "A US appeals court ordered a \"short stay of execution\" for death row inmate Christa Pike, less than two hours before she was scheduled to be the first woman put to death in the state in more than two centuries. The court halted the execution to give it time to consider Pike's claims that her history of severe sexual abuse had not been taken into consideration during sentencing.",
-      "published_at": "2026-09-30T16:03:32Z",
-      "region": "América do Norte",
-      "theme": "Outros / Multitemático",
-      "source_name": "France 24",
-      "source_id": "france24",
-      "is_brazilian": false,
-      "image_url": "https://s.france24.com/media/display/7a4f7cc8-bce1-11f1-a0fb-1b050e7dec5f/w:1024/p:16x9/2026-09-30T135639Z-1416470123-RC2PTNAYXSRM-RTRMADP-3-TENNESSEE-EXECUTION.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "UNICEF alerta de que cuatro de cada cinco hogares en Líbano tienen dificultades para cubrir necesidades básicas",
-      "link": "https://www.europapress.es/internacional/noticia-unicef-alerta-cuatro-cada-cinco-hogares-libano-tienen-dificultades-cubrir-necesidades-basicas-20260930175221.html",
-      "summary": "El Fondo de Naciones Unidas para la Infancia (UNICEF) ha alertado este miércoles de que cuatro de cada cinco hogares en Líbano tienen dificultades para cubrir sus necesidades básicas, en el marco del aumento de la ofensiva del Ejército de Israel a pesar del acuerdo de alto al fuego logrado el 26 de junio.",
-      "published_at": "2026-09-30T15:52:21Z",
-      "region": "Oriente Médio",
-      "theme": "Geopolítica e Segurança",
-      "source_name": "Europa Press",
-      "source_id": "europa_press",
-      "is_brazilian": false,
-      "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260930175221_120.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Mendonça vota por tirar do ar posts que ligam Flávio Bolsonaro a Nossa Senhora; siga julgamento no TSE",
-      "link": "https://www.bbc.com/portuguese/articles/cmvgy277qg5po?at_medium=RSS&at_campaign=rss",
-      "summary": "Corte eleitoral julga nesta quarta (30/9), em plenário virtual, se confirma ou não decisão de Mendonça que determinou a exclusão de postagens que associavam Flávio Bolsonaro (PL) a um projeto para retirar o título de Nossa Senhora Aparecida de Padroeira do Brasil. Acompanhe voto a voto.",
-      "published_at": "2026-09-30T15:36:11Z",
-      "region": "América do Sul",
-      "theme": "Política Brasileira",
-      "source_name": "BBC News Brasil",
-      "source_id": "bbc_brasil",
-      "is_brazilian": true,
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/733a/live/bf218cb0-bcdc-11f1-babe-4199b0e7ccea.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Un tribunal de EEUU suspende la ejecución de Christa Pike, declarada culpable de asesinato en 1996",
-      "link": "https://www.europapress.es/internacional/noticia-tribunal-eeuu-suspende-ejecucion-christa-pike-declarada-culpable-asesinato-1996-20260930173600.html",
-      "summary": "Un tribunal de apelaciones de Estados Unidos ha suspendido este miércoles la ejecución de Christa Pike, única mujer condenada a muerte en el estado de Tennessee, que fue declarada culpable del asesinato en primer grado en 1996 de una compañera de clase, cuando tenía 19 años.",
-      "published_at": "2026-09-30T15:36:00Z",
-      "region": "América do Norte",
-      "theme": "Direito Internacional e Instituições",
-      "source_name": "Europa Press",
-      "source_id": "europa_press",
-      "is_brazilian": false,
-      "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260930173600_120.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1505664194779-8beaceb93744?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "How Ukrainians are coping with new, more deadly Russian attacks",
-      "link": "https://www.npr.org/2026/09/30/nx-s1-5984948/how-ukrainians-are-coping-with-new-more-deadly-russian-attacks",
-      "summary": "Zanny Minton Beddoes, The Economist's editor in chief , just visited Ukraine. She says, despite all its drone weaponry, Kyiv is under extraordinary bombardment, as Russia tries to make it unlivable.",
-      "published_at": "2026-09-30T15:33:19Z",
-      "region": "Europa",
-      "theme": "Outros / Multitemático",
-      "source_name": "NPR World News",
-      "source_id": "npr",
-      "is_brazilian": false,
-      "image_url": "https://media.npr.org/include/images/facebook-default-wide-s1400-c85.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Russia ramps up disinformation attacks on French media ahead of 2027 Presidential race",
-      "link": "https://www.france24.com/en/france/20260930-russia-ramps-up-disinformation-attacks-on-french-media-ahead-of-2027-presidential-race",
-      "summary": "Pro-Russian influence operations have caused a surge of 850% in fake news stories mimicking real media brands, according to a report published this week by disinformation specialist, NewsGuard. Out of the 15 most imitated news outlets, eight are French – including FRANCE 24.",
-      "published_at": "2026-09-30T15:29:40Z",
-      "region": "Europa",
-      "theme": "Outros / Multitemático",
-      "source_name": "France 24",
-      "source_id": "france24",
-      "is_brazilian": false,
-      "image_url": "https://s.france24.com/media/display/a036fb0c-b8f7-11f1-8a9f-555a0aff87a4/w:1024/p:16x9/Main-Russie-Hackers.png",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Execution of US murderer Christa Pike halted shortly before it was due to happen",
-      "link": "https://www.bbc.co.uk/news/articles/cw20vxxn876no?at_medium=RSS&at_campaign=rss",
-      "summary": "Pike was convicted and sentenced to death in 1996 for the murder of Colleen Slemmer.",
-      "published_at": "2026-09-30T15:29:11Z",
-      "region": "América do Norte",
-      "theme": "Outros / Multitemático",
-      "source_name": "BBC World News",
-      "source_id": "bbc_world",
-      "is_brazilian": false,
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d7cd/live/e4a1ffd0-bbdb-11f1-bd21-bdf910f2cec6.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "What happened on diverted Flydubai flight from Dubai to Tel Aviv?",
-      "link": "https://www.aljazeera.com/news/2026/9/30/what-happened-on-diverted-flydubai-flight-from-dubai-to-tel-aviv?traffic_source=rss",
-      "summary": "Israel's prime minister said one of the pilots stabbed the other and then tried to crash the plane.",
-      "published_at": "2026-09-30T15:27:26Z",
-      "region": "Oriente Médio",
-      "theme": "Política Internacional",
-      "source_name": "Al Jazeera",
-      "source_id": "aljazeera_english",
-      "is_brazilian": false,
-      "image_url": null,
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Autorregulação da IA de Trump é carta branca a big tech, diz professor",
-      "link": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-09/autorregulacao-da-ia-de-trump-e-carta-branca-bigtechs-diz-professor",
-      "summary": "O anúncio do governo dos Estados Unidos (EUA) e de big techs da Inteligência Artificial (IA) de criar uma autorregulação voluntária com controles de segurança para o desenvolvimento da tecnologia representa uma “carta branca” para a indústria do setor com riscos para a saúde pública e para a democracia dos países. Essa é a avaliação do sociólogo Sérgio Amadeu, professor da Universidade Federal do ABC e autor de obras sobre tecnologias digitais: Notícias relacionadas: Trump anuncia autorregulação da IA por big tech em meio a temor social. Open AI invade site com dados da saúde pública da Austrália. “O que o Trump fez foi entregar completamente e de modo irresponsável o controle democrático do desenvolvimento da IA para a própria corporação que a desenvolve. Isso é um risco gigantesco”, avaliou. Dentre as medidas anunciadas no acordo firmado na terça-feira (29), na Casa Branca, com a OpenAI, Meta, Anthropic, Google, Nvidia e X (antigo Twitter), está a implementação de “controles internos” para monitorar os modelos de IA para “garantir que seus modelos não invadam ou acessem sistemas técnicos de maneiras não intencionais”. “Isso já é feito. Todo o processo de treinamento de IA requer um controle robusto. O monitoramento interno já é feito. Tudo isso não agrega nada de importante para regulamentar e controlar usos e desenvolvimentos indevidos do aprendizado de máquina e do aprendizado profundo”, completou Amadeu. Sobre a previsão de auditoria externa independente das empresas de IA, o professor da UFABC contesta que essa auditoria será paga pela própria empresa. “Até que ponto esse auditor externo pago pela própria empresa vai fazer críticas e sugestões que vão criar descontentamento do conselho de acionistas das empresas?”, questionou Sérgio. Benefícios frágeis O especialista em governança de IA Ettore Arpini, fundador da organização Plures, que apoia a formação de profissionais para atuação em IA, destacou à Agência Brasil que o acordo voluntário das IAs pode criar benefícios reais. Porém, alerta que o compromisso pode ser abandonado quando as proteções se tornarem comercialmente prejudiciais. Arpini cita o exemplo da Moratória da Soja na Amazônia, que foi um acordo voluntário que envolveu empresas do setor para não plantar soja na Amazônia e evitar o desmatamento do bioma. “Isso deu certo por 20 anos, de forma voluntária, até que mudou o ambiente político e econômico e as empresas que faziam parte saíram do acordo e a moratória morreu. O que acontece se uma empresa reprovar numa auditoria ou abandonar o pacto?”, questionou. Saúde Pública Sociólogo e professor da UFABC Sérgio Amadeu da Silveira - TV PUC/Reprodução O sociólogo Sérgio Amadeu destaca que a IA traz riscos ambientais, devido ao alto consumo de energia e água, de violação de privacidade, devido a capacidade de vigilância em massa de populações, assim como riscos à democracia e à saúde pública. Ele explica que várias pesquisas realizadas na indústria farmacêutica, em parceria com big techs por meio de modelos de IA, podem envolver riscos para a saúde da população e, por isso, precisa de regulação do Estado. “Sabemos que quando o uso de IA fica sob controle apenas de investidores, isso traz um risco gigantesco para experimentos e ações que coloquem em risco a saúde pública”, comentou. Entre os riscos, o especialista cita a possibilidade do uso de IA levar as pessoas a tomar medicamentos por conta própria ou mesmo fazer diagnósticos com uso da máquina. “Quando nós estamos tratando de fenômenos ligados à chamada saúde pública e que incluam a parceria de grandes big techs com indústrias químicas e de fármacos, é um risco muito grande e, portanto, precisa de uma regulamentação estatal democrática”, concluiu. Temor social O governo Trump tem rejeitado impor limites ao desenvolvimento da IA, mesmo diante de pedidos da própria indústria e pressão social interna. Pesquisa de opinião realizada pela Ipsos e Reuters revelou que 73% da população dos EUA acreditam que as empresas de IA não tomam medidas suficientes para impedir os danos da tecnologia para a sociedade e 39% acreditam que a IA está tendo um impacto negativo na sociedade. Um dos riscos apontados é que os sistemas banalizem ataques cibernético por meio da invasão de sistemas de outras empresas e instituições. Outros riscos associados à IA são os impactos sobre o mercado de trabalho ou uso “maliciosos” da tecnologia por criminosos para aplicar golpes cibernéticos. Democracia A IA ainda pode ser usada para influenciar a opinião pública por meio da manipulação da informação que circula nas redes sociais, segundo descreve o relatório Internacional IA Safety Report 2026 , elaborado por 100 especialistas de mais de 30 países. “Diversos estudos laboratoriais demonstraram que a interação com sistemas de IA pode levar a mudanças mensuráveis ​​nas crenças das pessoas”, aponta o relatório. Outro risco apontado é em relação ao desenvolvimento de armas químicas e biológicas. “Sistemas de IA de uso geral podem fornecer informações sobre o desenvolvimento de armas biológicas e químicas, incluindo detalhes sobre patógenos e instruções de laboratório de nível especializado”, diz o relatório internacional. Matéria ampliada às 13h13",
-      "published_at": "2026-09-30T15:18:00Z",
-      "region": "América do Norte",
-      "theme": "Ciência, Tecnologia e Inovação",
-      "source_name": "Agência Brasil",
-      "source_id": "agencia_brasil",
-      "is_brazilian": true,
-      "image_url": null,
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1518770660439-4636190af475?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1507668077129-56e32842fceb?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Prosecutor reopens probe into Cornell gang rape allegations",
-      "link": "https://www.france24.com/en/video/20260930-prosecutor-reopens-probe-into-cornell-gang-rape-allegations",
-      "summary": "A New York prosecutor has reopened an investigation into gang rape allegations at a Cornell University fraternity in response to a lawsuit filed by a woman who says she was sexually assaulted in 2024 by seven students after being plied with alcohol and drugs. Tompkins County District Attorney Matthew Van Houten said Monday that his office will present evidence to a grand jury as he faces questions from the public about why there were no criminal prosecutions in the case. France 24's Annette Young, host of The 51 %, has more.",
-      "published_at": "2026-09-30T15:06:20Z",
-      "region": "América do Norte",
-      "theme": "Saúde",
-      "source_name": "France 24",
-      "source_id": "france24",
-      "is_brazilian": false,
-      "image_url": "https://s.france24.com/media/display/a4c0d3ea-bcd1-11f1-bde5-816a8398162d/w:1024/p:16x9/EN-20260930-143905-144333-CS.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1584515901367-f1c2a12a50ea?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1505751172876-fa1923c5c528?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1584036561566-baf2418a7c21?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Ethiopia fighting escalates in Tigray killing 52 civilians, medic tells the BBC",
-      "link": "https://www.bbc.co.uk/news/articles/c6grveejg1e2o?at_medium=RSS&at_campaign=rss",
-      "summary": "The deadly fighting has also spread to neighbouring regions, stranding tourists in Lalibela.",
-      "published_at": "2026-09-30T15:04:32Z",
-      "region": "África",
-      "theme": "Outros / Multitemático",
-      "source_name": "BBC World News",
-      "source_id": "bbc_world",
-      "is_brazilian": false,
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0c58/live/f0312b90-bcdb-11f1-bc2e-018d645d8d21.png",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Macron says UK’s return to EU would be ‘excellent news’",
-      "link": "https://www.france24.com/en/video/20260930-replay-france-s-macron-calls-for-stronger-europe-on-spain-trip",
-      "summary": "Speaking alongside Spanish Prime Minister Pedro Sanchez on Wednesday, French President Emmanuel Macron said that it would be \"a good decision\" if the UK decided to rejoin the European Union. The two leaders met at the Moncloa Palace in Madrid on the second day of Macron's two-day state visit to Spain.",
-      "published_at": "2026-09-30T15:01:32Z",
-      "region": "Europa",
-      "theme": "Política Internacional",
-      "source_name": "France 24",
-      "source_id": "france24",
-      "is_brazilian": false,
-      "image_url": "https://s.france24.com/media/display/f943f80e-bcc5-11f1-9e59-d367a0468893/w:1024/p:16x9/2026-09-30T115111Z-1926653752-RC2NTNAIQ2O3-RTRMADP-3-SPAIN-FRANCE-POLITICS.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Russia launches largest attack on Ukraine energy infrastructure since spring",
-      "link": "https://www.bbc.co.uk/news/articles/ckjw5jx2l393o?at_medium=RSS&at_campaign=rss",
-      "summary": "In total 11 regions of the country were attacked overnight, with residential buildings and railways also targeted, the Ukrainian PM says.",
-      "published_at": "2026-09-30T14:53:02Z",
-      "region": "Europa",
-      "theme": "Geopolítica e Segurança",
-      "source_name": "BBC World News",
-      "source_id": "bbc_world",
-      "is_brazilian": false,
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4cc3/live/0f9ce800-bcc0-11f1-babe-4199b0e7ccea.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Tom Cruise's 'Digger' divides critics as Zurich Film Festival stars steal the spotlight",
-      "link": "https://www.france24.com/en/tv-shows/arts24/20260930-tom-cruise-s-digger-divides-critics-as-zurich-film-festival-stars-steal-the-spotlight",
-      "summary": "This week on arts24's film show, an unrecognisable Tom Cruise takes a career gamble in \"Digger\", Alejandro González Iñárritu’s new satire, in which he plays an oil billionaire whose company initiates a world-ending ecological disaster. Critics are divided, but is an Oscar nomination possible? Also in cinemas this week, Anne Hathaway and Dakota Johnson star in the latest Colleen Hoover adaptation, \"Verity\".",
-      "published_at": "2026-09-30T14:47:46Z",
-      "region": "Europa",
-      "theme": "Cultura, Mídia e Sociedade",
-      "source_name": "France 24",
-      "source_id": "france24",
-      "is_brazilian": false,
-      "image_url": "https://s.france24.com/media/display/3770b5a6-bcdd-11f1-8053-816a8398162d/w:1024/p:16x9/DLS-AFF-DIGGER-frame-49.jpeg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1460661419201-fd4cecdf8a8b?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1508700115892-45ecd05ae2ad?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "12% dos brasileiros dizem que Lula é um clone. De onde saiu essa teoria rocambolesca que aparece até em site de culinária?",
-      "link": "https://www.bbc.com/portuguese/articles/cr86x2j642q5o?at_medium=RSS&at_campaign=rss",
-      "summary": "Narrativa surgiu após a eleição de 2022 e ganhou novas versões ao longo dos anos; hoje, vídeos que afirmam que presidente foi substituído por um sósia ou clone são compartilhados por perfis com milhões de seguidores, enquanto pesquisa aponta que 1 a cada 8 pessoas dizem acreditar na teoria.",
-      "published_at": "2026-09-30T14:43:55Z",
-      "region": "América do Sul",
-      "theme": "Política Brasileira",
-      "source_name": "BBC News Brasil",
-      "source_id": "bbc_brasil",
-      "is_brazilian": true,
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9bb2/live/30d4ce60-bca3-11f1-bd21-bdf910f2cec6.png",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Netanyahu says a pilot on a FlyDubai flight stabbed another and apparently tried to crash the plane",
-      "link": "https://www.pbs.org/newshour/world/netanyahu-says-a-pilot-on-a-flydubai-flight-stabbed-another-and-apparently-tried-to-crash-the-plane",
-      "summary": "Passengers and crew staged a dramatic intervention to subdue the attacker and the plane eventually made an emergency landing in Saudi Arabia.",
-      "published_at": "2026-09-30T14:29:09Z",
-      "region": "Oriente Médio",
-      "theme": "Outros / Multitemático",
-      "source_name": "PBS NewsHour",
-      "source_id": "pbs_newshour",
-      "is_brazilian": false,
-      "image_url": "https://d3i6fh83elv35t.cloudfront.net/static/2026/09/2026-09-30T132735Z_70516158_RC2PTNA87N1Q_RTRMADP_3_ISRAEL-GULF-FLIGHT-1024x683.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Netanyahu afirma que uno de los pilotos del vuelo de Flydubai intentó estrellar el avión",
-      "link": "https://www.europapress.es/internacional/noticia-netanyahu-afirma-pilotos-vuelo-flydubai-intento-estrellar-avion-20260930162326.html",
-      "summary": "El primer ministro israelí, Benjamin Netanyahu, ha asegurado este miércoles que uno de los pilotos del vuelo de Flydubai que tuvo que aterrizar de emergencia tras desviarse de la ruta original que cubría las ciudades de Abu Dabi y Tel Aviv apuñaló a su compañero e intentó estrellar el avión con todos a bordo.",
-      "published_at": "2026-09-30T14:23:26Z",
-      "region": "Oriente Médio",
-      "theme": "Política Internacional",
-      "source_name": "Europa Press",
-      "source_id": "europa_press",
-      "is_brazilian": false,
-      "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260930162326_120_v3.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "U.S. military says its withdrawal of troops from Iraq for Islamic State fight is complete",
-      "link": "https://www.pbs.org/newshour/world/u-s-military-says-its-withdrawal-of-troops-from-iraq-for-islamic-state-fight-is-complete",
-      "summary": "The U.S. military announced Wednesday that it completed the withdrawal of all American troops from Iraq, ending a 12-year mission to fight the Islamic State group and prompting President Donald Trump to hail the conclusion of \"a very expensive excursion into Hell.\"",
-      "published_at": "2026-09-30T14:07:39Z",
-      "region": "Oriente Médio",
-      "theme": "Geopolítica e Segurança",
-      "source_name": "PBS NewsHour",
-      "source_id": "pbs_newshour",
-      "is_brazilian": false,
-      "image_url": "https://d3i6fh83elv35t.cloudfront.net/static/2026/09/2026-09-29T075321Z_884576166_RC2SSNAKWZP8_RTRMADP_3_IRAQ-USA-COALITION-1024x683.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "What if art could help you live longer?",
-      "link": "https://www.france24.com/en/tv-shows/entre-nous/20260930-what-if-art-could-help-you-live-longer",
-      "summary": "In this episode of Entre Nous, Delano D'Souza speaks to Daisy Fancourt, professor at University College London and a leading researcher on how the arts affects our brains and bodies. In her book \"Art Cure\" she draws on scientific evidence to show how the arts can transform our health and what her research suggests we should be doing to optimise the benefits.",
-      "published_at": "2026-09-30T14:02:52Z",
-      "region": "Europa",
-      "theme": "Cultura, Mídia e Sociedade",
-      "source_name": "France 24",
-      "source_id": "france24",
-      "is_brazilian": false,
-      "image_url": "https://s.france24.com/media/display/da185838-bcd6-11f1-9460-816a8398162d/w:1024/p:16x9/capture-11997098796abd153eee9290-34120449.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1460661419201-fd4cecdf8a8b?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1508700115892-45ecd05ae2ad?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Iran's nuclear program remains shrouded in mystery as the regime debates ditching non-proliferation",
-      "link": "https://www.dw.com/en/iran-s-nuclear-program-remains-shrouded-in-mystery-as-the-regime-debates-ditching-non-proliferation/a-79488197?maca=en-rss-en-world-4025-rdf",
-      "summary": "Iran's nuclear program is entering a critical phase as Tehran debates dropping out of a nuclear non-proliferation treaty. Satellite images also show activity at known nuclear sites.",
-      "published_at": "2026-09-30T14:01:00Z",
-      "region": "Oriente Médio",
-      "theme": "Geopolítica e Segurança",
-      "source_name": "DW World News",
-      "source_id": "dw_english",
-      "is_brazilian": false,
-      "image_url": "https://static.dw.com/image/76505399_6.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Lawyer of Junaid Hafeez, a Pakistai scholar imprisoned for 13 years, is hopeful for his release",
-      "link": "https://www.dw.com/en/lawyer-of-junaid-hafeez-a-pakistai-scholar-imprisoned-for-13-years-is-hopeful-for-his-release/a-79490207?maca=en-rss-en-world-4025-rdf",
-      "summary": "A former Fullbright scholar, Junaid Hafeez was sentenced to death under Pakistan's controversial blasphemy laws. His family and lawyer told DW there is now hope a court will overturn the conviction.",
-      "published_at": "2026-09-30T13:59:00Z",
-      "region": "Ásia",
-      "theme": "Outros / Multitemático",
-      "source_name": "DW World News",
-      "source_id": "dw_english",
-      "is_brazilian": false,
-      "image_url": "https://static.dw.com/image/50724232_6.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Rusia avisa por carta a la OTAN del uso de armas nucleares ante un ataque a su territorio",
-      "link": "https://www.europapress.es/internacional/noticia-rusia-avisa-carta-otan-uso-armas-nucleares-ataque-territorio-20260930154829.html",
-      "summary": "La OTAN ha confirmado este miércoles que las autoridades de Rusia han enviado un \"documento\" en el que avisan del uso de su arsenal, incluyendo armas nucleares, ante un posible ataque aliado a su territorio, a lo que el bloque militar ha respondido asegurando su carácter defensivo y que sus maniobras no suponen un riesgo para Rusia.",
-      "published_at": "2026-09-30T13:48:29Z",
-      "region": "Europa",
-      "theme": "Geopolítica e Segurança",
-      "source_name": "Europa Press",
-      "source_id": "europa_press",
-      "is_brazilian": false,
-      "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260930154829_120.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Como nasceu e para que serve o TSE, o tribunal eleitoral presidido por Kassio Nunes Marques e agora no centro da briga entre ministros do STF",
-      "link": "https://www.bbc.com/portuguese/articles/cw33kg5m721xo?at_medium=RSS&at_campaign=rss",
-      "summary": "Criação da Justiça Eleitoral, em 1932, é vista como um marco fundamental da democracia brasileira e corrigiu vícios das eleições da República Velha.",
-      "published_at": "2026-09-30T13:38:35Z",
-      "region": "América do Sul",
-      "theme": "Política Brasileira",
-      "source_name": "BBC News Brasil",
-      "source_id": "bbc_brasil",
-      "is_brazilian": true,
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/89ca/live/3bda9740-bc21-11f1-a430-4d16ee157c41.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "On flight to Israel, pilot is stabbed, plane plunges before passengers tackle attacker",
-      "link": "https://www.npr.org/2026/09/30/nx-s1-5985806/flydubai-flight-dubai-tel-aviv-israel",
-      "summary": "As the plane went into a spin and began to plunge, passengers and crew members got into the cockpit, subdued the pilot and diverted the flight to land in Saudi Arabia, Israel's leader says.",
-      "published_at": "2026-09-30T13:35:11Z",
-      "region": "Oriente Médio",
-      "theme": "Outros / Multitemático",
-      "source_name": "NPR World News",
-      "source_id": "npr",
-      "is_brazilian": false,
-      "image_url": null,
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "A pilot stabs the other pilot and tries to crash their flight to Tel Aviv, Israel says",
-      "link": "https://www.npr.org/2026/09/30/nx-s1-5985806/flydubai-flight-dubai-tel-aviv-israel",
-      "summary": "As the plane went into a spin and began to plunge, a passenger and crew members got into the cockpit, subdued the pilot and diverted the flight to land in Saudi Arabia, Israel's leader says.",
-      "published_at": "2026-09-30T13:35:11Z",
-      "region": "Oriente Médio",
-      "theme": "Outros / Multitemático",
-      "source_name": "NPR World News",
-      "source_id": "npr",
-      "is_brazilian": false,
-      "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2736x1539+0+142/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F72%2F5f%2F7fc0b4b24c3893ab85cb97f865b0%2Fgettyimages-2297341992.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Sánchez y Macron aplauden que Reino Unido plantee volver a la UE pero avisan que no se puede elegir a la carta",
-      "link": "https://www.europapress.es/internacional/noticia-sanchez-macron-aplauden-reino-unido-plantee-volver-ue-avisan-no-puede-elegir-carta-20260930151943.html",
-      "summary": "El presidente del Gobierno de España, Pedro Sánchez, y el presidente de Francia, Emmanuel Macron, han aplaudido este miércoles que el primer ministro de Reino Unido, Andy Burnham, se plantee una nueva relación con la Unión Europea sin descartar su reingreso en el bloque, aunque han avisado de que las políticas comunitarias no se pueden elegir a la carta.",
-      "published_at": "2026-09-30T13:19:43Z",
-      "region": "Europa",
-      "theme": "Política Internacional",
-      "source_name": "Europa Press",
-      "source_id": "europa_press",
-      "is_brazilian": false,
-      "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260930151943_120.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Ex-TV anchor crowned as king in Uganda after succession fight",
-      "link": "https://www.france24.com/en/video/20260930-ex-tv-anchor-crowned-as-king-in-uganda-after-succession-fight",
-      "summary": "A former television news anchor was crowned king of Uganda's Tooro Kingdom on Tuesday, becoming the 13th monarch of the Batooro people in a ritual-laden coronation that ended a succession dispute. Edward Rukidi Kijanangoma succeeded King Oyo Nyimba Kabamba Iguru Rukidi IV, whose death ​last month from ‌cancer at age 34 triggered a feud, with his mother saying a previously undisclosed son was entitled to ⁠the throne.",
-      "published_at": "2026-09-30T13:10:52Z",
-      "region": "Europa",
-      "theme": "Outros / Multitemático",
-      "source_name": "France 24",
-      "source_id": "france24",
-      "is_brazilian": false,
-      "image_url": "https://s.france24.com/media/display/2120b0e8-bccf-11f1-a0a4-7be0f5469a6a/w:1024/p:16x9/EN-20260929-224332-224517-CS.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Lula propõe até 6 anos de prisão para quem operar bets",
-      "link": "https://www.poder360.com.br/poder-eleicoes-2026/lula-propoe-ate-6-anos-de-prisao-para-quem-operar-bets/",
-      "summary": "Projeto estabelece pena de 4 a 6 anos para quem explorar apostas; jogo do bicho é punido com até 1 ano",
-      "published_at": "2026-09-30T13:09:00Z",
-      "region": "América do Sul",
-      "theme": "Política Brasileira",
-      "source_name": "Poder360",
-      "source_id": "poder360",
-      "is_brazilian": true,
-      "image_url": "https://static.poder360.com.br/uploads/2026/09/arte-para-post-sobre-bets-1200x675.png",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Flamengo se junta a bets em ação no STF contra a proibição",
-      "link": "https://www.poder360.com.br/poder-sportsmkt/flamengo-se-junta-a-bets-no-stf-em-acao-contra-a-proibicao/",
-      "summary": "Clube estima perda de até R$ 430 milhões em 2027 e pede suspensão da medida até análise do Congresso",
-      "published_at": "2026-09-30T13:08:47Z",
-      "region": "América do Sul",
-      "theme": "Política Brasileira",
-      "source_name": "Poder360",
-      "source_id": "poder360",
-      "is_brazilian": true,
-      "image_url": "https://static.poder360.com.br/uploads/2026/09/2-clube-de-regatas-do-flamengo-1200x675.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Governo fará 3 leilões incluindo baterias de 2027 a 2029",
-      "link": "https://www.poder360.com.br/poder-governo/governo-fara-3-leiloes-incluindo-baterias-de-2027-a-2029/",
-      "summary": "Ministério de Minas e Energia projeta 11 certames para o setor elétrico nos próximos 3 anos",
-      "published_at": "2026-09-30T13:04:37Z",
-      "region": "América do Sul",
-      "theme": "Outros / Multitemático",
-      "source_name": "Poder360",
-      "source_id": "poder360",
-      "is_brazilian": true,
-      "image_url": "https://static.poder360.com.br/uploads/2026/09/leiloes-mme-1-1200x675.jpeg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Mendonça vota para apagar posts de Nossa Senhora e nega que há censura",
-      "link": "https://www.poder360.com.br/poder-eleicoes-2026/mendonca-vota-para-apagar-posts-de-nossa-senhora-e-nega-que-ha-censura/",
-      "summary": "Ministro do TSE afirmou ser uma irresponsabilidade alegar restrição à liberdade religiosa e que a remoção recai apenas sobre publicações que atribuem o caso da padroeira aos Bolsonaros",
-      "published_at": "2026-09-30T12:57:47Z",
-      "region": "América do Sul",
-      "theme": "Política Brasileira",
-      "source_name": "Poder360",
-      "source_id": "poder360",
-      "is_brazilian": true,
-      "image_url": "https://static.poder360.com.br/uploads/2026/09/STF-julga-no-plenario-se-Alexandre-de-Moraes-e-investigado-no-caso-Banco-Master-15set2026-mendonca-2-1200x675.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Paes venceria Ruas ou Garotinho no 2º turno no RJ, diz pesquisa",
-      "link": "https://www.poder360.com.br/poder-eleicoes-2026/paes-venceria-ruas-ou-garotinho-no-2o-turno-no-rj-diz-pesquisa/",
-      "summary": "Levantamento Real Time Big Data mostra que candidato do PSD lidera também no 1º turno para o governo do Rio de Janeiro",
-      "published_at": "2026-09-30T12:55:41Z",
-      "region": "América do Sul",
-      "theme": "Ciência, Tecnologia e Inovação",
-      "source_name": "Poder360",
-      "source_id": "poder360",
-      "is_brazilian": true,
-      "image_url": "https://static.poder360.com.br/uploads/2026/08/eduardo-paes-ato-lula-22-ago-2026-1200x675.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1518770660439-4636190af475?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1507668077129-56e32842fceb?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Voo para Israel é desviado após um piloto esfaquear o outro no ar; o que se sabe",
-      "link": "https://www.bbc.com/portuguese/articles/ck1e5w1503jjo?at_medium=RSS&at_campaign=rss",
-      "summary": "Passageiros relataram que um dos pilotos foi esfaqueado pelo outro; outros dois pilotos que estavam à borda assumiram comando após a confusão.",
-      "published_at": "2026-09-30T12:53:52Z",
-      "region": "Oriente Médio",
-      "theme": "Outros / Multitemático",
-      "source_name": "BBC News Brasil",
-      "source_id": "bbc_brasil",
-      "is_brazilian": true,
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/81d1/live/a35d1a10-bcbb-11f1-bc2e-018d645d8d21.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
       ]
     }
   ]
