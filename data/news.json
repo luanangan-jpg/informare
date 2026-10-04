@@ -1,21 +1,1041 @@
 {
-  "updated_at": "2026-10-04T09:00:06.566940Z",
+  "updated_at": "2026-10-04T14:42:24.332583Z",
   "news": [
     {
-      "title": "Kyiv bridge hit in further drone attack as German chancellor makes surprise visit",
+      "title": "Eleições 2026 AO VIVO: Acompanhe a votação para Presidente no 1º turno",
+      "link": "https://www.bbc.co.uk/portuguese/live/c94g1vj6j2z8t?at_medium=RSS&at_campaign=rss",
+      "summary": "Acompanhe a jornada eleitoral que definirá o próximo presidente do Brasil, governadores, senadores e deputados federais. Lula e Flávio Bolsonaro aparecem à frente nas pesquisas para a Presidência, seguidos por Augusto Cury, Renan Santos e Caiado.",
+      "published_at": "2026-10-04T14:42:15.401865Z",
+      "region": "América do Sul",
+      "theme": "Política Brasileira",
+      "source_name": "BBC News Brasil",
+      "source_id": "bbc_brasil",
+      "is_brazilian": true,
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/db02/live/3ee4d870-bfef-11f1-babe-4199b0e7ccea.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Elmano de Freitas vota em Caucaia (CE)",
+      "link": "https://www.poder360.com.br/poder-eleicoes-2026/elmano-de-freitas-vota-em-caucaia-ce/",
+      "summary": "Candidato à reeleição no Ceará votou nesta manhã na Região Metropolitana de Fortaleza",
+      "published_at": "2026-10-04T14:34:49Z",
+      "region": "América do Sul",
+      "theme": "Outros / Multitemático",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2026/10/elmano-de-freitas-vota-no-ceara-4.out_.2026-1200x675.png",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Brasileiro tem o direito de sonhar, diz Cury ao votar",
+      "link": "https://www.poder360.com.br/poder-eleicoes-2026/brasileiro-tem-o-direito-de-sonhar-diz-cury-ao-votar/",
+      "summary": "Candidato do Avante à Presidência votou em Colina, no interior de São Paulo, a cerca de 400 km da capital paulista",
+      "published_at": "2026-10-04T14:34:29Z",
+      "region": "América do Sul",
+      "theme": "Outros / Multitemático",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2026/10/cury-vota-colina-1200x675.png",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Haddad diz que fez “grande campanha” e sai “com espírito leve”",
+      "link": "https://www.poder360.com.br/poder-eleicoes-2026/haddad-diz-que-fez-grande-campanha-e-sai-com-espirito-leve/",
+      "summary": "Petista falou a jornalistas depois de votar na zona sul de São Paulo e afirmou ter cumprido seu papel na disputa pelo governo",
+      "published_at": "2026-10-04T14:30:51Z",
+      "region": "América do Sul",
+      "theme": "Economia Brasileira",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2026/10/haddad-entrevista-alckmin-1200x675.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1506744038136-46273834b3fb?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Why I quit the movement shaping AI",
+      "link": "https://www.france24.com/en/tv-shows/tech-24/20261004-why-i-quit-the-movement-shaping-ai",
+      "summary": "Artificial intelligence insiders are quitting their jobs, saying the technology could mean the end of humanity. Pope Leo in France warned of a “paradise of machines”. And the New York Times reported this week that one of AI firm Anthropic’s co-founders spent months lobbying religious thinkers on the possibility that AI could be conscious.",
+      "published_at": "2026-10-04T14:30:32Z",
+      "region": "América do Norte",
+      "theme": "Ciência, Tecnologia e Inovação",
+      "source_name": "France 24",
+      "source_id": "france24",
+      "is_brazilian": false,
+      "image_url": "https://s.france24.com/media/display/c3f74796-bffe-11f1-9791-578a4b968fd6/w:1024/p:16x9/EN-WB-TECH24-effective-altruism-confessional-1.png",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1518770660439-4636190af475?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1507668077129-56e32842fceb?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Corpo de Márcio Chaer é velado em São Paulo",
+      "link": "https://www.poder360.com.br/poder-midia/corpo-de-marcio-chaer-e-velado-em-sao-paulo/",
+      "summary": "Jornalista e fundador da \"ConJur\" morreu no sábado (3.out.2026), aos 71 anos",
+      "published_at": "2026-10-04T14:26:56Z",
+      "region": "América do Sul",
+      "theme": "Outros / Multitemático",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2026/10/marcio-chaer-velorio-1200x675.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Tarcísio de Freitas vota e prega humildade na espera pelo resultado",
+      "link": "https://www.poder360.com.br/poder-eleicoes-2026/tarcisio-de-freitas-vota-e-prega-humildade-na-espera-pelo-resultado/",
+      "summary": "Governador chegou ao local acompanhado da mulher, prefeito de São Paulo e candidatos ao Senado; pesquisas indicam vitória",
+      "published_at": "2026-10-04T14:26:14Z",
+      "region": "América do Sul",
+      "theme": "Política Brasileira",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2026/10/tarcisio-de-freitas-sao-paulo-04-out-2026-1200x675.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Dodik declared Bosnia ‘dead’. Irrelevant rhetoric or serious threat?",
+      "link": "https://www.aljazeera.com/news/2026/10/4/dodik-declared-bosnia-dead-irrelevant-rhetoric-or-serious-threat?traffic_source=rss",
+      "summary": "Bosnian Serb leader's controversial comments ahead of Bosnia and Herzegovina's high-stakes elections.",
+      "published_at": "2026-10-04T14:21:20Z",
+      "region": "Oriente Médio",
+      "theme": "Política Internacional",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": null,
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Raquel Lyra vota em Caruaru (PE)",
+      "link": "https://www.poder360.com.br/poder-eleicoes-2026/raquel-lyra-vota-em-caruaru-pe/",
+      "summary": "Candidata do PSD à reeleição ao governo de Pernambuco votou no Colégio Diocesano de Caruaru nesta manhã",
+      "published_at": "2026-10-04T14:10:33Z",
+      "region": "América do Sul",
+      "theme": "Política Brasileira",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2026/10/raquel-lyra-vota-em-caruaru-4.out_.2026-1200x675.png",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Haddad vota acompanhado de Alckmin, Tebet e Marina Silva",
+      "link": "https://www.poder360.com.br/poder-eleicoes-2026/haddad-vota-acompanhado-de-alckmin-tebet-e-marina-silva/",
+      "summary": "Candidato do PT ao governo de SP foi à urna na zona sul da capital às 10h20, acompanhado de aliados e mulher",
+      "published_at": "2026-10-04T13:57:28Z",
+      "region": "América do Sul",
+      "theme": "Economia Brasileira",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2026/10/votacao-haddad-4out2026-1200x675.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1506744038136-46273834b3fb?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Renan Santos vota na Zona Sul de São Paulo",
+      "link": "https://www.poder360.com.br/poder-eleicoes-2026/renan-santos-vota-na-zona-sul-de-sao-paulo-sp/",
+      "summary": "Candidato à Presidência soma 3% das das intenções de votos válidos no 1º turno, segundo pesquisa PoderData",
+      "published_at": "2026-10-04T13:49:21Z",
+      "region": "América do Sul",
+      "theme": "Ciência, Tecnologia e Inovação",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2026/10/renan-santos-vota-1200x675.png",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1518770660439-4636190af475?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1507668077129-56e32842fceb?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Rayssa Furlan tem 25,3% e Randolfe, 19,9%, na disputa pelo Senado no AP",
+      "link": "https://www.poder360.com.br/poder-eleicoes-2026/rayssa-furlan-tem-253-e-randolfe-199-na-disputa-pelo-senado-no-ap/",
+      "summary": "Pesquisa AtlasIntel ouviu 800 eleitores no Estado; margem de erro é de 3 pontos percentuais",
+      "published_at": "2026-10-04T13:47:03Z",
+      "region": "América do Sul",
+      "theme": "Política Brasileira",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2026/09/Rayssa-Randolfe-1080-1-1200x675.png",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Eleições 2026: 99,93% das urnas operam sem falhas até as 10h",
+      "link": "https://www.poder360.com.br/poder-eleicoes-2026/eleicoes-2026-9993-das-urnas-operam-sem-falhas-ate-as-10h/",
+      "summary": "TSE registra troca de 421 urnas (0,07%) no 1º turno das eleições; nenhuma seção usou votação manual no país",
+      "published_at": "2026-10-04T13:46:24Z",
+      "region": "América do Sul",
+      "theme": "Política Brasileira",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2026/10/urna-eletronica-guia-de-como-votar-18set2026-1200x675.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "How was Flydubai co-pilot cleared despite being deemed a security risk?",
+      "link": "https://www.aljazeera.com/news/2026/10/4/how-was-flydubai-co-pilot-cleared-despite-being-deemed-a-security-risk?traffic_source=rss",
+      "summary": "Aviation security protocols under scrutiny after co-pilot accused of attempted axe attack aboard Flydubai flight.",
+      "published_at": "2026-10-04T13:42:16Z",
+      "region": "Oriente Médio",
+      "theme": "Geopolítica e Segurança",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": null,
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "The week in pictures: Disaster averted on Flydubai flight, French school protests and Bangkok floods",
+      "link": "https://www.france24.com/en/middle-east/20261004-the-week-in-pictures-disaster-averted-flydubai-flight-french-school-protests-and-bangkok-floods",
+      "summary": "From French highschoolers protesting to demand better learning conditions to a Flydubai flight diverted to Saudi Arabia after a flightcrew member's onboard attack and flooded streets in Bangkok, FRANCE 24 looks back at the week's most striking pictures.",
+      "published_at": "2026-10-04T13:35:11Z",
+      "region": "Europa",
+      "theme": "Geopolítica e Segurança",
+      "source_name": "France 24",
+      "source_id": "france24",
+      "is_brazilian": false,
+      "image_url": "https://s.france24.com/media/display/29936e26-bf10-11f1-9557-dd51fcab6130/w:1024/p:16x9/AP26273599274856-1-1.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Ethiopian rebel forces withdraw from Tigray regional capital",
+      "link": "https://www.bbc.co.uk/news/articles/cqm249v07j4xo?at_medium=RSS&at_campaign=rss",
+      "summary": "Two residents in Mekelle tell the BBC pro-government forces have taken control of the city.",
+      "published_at": "2026-10-04T13:33:05Z",
+      "region": "África",
+      "theme": "Geopolítica e Segurança",
+      "source_name": "BBC World News",
+      "source_id": "bbc_world",
+      "is_brazilian": false,
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/965b/live/ca8ca230-bfeb-11f1-8c3e-3b2eab095459.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Why is fighting intensifying in Yemen’s Taiz governorate?",
+      "link": "https://www.aljazeera.com/news/2026/10/4/why-is-fighting-intensifying-in-yemens-taiz-governorate?traffic_source=rss",
+      "summary": "Fighting escalates in Taiz governorate as Yemen's government and Houthis battle for control of key strategic locations.",
+      "published_at": "2026-10-04T13:31:15Z",
+      "region": "Oriente Médio",
+      "theme": "Política Internacional",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": null,
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Somali president: Ethiopia can access our port, but must negotiate",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/4/somali-president-ethiopia-can-access-our-port-but-must-negotiate?traffic_source=rss",
+      "summary": "Somali President Hassan Sheikh Mohamud says Addis Ababa has yet to come to Mogadishu to negotiate access to sea ports.",
+      "published_at": "2026-10-04T13:22:22Z",
+      "region": "África",
+      "theme": "Política Internacional",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": null,
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Brazil: Lula and Bolsonaro tied in polls",
+      "link": "https://www.france24.com/en/brazil-lula-and-bolsonaro-tied-in-polls",
+      "summary": "Brazilians began casting their votes on Sunday in a closely watch presidential election pitting incumbent President Luiz Inacio Lula da Silva against right-wing Senator Flavio Bolsonaro, son of former president Jair Bolsonaro. Mara Nogueira, Senior Lecturer in Urban Geography at Birbeck, University of London, says the tight race reflects the consolidation of two political camps, with many Brazilians voting not out of support for a candidate, but to keep the other out of power. She points to the cost of living, religion and social media echo chambers as key factors shaping the vote, alongside a major banking scandal that has so far had limited impact on Flavio Bolsonaro’s campaign.",
+      "published_at": "2026-10-04T13:19:54Z",
+      "region": "América do Sul",
+      "theme": "Política Internacional",
+      "source_name": "France 24",
+      "source_id": "france24",
+      "is_brazilian": false,
+      "image_url": "https://s.france24.com/media/display/148e8480-bff5-11f1-baa5-13e372f41e70/w:1024/p:16x9/EN-20261004-140634-141113-CS.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Lula de Silva: 80-year-old incumbent Brazilian president seeks 4th term",
+      "link": "https://www.france24.com/en/lula-de-silva-80-year-old-incumbent-brazilian-president-seeks-4th-term",
+      "summary": "Brazilians began casting their votes on Sunday in a closely watch presidential election pitting incumbent President Luiz Inacio Lula da Silva against right-wing Senator Flavio Bolsonaro, son of former president Jair Bolsonaro. Nearly 160 million voters will also pick lawmakers, senators and governors in an election that will determine whether Latin America's biggest nation follows a regional swing to the right championed by US President Donald Trump. France 24 correspondent Jan Onoszko tells us the latest from Rio de Janeiro.",
+      "published_at": "2026-10-04T13:17:55Z",
+      "region": "América do Sul",
+      "theme": "Política Internacional",
+      "source_name": "France 24",
+      "source_id": "france24",
+      "is_brazilian": false,
+      "image_url": "https://s.france24.com/media/display/7a972198-bff4-11f1-ad27-1ff0321dbbd3/w:1024/p:16x9/EN-20261004-140151-140634-CS.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "What are the five questions being asked regarding the Flydubai attack?",
+      "link": "https://www.aljazeera.com/news/2026/10/4/what-are-the-five-questions-being-asked-regarding-the-flydubai-attack?traffic_source=rss",
+      "summary": "As investigations are conducted, official versions of the incident have come under scrutiny.",
+      "published_at": "2026-10-04T13:11:27Z",
+      "region": "Oriente Médio",
+      "theme": "Geopolítica e Segurança",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": null,
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Os grandes doadores que apostam nos dois lados da eleição",
+      "link": "https://www.bbc.com/portuguese/articles/cm62449jp7j4o?at_medium=RSS&at_campaign=rss",
+      "summary": "De Ciro e Elmano no Ceará a Lula e Flávio Bolsonaro na Presidência, financiadores bilionários distribuem dinheiro entre adversários.",
+      "published_at": "2026-10-04T13:07:41Z",
+      "region": "América do Sul",
+      "theme": "Política Brasileira",
+      "source_name": "BBC News Brasil",
+      "source_id": "bbc_brasil",
+      "is_brazilian": true,
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9d95/live/7f443d20-bff4-11f1-a64c-550be9e3c66b.png",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Did the fall of al-Andalus reshape Europe forever?",
+      "link": "https://www.aljazeera.com/video/deja-vu-2/2026/10/4/did-the-fall-of-al-andalus-reshape-europe-forever?traffic_source=rss",
+      "summary": "Deja Vu traces Europe’s Muslim history from Al-Andalus to today. Why are Muslims still treated as outsiders?",
+      "published_at": "2026-10-04T13:01:54Z",
+      "region": "Europa",
+      "theme": "Outros / Multitemático",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": null,
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Yemen's leader announces counter-offensive as Houthis cut off supply route to besieged city",
+      "link": "https://www.france24.com/en/middle-east/20261004-yemen-leader-announces-counter-offensive-as-houthis-cut-off-supply-route-besieged-city-taiz",
+      "summary": "The ​leader of ​Yemen's Saudi-backed government announced the beginning of a ​major ‌military ⁠operation against the Iran-backed Houthis ‌on Sunday aimed at ⁠recapturing territory under their control. The announcement came as Houthi forces cut off a vital supply route to the besieged government-held city of Taiz, according to several security sources.",
+      "published_at": "2026-10-04T12:59:17Z",
+      "region": "Oriente Médio",
+      "theme": "Geopolítica e Segurança",
+      "source_name": "France 24",
+      "source_id": "france24",
+      "is_brazilian": false,
+      "image_url": "https://s.france24.com/media/display/d00fb47e-bfee-11f1-9c60-1ff0321dbbd3/w:1024/p:16x9/000-C9E87YK.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Amid teen triumph and organisational chaos, Asian Games close in Japan",
+      "link": "https://www.aljazeera.com/sports/2026/10/4/amid-teen-triumph-and-organisational-chaos-asian-games-close-in-japan?traffic_source=rss",
+      "summary": "The continental competition hosted 17,000 athletes over two weeks in Aichi-Nagoya.",
+      "published_at": "2026-10-04T12:53:33Z",
+      "region": "Ásia",
+      "theme": "Outros / Multitemático",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": null,
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Clique aqui",
+      "link": "https://www.bbc.com/portuguese/articles/cwly7mke0mpdo?at_medium=RSS&at_campaign=rss",
+      "summary": "Acompanhe a apuração para presidente e governador em seu Estado e município com o mapa interativo da BBC News Brasil",
+      "published_at": "2026-10-04T12:51:38Z",
+      "region": "América do Sul",
+      "theme": "Política Brasileira",
+      "source_name": "BBC News Brasil",
+      "source_id": "bbc_brasil",
+      "is_brazilian": true,
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/879c/live/a5b5aaf0-be7a-11f1-bc2e-018d645d8d21.png",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Mapa das Eleições 2026: veja ao vivo o resultado para presidente e governador por Estado e cidade",
+      "link": "https://www.bbc.com/portuguese/articles/cwly7mke0mpdo?at_medium=RSS&at_campaign=rss",
+      "summary": "Neste interativo, você poderá acompanhar a apuração dos resultados em tempo real na eleição para presidente e governador em seu Estado e município.",
+      "published_at": "2026-10-04T12:51:38Z",
+      "region": "América do Sul",
+      "theme": "Política Brasileira",
+      "source_name": "BBC News Brasil",
+      "source_id": "bbc_brasil",
+      "is_brazilian": true,
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9533/live/7b3289f0-bc19-11f1-bd21-bdf910f2cec6.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Up to 500 French schools to be totally or partly closed Monday amid student protests",
+      "link": "https://www.france24.com/en/france/20261004-up-to-500-french-schools-to-be-totally-or-partly-closed-monday-due-to-protests",
+      "summary": "Lessons will be \"totally or partly suspended\" at up to 500 high schools across France on Monday, the country's education minister has said, after days of sometimes violent protests against teacher shortages, dilapidated school buildings and overcrowding in classrooms. The minister said 24 schools had been \"burned or ransacked\" since the start of protests.",
+      "published_at": "2026-10-04T12:50:45Z",
+      "region": "Europa",
+      "theme": "Outros / Multitemático",
+      "source_name": "France 24",
+      "source_id": "france24",
+      "is_brazilian": false,
+      "image_url": "https://s.france24.com/media/display/61d80878-be43-11f1-b4ef-69fad0a7cb9f/w:1024/p:16x9/022ba4e8b312d3db20028d7ab7851a66d3b76f5e.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Yemen’s leader announces military operation to retake Houthi-held territory",
+      "link": "https://www.aljazeera.com/news/2026/10/4/yemens-leader-announces-military-operation-to-retake-houthi-held-territory?traffic_source=rss",
+      "summary": "Rashad al-Alimi says the campaign aims to restore state authority throughout Yemen.",
+      "published_at": "2026-10-04T12:48:50Z",
+      "region": "Oriente Médio",
+      "theme": "Geopolítica e Segurança",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": null,
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "El presidente de Yemen anuncia el comienzo de una contraofensiva para retomar el país de manos de los hutíes",
+      "link": "https://www.europapress.es/internacional/noticia-presidente-yemen-anuncia-comienzo-gran-contraofensiva-retomar-pais-entero-manos-huties-20261004144845.html",
+      "summary": "El presidente de Yemen, Rashad al Alimi, ha anunciado este domingo el comienzo de una gran contraofensiva con el objetivo final de expulsar a los insurgentes hutíes de la capital, Saná, después de más de una década bajo su control, y de derrotar al movimiento Ansarolá, respaldado por Irán, en todo el país.",
+      "published_at": "2026-10-04T12:48:45Z",
+      "region": "Oriente Médio",
+      "theme": "Política Internacional",
+      "source_name": "Europa Press",
+      "source_id": "europa_press",
+      "is_brazilian": false,
+      "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20261004144845_120.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "La UE responde a Rusia que se queda en Kiev ante los avisos de Moscú para que sus diplomáticos evacuen la capital",
+      "link": "https://www.europapress.es/internacional/noticia-ue-responde-rusia-queda-kiev-avisos-moscu-diplomaticos-evacuen-capital-20261004143848.html",
+      "summary": "La embajadora de la Unión Europea en Ucrania, Katarina Mathernova, ha asegurado este domingo que su misión diplomática continuará en la capital de Ucrania, Kiev, a pesar de la nueva advertencia enviada en la víspera por Rusia para que todos los diplomáticos extranjeros abandonen la ciudad como medida de precaución ante sus bombardeos.",
+      "published_at": "2026-10-04T12:38:48Z",
+      "region": "Europa",
+      "theme": "Outros / Multitemático",
+      "source_name": "Europa Press",
+      "source_id": "europa_press",
+      "is_brazilian": false,
+      "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20261004143848_120.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Rwandan genocide suspect 'hunter' Dafroza Gauthier dies at 72",
+      "link": "https://www.france24.com/en/africa/20261004-rwandan-genocide-hunter-dafroza-gauthier-dies-at-72",
+      "summary": "For nearly 30 years, Dafroza Gauthier, along with her husband Alain, tracked down Rwandan refugees in France suspected of having participated in the Tutsi genocide. She died in Reims on Saturday after dedicating her life to bringing to justice those allegedly responsible for the 1994 massacre of more than 800,000 people.",
+      "published_at": "2026-10-04T12:12:24Z",
+      "region": "Europa",
+      "theme": "Direitos Humanos, Sociedade e Migrações",
+      "source_name": "France 24",
+      "source_id": "france24",
+      "is_brazilian": false,
+      "image_url": "https://s.france24.com/media/display/59ce40b6-bfd8-11f1-82be-1ff0321dbbd3/w:1024/p:16x9/AP23327396671319.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1542810634-71277d95dcbb?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1489533119213-66a5cd877091?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1531206715517-5c0ba140e2b8?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Kyiv bridge hit in further Russian drone attack as German chancellor makes surprise visit",
       "link": "https://www.bbc.co.uk/news/articles/ckreyjzzzywqo?at_medium=RSS&at_campaign=rss",
-      "summary": "Unverified video shows a drone hitting the Northern Bridge as vehicles move across it.",
-      "published_at": "2026-10-04T08:48:38Z",
+      "summary": "Footage shows a drone hitting the Pivnichyi (Northern) Bridge as vehicles move across it, creating a large fireball.",
+      "published_at": "2026-10-04T12:09:04Z",
       "region": "Europa",
       "theme": "Geopolítica e Segurança",
       "source_name": "BBC World News",
       "source_id": "bbc_world",
       "is_brazilian": false,
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a6ad/live/d9e664d0-bfca-11f1-a000-7b944ef8fdad.jpg",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6c25/live/34af1c20-bff5-11f1-bc2e-018d645d8d21.png",
       "fallback_images": [
         "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "West Bank: Palestinians ‘harassed’ by settlers’ increasing use of drones",
+      "link": "https://www.france24.com/en/middle-east/20261004-occupied-west-bank-palestinians-harassed-settlers-drones",
+      "summary": "Palestinians and activists report an increased use of drones in the occupied West Bank, particularly by the army and settlers, to whom the government supplies the drones directly. The drones are used to intimidate, monitor, demolish and make daily life unbearable.",
+      "published_at": "2026-10-04T12:01:27Z",
+      "region": "Europa",
+      "theme": "Geopolítica e Segurança",
+      "source_name": "France 24",
+      "source_id": "france24",
+      "is_brazilian": false,
+      "image_url": "https://s.france24.com/media/display/9ad046c8-bd7a-11f1-b57d-d367a0468893/w:1024/p:16x9/Cover-Pic-Drones.png",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Lula e Flávio Bolsonaro chegam ao 1º turno com 2 pontos de distância no Agregador de Pesquisas da BBC News Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/czd2prld130o?at_medium=RSS&at_campaign=rss",
+      "summary": "Acompanhe as últimas estimativas de intenção de voto para Lula x Flávio na eleição presidencial de 2026 reunidas no agregador de pesquisas eleitorais da BBC News Brasil.",
+      "published_at": "2026-10-04T12:01:19Z",
+      "region": "América do Sul",
+      "theme": "Política Brasileira",
+      "source_name": "BBC News Brasil",
+      "source_id": "bbc_brasil",
+      "is_brazilian": true,
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e0a2/live/a88fb7c0-c000-11f1-babe-4199b0e7ccea.png",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Abren los colegios para las elecciones en Brasil, primer asalto de la gran pugna entre Lula y Bolsonaro",
+      "link": "https://www.europapress.es/internacional/noticia-abren-colegios-elecciones-brasil-primer-asalto-gran-pugna-lula-bolsonaro-20261004135859.html",
+      "summary": "La última encuesta, publicada este sábado, concede al presidente una ligera ventaja de cara a una crucial segunda ronda el 25 de octubre",
+      "published_at": "2026-10-04T11:58:59Z",
+      "region": "América do Sul",
+      "theme": "Política Internacional",
+      "source_name": "Europa Press",
+      "source_id": "europa_press",
+      "is_brazilian": false,
+      "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20261004135859_120.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Russia hits Kyiv bridge as Germany’s Merz visits Ukraine’s capital",
+      "link": "https://www.aljazeera.com/news/2026/10/4/russian-strike-hits-kyiv-bridge-as-german-chancellor-visits-ukraine?traffic_source=rss",
+      "summary": "German chancellor visits Kyiv amid air raid sirens, pledging strong support as Russian strikes disrupt the capital.",
+      "published_at": "2026-10-04T11:58:14Z",
+      "region": "Europa",
+      "theme": "Política Internacional",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": null,
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Lula and Bolsonaro face off in Brazil presidential race",
+      "link": "https://www.france24.com/en/lula-and-bolsonaro-face-off-in-brazil-presidential-race",
+      "summary": "Twelve candidates are on the ballot, but the presidential race is centred on two rivals: President Luiz Inacio Lula da Silva and Flavio Bolsonaro. Lula is seeking a fourth and final term, warning that Brazil’s sovereignty is at stake amid pressure from Donald Trump. Bolsonaro, meanwhile, has highlighted his ties to the White House, saying Brazil needs better deals with the US, including over its rare mineral resources. Nick Rushworth has more on the controversial senator. Dr Andrea Aruska de Souza Santos, Director of King's College Brazil Institute in London, shares further insights.",
+      "published_at": "2026-10-04T11:56:08Z",
+      "region": "América do Sul",
+      "theme": "Política Internacional",
+      "source_name": "France 24",
+      "source_id": "france24",
+      "is_brazilian": false,
+      "image_url": "https://s.france24.com/media/display/4af16eb0-bfe7-11f1-a8ca-dd51fcab6130/w:1024/p:16x9/EN-20261004-130852-131819-CS.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Irã diz que Ormuz não será reaberto até que condições sejam atendidas",
+      "link": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-10/ira-diz-que-ormuz-nao-sera-reaberto-ate-que-condicoes-sejam-atendidas",
+      "summary": "O Estreito de Ormuz não será reaberto até que sejam cumpridas as sete condições iranianas estabelecidas em um acordo provisório firmado em junho com os Estados Unidos (EUA), informou a mídia estatal, citando declarações do presidente do Parlamento iraniano, Mohammad Baqer Qalibaf, neste domingo (4). O Irã apresentou uma proposta durante a Assembleia Geral da ONU, segundo a qual a via navegável do Estreito de Ormuz poderia ser reaberta e a passagem marítima normal restabelecida em até sete dias caso as condições fossem cumpridas. Os EUA responderam a essa proposta, na semana passada, por meio de intermediários do Catar. Notícias relacionadas: Preço do petróleo sobe, após Trump rejeitar proposta de paz do Irã. Gasolina chega a preços recordes nos Estados Unidos. Passagens de navios de carga pelo Estreito de Ormuz caem para 1 dígito. “A posição da República Islâmica do Irã é totalmente clara e firme, e o Estreito de Ormuz não será reaberto até que nossas sete condições, baseadas no Memorando de Entendimento de Islamabad, sejam cumpridas”, disse Qalibaf, principal negociador do Irã, segundo a reportagem. Ele afirmou que Washington “precisa compreender que o período de prolongamento do processo (diplomático) e de imposição de exigências unilaterais chegou ao fim”. Um porta-voz do Ministério das Relações Exteriores afirmou hoje que Teerã havia esclarecido suas posições gerais, por meio de mediadores, em resposta aos EUA, mas que ainda havia pontos adicionais a serem comunicados a Washington. “As propostas dos norte-americanos estão mais ou menos alinhadas com suas posições anteriores, especificamente sobre a questão nuclear. Dissemos a eles que nosso foco nesta fase é a questão do Estreito de Ormuz e que o retorno à segurança nessa via navegável exige medidas claras por parte dos EUA”, declarou o porta-voz Esmaeil Baghaei. Ele também negou que Teerã tivesse oferecido à agência nuclear da ONU inspeções em suas instalações nucleares em troca do alívio das sanções dos EUA, afirmando que o Irã não havia iniciado negociações nucleares com Washington . O documento que está circulando delineia um período de sete dias para a construção de confiança, com o objetivo de levar as duas partes de volta a uma versão aprimorada do memorando de entendimento acordado em junho, incluindo medidas concretas sobre o programa nuclear do Irã, disse na semana passada uma autoridade a par das negociações. A divergência gira em torno da sequência das medidas, e não dos componentes do plano, acrescentou a autoridade. O Catar vem transmitindo mensagens entre Washington e Teerã, em um esforço para pôr fim ao conflito e reabrir o Estreito de Ormuz, por onde passava um quinto do petróleo e do gás natural liquefeito do mundo antes da guerra que começou no final de fevereiro com ataques dos EUA e de Israel ao Irã. * É proibida a reprodução deste conteúdo.",
+      "published_at": "2026-10-04T11:54:00Z",
+      "region": "Oriente Médio",
+      "theme": "Geopolítica e Segurança",
+      "source_name": "Agência Brasil",
+      "source_id": "agencia_brasil",
+      "is_brazilian": true,
+      "image_url": null,
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Ônibus e metrô de graça no dia da eleição: o que diz a regra e o que mais você precisa saber para votar",
+      "link": "https://www.bbc.com/portuguese/articles/c75gxk1vlnqo?at_medium=RSS&at_campaign=rss",
+      "summary": "Nos dias de votação, o poder público é obrigado a oferecer transporte coletivo gratuito nas zonas urbanas. O serviço deve circular com a mesma frequência de um dia útil.",
+      "published_at": "2026-10-04T11:53:50Z",
+      "region": "América do Sul",
+      "theme": "Política Brasileira",
+      "source_name": "BBC News Brasil",
+      "source_id": "bbc_brasil",
+      "is_brazilian": true,
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f3da/live/ff6c1320-bffd-11f1-a64c-550be9e3c66b.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Cornell president breaks silence over alleged campus rape",
+      "link": "https://www.france24.com/en/cornell-president-breaks-silence-over-alleged-campus-rape",
+      "summary": "Cornell University remains at the centre of controversy over an alleged gang rape at a fraternity on campus, with the university president now breaking his silence. In an eight-minute video statement released Saturday night, Michael Kotlikoff called the allegations, made by a woman known as Jane Doe, deeply disturbing and said the university must do better. Shirli Sitbon has this report.",
+      "published_at": "2026-10-04T11:53:09Z",
+      "region": "Europa",
+      "theme": "Política Internacional",
+      "source_name": "France 24",
+      "source_id": "france24",
+      "is_brazilian": false,
+      "image_url": "https://s.france24.com/media/display/22935d1c-bfe6-11f1-95ff-13420ab900a2/w:1024/p:16x9/EN-20261004-130412-130611-CS.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Quando o resultado da eleição será divulgado e onde acompanhar a apuração do TSE em tempo real",
+      "link": "https://www.bbc.com/portuguese/articles/cme3reppxv7zo?at_medium=RSS&at_campaign=rss",
+      "summary": "A BBC News Brasil vai acompanhar a apuração do primeiro turno das Eleições 2026, em 4 de outubro, com um programa ao vivo trazendo os resultados e análise em tempo real conforme os votos forem contados",
+      "published_at": "2026-10-04T11:52:30Z",
+      "region": "América do Sul",
+      "theme": "Política Brasileira",
+      "source_name": "BBC News Brasil",
+      "source_id": "bbc_brasil",
+      "is_brazilian": true,
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c72f/live/e5409bc0-bff7-11f1-a64c-550be9e3c66b.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Irak investiga un acto de ultraje a la bandera de EEUU durante un desfile de milicias proiraníes",
+      "link": "https://www.europapress.es/internacional/noticia-irak-investiga-acto-ultraje-bandera-eeuu-desfile-milicias-proiranies-20261004134415.html",
+      "summary": "El jefe del Ejército de Irak, Alí Falé al Zaidi, ha ordenado la apertura de una investigación inmediata sobre un acto de ultraje contra la bandera estadounidense cometida por las milicias proiraníes de las Fuerzas de Movilización Popular esta semana durante un desfile en las calles de la capital, Bagdad, durante las conmemoraciones del Día de la Independencia.",
+      "published_at": "2026-10-04T11:44:15Z",
+      "region": "Europa",
+      "theme": "Direito Internacional e Instituições",
+      "source_name": "Europa Press",
+      "source_id": "europa_press",
+      "is_brazilian": false,
+      "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20261004134415_120.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1505664194779-8beaceb93744?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Naciones Unidas denuncia la muerte de un conductor durante un ataque aéreo a un convoy humanitario en Sudán",
+      "link": "https://www.europapress.es/internacional/noticia-naciones-unidas-denuncia-muerte-conductor-ataque-aereo-convoy-humanitario-sudan-20261004132939.html",
+      "summary": "El Programa Mundial de Alimentos de Naciones Unidas (PMA) ha denunciado este domingo la muerte de un conductor durante un ataque aéreo dirigido contra un convoy humanitario en el estado sudanés de Kordofán del Sur, un nuevo episodio de violencia dentro del conflicto armado entre Ejército y paramilitares que lleva devastando el país desde hace tres años.",
+      "published_at": "2026-10-04T11:29:39Z",
+      "region": "Europa",
+      "theme": "Direito Internacional e Instituições",
+      "source_name": "Europa Press",
+      "source_id": "europa_press",
+      "is_brazilian": false,
+      "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20261004132939_120.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1505664194779-8beaceb93744?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Voting in Brazil's 2026 presidential election has begun, with polls showing Lula and Bolsonaro nearly tied",
+      "link": "https://www.dw.com/en/voting-in-brazil-s-2026-presidential-election-has-begun-with-polls-showing-lula-and-bolsonaro-nearly-tied/a-79533857?maca=en-rss-en-world-4025-rdf",
+      "summary": "Flavio Bolsonaro, the son of former far-right populist President Jair Bolsonaro, is taking on incumbent left-wing President Lula da Silva. Polls show the first round of voting will likely lead to a runoff.",
+      "published_at": "2026-10-04T11:28:00Z",
+      "region": "América do Sul",
+      "theme": "Política Internacional",
+      "source_name": "DW World News",
+      "source_id": "dw_english",
+      "is_brazilian": false,
+      "image_url": "https://static.dw.com/image/79534053_6.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Brazil heads to the polls for high-stakes election between Lula and Flavio Bolsonaro",
+      "link": "https://www.france24.com/en/americas/20261004-brazilians-start-voting-in-tight-election-between-lula-and-flavio-bolsonaro",
+      "summary": "Brazilians began casting their votes on Sunday in a closely watch presidential election pitting incumbent President Luiz Inacio Lula da Silva against right-wing Senator Flavio Bolsonaro, son of former president Jair Bolsonaro. Nearly 160 million voters will also pick lawmakers, senators and governors in an election that will determine whether Latin America's biggest nation follows a regional swing to the right championed by US President Donald Trump.",
+      "published_at": "2026-10-04T11:17:45Z",
+      "region": "América do Sul",
+      "theme": "Política Internacional",
+      "source_name": "France 24",
+      "source_id": "france24",
+      "is_brazilian": false,
+      "image_url": "https://s.france24.com/media/display/e99df506-bff1-11f1-b070-13420ab900a2/w:1024/p:16x9/000-D27G68K.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Brazil votes in deeply polarised election pitting Lula against Bolsonaro",
+      "link": "https://www.aljazeera.com/news/2026/10/4/brazil-votes-in-deeply-polarised-election-pitting-lula-against-bolsonaro?traffic_source=rss",
+      "summary": "Close race expected as left-wing leader Lula seeks fourth nonconsecutive term against right-wing Flavio Bolsonaro.",
+      "published_at": "2026-10-04T11:15:34Z",
+      "region": "América do Sul",
+      "theme": "Política Internacional",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": null,
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Iran says Hormuz to remain closed until US meets conditions",
+      "link": "https://www.aljazeera.com/news/2026/10/4/iran-says-strait-of-hormuz-to-remain-closed-until-us-meets-conditions?traffic_source=rss",
+      "summary": "Tehran says reopening Strait of Hormuz has been its main goal, while the US continues to focus on nuclear talks.",
+      "published_at": "2026-10-04T11:11:30Z",
+      "region": "América do Norte",
+      "theme": "Geopolítica e Segurança",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": null,
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Ethiopian government forces seize Tigray capital Mekelle as TPLF withdraws",
+      "link": "https://www.aljazeera.com/news/2026/10/4/government-forces-seize-capital-of-ethiopias-tigray-region-from-rebels?traffic_source=rss",
+      "summary": "Federal troops and allied fighters seen in control of the city after capturing main regional airport.",
+      "published_at": "2026-10-04T11:05:02Z",
+      "region": "África",
+      "theme": "Geopolítica e Segurança",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": null,
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "What to know about Brazil's election pitting Lula against Flávio Bolsonaro",
+      "link": "https://www.bbc.co.uk/news/articles/c6wyz0r2n0djo?at_medium=RSS&at_campaign=rss",
+      "summary": "Polls suggest the election will be a closely run contest between the left-wing incumbent and his right-wing rival.",
+      "published_at": "2026-10-04T11:03:20Z",
+      "region": "América do Sul",
+      "theme": "Política Internacional",
+      "source_name": "BBC World News",
+      "source_id": "bbc_world",
+      "is_brazilian": false,
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/70fc/live/b2ed88c0-bd79-11f1-babe-4199b0e7ccea.png",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Red Bull’s Verstappen wins rain-delayed Bahrain GP F1 race in Sepang",
+      "link": "https://www.aljazeera.com/sports/2026/10/4/red-bulls-verstappen-wins-rain-delayed-bahrain-gp-f1-race-in-sepang?traffic_source=rss",
+      "summary": "Championship leader Kimi Antonelli of Mercedes and Ferrari's Lewis Hamilton finish second and third.",
+      "published_at": "2026-10-04T11:02:33Z",
+      "region": "Oriente Médio",
+      "theme": "Outros / Multitemático",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": null,
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Israel prepares to mark October 7",
+      "link": "https://www.france24.com/en/israel-prepares-to-mark-october-7",
+      "summary": "An Israeli strike on a civilian vehicle in Gaza on Sunday killed one Palestinian and wounded at least 11 others. Israel’s military said it was targeting a Hamas militant. Palestinians have reported a surge in Israeli fire and airstrikes across Gaza over the past month, with more than 75,000 people killed and much of the enclave destroyed. Meanwhile, Israelis held their weekly protest in Tel Aviv’s Hostages Square, the last before Wednesday marks three years since the October 7 attack. Protesters said they wanted to commemorate the victims and demand an independent state inquiry into the events and decisions that led to the attack. The Hamas-led assault killed around 1,200 people in Israel and saw more than 250 others taken hostage, according to Israeli authorities. Rachael Goldberg Polin, an American-Israeli activist and mother of slain hostage Hersh Goldberg-Polin, speaks to France 24.",
+      "published_at": "2026-10-04T10:59:38Z",
+      "region": "Oriente Médio",
+      "theme": "Geopolítica e Segurança",
+      "source_name": "France 24",
+      "source_id": "france24",
+      "is_brazilian": false,
+      "image_url": "https://s.france24.com/media/display/9482b6e4-bfe0-11f1-9696-13e372f41e70/w:1024/p:16x9/EN-20261004-120715-121646-CS.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Is the Sudanese army gaining momentum against the RSF?",
+      "link": "https://www.aljazeera.com/news/2026/10/4/is-the-sudanese-army-gaining-momentum-against-the-rsf?traffic_source=rss",
+      "summary": "The SAF claims victory in a vital North Kordofan town, weakening RSF’s access to fighters and supply routes.",
+      "published_at": "2026-10-04T10:56:12Z",
+      "region": "África",
+      "theme": "Geopolítica e Segurança",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": null,
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Will Brazil’s Lula halt the right-wing wave sweeping Latin America?",
+      "link": "https://www.aljazeera.com/news/2026/10/4/will-brazils-lula-halt-the-right-wing-wave-sweeping-latin-america?traffic_source=rss",
+      "summary": "Lula has remained a symbol for much of the global left amid the rise of the far right in Latin America.",
+      "published_at": "2026-10-04T10:55:40Z",
+      "region": "América do Sul",
+      "theme": "Política Internacional",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": null,
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "El rector de Cornell declara su apoyo a la investigación tras la denuncia de una violación en grupo ocurrida en 2024",
+      "link": "https://www.europapress.es/internacional/noticia-rector-cornell-declara-apoyo-investigacion-denuncia-violacion-grupo-ocurrida-2024-20261004120821.html",
+      "summary": "El rector de la universidad de Cornell, Michael Kotlikoff, ha declarado su total respaldo a la nueva investigación que ha comenzado en relación a la denuncia de la violación en grupo que sufrió una joven en una fraternidad del campus en 2024 y que ahora está en manos de la fiscal de Nueva York, Letitia James.",
+      "published_at": "2026-10-04T10:08:21Z",
+      "region": "Europa",
+      "theme": "Ciência, Tecnologia e Inovação",
+      "source_name": "Europa Press",
+      "source_id": "europa_press",
+      "is_brazilian": false,
+      "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20261004120821_120.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1518770660439-4636190af475?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1507668077129-56e32842fceb?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "She died covering war for Fox News. Her parents blame the network — and a star reporter",
+      "link": "https://www.npr.org/2026/10/04/nx-s1-5737621/fox-news-ukraine-deaths",
+      "summary": "The family members of two Fox News journalists killed while covering the war in Ukraine are suing the network, saying it put getting the story ahead of its people.",
+      "published_at": "2026-10-04T10:00:00Z",
+      "region": "Europa",
+      "theme": "Geopolítica e Segurança",
+      "source_name": "NPR World News",
+      "source_id": "npr",
+      "is_brazilian": false,
+      "image_url": null,
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Russian strike hits Kyiv amid Chancellor Merz visit",
+      "link": "https://www.france24.com/en/russian-strike-hits-kyiv-amid-chancellor-merz-visit",
+      "summary": "Moscow has once again bombed one of Kyiv’s bridges, despite the presence of German Chancellor Friedrich Merz in the Ukrainian capital. The visit was unplanned, but Merz says it was intended to show Germany’s support for Ukraine. France 24 correspondent Gulliver Cragg, reporting from Kyiv, says traffic has resumed on the bridge, though slowly. Video shows a large hole in the roadway. Experts say the bridges are extremely solid and difficult to destroy, even with ballistic missiles.",
+      "published_at": "2026-10-04T09:52:14Z",
+      "region": "Europa",
+      "theme": "Política Internacional",
+      "source_name": "France 24",
+      "source_id": "france24",
+      "is_brazilian": false,
+      "image_url": "https://s.france24.com/media/display/e390ed6c-bfd8-11f1-82ff-dd51fcab6130/w:1024/p:16x9/EN-20261004-110613-111023-CS.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Brazil: A portrait of Flavio Bolsonaro",
+      "link": "https://www.france24.com/en/brazil-a-portrait-of-flavio-bolsonaro",
+      "summary": "Brazilians are voting for governors and lawmakers, but the biggest stakes are in the presidential race. Twelve candidates are on the ballot, but the contest is seen as a toss-up between President Luiz Inacio Lula da Silva and Flavio Bolsonaro. Lula is seeking a fourth and final term, warning that Brazil’s sovereignty is at stake amid pressure from Donald Trump. Bolsonaro, meanwhile, has highlighted his ties to the White House, saying Brazil needs better deals with the US, including over its rare mineral resources. Nick Rushworth has more on the controversial senator.",
+      "published_at": "2026-10-04T09:49:19Z",
+      "region": "América do Sul",
+      "theme": "Política Internacional",
+      "source_name": "France 24",
+      "source_id": "france24",
+      "is_brazilian": false,
+      "image_url": "https://s.france24.com/media/display/c6f86b4a-bfd7-11f1-914f-13e372f41e70/w:1024/p:16x9/EN-20261004-110148-110322-CS.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Ucrania denuncia un nuevo bombardeo ruso contra el Puente Norte de Kiev",
+      "link": "https://www.europapress.es/internacional/noticia-ucrania-denuncia-nuevo-bombardeo-ruso-contra-puente-norte-kiev-20261004113703.html",
+      "summary": "El alcalde de Kiev, Vitali Klitschko, ha denunciado un nuevo ataque ruso contra el Puente Norte de Kiev, el segundo en otros tantos días, que ha vuelto a forzar el cierre al tráfico.",
+      "published_at": "2026-10-04T09:37:03Z",
+      "region": "Europa",
+      "theme": "Geopolítica e Segurança",
+      "source_name": "Europa Press",
+      "source_id": "europa_press",
+      "is_brazilian": false,
+      "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20261004113703_120.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Who are the mystery pilots who successfully landed endangered Flydubai flight 1073?",
+      "link": "https://www.france24.com/en/middle-east/20261004-who-are-the-mystery-pilots-who-successfully-landed-endangered-flydubai-flight-1073",
+      "summary": "A passenger on Flydubai flight 1073 has described the actions of on-duty crew members who rushed into the cockpit to stabilise and land the plane after the co-pilot attacked the captain with a crash axe. The flight carrying 182 people en route to Israel Wednesday was able to make an emergency landing in Saudi Arabia after a descent so extreme that part of its rudder was torn away.",
+      "published_at": "2026-10-04T09:36:47Z",
+      "region": "Oriente Médio",
+      "theme": "Saúde",
+      "source_name": "France 24",
+      "source_id": "france24",
+      "is_brazilian": false,
+      "image_url": "https://s.france24.com/media/display/da1105dc-bfcf-11f1-8542-13e372f41e70/w:1024/p:16x9/AP26273485606536-1.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1584515901367-f1c2a12a50ea?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1505751172876-fa1923c5c528?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1584036561566-baf2418a7c21?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Bosnia-Herzegovina votes amid divisive campaigns, EU bid",
+      "link": "https://www.dw.com/en/bosnia-herzegovina-votes-amid-divisive-campaigns-eu-bid/a-79535336?maca=en-rss-en-world-4025-rdf",
+      "summary": "Polls have opened in Bosnia and Herzegovina, where voters are taking part in parliamentary, presidential and local elections.",
+      "published_at": "2026-10-04T09:30:00Z",
+      "region": "Europa",
+      "theme": "Política Internacional",
+      "source_name": "DW World News",
+      "source_id": "dw_english",
+      "is_brazilian": false,
+      "image_url": "https://static.dw.com/image/79535117_6.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
       ]
     },
     {
@@ -410,6 +1430,23 @@
       ]
     },
     {
+      "title": "La coalición centrista del primer ministro letón se consolida con su victoria en las legislativas",
+      "link": "https://www.europapress.es/internacional/noticia-coalicion-centrista-primer-ministro-leton-consolida-vencedora-elecciones-generales-20261004074044.html",
+      "summary": "La coalición centrista del primer ministro letón, Andris Kulbergs, Lista Unida se consolida de nuevo como principal fuerza política del país con un 35,3% de apoyo, según los datos oficiales con el escrutinio concluido a falta de parte del voto por correo, por lo que se espera que no cambie sustancialmente el resultado.",
+      "published_at": "2026-10-04T05:40:44Z",
+      "region": "Europa",
+      "theme": "Política Internacional",
+      "source_name": "Europa Press",
+      "source_id": "europa_press",
+      "is_brazilian": false,
+      "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20261004074044_120.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
       "title": "La coalición centrista del primer ministro letón se consolida como vencedora de las elecciones generales",
       "link": "https://www.europapress.es/internacional/noticia-coalicion-centrista-primer-ministro-leton-consolida-vencedora-elecciones-generales-20261004074044.html",
       "summary": "La coalición centrista del primer ministro letón, Andris Kulbergs, Lista Unida se consolida de nuevo como principal fuerza política del país con un 35,3% de apoyo, según el último recuento con el 80% de los votos escrutados.",
@@ -488,23 +1525,6 @@
       "source_id": "aljazeera_english",
       "is_brazilian": false,
       "image_url": null,
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "What to know about Brazil's election pitting Lula against Flávio Bolsonaro",
-      "link": "https://www.bbc.co.uk/news/articles/c6wyz0r2n0djo?at_medium=RSS&at_campaign=rss",
-      "summary": "Polls suggest the election will be a closely run contest between the left-wing incumbent and his right-wing rival.",
-      "published_at": "2026-10-04T04:53:29Z",
-      "region": "América do Sul",
-      "theme": "Política Internacional",
-      "source_name": "BBC World News",
-      "source_id": "bbc_world",
-      "is_brazilian": false,
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/70fc/live/b2ed88c0-bd79-11f1-babe-4199b0e7ccea.png",
       "fallback_images": [
         "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
@@ -726,23 +1746,6 @@
       "source_id": "aljazeera_english",
       "is_brazilian": false,
       "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/10/image-1791078072.jpg?resize=1200%2C675",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Brazil's 2026 presidential election is kicking off with polls showing Lula and Bolsonaro nearly tied.",
-      "link": "https://www.dw.com/en/brazil-s-2026-presidential-election-is-kicking-off-with-polls-showing-lula-and-bolsonaro-nearly-tied/a-79533857?maca=en-rss-en-world-4025-rdf",
-      "summary": "Flavio Bolsonaro, the son of former far-right populist President Jair Bolsonaro, is taking on incumbent left-wing President Lula da Silva. Polls show the first round of voting will likely lead to a runoff.",
-      "published_at": "2026-10-04T01:26:00Z",
-      "region": "América do Sul",
-      "theme": "Política Internacional",
-      "source_name": "DW World News",
-      "source_id": "dw_english",
-      "is_brazilian": false,
-      "image_url": "https://static.dw.com/image/79534053_6.jpg",
       "fallback_images": [
         "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
@@ -1546,1009 +2549,6 @@
         "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Elmano tem 49% contra 45% de Ciro em 2º turno no CE, diz Datafolha",
-      "link": "https://www.poder360.com.br/poder-eleicoes-2026/elmano-tem-49-contra-45-de-ciro-em-2o-turno-no-ce-diz-datafolha/",
-      "summary": "Levantamento ouviu 1.560 eleitores no Estado, de 2 a 3 de outubro; a margem de erro é de 2 pontos",
-      "published_at": "2026-10-03T19:23:04Z",
-      "region": "América do Sul",
-      "theme": "Outros / Multitemático",
-      "source_name": "Poder360",
-      "source_id": "poder360",
-      "is_brazilian": true,
-      "image_url": "https://static.poder360.com.br/uploads/2026/08/elmano-ciro-sergio-lima-1200x675.png",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Lula tem 61,6% das intenções de voto na Bahia, diz AtlasIntel",
-      "link": "https://www.poder360.com.br/poder-eleicoes-2026/lula-tem-616-das-intencoes-de-voto-na-bahia-diz-atlasintel/",
-      "summary": "Presidente aparece com folga a frente, com Flávio Bolsonaro em seguida marcando 34,3% das intenções de voto",
-      "published_at": "2026-10-03T19:16:30Z",
-      "region": "América do Sul",
-      "theme": "Política Brasileira",
-      "source_name": "Poder360",
-      "source_id": "poder360",
-      "is_brazilian": true,
-      "image_url": "https://static.poder360.com.br/uploads/2026/10/urna-eletronica-guia-de-como-votar-18set2026-1200x675.webp",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Por que a Espanha, que construía casas demais, vive hoje uma grave crise de moradia",
-      "link": "https://www.bbc.com/portuguese/articles/c3vgygl0r9v2o?at_medium=RSS&at_campaign=rss",
-      "summary": "Para muitos especialistas, a crise financeira de 2008, que levou ao desaparecimento de diversas empresas do setor da construção civil, é um dos principais fatores do déficit de moradias que enfrenta hoje o país, aliado ao aumento da população e dos aluguéis para turismo",
-      "published_at": "2026-10-03T19:16:16Z",
-      "region": "Europa",
-      "theme": "Economia Brasileira",
-      "source_name": "BBC News Brasil",
-      "source_id": "bbc_brasil",
-      "is_brazilian": true,
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6609/live/99fac8d0-bd0d-11f1-8a64-4f07fd1a6b57.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1506744038136-46273834b3fb?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Remains of Bulgaria’s Czar Samuel return ‘home’ after 1,000 years",
-      "link": "https://www.aljazeera.com/news/2026/10/3/remains-of-bulgarias-czar-samuel-return-home-after-1000-years?traffic_source=rss",
-      "summary": "The emperor is a symbol of Bulgarian national identity whose repatriation stoked tensions with Greece.",
-      "published_at": "2026-10-03T19:14:43Z",
-      "region": "Europa",
-      "theme": "Geopolítica e Segurança",
-      "source_name": "Al Jazeera",
-      "source_id": "aljazeera_english",
-      "is_brazilian": false,
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/10/AP26276365509888-1791046364.jpg?resize=1920%2C1440",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "França suspenderá carteira de quem usar celular ao volante",
-      "link": "https://www.poder360.com.br/poder-internacional/franca-suspendera-carteira-de-quem-usar-celular-ao-volante/",
-      "summary": "Medida administrativa vale para todo o país e estabelece punição de 15 dias a 6 meses de suspensão do documento",
-      "published_at": "2026-10-03T19:03:07Z",
-      "region": "Europa",
-      "theme": "Outros / Multitemático",
-      "source_name": "Poder360",
-      "source_id": "poder360",
-      "is_brazilian": true,
-      "image_url": "https://static.poder360.com.br/uploads/2025/06/transito-sp-ab-scaled.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Fonteles tem 68,4% dos votos válidos e Joel, 29,7%, no Piauí",
-      "link": "https://www.poder360.com.br/poder-eleicoes-2026/fonteles-tem-684-dos-votos-validos-e-joel-297-no-piaui/",
-      "summary": "Levantamento da AtlasIntel ouviu 1.230 eleitores de 27 de setembro a 2 de outubro; margem de erro é de 3 pontos percentuais",
-      "published_at": "2026-10-03T19:02:35Z",
-      "region": "América do Sul",
-      "theme": "Outros / Multitemático",
-      "source_name": "Poder360",
-      "source_id": "poder360",
-      "is_brazilian": true,
-      "image_url": "https://static.poder360.com.br/uploads/2026/09/rafael-fonteles-joel-rodrigues-1200x675.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Is the CJP changing India’s political landscape?",
-      "link": "https://www.aljazeera.com/video/inside-story/2026/10/3/is-the-cjp-changing-indias-political-landscape?traffic_source=rss",
-      "summary": "Youth-led movement demands resignation of chief election commissioner.",
-      "published_at": "2026-10-03T19:00:01Z",
-      "region": "Ásia",
-      "theme": "Política Internacional",
-      "source_name": "Al Jazeera",
-      "source_id": "aljazeera_english",
-      "is_brazilian": false,
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/10/image-1791051728.jpg?resize=1920%2C1080&quality=80",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Morre aos 72 anos o maestro paulista Roberto Tibiriçá",
-      "link": "https://www.poder360.com.br/poder-cultura/morre-aos-72-anos-o-maestro-paulista-roberto-tibirica/",
-      "summary": "Titular da Orquestra Sinfônica do Paraná estava internado em decorrência de câncer; instituições e artistas lamentaram a perda do regente",
-      "published_at": "2026-10-03T18:56:28Z",
-      "region": "América do Sul",
-      "theme": "Outros / Multitemático",
-      "source_name": "Poder360",
-      "source_id": "poder360",
-      "is_brazilian": true,
-      "image_url": "https://static.poder360.com.br/uploads/2026/10/Maetro-Roberto-Tibirica-3-out-2026-1-1200x675.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Al Jazeera speaks to Palestinian schoolboy from viral photograph",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/3/al-jazeera-speaks-to-palestinian-schoolboy-from-viral-photograph?traffic_source=rss",
-      "summary": "A photo went viral of a Palestinian boy hiding from Israeli forces on his way home from class in the occupied West Bank.",
-      "published_at": "2026-10-03T18:49:03Z",
-      "region": "Oriente Médio",
-      "theme": "Geopolítica e Segurança",
-      "source_name": "Al Jazeera",
-      "source_id": "aljazeera_english",
-      "is_brazilian": false,
-      "image_url": null,
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Pakistan vs. Afghanistan: From allies and neighbors to war",
-      "link": "https://www.dw.com/en/pakistan-vs-afghanistan-from-allies-and-neighbors-to-war/a-79532115?maca=en-rss-en-world-4025-rdf",
-      "summary": "For years, Pakistan supported the Taliban in Afghanistan. But now Pakistan is bombing its neighbor. How the former allies became adversaries and why negotiations keep failing.",
-      "published_at": "2026-10-03T18:49:00Z",
-      "region": "Ásia",
-      "theme": "Geopolítica e Segurança",
-      "source_name": "DW World News",
-      "source_id": "dw_english",
-      "is_brazilian": false,
-      "image_url": "https://static.dw.com/image/79406929_6.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Militantes levam cavalo inflável de “Dark Horse” a ato de Lula em SP",
-      "link": "https://www.poder360.com.br/poder-eleicoes-2026/militantes-levam-cavalo-inflavel-de-dark-horse-a-ato-de-lula-em-sp/",
-      "summary": "Estrutura foi levada por apoiadores durante ato de encerramento da campanha em referência à cinebiografia de Jair Bolsonaro (PL)",
-      "published_at": "2026-10-03T18:40:52Z",
-      "region": "América do Sul",
-      "theme": "Política Brasileira",
-      "source_name": "Poder360",
-      "source_id": "poder360",
-      "is_brazilian": true,
-      "image_url": "https://static.poder360.com.br/uploads/2026/10/dark-horse-lula-1200x675.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "'Presenciei quase 500 execuções de presos – e nunca vi uma como a de Christa Pike'",
-      "link": "https://www.bbc.com/portuguese/articles/crgj9vp328plo?at_medium=RSS&at_campaign=rss",
-      "summary": "O repórter texano Michael Graczyk já presenciou execuções malsucedidas ao longo de sua carreira, mas nunca uma em que o condenado sobrevivesse, como o caso da presa no Tennessee",
-      "published_at": "2026-10-03T18:27:32Z",
-      "region": "América do Sul",
-      "theme": "Outros / Multitemático",
-      "source_name": "BBC News Brasil",
-      "source_id": "bbc_brasil",
-      "is_brazilian": true,
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4fd3/live/d8bcc320-be70-11f1-babe-4199b0e7ccea.png",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Fernandes hails Ronaldo and calls for Portugal unity ahead of Norway game",
-      "link": "https://www.aljazeera.com/sports/2026/10/3/fernandes-hails-ronaldo-and-calls-for-portugal-unity-ahead-of-norway-game?traffic_source=rss",
-      "summary": "Cristiano Ronaldo withdrew from the Portugal squad, but Bruno Fernandes says forward remains team's 'greatest symbol'.",
-      "published_at": "2026-10-03T18:23:29Z",
-      "region": "Europa",
-      "theme": "Outros / Multitemático",
-      "source_name": "Al Jazeera",
-      "source_id": "aljazeera_english",
-      "is_brazilian": false,
-      "image_url": null,
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "England trounce Croatia 7-0 in Nations League as Kane goal run continues",
-      "link": "https://www.aljazeera.com/sports/2026/10/3/england-trounce-croatia-7-0-in-nations-league-as-kane-goal-run-continues?traffic_source=rss",
-      "summary": "Harry Kane scores in sixth successive away game for England as Bukayo Saka also scores twice in Nations League thumping.",
-      "published_at": "2026-10-03T18:20:51Z",
-      "region": "Europa",
-      "theme": "Outros / Multitemático",
-      "source_name": "Al Jazeera",
-      "source_id": "aljazeera_english",
-      "is_brazilian": false,
-      "image_url": null,
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Portugal vs Norway: UEFA Nations League – Ronaldo latest, Haaland, teams",
-      "link": "https://www.aljazeera.com/sports/2026/10/3/portugal-vs-norway-uefa-nations-league-ronaldo-latest-haaland-teams?traffic_source=rss",
-      "summary": "Nations League title holders Portugal hosts Erling Haaland's Norway, days after Cristiano Ronaldo's exit from the camp.",
-      "published_at": "2026-10-03T18:13:41Z",
-      "region": "Europa",
-      "theme": "Outros / Multitemático",
-      "source_name": "Al Jazeera",
-      "source_id": "aljazeera_english",
-      "is_brazilian": false,
-      "image_url": null,
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Putin's war for the history books: Dmytro Kuleba speaks to France 24",
-      "link": "https://www.france24.com/en/tv-shows/spotlight/20261003-putin-s-war-for-the-history-books-dmytro-kuleba-speaks-to-france-24",
-      "summary": "The Bronze Horseman, the iconic equestrian statue in Senate Square in St Petersburg, was commissioned by Catherine the Great in honor of Peter the Great, the city's founder. The pedestal of the statue bears a laconic dedication, \"To Peter the First, Catherine the Second, 1782\". Does Putin want to be the third, Vladimir the Great? And is that ambition, expansion at any cost, the real reason behind the war in Ukraine? According to Former Ukrainian Foreign Minister Dmytro Kuleba, \"Putin only cares about what will be written about him in history books.\"",
-      "published_at": "2026-10-03T18:08:42Z",
-      "region": "Europa",
-      "theme": "Política Internacional",
-      "source_name": "France 24",
-      "source_id": "france24",
-      "is_brazilian": false,
-      "image_url": "https://s.france24.com/media/display/39db6df8-bf4f-11f1-a837-13420ab900a2/w:1024/p:16x9/capture-20813474576ac13a318fedb5-47858484.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Algeria sent fighter jets to Niger to thwart ‘coup attempt’, president says",
-      "link": "https://www.aljazeera.com/news/2026/10/3/algeria-sent-fighter-jets-to-niger-to-thwart-coup-attempt-president-says?traffic_source=rss",
-      "summary": "President Abdelmadjid Tebboune says Algiers deployed warplanes to Niamey in late August following an attack by mutineers.",
-      "published_at": "2026-10-03T18:03:08Z",
-      "region": "África",
-      "theme": "Política Internacional",
-      "source_name": "Al Jazeera",
-      "source_id": "aljazeera_english",
-      "is_brazilian": false,
-      "image_url": null,
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Ceará, Pernambuco, Rio e outras disputas de governo estadual que você precisa ficar de olho",
-      "link": "https://www.bbc.com/portuguese/articles/cqx28ygpe56yo?at_medium=RSS&at_campaign=rss",
-      "summary": "Entenda por que as disputas em SP, MG, RJ, BA, PR, PE, CE, DF, AP merecem atenção nestas eleições.",
-      "published_at": "2026-10-03T17:53:07Z",
-      "region": "América do Sul",
-      "theme": "Política Brasileira",
-      "source_name": "BBC News Brasil",
-      "source_id": "bbc_brasil",
-      "is_brazilian": true,
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5346/live/1455e300-bebf-11f1-a64c-550be9e3c66b.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Tennessee prison chief to resign after Christa Pike's failed execution",
-      "link": "https://www.bbc.co.uk/news/articles/c8zxl62yzxzxo?at_medium=RSS&at_campaign=rss",
-      "summary": "Pike's lawyers said the failure \"goes far beyond any one person\". Pike is in critical condition after surviving two lethal injections.",
-      "published_at": "2026-10-03T17:48:42Z",
-      "region": "Global",
-      "theme": "Outros / Multitemático",
-      "source_name": "BBC World News",
-      "source_id": "bbc_world",
-      "is_brazilian": false,
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a5d3/live/7d12d1b0-bf45-11f1-babe-4199b0e7ccea.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Tennessee prisons official resigns after Christa Pike’s failed US execution",
-      "link": "https://www.aljazeera.com/news/2026/10/3/tennessee-prisons-official-resigns-after-christa-pikes-failed-us-execution?traffic_source=rss",
-      "summary": "The state's governor said Frank Strada would step down as an independent review examines what went wrong.",
-      "published_at": "2026-10-03T17:31:54Z",
-      "region": "América do Norte",
-      "theme": "Outros / Multitemático",
-      "source_name": "Al Jazeera",
-      "source_id": "aljazeera_english",
-      "is_brazilian": false,
-      "image_url": null,
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Israeli reporter’s ‘verbal attack’ ends Ireland football news conference",
-      "link": "https://www.aljazeera.com/sports/2026/10/3/israeli-reporters-verbal-attack-ends-ireland-football-news-conference?traffic_source=rss",
-      "summary": "Israeli journalists asked coach Hallgrimsson about the Flydubai attack and alleged racist abuse by Ireland's players.",
-      "published_at": "2026-10-03T17:25:28Z",
-      "region": "Europa",
-      "theme": "Geopolítica e Segurança",
-      "source_name": "Al Jazeera",
-      "source_id": "aljazeera_english",
-      "is_brazilian": false,
-      "image_url": null,
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Prosecutor says 2 Iranian men scouted a UK synagogue for a chlorine bomb plot",
-      "link": "https://www.pbs.org/newshour/world/prosecutor-says-2-iranian-men-scouted-a-uk-synagogue-for-a-chlorine-bomb-plot",
-      "summary": "The Heaton Park synagogue was the site of an attack on Yom Kippur, the holiest day of the Jewish calendar, on Oct. 2, 2025, when Jihad Al-Shamie crashed his car into the gates and then began a knife attack.",
-      "published_at": "2026-10-03T17:24:24Z",
-      "region": "Europa",
-      "theme": "Geopolítica e Segurança",
-      "source_name": "PBS NewsHour",
-      "source_id": "pbs_newshour",
-      "is_brazilian": false,
-      "image_url": "https://d3i6fh83elv35t.cloudfront.net/static/2026/10/2025-10-06T075732Z_225717860_RC276HAB0Y0E_RTRMADP_3_BRITAIN-POLICE-MANCHESTER-1024x683.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Tennessee prison chief who oversaw botched Christa Pike execution resigns",
-      "link": "https://www.france24.com/en/americas/20261003-tennessee-prison-chief-who-oversaw-botched-christa-pike-execution-resigns",
-      "summary": "The head of Tennessee's prison system has resigned in the first major shake-up since the stunning failed execution of Christa Pike, who is in critical condition after surviving two lethal injections. Tennessee Governor Bill Lee, who previously denied Pike clemency, has halted further executions through the rest of the year while a review is conducted.",
-      "published_at": "2026-10-03T17:24:14Z",
-      "region": "Europa",
-      "theme": "Saúde",
-      "source_name": "France 24",
-      "source_id": "france24",
-      "is_brazilian": false,
-      "image_url": "https://s.france24.com/media/display/0b87e52e-bf4c-11f1-8e0a-13e372f41e70/w:1024/p:16x9/AP26225608672619.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1584515901367-f1c2a12a50ea?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1505751172876-fa1923c5c528?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1584036561566-baf2418a7c21?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Copiloto usou machado em ataque a comandante de avião para Israel",
-      "link": "https://www.bbc.com/portuguese/articles/cr86zldp7gv2o?at_medium=RSS&at_campaign=rss",
-      "summary": "O copiloto atacou o piloto com um machado e tentou derrubar o avião, que despencou 5.200 metros. Passageiros dominaram o agressor e a aeronave pousou em segurança na Arábia Saudita.",
-      "published_at": "2026-10-03T16:52:48Z",
-      "region": "Oriente Médio",
-      "theme": "Geopolítica e Segurança",
-      "source_name": "BBC News Brasil",
-      "source_id": "bbc_brasil",
-      "is_brazilian": true,
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2448/live/1043b780-befe-11f1-bc2e-018d645d8d21.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Lula diz se sentir “menino de 15” e manda perguntar a Janja",
-      "link": "https://www.poder360.com.br/poder-eleicoes-2026/lula-diz-se-sentir-menino-de-15-e-manda-perguntar-a-janja/",
-      "summary": "Presidente, 80 anos, participou de caminhada de encerramento de campanha com Haddad e aliados em SP neste sábado (3.out)",
-      "published_at": "2026-10-03T16:47:00Z",
-      "region": "América do Sul",
-      "theme": "Política Brasileira",
-      "source_name": "Poder360",
-      "source_id": "poder360",
-      "is_brazilian": true,
-      "image_url": "https://static.poder360.com.br/uploads/2026/10/lula-haddad-ato-4-1200x675.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Eduardo Leite corre sem camisa em campanha por candidato no RS",
-      "link": "https://www.poder360.com.br/poder-gente/eduardo-leite-corre-sem-camisa-em-campanha-por-candidato-no-rs/",
-      "summary": "Governador do Estado publica foto em seu perfil em apoio a Gabriel Souza e Ernani Polo; ele recebeu elogios de seguidores",
-      "published_at": "2026-10-03T16:45:48Z",
-      "region": "América do Sul",
-      "theme": "Outros / Multitemático",
-      "source_name": "Poder360",
-      "source_id": "poder360",
-      "is_brazilian": true,
-      "image_url": "https://static.poder360.com.br/uploads/2026/10/eduardo-leite-foto-correndo-1200x675.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Só falta aparecer quem participou da orgia, diz Lula sobre Master",
-      "link": "https://www.poder360.com.br/poder-eleicoes-2026/so-falta-aparecer-quem-participou-da-orgia-diz-lula-sobre-master/",
-      "summary": "Durante caminhada em São Paulo, petista volta a fazer referência em tom pejorativo ao banqueiro Daniel Vorcaro",
-      "published_at": "2026-10-03T16:38:54Z",
-      "region": "América do Sul",
-      "theme": "Política Brasileira",
-      "source_name": "Poder360",
-      "source_id": "poder360",
-      "is_brazilian": true,
-      "image_url": "https://static.poder360.com.br/uploads/2026/10/lula-haddad-ato-3-1200x675.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "'O gado está morrendo de sede e fome': o impacto devastador do El Niño no Corredor Seco da América Central",
-      "link": "https://www.bbc.com/portuguese/articles/crq5xnxqw29lo?at_medium=RSS&at_campaign=rss",
-      "summary": "Nesta região já vulnerável da América Latina, o El Niño, aliado às mudanças climáticas, agravou a escassez de água e empurra milhares de famílias para uma situação de emergência e desespero.",
-      "published_at": "2026-10-03T16:31:42Z",
-      "region": "América do Sul",
-      "theme": "Direitos Humanos, Sociedade e Migrações",
-      "source_name": "BBC News Brasil",
-      "source_id": "bbc_brasil",
-      "is_brazilian": true,
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/19bb/live/6d6c54f0-bb50-11f1-a071-65d2e11c8f4a.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1542810634-71277d95dcbb?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1489533119213-66a5cd877091?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1531206715517-5c0ba140e2b8?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Ao vivo: TSE realiza teste de integridade das urnas eletrônicas",
-      "link": "https://www.poder360.com.br/poder-eleicoes-2026/ao-vivo-tse-realiza-teste-de-integridade-das-urnas-eletronicas/",
-      "summary": "Procedimento compara votos registrados em cédulas de papel com os contabilizados pelo sistema eletrônico",
-      "published_at": "2026-10-03T16:30:06Z",
-      "region": "América do Sul",
-      "theme": "Política Brasileira",
-      "source_name": "Poder360",
-      "source_id": "poder360",
-      "is_brazilian": true,
-      "image_url": "https://static.poder360.com.br/uploads/2026/09/tre-df-brasilia-eleicoes-urnas-eletronicas-2-1200x675.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Buscan un avión privado medicalizado desaparecido en el Atlántico estadounidense",
-      "link": "https://www.europapress.es/internacional/noticia-buscan-avion-privado-medicalizado-desaparecido-atlantico-estadounidense-20261003182933.html",
-      "summary": "La Guardia Costera estadounidense ha informado de la puesta en marcha de una operación de búsqueda de un avión privado medicalizado desaparecido con seis personas a bordo cerca de Boston y que cubría un trayecto entre las Bermudas y Boston.",
-      "published_at": "2026-10-03T16:29:33Z",
-      "region": "Europa",
-      "theme": "Direito Internacional e Instituições",
-      "source_name": "Europa Press",
-      "source_id": "europa_press",
-      "is_brazilian": false,
-      "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20261003182933_120.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1505664194779-8beaceb93744?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Haddad diz que Ricardo Nunes tentou impedir caminhada de Lula em SP",
-      "link": "https://www.poder360.com.br/poder-eleicoes-2026/haddad-diz-que-ricardo-nunes-tentou-impedir-caminhada-de-lula-em-sp/",
-      "summary": "Candidato ao governo do Estado afirmou que prefeito é “sempre vereador”; ato é último da campanha antes do 1º turno",
-      "published_at": "2026-10-03T16:28:37Z",
-      "region": "América do Sul",
-      "theme": "Política Brasileira",
-      "source_name": "Poder360",
-      "source_id": "poder360",
-      "is_brazilian": true,
-      "image_url": "https://static.poder360.com.br/uploads/2026/10/caminhao-som-ato-Lula-Haddad-Augusta-3-out-2026-1200x675.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Na reta final, Cury pede que brasileiro não tenha medo de caminhar",
-      "link": "https://www.poder360.com.br/poder-eleicoes-2026/na-reta-final-cury-pede-que-brasileiro-nao-tenha-medo-de-caminhar/",
-      "summary": "Em vídeo, candidato do Avante cita que sua campanha começou com 1% e chegou a 11% nas pesquisas eleitorais",
-      "published_at": "2026-10-03T16:26:03Z",
-      "region": "América do Sul",
-      "theme": "Outros / Multitemático",
-      "source_name": "Poder360",
-      "source_id": "poder360",
-      "is_brazilian": true,
-      "image_url": "https://static.poder360.com.br/uploads/2026/09/augusto-cury-copacabana-setembro-1200x675.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Somalia won’t accept Israeli presence ‘under any circumstances’: President",
-      "link": "https://www.aljazeera.com/news/2026/10/3/somalia-wont-accept-israeli-presence-under-any-circumstances-president?traffic_source=rss",
-      "summary": "In exclusive Al Jazeera interview, President Hassan Sheikh Mohamud says Israel planning a naval base in Berbera.",
-      "published_at": "2026-10-03T16:25:03Z",
-      "region": "Oriente Médio",
-      "theme": "Política Internacional",
-      "source_name": "Al Jazeera",
-      "source_id": "aljazeera_english",
-      "is_brazilian": false,
-      "image_url": null,
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Toffoli manda rádio e TV do CE compensarem propaganda eleitoral",
-      "link": "https://www.poder360.com.br/poder-eleicoes-2026/toffoli-manda-radio-e-tv-do-ce-compensarem-propaganda-eleitoral/",
-      "summary": "Ministro do STF fixa multa de R$ 100 mil por emissora; tempo retido desde 24.set deve ir ao ar nas 48h antes da eleição",
-      "published_at": "2026-10-03T16:21:34Z",
-      "region": "América do Sul",
-      "theme": "Política Brasileira",
-      "source_name": "Poder360",
-      "source_id": "poder360",
-      "is_brazilian": true,
-      "image_url": "https://static.poder360.com.br/uploads/2026/08/dias-toffoli-19ago26-1200x675.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Russia hits second major bridge in Ukraine's capital Kyiv",
-      "link": "https://www.bbc.co.uk/news/articles/c83vqxzdg1yko?at_medium=RSS&at_campaign=rss",
-      "summary": "The strike on the Pivnichnyi (Northern) Bridge comes after repeat attacks on another major bridge in Ukraine's capital.",
-      "published_at": "2026-10-03T16:16:49Z",
-      "region": "Europa",
-      "theme": "Outros / Multitemático",
-      "source_name": "BBC World News",
-      "source_id": "bbc_world",
-      "is_brazilian": false,
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/554e/live/87c08780-bf1b-11f1-9b47-174f268aae1d.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Israeli reporters’ ‘verbal attack’ cuts short Ireland press conference",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/3/israeli-reporters-verbal-attack-cuts-short-ireland-press-conference?traffic_source=rss",
-      "summary": "Israeli reporters’ ‘verbal attack’ cuts short Ireland press conference",
-      "published_at": "2026-10-03T16:16:32Z",
-      "region": "Europa",
-      "theme": "Geopolítica e Segurança",
-      "source_name": "Al Jazeera",
-      "source_id": "aljazeera_english",
-      "is_brazilian": false,
-      "image_url": null,
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Paraguai vai às urnas para eleições municipais neste domingo",
-      "link": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-10/paraguai-vai-urnas-para-eleicoes-municipais-neste-domingo",
-      "summary": "Mais de 5 milhões de eleitores paraguaios vão às urnas neste domingo (4) para a escolha dos representantes municipais, prefeitos e vereadores de 263 municípios. Os candidatos escolhidos serão eleitos para o próximo mandato de cinco anos, de 2026 a 2031. De acordo com o Tribunal Superior de Justiça Eleitoral do Paraguai (TSJE), a distribuição de 17.992 urnas eletrônicas e 14.711 kits eleitorais em todo o país foi concluída com sucesso neste sábado (3), garantindo que cada seção eleitoral disponha dos elementos necessários para o bom funcionamento das eleições. Notícias relacionadas: Ataque israelense mata quatro pessoas em Gaza, dizem equipes médicas. Polícia Federal investiga suposta ameaça à embaixada dos EUA. Vice-presidente da Bolívia acusa governo Paz de tramar prendê-lo. Do total de urnas eletrônicas distribuídas, 14.711 foram destinadas às seções eleitorais, 2.094 para contingências e 1.187 para treinamento. “Todo o aparato estatal está mobilizado para garantir que os cidadãos possam votar com segurança. Essa é a mensagem que queremos transmitir: oferecer um processo eleitoral pacífico, limpo, claro e transparente”, declarou o presidente do TSJE ministro Bogarín González. Ao todo, 5.043.154 eleitores estão habilitados a votar em 14.711 seções eleitorais distribuídas em 1.187 locais de votação nos 263 municípios do país. As eleições municipais ocorrerão das 7h às 17h, com início das apurações imediatamente após o encerramento das urnas e previsão de finalização das apurações às 20h. De acordo com TSJE, os resultados preliminares poderão ser acompanhados por um sistema de transmissão disponibilizado nos canais oficias da Justiça Eleitoral . A margem de variação dos resultados transmitidos pelo sistema é inferior a !% na comparação com a contagem final dos Tribunais Eleitorais.",
-      "published_at": "2026-10-03T16:14:00Z",
-      "region": "América do Sul",
-      "theme": "Política Internacional",
-      "source_name": "Agência Brasil",
-      "source_id": "agencia_brasil",
-      "is_brazilian": true,
-      "image_url": null,
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "PT afirma que fará ato na Paulista após apuração no domingo",
-      "link": "https://www.poder360.com.br/poder-eleicoes-2026/pt-afirma-que-fara-ato-na-paulista-apos-apuracao-no-domingo/",
-      "summary": "Anúncio feito por Lula durante passeata neste sábado (3.out) contraria veto da Prefeitura de São Paulo a eventos na avenida no dia do 1º turno",
-      "published_at": "2026-10-03T16:13:51Z",
-      "region": "América do Sul",
-      "theme": "Política Brasileira",
-      "source_name": "Poder360",
-      "source_id": "poder360",
-      "is_brazilian": true,
-      "image_url": "https://static.poder360.com.br/uploads/2026/10/Lula-Marina-Silva-Ato-Augusta-RicardoStuckert-3out2026-1200x675.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "UK remands 2 Iranians over alleged antisemitic terror plot",
-      "link": "https://www.dw.com/en/uk-remands-2-iranians-over-alleged-antisemitic-terror-plot/a-79532184?maca=en-rss-en-world-4025-rdf",
-      "summary": "The pair were arrested on the eve of Yom Kippur and later charged with plotting to attack Jewish targets in Manchester.",
-      "published_at": "2026-10-03T16:10:00Z",
-      "region": "Europa",
-      "theme": "Geopolítica e Segurança",
-      "source_name": "DW World News",
-      "source_id": "dw_english",
-      "is_brazilian": false,
-      "image_url": "https://static.dw.com/image/74219640_6.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "CACs não podem transportar armas a partir deste sábado",
-      "link": "https://www.poder360.com.br/poder-eleicoes-2026/cacs-nao-podem-transportar-armas-a-partir-deste-sabado/",
-      "summary": "Caçadores, atiradores e colecionadores estão barrados pelo TSE de transportar armas e munições no período eleitoral",
-      "published_at": "2026-10-03T16:00:40Z",
-      "region": "América do Sul",
-      "theme": "Geopolítica e Segurança",
-      "source_name": "Poder360",
-      "source_id": "poder360",
-      "is_brazilian": true,
-      "image_url": "https://static.poder360.com.br/uploads/2026/10/armamentismo-arma-municao-1200x675.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "PF prende 19 por compra de votos em Boa Vista",
-      "link": "https://www.poder360.com.br/poder-eleicoes-2026/pf-prende-19-por-compra-de-votos-em-boa-vista/",
-      "summary": "Três ações realizadas na 6ª feira apreenderam cerca de R$ 53.500; em uma delas, abordados estavam com R$ 300 e panfletos de candidatos",
-      "published_at": "2026-10-03T16:00:14Z",
-      "region": "América do Sul",
-      "theme": "Política Brasileira",
-      "source_name": "Poder360",
-      "source_id": "poder360",
-      "is_brazilian": true,
-      "image_url": "https://static.poder360.com.br/uploads/2026/08/exposicao-urna-eletronica-TSE-5-ago-2026.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "As surreais eleições dos anos 80 e 90 em que uma marca de cerveja estampou as cabines de votação no Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cqm272zvp8n4o?at_medium=RSS&at_campaign=rss",
-      "summary": "Da redemocratização do Brasil até meados dos anos 1990, a Antarctica tinha seu logo e nome em letras garrafais estampados nas cabines que protegem o sigilo do voto do eleitor brasileiro.",
-      "published_at": "2026-10-03T15:55:54Z",
-      "region": "América do Sul",
-      "theme": "Política Brasileira",
-      "source_name": "BBC News Brasil",
-      "source_id": "bbc_brasil",
-      "is_brazilian": true,
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/504a/live/96e05610-bd94-11f1-a64c-550be9e3c66b.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Dimite el responsable de prisiones de Tennessee tras la fallida ejecución de Christa Pike",
-      "link": "https://www.europapress.es/internacional/noticia-dimite-responsable-prisiones-tennessee-fallida-ejecucion-christa-pike-20261003175300.html",
-      "summary": "El jefe del Departamento Correccional del estado norteamericano de Tennessee, Frank Strada, ha dimitido tras la fallida ejecución de Christa Pike, quien se encuentra hospitalizada tras un intento de ejecución por inyección letal.",
-      "published_at": "2026-10-03T15:53:00Z",
-      "region": "Europa",
-      "theme": "Direito Internacional e Instituições",
-      "source_name": "Europa Press",
-      "source_id": "europa_press",
-      "is_brazilian": false,
-      "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20261003175300_120.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1505664194779-8beaceb93744?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Italy’s Ustica enigma: Can French files solve mystery crash blamed on stray missile?",
-      "link": "https://www.france24.com/en/europe/20261003-italy-ustica-enigma-can-french-files-solve-mystery-crash-blamed-on-stray-missile-gaddafi",
-      "summary": "France’s decision to share defence documents with the Italian judiciary has raised hopes of a breakthrough in investigations into the 1980 crash of a passenger jet near the island of Ustica, which a former Italian president claimed was mistakenly shot down by a French fighter jet. Sceptics caution that the files are unlikely to shed light on one of Italy’s most enduring mysteries, let alone reveal a culprit.",
-      "published_at": "2026-10-03T15:42:45Z",
-      "region": "Europa",
-      "theme": "Geopolítica e Segurança",
-      "source_name": "France 24",
-      "source_id": "france24",
-      "is_brazilian": false,
-      "image_url": "https://s.france24.com/media/display/cc7cbc12-bf35-11f1-9acd-1ff0321dbbd3/w:1024/p:16x9/AP23245467521507.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "What we know about the co-pilot accused in Flydubai attack",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/3/what-we-know-about-the-co-pilot-accused-in-flydubai-attack?traffic_source=rss",
-      "summary": "The co-pilot accused of attacking a Flydubai captain has reportedly been identified as Hamam al-Hammami.",
-      "published_at": "2026-10-03T15:39:10Z",
-      "region": "Oriente Médio",
-      "theme": "Geopolítica e Segurança",
-      "source_name": "Al Jazeera",
-      "source_id": "aljazeera_english",
-      "is_brazilian": false,
-      "image_url": null,
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Como vale-tudo no STF 'sequestrou' a eleição — e quais as consequências disso",
-      "link": "https://www.bbc.com/portuguese/articles/c6kg8dq2j4l4o?at_medium=RSS&at_campaign=rss",
-      "summary": "Crise sem precedentes instalada no Supremo, escancarada pelo caso do Banco Master, tornou pública a divisão da Corte, aprofundou conflitos e transbordou para a eleição.",
-      "published_at": "2026-10-03T15:33:56Z",
-      "region": "América do Sul",
-      "theme": "Política Brasileira",
-      "source_name": "BBC News Brasil",
-      "source_id": "bbc_brasil",
-      "is_brazilian": true,
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/dc0d/live/2a33ade0-bcd2-11f1-babe-4199b0e7ccea.png",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Dual UK-Iranian national released on bail over suspected plot against U.S.-run military base",
-      "link": "https://www.pbs.org/newshour/world/dual-uk-iranian-national-released-on-bail-over-suspected-plot-against-u-s-run-military-base",
-      "summary": "The 25-year-old man was arrested Thursday in London on suspicion of preparing terrorist acts close to the RAF Fairford air base, which has been used by American bombers to strike Iran. He was the sixth person taken into custody and then released on bail as detectives investigate the incident.",
-      "published_at": "2026-10-03T15:33:48Z",
-      "region": "Europa",
-      "theme": "Geopolítica e Segurança",
-      "source_name": "PBS NewsHour",
-      "source_id": "pbs_newshour",
-      "is_brazilian": false,
-      "image_url": "https://d3i6fh83elv35t.cloudfront.net/static/2026/10/2026-09-29T064654Z_1635109463_RC2USNAUC1I4_RTRMADP_3_BRITAIN-USA-FAIRFORD-1024x684.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Al menos dos muertos y decenas de detenidos tras un tiroteo en un centro comercial de Los Ángeles (EEUU)",
-      "link": "https://www.europapress.es/internacional/noticia-menos-dos-muertos-decenas-detenidos-tiroteo-centro-comercial-angeles-eeuu-20261003173047.html",
-      "summary": "Al menos dos personas han muerto, un número todavía indeterminado han resultado heridas, y decenas han terminado detenidas tras un tiroteo ocurrido esta pasada madrugada en un centro comercial en la ciudad estadounidense de Los Ángeles.",
-      "published_at": "2026-10-03T15:30:47Z",
-      "region": "Europa",
-      "theme": "Direito Internacional e Instituições",
-      "source_name": "Europa Press",
-      "source_id": "europa_press",
-      "is_brazilian": false,
-      "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20261003173047_120.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1505664194779-8beaceb93744?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Rusia advierte a los diplomáticos extranjeros destinados en Kiev que corren un \"riesgo mortal\"",
-      "link": "https://www.europapress.es/internacional/noticia-rusia-advierte-diplomaticos-extranjeros-destinados-kiev-corren-riesgo-mortal-20261003172834.html",
-      "summary": "El Ministerio ha reiterado este sábado su llamamiento a los diplomáticos extranjeros destinados en Kiev a abandonar la capital ucraniana por el \"riesgo mortal\" que suponen los ataques rusos contra la ciudad.",
-      "published_at": "2026-10-03T15:28:34Z",
-      "region": "Europa",
-      "theme": "Direito Internacional e Instituições",
-      "source_name": "Europa Press",
-      "source_id": "europa_press",
-      "is_brazilian": false,
-      "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20261003172834_120.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1505664194779-8beaceb93744?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "‘Bordering on angry’: The state of play as US midterms enter final month",
-      "link": "https://www.aljazeera.com/news/2026/10/3/bordering-on-angry-the-state-of-play-as-us-midterms-enter-final-month?traffic_source=rss",
-      "summary": "Democrats enter final stretch with surprisingly positive outlook as Republican money seeks to stem damage.",
-      "published_at": "2026-10-03T15:18:28Z",
-      "region": "América do Norte",
-      "theme": "Outros / Multitemático",
-      "source_name": "Al Jazeera",
-      "source_id": "aljazeera_english",
-      "is_brazilian": false,
-      "image_url": null,
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "AP report: Ax-wielding FlyDubai co-pilot had been flagged over extremism concerns",
-      "link": "https://www.pbs.org/newshour/world/ap-report-axe-wielding-flydubai-co-pilot-had-been-flagged-over-extremism-concerns",
-      "summary": "The new details raised questions about how thoroughly FlyDubai vets potential employees, and how the co-pilot's presence on a flight filled with Israeli passengers got past Israel's strict security protocols.",
-      "published_at": "2026-10-03T15:15:41Z",
-      "region": "Oriente Médio",
-      "theme": "Outros / Multitemático",
-      "source_name": "PBS NewsHour",
-      "source_id": "pbs_newshour",
-      "is_brazilian": false,
-      "image_url": "https://d3i6fh83elv35t.cloudfront.net/static/2026/10/2026-09-30T153713Z_750999260_RC2RTNA5DVMV_RTRMADP_3_ISRAEL-GULF-FLIGHT-1024x683.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "De la Espriella ordena el cese inmediato del director nacional de Bomberos a los 26 días de su nombramiento",
-      "link": "https://www.europapress.es/internacional/noticia-espriella-ordena-cese-inmediato-director-nacional-bomberos-26-dias-nombramiento-20261003171116.html",
-      "summary": "El presidente de Colombia, Abelardo De la Espriella, ha ordenado el cese inmediato del director nacional de Bomberos, el capitán Germán Miranda, tras conocer presuntas actuaciones \"irregulares\" y de la \"mayor gravedad\", sin dar más detalles, supuestamente efectuadas por el alto funcionario, que asumió el cargo el pasado 7 de septiembre.",
-      "published_at": "2026-10-03T15:11:16Z",
-      "region": "América do Sul",
-      "theme": "Política Internacional",
-      "source_name": "Europa Press",
-      "source_id": "europa_press",
-      "is_brazilian": false,
-      "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20261003171116_120.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Tens of thousands protest in Spain after failed housing reforms",
-      "link": "https://www.aljazeera.com/news/2026/10/3/tens-of-thousands-protest-in-spain-after-failed-housing-reforms?traffic_source=rss",
-      "summary": "Latest demonstrations deepen a days-long crisis after parliament struck down two affordable housing decrees.",
-      "published_at": "2026-10-03T15:06:40Z",
-      "region": "Europa",
-      "theme": "Direitos Humanos, Sociedade e Migrações",
-      "source_name": "Al Jazeera",
-      "source_id": "aljazeera_english",
-      "is_brazilian": false,
-      "image_url": null,
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1542810634-71277d95dcbb?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1489533119213-66a5cd877091?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1531206715517-5c0ba140e2b8?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Houthis claim strike on oil facilty near Riyadh, accuse Saudi forces of pounding Yemen's capital",
-      "link": "https://www.france24.com/en/middle-east/20261003-houthis-blame-saudi-air-strikes-loud-blasts-rock-yemen-capital-sanaa",
-      "summary": "Houthi rebels accused Saudi forces of launching 26 strikes on Sanaa on Saturday after loud explosions rocked the Yemeni capital. The Iran-backed group said it struck an oil facility south of Riyadh, where flames and a large plume of smoke were seen rising from a plant belonging to oil giant Aramco.",
-      "published_at": "2026-10-03T14:31:30Z",
-      "region": "Oriente Médio",
-      "theme": "Geopolítica e Segurança",
-      "source_name": "France 24",
-      "source_id": "france24",
-      "is_brazilian": false,
-      "image_url": "https://s.france24.com/media/display/84e4ed72-bf65-11f1-8c8d-13420ab900a2/w:1024/p:16x9/000-D26B6KC.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Loud blasts rock Sanaa as Houthis accuse Saudi forces of pounding Yemeni capital",
-      "link": "https://www.france24.com/en/middle-east/20261003-houthis-blame-saudi-air-strikes-loud-blasts-rock-yemen-capital-sanaa",
-      "summary": "Houthi rebels accused Saudi forces of launching 26 strikes on Sanaa on Saturday after loud explosions rocked the Yemeni capital, which is controlled by the Iran-backed group. In Saudi Arabia, flames and a large plume of smoke were seen rising from a facility belonging to oil giant Aramco south of the kingdom's capital, Riyadh.",
-      "published_at": "2026-10-03T14:31:30Z",
-      "region": "Oriente Médio",
-      "theme": "Geopolítica e Segurança",
-      "source_name": "France 24",
-      "source_id": "france24",
-      "is_brazilian": false,
-      "image_url": "https://s.france24.com/media/display/d995bc2a-bf2e-11f1-8327-1ff0321dbbd3/w:1024/p:16x9/000-D22M8WE.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "At least 17 people, mostly pilgrims, killed in Kenya road crash",
-      "link": "https://www.aljazeera.com/news/2026/10/3/at-least-17-people-mostly-pilgrims-killed-in-kenya-road-crash?traffic_source=rss",
-      "summary": "The multi-vehicle crash occurred in the Salama area, 90km southeast of Nairobi, killing mostly Catholic pilgrims.",
-      "published_at": "2026-10-03T14:30:40Z",
-      "region": "África",
-      "theme": "Outros / Multitemático",
-      "source_name": "Al Jazeera",
-      "source_id": "aljazeera_english",
-      "is_brazilian": false,
-      "image_url": null,
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Flydubai co-pilot attacked captain with axe, UAE official says",
-      "link": "https://www.bbc.co.uk/news/articles/c61wv7lgex13o?at_medium=RSS&at_campaign=rss",
-      "summary": "The man accused of trying to take over the Israel-bound jet is named as Hamam al-Hammami by several media outlets.",
-      "published_at": "2026-10-03T14:27:33Z",
-      "region": "Oriente Médio",
-      "theme": "Outros / Multitemático",
-      "source_name": "BBC World News",
-      "source_id": "bbc_world",
-      "is_brazilian": false,
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2448/live/1043b780-befe-11f1-bc2e-018d645d8d21.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "What to know about Brazil’s 2026 presidential election",
-      "link": "https://www.aljazeera.com/news/2026/10/3/what-to-know-about-brazils-2026-presidential-election?traffic_source=rss",
-      "summary": "Polls show tight race between incumbent Lula and right-wing rival Flavio Bolsonaro amid concerns over crime and economy.",
-      "published_at": "2026-10-03T14:23:55Z",
-      "region": "América do Sul",
-      "theme": "Política Internacional",
-      "source_name": "Al Jazeera",
-      "source_id": "aljazeera_english",
-      "is_brazilian": false,
-      "image_url": null,
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Israel election double standard: Arab leader forced out, far right cleared",
-      "link": "https://www.aljazeera.com/news/2026/10/3/israel-election-double-standard-arab-leader-forced-out-far-right-cleared?traffic_source=rss",
-      "summary": "Palestinian Israeli leader forced to withdraw candidature while far-right Israeli leaders allowed to run in polls.",
-      "published_at": "2026-10-03T14:06:47Z",
-      "region": "Oriente Médio",
-      "theme": "Política Internacional",
-      "source_name": "Al Jazeera",
-      "source_id": "aljazeera_english",
-      "is_brazilian": false,
-      "image_url": null,
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
       ]
     }
   ]
