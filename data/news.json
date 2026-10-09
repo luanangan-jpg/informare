@@ -1,6 +1,635 @@
 {
-  "updated_at": "2026-10-09T19:55:27.880937Z",
+  "updated_at": "2026-10-09T23:43:21.588727Z",
   "news": [
+    {
+      "title": "Copiloto planejava atentado contra Israel inspirado no 11 de Setembro",
+      "link": "https://www.poder360.com.br/poder-internacional/copiloto-planejava-atentado-contra-israel-inspirado-no-11-de-setembro/",
+      "summary": "Procurador dos Emirados diz que piloto da Flydubai pretendia atingir aeroporto de Tel Aviv em ataque",
+      "published_at": "2026-10-09T23:40:44Z",
+      "region": "Oriente Médio",
+      "theme": "Geopolítica e Segurança",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2026/09/flight-israel-voo-1200x675.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Lula tenta recuperar votos com viagens a SP e Rio na próxima semana",
+      "link": "https://www.poder360.com.br/poder-eleicoes-2026/lula-tenta-recuperar-votos-com-viagens-a-sp-e-rio-na-proxima-semana/",
+      "summary": "Petista teve 1,8 milhão de votos a menos na região Sudeste em 2026 na comparação com 2022",
+      "published_at": "2026-10-09T23:37:47Z",
+      "region": "América do Sul",
+      "theme": "Política Brasileira",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2026/10/Lula-durante-reuniao-de-campanha-5-out-2026-1200x675.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Inside the U.S. negotiations to free the Oct. 7 hostages",
+      "link": "https://www.pbs.org/newshour/podcasts/compass-points-with-pbs-news/inside-the-u-s-negotiations-to-free-the-oct-7-hostages",
+      "summary": "Before the Oct. 7 attacks, the U.S., Israel and Saudi Arabia were on the brink of a historic agreement. Compass Points moderator Nick Schifrin discusses how close they were to normalization, the rush to release hostages and the U.S. response to the war in Gaza with Brett McGurk. He served across four administrations and is the author of \"Brink.\": Inside the Race to Free the October 7 Hostages.\"",
+      "published_at": "2026-10-09T23:30:36Z",
+      "region": "Oriente Médio",
+      "theme": "Geopolítica e Segurança",
+      "source_name": "PBS NewsHour",
+      "source_id": "pbs_newshour",
+      "is_brazilian": false,
+      "image_url": "https://d3i6fh83elv35t.cloudfront.net/static/2026/10/CP-1-1024x671.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "José Sarney teve obstrução intestinal e foi operado em São Luís",
+      "link": "https://www.poder360.com.br/poder-brasil/jose-sarney-teve-obstrucao-intestinal-e-foi-operado-em-sao-luis/",
+      "summary": "Ex-presidente da República de 96 anos se sentiu mal e foi operado no fim da tarde desta 6ª feira; está em unidade de tratamento intensivo",
+      "published_at": "2026-10-09T23:26:31Z",
+      "region": "América do Sul",
+      "theme": "Política Brasileira",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2026/10/Jose-Sarney-1200x675.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Eduardo Bolsonaro já consta em banco de mandados de prisão abertos",
+      "link": "https://www.poder360.com.br/poder-justica/eduardo-bolsonaro-ja-consta-em-banco-de-mandados-de-prisao-abertos/",
+      "summary": "STF declarou o trânsito em julgado de ação penal contra o ex-deputado",
+      "published_at": "2026-10-09T23:18:35Z",
+      "region": "América do Sul",
+      "theme": "Política Brasileira",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2026/10/Eduardo-Bolsonaro-1200x675.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Alcolumbre pauta votação do fim da escala 6 X 1 para 14 de outubro",
+      "link": "https://www.poder360.com.br/poder-congresso/alcolumbre-pauta-votacao-do-fim-da-escala-6-x-1-para-14-de-outubro/",
+      "summary": "Depois do 1º turno, PEC ainda precisa passar por 3 sessões de discussão; governo busca concluir tramitação antes da eleição presidencial",
+      "published_at": "2026-10-09T23:02:04Z",
+      "region": "América do Sul",
+      "theme": "Política Brasileira",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2026/01/lula-23-jan.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Avião da PM cai em Minas Gerais horas após acidente aéreo em BH",
+      "link": "https://www.poder360.com.br/poder-brasil/aviao-da-pm-cai-em-minas-gerais-horas-apos-acidente-aereo-em-bh/",
+      "summary": "Aeronave caiu no Vale do Aço, poucas horas depois de um monomotor atingir o pátio de manutenção do metrô de Belo Horizonte",
+      "published_at": "2026-10-09T23:01:10Z",
+      "region": "América do Sul",
+      "theme": "Outros / Multitemático",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2026/10/queda-aviao-1200x675.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "What to expect as Hurricane Isaias bears down on the Gulf Coast as a major storm",
+      "link": "https://www.pbs.org/newshour/show/what-to-expect-as-hurricane-isaias-bears-down-on-the-gulf-coast-as-a-major-storm",
+      "summary": "Hurricane Isaias has strengthened into a Category 3 hurricane as it heads toward the Gulf Coast. Residents are rushing to prepare for the storm, which is packing winds up to 120 mph and is expected to make landfall Friday night. Amna Nawaz speaks with Michael Brennan, director of the National Hurricane Center, for more.",
+      "published_at": "2026-10-09T22:55:07Z",
+      "region": "Global",
+      "theme": "Meio Ambiente e Clima",
+      "source_name": "PBS NewsHour",
+      "source_id": "pbs_newshour",
+      "is_brazilian": false,
+      "image_url": "https://d3i6fh83elv35t.cloudfront.net/static/2026/10/HurricaneIsaias-1024x576.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Procuradoria cria força-tarefa para apoio à UFPE após incêndio",
+      "link": "https://www.poder360.com.br/poder-brasil/procuradoria-cria-forca-tarefa-para-apoio-a-ufpe-apos-incendio/",
+      "summary": "Medida estabelece articulação com o Ministério Público Federal e auxílio à recuperação da infraestrutura de pesquisa da universidade",
+      "published_at": "2026-10-09T22:52:53Z",
+      "region": "América do Sul",
+      "theme": "Ciência, Tecnologia e Inovação",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2026/10/incendio-UFPE-Recife-7out2026-1200x675-1.webp",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1518770660439-4636190af475?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1507668077129-56e32842fceb?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Mexico investigates video said to show cartel members fighting for Ukraine",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/9/mexico-investigates-video-said-to-show-cartel-members-fighting-for-ukraine?traffic_source=rss",
+      "summary": "Mexico is investigating a viral video showing suspected mercenaries chanting cartel slogans while fighting in Ukraine.",
+      "published_at": "2026-10-09T22:50:15Z",
+      "region": "América do Norte",
+      "theme": "Cultura, Mídia e Sociedade",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/10/image-1791586166.jpg?resize=1920%2C1079&quality=80",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1460661419201-fd4cecdf8a8b?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1508700115892-45ecd05ae2ad?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "News Wrap: Trump announces diesel deal with Russia",
+      "link": "https://www.pbs.org/newshour/show/news-wrap-trump-announces-diesel-deal-with-russia",
+      "summary": "In our news wrap Friday, Trump says he struck a deal with Russia for millions of tons of diesel in a bid to lower U.S. energy prices, Katie Zacharia will replace Karoline Leavitt as White House press secretary, the Pentagon's plans to livestream an execution has drawn strong reactions, Trump launched a new effort to fire Fed governor Lisa Cook, and NFL legend Mike Ditka died at age 86.",
+      "published_at": "2026-10-09T22:45:13Z",
+      "region": "América do Norte",
+      "theme": "Política Internacional",
+      "source_name": "PBS NewsHour",
+      "source_id": "pbs_newshour",
+      "is_brazilian": false,
+      "image_url": "https://d3i6fh83elv35t.cloudfront.net/static/2026/10/newswraprussiandiesel-1024x677.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Alckmin critica proposta de jornada flexível de Flávio Bolsonaro",
+      "link": "https://www.poder360.com.br/poder-eleicoes-2026/alckmin-critica-proposta-de-jornada-flexivel-de-flavio-bolsonaro/",
+      "summary": "Em vídeo selfie, vice-presidente afirma que modelo defendido pelo candidato pode reduzir a renda mensal dos trabalhadores",
+      "published_at": "2026-10-09T22:44:50Z",
+      "region": "América do Sul",
+      "theme": "Política Brasileira",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2026/05/geraldo-alckmin-13-maio-2026.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Commentator Katie Zacharia picked as new White House press secretary",
+      "link": "https://www.bbc.co.uk/news/articles/c5rmy73zr0rro?at_medium=RSS&at_campaign=rss",
+      "summary": "The conservative commentator currently works as a communications adviser at Trump Media & Technology Group.",
+      "published_at": "2026-10-09T22:41:21Z",
+      "region": "América do Norte",
+      "theme": "Cultura, Mídia e Sociedade",
+      "source_name": "BBC World News",
+      "source_id": "bbc_world",
+      "is_brazilian": false,
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b258/live/476d9530-c414-11f1-9a39-31b474234113.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1460661419201-fd4cecdf8a8b?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1508700115892-45ecd05ae2ad?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Navi Pillay wins Nobel Peace Prize after long career of investigating war crimes",
+      "link": "https://www.pbs.org/newshour/show/navi-pillay-wins-nobel-peace-prize-after-long-career-of-investigating-war-crimes",
+      "summary": "International human rights lawyer Navi Pillay won the Nobel Peace Prize on Friday. The Nobel Committee said it chose her as \"institutions of international law are under political attack.\" Hours later, the Trump administration sanctioned the International Criminal Court, where Pillay was a judge. Nick Schifrin speaks with Stephen Rapp for more on Pillay's legacy and responses to the announcement.",
+      "published_at": "2026-10-09T22:40:03Z",
+      "region": "América do Norte",
+      "theme": "Geopolítica e Segurança",
+      "source_name": "PBS NewsHour",
+      "source_id": "pbs_newshour",
+      "is_brazilian": false,
+      "image_url": "https://d3i6fh83elv35t.cloudfront.net/static/2026/10/nobelpeaceprize-1024x683.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Leia os posts controversos postados por Ana Elisa, aliada de Lula",
+      "link": "https://www.poder360.com.br/poder-eleicoes-2026/leia-os-posts-controversos-postados-por-ana-elisa-aliada-de-lula/",
+      "summary": "Deputada eleita do PT com mais de 500 mil votos disse que publicações são autênticas, mas que não pensa mais assim",
+      "published_at": "2026-10-09T22:36:42Z",
+      "region": "América do Sul",
+      "theme": "Política Brasileira",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2026/10/post-ana-elisa-igreja-lula-1200x675.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Fachin nega acesso de Fux a inquérito das fake news no STF",
+      "link": "https://www.poder360.com.br/poder-justica/fachin-nega-acesso-de-fux-a-inquerito-das-fake-news-no-stf/",
+      "summary": "Presidente da Corte argumentou que 104 procedimentos ainda precisam ser analisados e indicou arquivamento definitivo do inquérito",
+      "published_at": "2026-10-09T22:35:47Z",
+      "region": "América do Sul",
+      "theme": "Política Brasileira",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2026/09/Edson-Fachin-STF-2-1200x675.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "'It was a definite quid pro quo.' GOP donor who accused Guilfoyle of corruption speaks out",
+      "link": "https://www.pbs.org/newshour/show/it-was-a-definite-quid-pro-quo-gop-donor-who-accused-guilfoyle-of-corruption-speaks-out",
+      "summary": "A Republican donor is accusing U.S. Ambassador to Greece Kimberly Guilfoyle of asking for $100,000 in exchange for access to top Trump administration officials. Amna Nawaz speaks with Eric Deters, a former Kentucky congressional candidate, about the requests for payment and the access he was promised in return that he argues Guilfoyle never provided.",
+      "published_at": "2026-10-09T22:30:02Z",
+      "region": "América do Norte",
+      "theme": "Saúde",
+      "source_name": "PBS NewsHour",
+      "source_id": "pbs_newshour",
+      "is_brazilian": false,
+      "image_url": "https://d3i6fh83elv35t.cloudfront.net/static/2026/10/corruptionallegations-1024x683.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1584515901367-f1c2a12a50ea?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1505751172876-fa1923c5c528?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1584036561566-baf2418a7c21?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Ke Huy Quan reflects on his family's escape from post-war Vietnam on 'Settle In'",
+      "link": "https://www.pbs.org/newshour/show/ke-huy-quan-reflects-on-his-familys-escape-from-post-war-vietnam-on-settle-in",
+      "summary": "Actor Ke Huy Quan went from arriving in America as a refugee to starring in Indiana Jones and The Goonies. Decades later, he made an Oscar-winning comeback. In the latest episode of our PBS News podcast \"Settle In,\" Amna Nawaz spoke with him about his debut memoir \"Never Say Die,\" which starts with his family's harrowing attempts to escape post-war Vietnam.",
+      "published_at": "2026-10-09T22:15:31Z",
+      "region": "Ásia",
+      "theme": "Geopolítica e Segurança",
+      "source_name": "PBS NewsHour",
+      "source_id": "pbs_newshour",
+      "is_brazilian": false,
+      "image_url": null,
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Trump strikes deal with Putin for Russian diesel in sharp reversal of U.S. policy ahead of midterms",
+      "link": "https://www.pbs.org/newshour/world/trump-strikes-deal-with-putin-for-russian-diesel-in-sharp-reversal-of-u-s-policy-ahead-of-midterms",
+      "summary": "President Donald Trump said he has struck a deal to obtain diesel from Russia, a stunning reversal of years of U.S. pressure on Moscow over its war with Ukraine and an attempt to address high fuel prices ahead of the U.S. midterm elections.",
+      "published_at": "2026-10-09T22:06:36Z",
+      "region": "Europa",
+      "theme": "Política Internacional",
+      "source_name": "PBS NewsHour",
+      "source_id": "pbs_newshour",
+      "is_brazilian": false,
+      "image_url": "https://d3i6fh83elv35t.cloudfront.net/static/2026/10/2026-10-09T100012Z_171319672_RC2DSNAAKX5N_RTRMADP_3_USA-TRUMP-DIESEL-1024x560.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Three men found guilty of murdering two Australian surfer brothers and US friend",
+      "link": "https://www.bbc.co.uk/news/articles/cj5ynwnye009o?at_medium=RSS&at_campaign=rss",
+      "summary": "The bodies of Jake and Callum Robinson and their friend Carter Rhoad were found at the bottom of a well.",
+      "published_at": "2026-10-09T21:55:51Z",
+      "region": "América do Norte",
+      "theme": "Outros / Multitemático",
+      "source_name": "BBC World News",
+      "source_id": "bbc_world",
+      "is_brazilian": false,
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e22e/live/e2e67670-c5f1-11f0-9f1e-75cdd6519717.png",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Legal path seems narrow to challenge livestream of Fort Hood shooter's execution, experts say",
+      "link": "https://www.pbs.org/newshour/world/legal-path-seems-narrow-to-challenge-livestream-of-fort-hood-shooters-execution-experts-say",
+      "summary": "Broadcasting the event worldwide isn't mentioned in the Army rules governing how rare military executions are carried out. But that doesn't mean there is a viable legal path to oppose it by anyone besides Nidal Malik Hasan.",
+      "published_at": "2026-10-09T21:55:32Z",
+      "region": "Global",
+      "theme": "Geopolítica e Segurança",
+      "source_name": "PBS NewsHour",
+      "source_id": "pbs_newshour",
+      "is_brazilian": false,
+      "image_url": "https://d3i6fh83elv35t.cloudfront.net/static/2026/10/2016-06-02T120000Z_519357028_TM3EC621HE001_RTRMADP_3_TEXAS-FLOODING-MILITARY-1024x681.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Trump announces deal for Russian diesel as Zelensky criticises 'gift to Putin'",
+      "link": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
+      "summary": "Ukraine's president said allowing Russia to sell petroleum products would prolong a war that must be ended.",
+      "published_at": "2026-10-09T21:54:28Z",
+      "region": "Europa",
+      "theme": "Política Internacional",
+      "source_name": "BBC World News",
+      "source_id": "bbc_world",
+      "is_brazilian": false,
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d61b/live/93d8fbd0-c41e-11f1-a175-8928617a734f.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Trump confirms Fort Hood shooter’s execution will be by firing squad",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/9/trump-confirms-fort-hood-shooters-execution-will-be-by-firing-squad?traffic_source=rss",
+      "summary": "The Pentagon said the firing squad execution of Fort Hood shooter Nidal Malik Hasan will be public and livestreamed.",
+      "published_at": "2026-10-09T21:53:01Z",
+      "region": "América do Norte",
+      "theme": "Política Internacional",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/10/Screenshot-2026-10-09-at-22.43.20-1791582483.png?resize=1920%2C1161",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "JD Vance casts doubt on firing squad execution and says he will not watch it",
+      "link": "https://www.bbc.co.uk/news/articles/ck20r39nl3qzo?at_medium=RSS&at_campaign=rss",
+      "summary": "The planned execution of Nidal Hasan by firing squad would be the first military execution in more than 60 years.",
+      "published_at": "2026-10-09T21:50:47Z",
+      "region": "Global",
+      "theme": "Geopolítica e Segurança",
+      "source_name": "BBC World News",
+      "source_id": "bbc_world",
+      "is_brazilian": false,
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2cf5/live/cc41a870-c40d-11f1-838e-6d1d6d701264.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "US judge rules Trump administration’s use of voter data unlawful",
+      "link": "https://www.aljazeera.com/news/2026/10/9/us-judge-rules-trump-administrations-use-of-voter-data-unlawful?traffic_source=rss",
+      "summary": "A federal judge ruled against the Justice Department's use of voter data to cross-reference an immigration database.",
+      "published_at": "2026-10-09T21:29:01Z",
+      "region": "América do Norte",
+      "theme": "Política Internacional",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/10/2026-10-09T172131Z_985355389_RC2SZNA54XGH_RTRMADP_3_USA-VANCE-1791579738.jpg?resize=1920%2C1440",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Powerful magnitude 7.7 earthquake hits Panama, damaging buildings",
+      "link": "https://www.bbc.co.uk/news/articles/c620r39zdp9wo?at_medium=RSS&at_campaign=rss",
+      "summary": "Tsunami warnings are issued for neighbouring countries as videos of destruction circulate online.",
+      "published_at": "2026-10-09T21:26:30Z",
+      "region": "América Central",
+      "theme": "Outros / Multitemático",
+      "source_name": "BBC World News",
+      "source_id": "bbc_world",
+      "is_brazilian": false,
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3ae5/live/091da400-c419-11f1-9a39-31b474234113.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "South African human rights lawyer Navi Pillay wins Nobel Peace Prize",
+      "link": "https://www.npr.org/2026/10/09/nx-s1-5996461/south-african-human-rights-lawyer-navi-pillay-wins-nobel-peace-prize",
+      "summary": "South African human rights lawyer Navi Pillay wins the 2026 Nobel Peace Prize for her lifelong defense of human rights and international law.",
+      "published_at": "2026-10-09T21:25:59Z",
+      "region": "África",
+      "theme": "Direitos Humanos, Sociedade e Migrações",
+      "source_name": "NPR World News",
+      "source_id": "npr",
+      "is_brazilian": false,
+      "image_url": "https://media.npr.org/include/images/facebook-default-wide-s1400-c85.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1542810634-71277d95dcbb?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1489533119213-66a5cd877091?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1531206715517-5c0ba140e2b8?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Trump says U.S. to get diesel from Russia, relaxing pressure on Moscow to ease prices before midterms",
+      "link": "https://www.npr.org/2026/10/09/nx-s1-5996912/trump-says-u-s-to-get-diesel-from-russia-relaxing-pressure-on-moscow-to-ease-prices-before-midterms",
+      "summary": "Trump says the U.S. will obtain diesel from Russia, relaxing years of U.S. pressure on Moscow, to combat prices before midterms. He said he struck the deal with Russian President Vladimir Putin in a phone call.",
+      "published_at": "2026-10-09T21:24:13Z",
+      "region": "Europa",
+      "theme": "Política Internacional",
+      "source_name": "NPR World News",
+      "source_id": "npr",
+      "is_brazilian": false,
+      "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8640x4860+0+450/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F1b%2Ff7%2Fba5e41fe4a0eb0f617a90d2e222c%2Fap26274756029238.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Africa Cup of Nations may stay as a biennial event, says CAF chief Motsepe",
+      "link": "https://www.aljazeera.com/sports/2026/10/9/afcon-may-stay-as-a-biennial-event-says-caf-chief-motsepe?traffic_source=rss",
+      "summary": "CAF had declared the Africa Cup of Nations would be held every four years, but may reverse that decision.",
+      "published_at": "2026-10-09T21:17:42Z",
+      "region": "África",
+      "theme": "Outros / Multitemático",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/10/AP26253509299379-1791578415.jpg?resize=1920%2C1440",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Manchester United vs Tottenham: Premier League – teams, prediction, lineups",
+      "link": "https://www.aljazeera.com/sports/2026/10/9/manchester-united-vs-tottenham-premier-league-teams-prediction-lineups?traffic_source=rss",
+      "summary": "Man United and Tottenham Hotspur managers under increasing pressure ahead of Premier League clash at Old Trafford.",
+      "published_at": "2026-10-09T21:04:00Z",
+      "region": "Oriente Médio",
+      "theme": "Outros / Multitemático",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/10/AP26263560256356-1791577155.jpg?resize=1920%2C1440",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "UN envoy warns Yemen has returned to ‘full-scale war’, urges dialogue",
+      "link": "https://www.aljazeera.com/news/2026/10/9/un-envoy-warns-yemen-has-returned-to-full-scale-war-urges-dialogue?traffic_source=rss",
+      "summary": "Saudi Arabia and Yemen's internationally recognised gov't urge UN Security Council action amid Houthi escalation.",
+      "published_at": "2026-10-09T20:56:01Z",
+      "region": "Oriente Médio",
+      "theme": "Direito Internacional e Instituições",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": null,
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1505664194779-8beaceb93744?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Trump nombra a una comentarista habitual de Fox como nueva portavoz de la Casa Blanca",
+      "link": "https://www.europapress.es/internacional/noticia-trump-nombra-comentarista-habitual-fox-nueva-portavoz-casa-blanca-20261009224540.html",
+      "summary": "El presidente de Estados Unidos, Donald Trump, ha nombrado este viernes a la comentaristas de televisión Katie Zacharia como portavoz de la Casa Blanca en sustitución de Karoline Leavitt, que abandonó el cargo el pasado agosto alegando necesidad de conciliar ante su nueva maternidad.",
+      "published_at": "2026-10-09T20:45:40Z",
+      "region": "América do Norte",
+      "theme": "Política Internacional",
+      "source_name": "Europa Press",
+      "source_id": "europa_press",
+      "is_brazilian": false,
+      "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20261009224540_120.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "How will Spain’s housing crisis affect elections?",
+      "link": "https://www.aljazeera.com/video/inside-story/2026/10/9/how-will-spains-housing-crisis-impact-elections?traffic_source=rss",
+      "summary": "Snap vote called after Parliament rejects measures to protect tenants and freeze rents.",
+      "published_at": "2026-10-09T20:39:11Z",
+      "region": "Europa",
+      "theme": "Política Internacional",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": null,
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Rising fuel costs slashed Delta’s profit outlook despite strong demand",
+      "link": "https://www.aljazeera.com/economy/2026/10/9/rising-fuel-costs-slashed-deltas-profit-outlook-despite-strong-demand?traffic_source=rss",
+      "summary": "Rising fuel prices push Delta's annual fuel expenses up by $6bn, affecting its profit outlook for 2026.",
+      "published_at": "2026-10-09T20:17:15Z",
+      "region": "Oriente Médio",
+      "theme": "Outros / Multitemático",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": null,
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Flydubai co-pilot plotted ‘suicide’ attack on Israel, UAE says",
+      "link": "https://www.aljazeera.com/news/2026/10/9/flydubai-co-pilot-plotted-suicide-attack-on-israel-uae-says?traffic_source=rss",
+      "summary": "Attorney General says suspect admitted he acted alone after preparing ‌‌psychologically ‌‌and physically for the attack.",
+      "published_at": "2026-10-09T20:13:24Z",
+      "region": "Oriente Médio",
+      "theme": "Geopolítica e Segurança",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": null,
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Italy's biggest-ever wine heist",
+      "link": "https://www.france24.com/en/video/20261009-italy-s-biggest-ever-wine-heist",
+      "summary": "A multi million euro wine heist in Italy. As thieves in Tuscany steal 30 thousand bottles of the one of the most iconic labels in the country from a warehouse of the the prized Marchesi Antinori winery as it prepared for a major export. The company said in the past few hours, they believe two vans and up to six thieves were involved. Gavin Lee speaks to France 24's correspondent in Rome, Seema Gupta.",
+      "published_at": "2026-10-09T20:08:41Z",
+      "region": "Europa",
+      "theme": "Comércio e Finanças",
+      "source_name": "France 24",
+      "source_id": "france24",
+      "is_brazilian": false,
+      "image_url": "https://s.france24.com/media/display/773c6e38-c411-11f1-9d07-29a2e29ae696/w:1024/p:16x9/NW257983-O-01-20261009-01.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1578575437130-527eed3abbec?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1522071820081-009f0129c71c?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Trump strikes diesel deal with Putin, reversing years of pressure on Russia over Ukraine war",
+      "link": "https://www.france24.com/en/europe/20261009-trump-strikes-diesel-deal-with-putin-reversing-years-of-pressure-on-russia-over-ukraine-war",
+      "summary": "US President Donald Trump said Friday that Russia had agreed to immediately supply more than 300,000 tonnes of diesel to US and global markets in an effort to cut fuel prices before November's midterm elections. The move marks a stunning change of policy after the US and its allies hit Russia with waves of sanctions over its invasion of Ukraine.",
+      "published_at": "2026-10-09T20:00:24Z",
+      "region": "Europa",
+      "theme": "Política Internacional",
+      "source_name": "France 24",
+      "source_id": "france24",
+      "is_brazilian": false,
+      "image_url": "https://s.france24.com/media/display/12b624b2-c417-11f1-bda1-e362370cce2e/w:1024/p:16x9/000-C4EQ663-1.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
     {
       "title": "Renan critica pressão para apoiar Flávio: “Temos dignidade”",
       "link": "https://www.poder360.com.br/poder-eleicoes-2026/renan-critica-pressao-para-apoiar-flavio-temos-dignidade/",
@@ -16,6 +645,40 @@
         "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Schools crisis in France: Investment fails to inspire confidence",
+      "link": "https://www.dw.com/en/schools-crisis-in-france-investment-fails-to-inspire-confidence/a-79621916?maca=en-rss-en-world-4025-rdf",
+      "summary": "For weeks, schoolchildren in France have been protesting the failing education system. Compared to many other countries, France invests heavily in education but critics say that the funds are not distributed fairly.",
+      "published_at": "2026-10-09T19:52:00Z",
+      "region": "Europa",
+      "theme": "Economia Internacional",
+      "source_name": "DW World News",
+      "source_id": "dw_english",
+      "is_brazilian": false,
+      "image_url": "https://static.dw.com/image/79595362_6.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Trump announces Russian diesel deal amid soaring US fuel prices",
+      "link": "https://www.aljazeera.com/economy/2026/10/9/trump-announces-russian-diesel-deal-amid-soaring-us-fuel-prices?traffic_source=rss",
+      "summary": "Russia to supply 300,000 tonnes of diesel immediately, followed by 1.5 million more, as prices soar amid the Iran war.",
+      "published_at": "2026-10-09T19:47:33Z",
+      "region": "América do Norte",
+      "theme": "Política Internacional",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": null,
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
       ]
     },
     {
@@ -36,16 +699,16 @@
       ]
     },
     {
-      "title": "Powerful magnitude 7.7 earthquake hits Panama, damaging buildings",
-      "link": "https://www.bbc.co.uk/news/articles/c620r39zdp9wo?at_medium=RSS&at_campaign=rss",
-      "summary": "Tsunami warnings are issued for neighbouring countries as videos of destruction circulate online.",
-      "published_at": "2026-10-09T19:39:52Z",
-      "region": "América Central",
+      "title": "Paris court jails Indian man for leading sadist neo-Nazi cult that tortured girls",
+      "link": "https://www.france24.com/en/france/20261009-paris-court-jails-indian-man-for-leading-sadist-neo-nazi-cult-that-tortured-girls",
+      "summary": "A 29-year-old Indian man was sentenced to 20 years in prison Friday in a Paris trial over his alleged involvement in an international criminal network that targeted vulnerable children in the US, Britain and Canada and coerced them into producing violent and sexual videos.",
+      "published_at": "2026-10-09T19:45:41Z",
+      "region": "Europa",
       "theme": "Outros / Multitemático",
-      "source_name": "BBC World News",
-      "source_id": "bbc_world",
+      "source_name": "France 24",
+      "source_id": "france24",
       "is_brazilian": false,
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3ae5/live/091da400-c419-11f1-9a39-31b474234113.jpg",
+      "image_url": "https://s.france24.com/media/display/61c72bd6-c41d-11f1-826d-53993c5f1f18/w:1024/p:16x9/000-D29U7CQ-1.jpg",
       "fallback_images": [
         "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
@@ -140,7 +803,7 @@
     {
       "title": "Forte terremoto sacode o Panamá; operações do canal seguem normalmente",
       "link": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-10/forte-terremoto-sacode-o-panama-operacoes-do-canal-seguem-normalmente",
-      "summary": "Um forte terremoto de magnitude 7,6 na escala Richter ocorreu perto da costa sul do Panamá nesta sexta-feira (9), a uma profundidade de 10 quilômetros, de acordo com o Serviço Geológico dos EUA. Inicialmente não foram relatados danos, e a Autoridade do Canal do Panamá informou que a hidrovia estava operando normalmente. Imagens da televisão panamenha mostraram pessoas deixando prédios. O epicentro do terremoto foi próximo à comunidade rural de La Pitaloza, em uma área pouco povoada no sul do país, próxima à costa do Pacífico. O impacto levou o Sistema de Alerta de Tsunamis dos EUA a informar que ondas de tsunami perigosas poderiam ocorrer ao longo de trechos das costas do Panamá, Colômbia, Costa Rica, Equador, Peru, Nicarágua, Guatemala, El Salvador e México nas próximas três horas. O sistema também informou que havia ameaça de tsunami no Havaí. O terremoto foi sentido na capital, Cidade do Panamá, bem como na capital da vizinha Costa Rica, segundo testemunhas da Reuters. *Reportagem adicional de Álvaro Murillo, em San José É proibida a reprodução deste conteúdo",
+      "summary": "Um forte terremoto de magnitude 7,6 na escala Richter ocorreu perto da costa sul do Panamá nesta sexta-feira (9), a uma profundidade de 10 quilômetros, de acordo com o Serviço Geológico dos EUA. Inicialmente não foram relatados danos, e a Autoridade do Canal do Panamá informou que a hidrovia estava operando normalmente. Imagens da televisão panamenha mostraram pessoas deixando prédios. O epicentro do terremoto foi próximo à comunidade rural de La Pitaloza, em uma área pouco povoada no sul do país, próxima à costa do Pacífico. Alerta de Tsunami O impacto levou o Sistema de Alerta de Tsunamis dos EUA a informar que ondas de tsunami perigosas poderiam ocorrer ao longo de trechos das costas do Panamá, Colômbia, Costa Rica, Equador, Peru, Nicarágua, Guatemala, El Salvador e México nas próximas três horas. O sistema também informou que havia ameaça de tsunami no Havaí. O terremoto foi sentido na capital, Cidade do Panamá, bem como na capital da vizinha Costa Rica, segundo testemunhas da Reuters. *Reportagem adicional de Álvaro Murillo, em San José É proibida a reprodução deste conteúdo",
       "published_at": "2026-10-09T19:25:00Z",
       "region": "América Central",
       "theme": "Outros / Multitemático",
@@ -172,6 +835,23 @@
       ]
     },
     {
+      "title": "Panama earthquake: Tsunami warnings issued after magnitude 7.7 quake",
+      "link": "https://www.aljazeera.com/news/2026/10/9/tsunami-warnings-across-latin-america-after-7-7-magnitude-earthquake-hits?traffic_source=rss",
+      "summary": "Countries including Colombia, Ecuador, Nicaragua, Guatemala and Chile have received warnings after the quake.",
+      "published_at": "2026-10-09T19:22:56Z",
+      "region": "América Central",
+      "theme": "Outros / Multitemático",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": null,
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
       "title": "Tsunami warnings across Latin America after 7.7 magnitude earthquake hits",
       "link": "https://www.aljazeera.com/news/2026/10/9/tsunami-warnings-across-latin-america-after-7-7-magnitude-earthquake-hits?traffic_source=rss",
       "summary": "Countries including Colombia, Ecuador, Nicaragua, Guatemala and Chile have received warnings after the quake.",
@@ -189,20 +869,20 @@
       ]
     },
     {
-      "title": "Commentator Katie Zacharia picked as new White House press secretary",
-      "link": "https://www.bbc.co.uk/news/articles/c5rmy73zr0rro?at_medium=RSS&at_campaign=rss",
-      "summary": "The conservative commentator currently works as a communications adviser at Trump Media & Technology Group.",
-      "published_at": "2026-10-09T19:22:33Z",
+      "title": "Trump confirma que aprobó la ejecución retransmitida del atacante de Fort Hood",
+      "link": "https://www.europapress.es/internacional/noticia-vance-no-vera-ejecucion-retransmitida-atacante-fort-hood-20261009211822.html",
+      "summary": "El presidente de Estados Unidos, Donald Trump, ha confirmado este viernes que aprobó que la ejecución de Nidal Hasan, el psiquiatra militar que mató a tiros a 13 personas en la base militar de Fort Hood (Texas) en 2009, sea retransmitida en vivo y en directo.",
+      "published_at": "2026-10-09T19:18:22Z",
       "region": "América do Norte",
-      "theme": "Cultura, Mídia e Sociedade",
-      "source_name": "BBC World News",
-      "source_id": "bbc_world",
+      "theme": "Política Internacional",
+      "source_name": "Europa Press",
+      "source_id": "europa_press",
       "is_brazilian": false,
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b258/live/476d9530-c414-11f1-9a39-31b474234113.jpg",
+      "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20261009211822_120_v2.jpg",
       "fallback_images": [
-        "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1460661419201-fd4cecdf8a8b?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1508700115892-45ecd05ae2ad?q=80&w=800&auto=format&fit=crop"
+        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
       ]
     },
     {
@@ -223,7 +903,7 @@
       ]
     },
     {
-      "title": "Trump anuncia que Rusia suministrará inmediatamente más de 300.000 toneladas de diésel al mercado global y de EEUU",
+      "title": "Trump anuncia que Rusia suministrará más de 300.000 toneladas de diésel al mercado global y de EEUU",
       "link": "https://www.europapress.es/internacional/noticia-trump-anuncia-rusia-suministrara-inmediatamente-mas-300000-toneladas-diesel-mercado-global-eeuu-20261009210623.html",
       "summary": "El presidente de Estados Unidos, Donald Trump, ha anunciado este viernes un acuerdo \"trascendental\" con su homólogo ruso, Vladimir Putin, para que Rusia suministre \"inmediatamente\" más de 300.000 toneladas de combustible diésel al mercado estadounidense y global.",
       "published_at": "2026-10-09T19:06:23Z",
@@ -291,6 +971,23 @@
       ]
     },
     {
+      "title": "Katie Zacharia selected to be next White House press secretary",
+      "link": "https://www.aljazeera.com/news/2026/10/9/katie-zacharia-offered-position-as-white-house-press-secretary?traffic_source=rss",
+      "summary": "US President Donald Trump called the conservative commentator 'a devoted fan'.",
+      "published_at": "2026-10-09T18:49:24Z",
+      "region": "América do Norte",
+      "theme": "Cultura, Mídia e Sociedade",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": null,
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1460661419201-fd4cecdf8a8b?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1508700115892-45ecd05ae2ad?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
       "title": "Katie Zacharia ‘offered’ position as White House press secretary",
       "link": "https://www.aljazeera.com/news/2026/10/9/katie-zacharia-offered-position-as-white-house-press-secretary?traffic_source=rss",
       "summary": "The role has been vacant since former White House press secretary Karoline Leavitt left in August.",
@@ -317,7 +1014,7 @@
       "source_name": "France 24",
       "source_id": "france24",
       "is_brazilian": false,
-      "image_url": "https://s.france24.com/media/display/af5d3efc-e2bc-11ee-bb04-005056bfb2b6/w:1024/p:16x9/breaking_nologo_en_1920x1080.jpg",
+      "image_url": "https://s.france24.com/media/display/1e685866-c417-11f1-a54f-77317c09f325/w:1024/p:16x9/2026-10-09T190605Z-119910366-RC2UZNAG2SLO-RTRMADP-3-PANAMA-QUAKE.jpg",
       "fallback_images": [
         "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
@@ -335,23 +1032,6 @@
       "source_id": "bbc_world",
       "is_brazilian": false,
       "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/70c6/live/7c05c3c0-c401-11f1-9a39-31b474234113.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "JD Vance casts doubt on firing squad execution and says he will not watch it",
-      "link": "https://www.bbc.co.uk/news/articles/ck20r39nl3qzo?at_medium=RSS&at_campaign=rss",
-      "summary": "The planned execution of Nidal Hasan by firing squad would be the first military execution in more than 60 years.",
-      "published_at": "2026-10-09T18:40:05Z",
-      "region": "Global",
-      "theme": "Geopolítica e Segurança",
-      "source_name": "BBC World News",
-      "source_id": "bbc_world",
-      "is_brazilian": false,
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2cf5/live/cc41a870-c40d-11f1-838e-6d1d6d701264.jpg",
       "fallback_images": [
         "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
@@ -424,6 +1104,23 @@
         "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Un potente terremoto de magnitud 7,6 sacude el centro-sur de Panamá",
+      "link": "https://www.europapress.es/internacional/noticia-registrado-terremoto-magnitud-76-centro-sur-panama-alerta-tsunami-20261009201815.html",
+      "summary": "De momento, El Gobierno ha afirmado que no hay víctimas aunque sí \"algunos lesionados\" y ha informado de más de 47 réplicas registradas",
+      "published_at": "2026-10-09T18:18:15Z",
+      "region": "América Central",
+      "theme": "Direito Internacional e Instituições",
+      "source_name": "Europa Press",
+      "source_id": "europa_press",
+      "is_brazilian": false,
+      "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20261009201815_120.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1505664194779-8beaceb93744?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop"
       ]
     },
     {
@@ -606,7 +1303,7 @@
       "source_name": "BBC World News",
       "source_id": "bbc_world",
       "is_brazilian": false,
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/619e/live/0f3f8390-c404-11f1-838e-6d1d6d701264.jpg",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b97c/live/39d6e150-c41f-11f1-bc2e-018d645d8d21.jpg",
       "fallback_images": [
         "https://images.unsplash.com/photo-1584515901367-f1c2a12a50ea?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1505751172876-fa1923c5c528?q=80&w=800&auto=format&fit=crop",
@@ -725,7 +1422,7 @@
       "source_name": "NPR World News",
       "source_id": "npr",
       "is_brazilian": false,
-      "image_url": null,
+      "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8192x4608+0+428/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F6e%2F2a%2F3ddd11034463ac7c7879271335f8%2Frussia-plague-2298434595.jpg",
       "fallback_images": [
         "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
@@ -900,6 +1597,23 @@
         "https://images.unsplash.com/photo-1584515901367-f1c2a12a50ea?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1505751172876-fa1923c5c528?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1584036561566-baf2418a7c21?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "French students vow to keep up protests as UN voices 'concern' over violence",
+      "link": "https://www.france24.com/en/france/20261009-french-students-vow-to-keep-up-protests-as-un-voices-concern-over-violence",
+      "summary": "French student unions ​vowed on Friday to keep up the fight even as the government registered a \"marked slowdown\" in a protest movement that has rattled the country for over a week. The UN human rights agency called for de-escalation, voicing concern over violent clashes with police that have caused severe injuries among teenage protesters.",
+      "published_at": "2026-10-09T15:37:42Z",
+      "region": "Europa",
+      "theme": "Direito Internacional e Instituições",
+      "source_name": "France 24",
+      "source_id": "france24",
+      "is_brazilian": false,
+      "image_url": "https://s.france24.com/media/display/5d5aec98-c3f7-11f1-95d9-29a2e29ae696/w:1024/p:16x9/c09cc58d70754ee6eaf6ff1dc9bd2d0729a908cf.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1505664194779-8beaceb93744?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop"
       ]
     },
     {
@@ -1719,6 +2433,40 @@
       ]
     },
     {
+      "title": "Crise e escuta: o peso da voz real na transformação da saúde mental",
+      "link": "https://news.un.org/feed/view/pt/story/2026/10/1854585",
+      "summary": "Brasileiro, que lidera setor sobre do braço da OMS nas Américas, diz que tensões econômicas, guerras e redes sociais afetam coletivo; ele defende mais ação comunitária, combate ao estigma e cuidado com quem presta atenção; este 10 de outubro é o Dia Mundial da Saúde Mental.",
+      "published_at": "2026-10-09T12:00:00Z",
+      "region": "América do Sul",
+      "theme": "Ciência, Tecnologia e Inovação",
+      "source_name": "ONU News",
+      "source_id": "onu_news",
+      "is_brazilian": false,
+      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/09/09-09-2026_Adobe_depression.jpg/image560x340cropped.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1518770660439-4636190af475?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1507668077129-56e32842fceb?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Iêmen está “de volta ao caos”, alerta ONU em meio à guerra e crise humanitária",
+      "link": "https://news.un.org/feed/view/pt/story/2026/10/1854591",
+      "summary": "O país retrocedeu para uma guerra em grande escala e a janela para evitar uma catástrofe total está se fechando rápido; custo humano do conflito inclui 200 mil novos deslocados apenas desde agosto; 2,2 milhões de crianças sofrem de desnutrição aguda e sistema de saúde à beira do colapso absoluto.",
+      "published_at": "2026-10-09T12:00:00Z",
+      "region": "Oriente Médio",
+      "theme": "Geopolítica e Segurança",
+      "source_name": "ONU News",
+      "source_id": "onu_news",
+      "is_brazilian": false,
+      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/10/09-10-2026-UN-Photo-Hans-Grundberg.jpg/image560x340cropped.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
       "title": "Ex-alta-comissária da ONU, sul-africana Navi Pillay ganha Prêmio Nobel da Paz",
       "link": "https://news.un.org/feed/view/pt/story/2026/10/1854588",
       "summary": "Ao receber a notícia, juíza aposentada surpreendeu-se e pensou se tratar de “brincadeira”; ela dedicou vitória aos “sobreviventes de crimes internacionais”; laureada é a quinta sul-africana a receber o prêmio em lista que inclui Nelson Mandela e Desmond Tutu.",
@@ -1801,754 +2549,6 @@
         "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Flávio Bolsonaro visita cardeal e recebe imagem de Nossa Senhora",
-      "link": "https://www.poder360.com.br/poder-eleicoes-2026/flavio-bolsonaro-visita-cardeal-e-recebe-imagem-de-nossa-senhora/",
-      "summary": "Encontro em Brasília não constava da agenda pública do senador e candidato a vice-presidente",
-      "published_at": "2026-10-09T11:54:57Z",
-      "region": "América do Sul",
-      "theme": "Política Brasileira",
-      "source_name": "Poder360",
-      "source_id": "poder360",
-      "is_brazilian": true,
-      "image_url": "https://static.poder360.com.br/uploads/2026/10/Flavio-Alfredo-1200x675.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Residents of Ukraine's Kramatorsk forced to flee as drone strikes intensify",
-      "link": "https://www.france24.com/en/tv-shows/focus/20261009-residents-of-ukraine-s-kramatorsk-forced-to-flee-as-drone-strikes-intensify",
-      "summary": "The city of Kramatorsk, in eastern Ukraine, is increasingly coming under Russian attack. For those who have stayed behind, the threat from drones and shelling has become a daily reality. Many have resisted leaving their homes, despite the growing danger – but now, more and more residents are being forced to flee. Our colleagues at France 2 followed an evacuation from the city and witnessed first-hand the dangers that residents face.",
-      "published_at": "2026-10-09T11:51:07Z",
-      "region": "Europa",
-      "theme": "Geopolítica e Segurança",
-      "source_name": "France 24",
-      "source_id": "france24",
-      "is_brazilian": false,
-      "image_url": "https://s.france24.com/media/display/a254ec88-c3d7-11f1-a4ce-f50f6d982dc3/w:1024/p:16x9/capture-14410476136ac8d50910b737-10104573.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Saudi Arabia reopens Riyadh airport after Houthi attack kills three",
-      "link": "https://www.aljazeera.com/news/2026/10/9/saudi-arabia-reopens-riyadh-airport-after-houthi-attack-kills-three?traffic_source=rss",
-      "summary": "Saudi Arabia has seen several attacks by the Houthis in recent days, with airports appearing to be the primary target.",
-      "published_at": "2026-10-09T11:46:39Z",
-      "region": "Oriente Médio",
-      "theme": "Geopolítica e Segurança",
-      "source_name": "Al Jazeera",
-      "source_id": "aljazeera_english",
-      "is_brazilian": false,
-      "image_url": null,
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Doctor accused of 1994 Rwanda genocide offences to face trial in UK",
-      "link": "https://www.bbc.co.uk/news/articles/cmwy47lzd1vyo?at_medium=RSS&at_campaign=rss",
-      "summary": "Dr Vincent Brown was allegedly a \"leader\" or \"supervisor\" of violent acts carried out by others in the early days of the genocide.",
-      "published_at": "2026-10-09T11:44:49Z",
-      "region": "Europa",
-      "theme": "Outros / Multitemático",
-      "source_name": "BBC World News",
-      "source_id": "bbc_world",
-      "is_brazilian": false,
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d1ae/live/7cd49830-c3cf-11f1-8cee-d9704951662c.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Trump says U.S. won't attack Iran before midterms. And, ICE agent shoots man in NYC",
-      "link": "https://www.npr.org/2026/10/09/g-s1-147455/up-first-newsletter-hurricane-isaias-ukraine-russia-trump-iran-ice-shooting",
-      "summary": "Trump announced that the U.S. will not attack Iran ahead of the midterms. And, a 28-year-old man is receiving treatment at the hospital after an ICE agent shot him in the neck.",
-      "published_at": "2026-10-09T11:37:04Z",
-      "region": "América do Norte",
-      "theme": "Geopolítica e Segurança",
-      "source_name": "NPR World News",
-      "source_id": "npr",
-      "is_brazilian": false,
-      "image_url": null,
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Eritrea and Ethiopia accuse each other of provoking war as Tigray rebels retreat",
-      "link": "https://www.france24.com/en/africa/20261009-eritrea-ethiopia-accuse-each-other-of-provoking-war-as-tigray-rebels-retreat",
-      "summary": "Ethiopia and Eritrea on Friday accused each other of starting a \"war of agresson\" days after the two countries severed diplomatic ties. Ethiopian officals estimate that up to 8,000 Eritrean soldiers are present in Tigray supporting rebels who last month launched attacks against federal forces.",
-      "published_at": "2026-10-09T11:36:58Z",
-      "region": "África",
-      "theme": "Geopolítica e Segurança",
-      "source_name": "France 24",
-      "source_id": "france24",
-      "is_brazilian": false,
-      "image_url": "https://s.france24.com/media/display/bc716724-c3d5-11f1-8b99-27c2853ad5a5/w:1024/p:16x9/278c35df4d8cae238940d8d675a1af914b2ba2a4.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "France promises 3,000 extra teachers in first step to calm student protests",
-      "link": "https://www.bbc.co.uk/news/articles/c6vg98lw017po?at_medium=RSS&at_campaign=rss",
-      "summary": "Education minister Edouard Geffray makes the offer after another day of sometimes violent demonstrations by high-school students.",
-      "published_at": "2026-10-09T11:35:00Z",
-      "region": "Europa",
-      "theme": "Outros / Multitemático",
-      "source_name": "BBC World News",
-      "source_id": "bbc_world",
-      "is_brazilian": false,
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d12a/live/cfc0d0d0-c3d0-11f1-8cee-d9704951662c.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Navi Pillay wins the Nobel Peace Prize for her work in international justice",
-      "link": "https://www.france24.com/en/video/20261009-navi-pillay-wins-the-nobel-peace-prize-for-her-work-in-international-justice",
-      "summary": "The South African-born jurist and former UN human rights chief Navi Pillay, who is currently an ad hoc judge at the International Court of Justice, won the Nobel Peace Prize on Friday for her efforts to promote peace and international law. Her win is sure to be seen as a high-profile rebuke to US President Trump and Israeli Prime Minister Benjamin Netanyahu, who have both rejected the findings of a UN commission she led that Israel committed genocide in Gaza. Both leaders also have been highly critical of the institutions where Pillay has worked. FRANCE 24's International Affairs Editor Philip Turle tells us more.",
-      "published_at": "2026-10-09T11:31:02Z",
-      "region": "Oriente Médio",
-      "theme": "Política Internacional",
-      "source_name": "France 24",
-      "source_id": "france24",
-      "is_brazilian": false,
-      "image_url": "https://s.france24.com/media/display/6cac4412-c3d4-11f1-a6c5-4b195755b8ed/w:1024/p:16x9/EN-20261009-130106-130719-CS.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Real Madrid’s Mourinho lashes out at ‘ridiculous’ criticism of Mbappe",
-      "link": "https://www.aljazeera.com/sports/2026/10/9/real-madrids-mourinho-lashes-out-at-ridiculous-criticism-of-mbappe?traffic_source=rss",
-      "summary": "Kylian Mbappe takes fire for how he has chosen to recover from knee injury as he prepares to return for Real Madrid.",
-      "published_at": "2026-10-09T11:29:15Z",
-      "region": "Europa",
-      "theme": "Outros / Multitemático",
-      "source_name": "Al Jazeera",
-      "source_id": "aljazeera_english",
-      "is_brazilian": false,
-      "image_url": null,
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "'The Blue Fighter': Zimbabwean author Kundizeza wins 2026 Caine Prize",
-      "link": "https://www.france24.com/en/video/20261009-the-blue-fighter-zimbabwean-writer-kundizeza-wins-2026-caine-prize",
-      "summary": "A big win for Zimbabwean literature: Harare-based author Simbarashe Steyn Kundizeza has claimed the 2026 Caine Prize for African Writing for his short story \"The Blue Fighter\". The award is given to the best short story by an African writer published in English and comes with a £10,000 pounds cash prize. FRANCE 24's Sharon Mazingaizo met with the writer.",
-      "published_at": "2026-10-09T11:27:35Z",
-      "region": "Europa",
-      "theme": "Outros / Multitemático",
-      "source_name": "France 24",
-      "source_id": "france24",
-      "is_brazilian": false,
-      "image_url": "https://s.france24.com/media/display/7e3bba88-c3d3-11f1-b5d8-f50f6d982dc3/w:1024/p:16x9/EN-20261008-215608-215723-CS.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Nova 'guerra às drogas' de Trump aposta em 'militarização' na América Latina: o que muda com Flávio Bolsonaro ou Lula no poder?",
-      "link": "https://www.bbc.com/portuguese/articles/ck87zdg420nro?at_medium=RSS&at_campaign=rss",
-      "summary": "Com apoio de líderes de direita aliados, esforços dos EUA na região são marcados por aumento da militarização e retórica que equipara traficantes a terroristas.",
-      "published_at": "2026-10-09T11:25:54Z",
-      "region": "América do Norte",
-      "theme": "Política Brasileira",
-      "source_name": "BBC News Brasil",
-      "source_id": "bbc_brasil",
-      "is_brazilian": true,
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a072/live/4d6b2d10-c3c1-11f1-9798-abffda1e61e7.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Manchester City charges: Maresca says Premier League club will win appeal",
-      "link": "https://www.aljazeera.com/sports/2026/10/9/manchester-city-charges-maresca-says-premier-league-club-will-win-appeal?traffic_source=rss",
-      "summary": "Coach says he has absolute faith in Man City despite guilty finding over breaches of Premier League financial rules.",
-      "published_at": "2026-10-09T11:25:53Z",
-      "region": "Oriente Médio",
-      "theme": "Outros / Multitemático",
-      "source_name": "Al Jazeera",
-      "source_id": "aljazeera_english",
-      "is_brazilian": false,
-      "image_url": null,
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Las protestas en Francia dejan ya cerca de 6.900 detenidos y un centenar de trabajadores educativos heridos",
-      "link": "https://www.europapress.es/internacional/noticia-protestas-francia-dejan-ya-cerca-6900-detenidos-centenar-trabajadores-educativos-heridos-20261009130955.html",
-      "summary": "Las autoridades de Francia han situado este viernes en cerca de 6.900 los detenidos y en más de un centenar los trabajadores educativos heridos en todo el país en el marco de las protestas estudiantiles que están teniendo lugar en el país por los recortes y la falta de recursos destinados a la educación pública.",
-      "published_at": "2026-10-09T11:09:55Z",
-      "region": "Europa",
-      "theme": "Direito Internacional e Instituições",
-      "source_name": "Europa Press",
-      "source_id": "europa_press",
-      "is_brazilian": false,
-      "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20261009130955_120.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1505664194779-8beaceb93744?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "‘Indentured servants’: US green card move will hit thousands of IT workers",
-      "link": "https://www.aljazeera.com/news/2026/10/9/indentured-servants-us-green-card-move-will-hit-thousands-of-it-workers?traffic_source=rss",
-      "summary": "The US is suspending top tech firms, including Microsoft, from a key programme to sponsor foreign workers’ green cards.",
-      "published_at": "2026-10-09T11:08:05Z",
-      "region": "América do Norte",
-      "theme": "Outros / Multitemático",
-      "source_name": "Al Jazeera",
-      "source_id": "aljazeera_english",
-      "is_brazilian": false,
-      "image_url": null,
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "‘Is it April fool’s?’ Navi Pillay reacts to Nobel Peace Prize news",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/9/is-it-april-fools-navi-pillay-reacts-to-nobel-peace-prize-news?traffic_source=rss",
-      "summary": "International judge Navi Pillay was applauded by colleagues as she gave her first public reaction to her Peace Prize.",
-      "published_at": "2026-10-09T11:07:52Z",
-      "region": "Oriente Médio",
-      "theme": "Outros / Multitemático",
-      "source_name": "Al Jazeera",
-      "source_id": "aljazeera_english",
-      "is_brazilian": false,
-      "image_url": null,
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "El TPI destaca que el Nobel concedido a Pillay \"reconoce el papel vital de la justicia internacional\" para la paz",
-      "link": "https://www.europapress.es/internacional/noticia-tpi-destaca-nobel-concedido-pillay-reconoce-papel-vital-justicia-internacional-paz-20261009125839.html",
-      "summary": "La presidenta del Tribunal Penal Internacional (TPI), Tomoko Akane, ha destacado este viernes que el Premio Nobel de la Paz concedido a la jurista sudafricana Navanethem Pillay \"reconoce el papel vital de la justicia internacional\" para lograr \"una paz duradera\" a nivel mundial.",
-      "published_at": "2026-10-09T10:58:39Z",
-      "region": "Europa",
-      "theme": "Direito Internacional e Instituições",
-      "source_name": "Europa Press",
-      "source_id": "europa_press",
-      "is_brazilian": false,
-      "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20261009125839_120.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1505664194779-8beaceb93744?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Labour fends off the Green party in closely watched UK by-election",
-      "link": "https://www.aljazeera.com/news/2026/10/9/labour-fends-off-the-green-party-in-closely-watched-uk-by-election?traffic_source=rss",
-      "summary": "Sagal Abdi-Wali won by 3,300 votes in the London seat of Holborn and St Pancras.",
-      "published_at": "2026-10-09T10:56:33Z",
-      "region": "Europa",
-      "theme": "Política Internacional",
-      "source_name": "Al Jazeera",
-      "source_id": "aljazeera_english",
-      "is_brazilian": false,
-      "image_url": null,
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Crazy Rich Asians to return as TV show with original film's stars",
-      "link": "https://www.bbc.co.uk/news/articles/cm5yne8k6zw8o?at_medium=RSS&at_campaign=rss",
-      "summary": "It will pick up after the hit 2018 film, starring Constance Wu, Henry Golding, Michelle Yeoh and Ronny Chieng.",
-      "published_at": "2026-10-09T10:54:21Z",
-      "region": "Global",
-      "theme": "Cultura, Mídia e Sociedade",
-      "source_name": "BBC World News",
-      "source_id": "bbc_world",
-      "is_brazilian": false,
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3b16/live/28721870-c3bc-11f1-9798-abffda1e61e7.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1460661419201-fd4cecdf8a8b?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1508700115892-45ecd05ae2ad?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Is Trump signalling a return to war with Iran after the midterms?",
-      "link": "https://www.aljazeera.com/news/2026/10/9/is-trump-signalling-a-return-to-war-with-iran-after-the-midterms?traffic_source=rss",
-      "summary": "US media reports suggest he may be weighing strikes before the vote, but the president has ruled that out.",
-      "published_at": "2026-10-09T10:40:36Z",
-      "region": "América do Norte",
-      "theme": "Política Internacional",
-      "source_name": "Al Jazeera",
-      "source_id": "aljazeera_english",
-      "is_brazilian": false,
-      "image_url": null,
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Ex-OpenAI staff say they were fired for raising safety concerns",
-      "link": "https://www.aljazeera.com/economy/2026/10/9/ex-openai-staff-say-they-were-fired-for-raising-safety-concerns?traffic_source=rss",
-      "summary": "Three former researchers pen open letter warning of 'chilling' effect on company culture.",
-      "published_at": "2026-10-09T10:39:07Z",
-      "region": "Oriente Médio",
-      "theme": "Ciência, Tecnologia e Inovação",
-      "source_name": "Al Jazeera",
-      "source_id": "aljazeera_english",
-      "is_brazilian": false,
-      "image_url": null,
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1518770660439-4636190af475?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1507668077129-56e32842fceb?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "The girls in the Gaza school photograph",
-      "link": "https://www.aljazeera.com/features/longform/2026/10/9/the-girls-in-the-gaza-school-photograph?traffic_source=rss",
-      "summary": "Just before the genocide, 15 Gaza schoolgirls posed for a photograph. Three years on, Al Jazeera went looking for them.",
-      "published_at": "2026-10-09T10:23:42Z",
-      "region": "Oriente Médio",
-      "theme": "Outros / Multitemático",
-      "source_name": "Al Jazeera",
-      "source_id": "aljazeera_english",
-      "is_brazilian": false,
-      "image_url": null,
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "'Casa dos horrores': o casal acusado de abusar na sua mansão na Califórnia de pelo menos 14 crianças nascidas de barriga de aluguel",
-      "link": "https://www.bbc.com/portuguese/articles/cm86zwwg3l5qo?at_medium=RSS&at_campaign=rss",
-      "summary": "Guojun Xuan e Silvia Zhang dirigiam sua própria empresa de gestação por substituição e, além de abuso das crianças, são acusados de enganar pelo menos duas mulheres que vieram a ser mães substitutas.",
-      "published_at": "2026-10-09T10:10:26Z",
-      "region": "América do Sul",
-      "theme": "Outros / Multitemático",
-      "source_name": "BBC News Brasil",
-      "source_id": "bbc_brasil",
-      "is_brazilian": true,
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d388/live/2bb88880-c3ca-11f1-8fc5-335d62f6730b.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Quem é Anne Carson, vencedora do Nobel de Literatura, e quais são seus livros publicados no Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cq77pjzyejkyo?at_medium=RSS&at_campaign=rss",
-      "summary": "Autora de 76 anos é celebrada por obras que cruzam as fronteiras entre poesia, ficção e produção acadêmica.",
-      "published_at": "2026-10-09T10:00:13Z",
-      "region": "América do Sul",
-      "theme": "Cultura, Mídia e Sociedade",
-      "source_name": "BBC News Brasil",
-      "source_id": "bbc_brasil",
-      "is_brazilian": true,
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9bb2/live/6d0a77b0-c318-11f1-bc2e-018d645d8d21.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1460661419201-fd4cecdf8a8b?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1508700115892-45ecd05ae2ad?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Fort Hood survivor supports gunman's execution by firing squad but questions livestream",
-      "link": "https://www.bbc.co.uk/news/articles/ck1wvqw4lzdvo?at_medium=RSS&at_campaign=rss",
-      "summary": "Alonzo Lunsford tells the BBC the punishment befits the crime but he has some doubts whether the public should be able to watch it.",
-      "published_at": "2026-10-09T09:43:22Z",
-      "region": "Global",
-      "theme": "Outros / Multitemático",
-      "source_name": "BBC World News",
-      "source_id": "bbc_world",
-      "is_brazilian": false,
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b6ac/live/ea298500-c3e6-11f1-9a39-31b474234113.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Fired OpenAI researchers say they were let go for 'prioritising safety'",
-      "link": "https://www.bbc.co.uk/news/articles/cvlydn8d3lkjo?at_medium=RSS&at_campaign=rss",
-      "summary": "The AI firm instead claims the researchers were fired for mishandling sensitive information.",
-      "published_at": "2026-10-09T09:30:49Z",
-      "region": "Global",
-      "theme": "Ciência, Tecnologia e Inovação",
-      "source_name": "BBC World News",
-      "source_id": "bbc_world",
-      "is_brazilian": false,
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e0e/live/a2f6be20-c3c1-11f1-9798-abffda1e61e7.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1518770660439-4636190af475?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1507668077129-56e32842fceb?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Thieves steal 30,000 bottles of wine worth €5m in Italy, reports say",
-      "link": "https://www.bbc.co.uk/news/articles/cme3xl8ln2vko?at_medium=RSS&at_campaign=rss",
-      "summary": "The heist at the Florence-based winery is believed to be one of the largest thefts of its kind in Italy.",
-      "published_at": "2026-10-09T09:09:03Z",
-      "region": "Europa",
-      "theme": "Outros / Multitemático",
-      "source_name": "BBC World News",
-      "source_id": "bbc_world",
-      "is_brazilian": false,
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9adf/live/c4e00ca0-c3c4-11f1-bc2e-018d645d8d21.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "La jurista sudafricana Navi Pillay, Premio Nobel de la Paz 2026",
-      "link": "https://www.europapress.es/internacional/noticia-jurista-sudafricana-navi-pillay-premio-nobel-paz-2026-20261009110623.html",
-      "summary": "El Comité Noruego del Nobel ha reconocido este viernes con el premio Nobel de la Paz a la jurista sudafricana y antigua Alta Comisionada de Naciones Unidas para los Derechos Humanos Navanethem Pillay, conocida como Navi Pillay, quien fuera además jueza del Tribunal Penal Internacional (TPI).",
-      "published_at": "2026-10-09T09:06:23Z",
-      "region": "Europa",
-      "theme": "Direito Internacional e Instituições",
-      "source_name": "Europa Press",
-      "source_id": "europa_press",
-      "is_brazilian": false,
-      "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20261009110623_120_v3.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1505664194779-8beaceb93744?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Al menos tres muertos en los ataques del jueves perpetrados por los hutíes de Yemen contra el aeropuerto de Riad",
-      "link": "https://www.europapress.es/internacional/noticia-menos-tres-muertos-ataques-jueves-perpetrados-huties-yemen-contra-aeropuerto-riad-20261009110233.html",
-      "summary": "Al menos tres ciudadanos saudíes han fallecido y varias personas de distinta nacionalidad han resultado heridas en dos ataques perpetrados por los rebeldes hutíes de Yemen contra las instalaciones del Aeropuerto Internacional Rey Jalid de Riad y un avión de la compañía Saudi Arabian Airlines, según ha informado este viernes la Autoridad General de Aviación Civil de Arabia Saudí (GACA).",
-      "published_at": "2026-10-09T09:02:33Z",
-      "region": "Oriente Médio",
-      "theme": "Direito Internacional e Instituições",
-      "source_name": "Europa Press",
-      "source_id": "europa_press",
-      "is_brazilian": false,
-      "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20261009110233_120.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1505664194779-8beaceb93744?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Rusia pide la detención y extradición de nueve miembros del TPI, incluida su presidenta, Tomoko Akane",
-      "link": "https://www.europapress.es/internacional/noticia-rusia-pide-detencion-extradicion-nueve-miembros-tpi-incluida-presidenta-tomoko-akane-20261009105624.html",
-      "summary": "Las autoridades de Rusia han reclamado a Países Bajos y \"otros países\" que procedan a la detención y extradición de nueve integrantes del Tribunal Penal Internacional (TPI), entre ellos su presidenta, Tomoko Akane, por condenas emitidas en rebeldía contra ellos por cortes del país euroasiático.",
-      "published_at": "2026-10-09T08:56:24Z",
-      "region": "Europa",
-      "theme": "Direito Internacional e Instituições",
-      "source_name": "Europa Press",
-      "source_id": "europa_press",
-      "is_brazilian": false,
-      "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20261009105624_120.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1505664194779-8beaceb93744?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Cars torched and shops looted as anti-migrant violence erupts in South Africa",
-      "link": "https://www.bbc.co.uk/news/articles/cwm24v45p4jgo?at_medium=RSS&at_campaign=rss",
-      "summary": "South Africa has experienced recurrent outbreaks of violence, often targeting migrants from neighbouring countries.",
-      "published_at": "2026-10-09T08:28:57Z",
-      "region": "África",
-      "theme": "Direitos Humanos, Sociedade e Migrações",
-      "source_name": "BBC World News",
-      "source_id": "bbc_world",
-      "is_brazilian": false,
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad50/live/3fc4bf60-c398-11f1-b85d-c511f5b4bc4a.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1542810634-71277d95dcbb?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1489533119213-66a5cd877091?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1531206715517-5c0ba140e2b8?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "O romance que previu sociedade distópica em que eleitores não escolhem nenhum candidato",
-      "link": "https://www.bbc.com/portuguese/articles/ckwy4xqxq108o?at_medium=RSS&at_campaign=rss",
-      "summary": "Em 'Ensaio sobre a Lucidez', de José Saramago, quase todos os eleitores de uma cidade portuguesa decidem votar em branco. Romance inspira comparações com a política brasileira atual, com votos brancos, nulos e abstenções quebrando recordes.",
-      "published_at": "2026-10-09T08:23:54Z",
-      "region": "América do Sul",
-      "theme": "Outros / Multitemático",
-      "source_name": "BBC News Brasil",
-      "source_id": "bbc_brasil",
-      "is_brazilian": true,
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/eb37/live/fbb6ad20-c17a-11f1-bed0-05ebd781c53c.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "South African human rights lawyer Navi Pillay wins the Nobel Peace Prize",
-      "link": "https://www.npr.org/2026/10/08/nx-s1-5994952/nobel-peace-prize",
-      "summary": "South African human rights lawyer Navi Pillay wins the 2026 Nobel Peace Prize for advancing human rights and international law.",
-      "published_at": "2026-10-09T08:23:16Z",
-      "region": "África",
-      "theme": "Direitos Humanos, Sociedade e Migrações",
-      "source_name": "NPR World News",
-      "source_id": "npr",
-      "is_brazilian": false,
-      "image_url": null,
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1542810634-71277d95dcbb?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1489533119213-66a5cd877091?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1531206715517-5c0ba140e2b8?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Bosnia and Herzegovina will soon have a new Grand Mufti",
-      "link": "https://www.dw.com/en/bosnia-and-herzegovina-will-soon-have-a-new-grand-mufti/a-79604402?maca=en-rss-en-world-4025-rdf",
-      "summary": "The new leader of the Islamic Community in Bosnia and Herzegovina will be elected on October 10. The reis-ul-ulema's role is not only important for Muslims in the country itself, but could inspire Muslims across Europe.",
-      "published_at": "2026-10-09T08:20:00Z",
-      "region": "Europa",
-      "theme": "Outros / Multitemático",
-      "source_name": "DW World News",
-      "source_id": "dw_english",
-      "is_brazilian": false,
-      "image_url": "https://static.dw.com/image/78896363_6.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Finland, the world's happiest nation, faces a glum winter",
-      "link": "https://www.dw.com/en/finland-the-world-s-happiest-nation-faces-a-glum-winter/a-79544348?maca=en-rss-en-world-4025-rdf",
-      "summary": "Finns have many reasons to feel content, but the country's pile of debt is not one of them. Russia's war in Ukraine has added to the fiscal burden. Can the Nordic nation absorb another shock?",
-      "published_at": "2026-10-09T08:12:00Z",
-      "region": "Europa",
-      "theme": "Geopolítica e Segurança",
-      "source_name": "DW World News",
-      "source_id": "dw_english",
-      "is_brazilian": false,
-      "image_url": "https://static.dw.com/image/79571792_6.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Finland: The world's happiest country has a debt problem it can no longer ignore",
-      "link": "https://www.dw.com/en/finland-the-world-s-happiest-country-has-a-debt-problem-it-can-no-longer-ignore/a-79544348?maca=en-rss-en-world-4025-rdf",
-      "summary": "Finns have many reasons to feel content, but the country's pile of debt is not one of them. Russia's war in Ukraine has added to the fiscal burden. Can the Nordic nation absorb another shock?",
-      "published_at": "2026-10-09T08:12:00Z",
-      "region": "Europa",
-      "theme": "Geopolítica e Segurança",
-      "source_name": "DW World News",
-      "source_id": "dw_english",
-      "is_brazilian": false,
-      "image_url": "https://static.dw.com/image/79571792_6.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Rusia niega un segundo caso vinculado con un supuesto brote de peste en Irkutsk",
-      "link": "https://www.europapress.es/internacional/noticia-rusia-niega-segundo-caso-vinculado-supuesto-brote-peste-irkutsk-20261009085120.html",
-      "summary": "Las autoridades de Rusia han negado un segundo caso vinculado con el supuesto brote de peste en Irkutsk, en la región de Siberia, después del fallecimiento de una investigadora de un laboratorio a causa de un supuesto accidente, después de afirmar que no había detectado patógenos peligrosos en sus contactos.",
-      "published_at": "2026-10-09T06:51:20Z",
-      "region": "Europa",
-      "theme": "Direito Internacional e Instituições",
-      "source_name": "Europa Press",
-      "source_id": "europa_press",
-      "is_brazilian": false,
-      "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20261009085120_120.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1505664194779-8beaceb93744?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Tens of thousands march in Madrid to mourn pensioner whose eviction sparked housing protests",
-      "link": "https://www.france24.com/en/europe/20261009-tens-of-thousands-march-in-madrid-to-mourn-pensioner-whose-eviction-sparked-housing-protests",
-      "summary": "Tens of thousands of protesters joined a march in Madrid Thursday to mark the death of 87-year-old retiree Maricarmen Abascal, whose eviction from her apartment in the Spanish capital in September sparked a wave of housing protests that prompted the government to call early elections.",
-      "published_at": "2026-10-09T06:45:35Z",
-      "region": "Europa",
-      "theme": "Política Internacional",
-      "source_name": "France 24",
-      "source_id": "france24",
-      "is_brazilian": false,
-      "image_url": "https://s.france24.com/media/display/56551082-c3ab-11f1-902b-f50f6d982dc3/w:1024/p:16x9/2026-10-08T183913Z-944686721-RC26ZNABD0G8-RTRMADP-3-SPAIN-HOUSING-MARICARMEN-PROTEST.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Afghanistan’s emerald miners struggle with tools but attract global buyers",
-      "link": "https://www.aljazeera.com/news/2026/10/9/afghanistans-emerald-miners-struggle-with-tools-but-attract-global-buyers?traffic_source=rss",
-      "summary": "Afghan miners endure harsh conditions, relying on basic tools to extract precious emeralds in Panjshir's steep valleys.",
-      "published_at": "2026-10-09T06:36:48Z",
-      "region": "Oriente Médio",
-      "theme": "Outros / Multitemático",
-      "source_name": "Al Jazeera",
-      "source_id": "aljazeera_english",
-      "is_brazilian": false,
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/09/d6a0ec66-65c7-4f86-808f-c19ba8e681c7-1790670626.jpg?resize=1200%2C630",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Trump says US will not strike Iran before midterm elections",
-      "link": "https://www.aljazeera.com/news/2026/10/9/trump-says-us-will-not-strike-iran-before-midterm-elections?traffic_source=rss",
-      "summary": "Oil prices drop as Trump dismisses speculation of pre-midterm military action against Iran.",
-      "published_at": "2026-10-09T06:22:07Z",
-      "region": "América do Norte",
-      "theme": "Política Internacional",
-      "source_name": "Al Jazeera",
-      "source_id": "aljazeera_english",
-      "is_brazilian": false,
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/10/reuters_6ac86e94-1791520404.jpg?resize=1920%2C1440",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Brazilian Supreme Court judge issues arrest warrant for Eduardo Bolsonaro",
-      "link": "https://www.aljazeera.com/news/2026/10/9/brazilian-supreme-court-judge-issues-arrest-warrant-for-eduardo-bolsonaro?traffic_source=rss",
-      "summary": "Arrest warrant for presidential candidate's brother is issued weeks before Brazil's runoff election.",
-      "published_at": "2026-10-09T06:19:56Z",
-      "region": "América do Sul",
-      "theme": "Política Internacional",
-      "source_name": "Al Jazeera",
-      "source_id": "aljazeera_english",
-      "is_brazilian": false,
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/10/getty_6ac8636388-1791517539.jpg?resize=1920%2C1440",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "China presenta una protesta formal ante la UE por un informe del Parlamento Europeo \"plagado de prejuicios\"",
-      "link": "https://www.europapress.es/internacional/noticia-china-presenta-protesta-formal-ue-informe-parlamento-europeo-plagado-prejuicios-20261009081438.html",
-      "summary": "La misión de China ante la Unión Europea (UE) ha expresado su \"profunda insatisfacción\" y ha presentado una protesta formal ante el bloque tras la aprobación de un informe del Parlamento Europeo sobre las relaciones políticas bilaterales, un documento que Pekín considera \"plagado de prejuicios ideológicos\" y de argumentos erróneos contra China.",
-      "published_at": "2026-10-09T06:14:38Z",
-      "region": "Ásia",
-      "theme": "Direito Internacional e Instituições",
-      "source_name": "Europa Press",
-      "source_id": "europa_press",
-      "is_brazilian": false,
-      "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20261009081438_120.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1505664194779-8beaceb93744?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "From Aden to Sanaa, Yemenis struggle to deal with soaring living costs",
-      "link": "https://www.aljazeera.com/economy/2026/10/9/from-aden-to-sanaa-yemenis-struggle-to-deal-with-soaring-living-costs?traffic_source=rss",
-      "summary": "As fighting intensifies, Yemenis face a deepening economic crisis, with unpaid salaries and rising prices.",
-      "published_at": "2026-10-09T05:53:04Z",
-      "region": "Oriente Médio",
-      "theme": "Economia Internacional",
-      "source_name": "Al Jazeera",
-      "source_id": "aljazeera_english",
-      "is_brazilian": false,
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/10/ap_6ac809ada45b2-1791494573.jpg?resize=1920%2C1440",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "How October 7 changed Lebanon and Hezbollah’s political reality",
-      "link": "https://www.aljazeera.com/news-analysis/2026/10/9/how-october-7-changed-lebanon-and-hezbollahs-political-reality?traffic_source=rss",
-      "summary": "Analysts say Hezbollah's decision on October 8 to join a 'war of support' for Gaza changed Lebanon's political reality.",
-      "published_at": "2026-10-09T05:52:49Z",
-      "region": "Oriente Médio",
-      "theme": "Geopolítica e Segurança",
-      "source_name": "Al Jazeera",
-      "source_id": "aljazeera_english",
-      "is_brazilian": false,
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/09/afp_6ab9aecc9b35-1790553804.jpg?resize=1920%2C1440",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Christa Pike, la mujer que sobrevivió a su ejecución, registra una \"notable\" mejoría: puede caminar con ayuda y comer",
-      "link": "https://www.europapress.es/internacional/noticia-christa-pike-ejecutada-fallida-tennessee-eeuu-vive-notable-mejora-puede-caminar-ayuda-comer-20261009073941.html",
-      "summary": "Christa Pike, la mujer condenada a muerte por asesinato en primer grado de una compañera de clase en 1996 --cuando tenía 19 años-- y que fue hospitalizada hace más de una semana tras una ejecución fallida con dos inyecciones letales, ha experimentado una \"notable\" recuperación y ya puede caminar con ayuda e ingerir alimentos.",
-      "published_at": "2026-10-09T05:39:41Z",
-      "region": "Europa",
-      "theme": "Outros / Multitemático",
-      "source_name": "Europa Press",
-      "source_id": "europa_press",
-      "is_brazilian": false,
-      "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20261009073941_120.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
       ]
     }
   ]
