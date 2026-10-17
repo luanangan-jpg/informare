@@ -1,21 +1,412 @@
 {
-  "updated_at": "2026-10-17T17:38:50.139607Z",
+  "updated_at": "2026-10-17T19:52:31.374203Z",
   "news": [
     {
-      "title": "'No Brasil, o rico fica mais rico dormindo, e o pobre trabalha para o sistema financeiro', diz fundador da Petz",
-      "link": "https://www.bbc.com/portuguese/articles/cmy83ggg2168o?at_medium=RSS&at_campaign=rss",
-      "summary": "Em entrevista à BBC News Brasil, Sergio Zimerman critica decisões tomadas às vésperas da eleição, elogia programa social de Lula e concorda com propostas de Flávio Bolsonaro.",
-      "published_at": "2026-10-17T17:27:52Z",
+      "title": "Eleições de 2026 marcam a transformação digital da esquerda, diz Bites",
+      "link": "https://www.poder360.com.br/poder-eleicoes-2026/eleicoes-de-2026-marcam-a-transformacao-digital-da-esquerda-diz-bites/",
+      "summary": "Agência especializada em dados afirma que Lula registrou 3 vezes mais interações nas redes que Flávio após o 1º turno",
+      "published_at": "2026-10-17T19:43:55Z",
       "region": "América do Sul",
       "theme": "Política Brasileira",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2026/10/atos-lula-13out2026-1200x675.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Favela e prédios contrastam em panelaço contra Flávio Bolsonaro",
+      "link": "https://www.poder360.com.br/poder-eleicoes-2026/favela-e-predios-contrastam-em-panelaco-contra-flavio-bolsonaro/",
+      "summary": "Vídeo mostra diferença em protesto contra o candidato do PL entre edifícios e comunidade vizinha em Salvador (BA)",
+      "published_at": "2026-10-17T19:34:10Z",
+      "region": "América do Sul",
+      "theme": "Política Brasileira",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2026/10/Comunidade_Salvador-1200x675.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Albanian police fire rubber bullets as protests against Rama escalate",
+      "link": "https://www.aljazeera.com/news/2026/10/17/albanian-police-fire-rubber-bullets-as-protests-against-rama-escalate?traffic_source=rss",
+      "summary": "Five days of clashes rock Tirana as students join a wider movement demanding Prime Minister Edi Rama's resignation.",
+      "published_at": "2026-10-17T19:26:13Z",
+      "region": "Oriente Médio",
+      "theme": "Política Internacional",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/10/2026-10-17T181420Z_2081897189_RC245OA63H0W_RTRMADP_3_ALBANIA-PROTEST-1792261344.jpg?resize=1920%2C1440",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Ex-ministros de FHC e intelectuais fazem carta em apoio a Lula",
+      "link": "https://www.poder360.com.br/poder-eleicoes-2026/ex-ministros-de-fhc-e-intelectuais-fazem-carta-em-apoio-a-lula/",
+      "summary": "Manifesto reúne 15 signatários e critica Flávio; lista inclui Aloysio Nunes e Floriano Pesaro, funcionários da ApexBrasil, vinculada ao governo federal",
+      "published_at": "2026-10-17T19:25:49Z",
+      "region": "América do Sul",
+      "theme": "Política Brasileira",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2026/10/lula-games-planalto-1200x675.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
+      "link": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
+      "summary": "The US president temporarily ends many restrictions on Moscow recently passed by Congress over \"national security\" concerns.",
+      "published_at": "2026-10-17T19:19:19Z",
+      "region": "Europa",
+      "theme": "Política Internacional",
+      "source_name": "BBC World News",
+      "source_id": "bbc_world",
+      "is_brazilian": false,
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c147/live/f608c860-c9cf-11f1-84c1-fd3c3266bb86.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Ilhan Omar: The US Democrat targeted by Donald Trump",
+      "link": "https://www.dw.com/en/ilhan-omar-the-us-democrat-targeted-by-donald-trump/a-79688445?maca=en-rss-en-world-4025-rdf",
+      "summary": "Donald Trump has described her as \"garbage\" and a \"criminal\" who does nothing but \"bitch.\" Congress member Ilhan Omar has long been the target of angry verbal attacks from the US president. But why her?",
+      "published_at": "2026-10-17T19:17:00Z",
+      "region": "América do Norte",
+      "theme": "Política Internacional",
+      "source_name": "DW World News",
+      "source_id": "dw_english",
+      "is_brazilian": false,
+      "image_url": "https://static.dw.com/image/75686930_6.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "“Globo sabe que errou”, diz Edinho sobre almoço com Flávio",
+      "link": "https://www.poder360.com.br/poder-eleicoes-2026/globo-sabe-que-errou-diz-edinho-sobre-almoco-com-flavio/",
+      "summary": "Executivos do grupo se encontraram com o senador antes de entrevista à jornalista Renata Lo Prete na 6ª feira (16.out)",
+      "published_at": "2026-10-17T19:15:29Z",
+      "region": "América do Sul",
+      "theme": "Política Brasileira",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2026/10/edinho-silva-sp-1200x675.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "O que as imagens de uma elefanta carregando um filhote morto nos dizem sobre o luto dos animais",
+      "link": "https://www.bbc.com/portuguese/articles/c63r583p3pw4o?at_medium=RSS&at_campaign=rss",
+      "summary": "A foto vencedora do concurso Fotógrafo da Vida Selvagem do Ano de 2026 captura um comportamento raramente observado dos elefantes. A imagem revela a complexidade da vida emocional dos animais.",
+      "published_at": "2026-10-17T19:13:41Z",
+      "region": "América do Sul",
+      "theme": "Outros / Multitemático",
+      "source_name": "BBC News Brasil",
+      "source_id": "bbc_brasil",
+      "is_brazilian": true,
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3b19/live/e2b4ae70-c702-11f1-b4dd-e786ec6f11b1.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Ratinho faz propaganda eleitoral com Flávio; assista",
+      "link": "https://www.poder360.com.br/poder-eleicoes-2026/ratinho-faz-propaganda-eleitoral-com-flavio-assista/",
+      "summary": "Depois de não conseguir ajudar a eleger o candidato do filho no Paraná, apresentador emprestou sua imagem à campanha do senador",
+      "published_at": "2026-10-17T19:09:24Z",
+      "region": "América do Sul",
+      "theme": "Política Brasileira",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2026/10/Ratinho_propaganda_Flavio-1200x675.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Aliados de Flávio lançam o site “Flaviômetro” no 2º turno",
+      "link": "https://www.poder360.com.br/poder-eleicoes-2026/aliados-de-flavio-lancam-o-site-flaviometro-no-2o-turno/",
+      "summary": "Ferramenta expõe o engajamento de políticos e vira instrumento de pressão contra aliados considerados “ausentes”",
+      "published_at": "2026-10-17T19:04:22Z",
+      "region": "América do Sul",
+      "theme": "Outros / Multitemático",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2026/10/Flaviometro-17-out-2026-1200x675.png",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Hundreds rally in Kyiv to demand the resignation of Mayor Vitali Klitschko",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/17/hundreds-rally-in-kyiv-to-demand-the-resignation-of-mayor-vitali-klitschko?traffic_source=rss",
+      "summary": "Hundreds of protesters rallied outside the office of Kyiv’s mayor Vitali Klitschko, demanding that he steps down.",
+      "published_at": "2026-10-17T19:04:00Z",
+      "region": "Europa",
+      "theme": "Outros / Multitemático",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/10/image-1792263811.jpg?resize=1920%2C1080&quality=80",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Will the EU come to Ukraine’s rescue in war against Russia?",
+      "link": "https://www.aljazeera.com/video/inside-story/2026/10/17/will-the-eu-come-to-ukraines-rescue-in-war-against-russia?traffic_source=rss",
+      "summary": "US support at risk as Trump-Zelenskyy relations nosedive.",
+      "published_at": "2026-10-17T19:03:49Z",
+      "region": "Europa",
+      "theme": "Geopolítica e Segurança",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/10/image-1792261027.jpg?resize=1920%2C1080&quality=80",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Flávio promete “Brasil de amor” e fala em governar para quem fez o “L”",
+      "link": "https://www.poder360.com.br/poder-eleicoes-2026/flavio-promete-brasil-de-amor-e-fala-em-governar-para-quem-fez-o-l/",
+      "summary": "Candidato declarou que governará para todos se eleito presidente e prometeu um país “sem ódio” durante ato em Vitória (ES)",
+      "published_at": "2026-10-17T18:53:27Z",
+      "region": "América do Sul",
+      "theme": "Política Brasileira",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2026/10/ato-flavio-bolsonaro-vitoria-es-17out2026-1-1200x675.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Is the US Embassy in Jerusalem for Israel or America?",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/17/is-the-us-embassy-in-jerusalem-for-israel-or-america?traffic_source=rss",
+      "summary": "What led to the deaths of the nine Americans killed in the occupied West Bank since 2022?",
+      "published_at": "2026-10-17T18:41:30Z",
+      "region": "Oriente Médio",
+      "theme": "Política Internacional",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/10/image-1792262482.jpg?resize=1920%2C1080&quality=80",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Israeli drone attacks kill six Palestinians across Gaza despite ‘ceasefire’",
+      "link": "https://www.aljazeera.com/news/2026/10/17/israeli-drone-attacks-kill-six-palestinians-across-gaza-despite-ceasefire?traffic_source=rss",
+      "summary": "Attacks hit several areas as UNICEF reports more than 340 children killed since 'ceasefire' began a year ago.",
+      "published_at": "2026-10-17T18:26:59Z",
+      "region": "Oriente Médio",
+      "theme": "Outros / Multitemático",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/10/2026-10-16T124044Z_1057070837_RC284OAP4C2N_RTRMADP_3_ISRAEL-PALESTINIANS-GAZA-GOODS-1792250084.jpg?resize=1920%2C1440",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "'No Brasil, rico fica mais rico dormindo, e pobre trabalha para pagar juros', diz fundador da Petz",
+      "link": "https://www.bbc.com/portuguese/articles/cmy83ggg2168o?at_medium=RSS&at_campaign=rss",
+      "summary": "Em entrevista à BBC News Brasil, Sergio Zimerman critica decisões tomadas às vésperas da eleição, elogia programa social de Lula e concorda com propostas de Flávio Bolsonaro.",
+      "published_at": "2026-10-17T18:25:44Z",
+      "region": "América do Sul",
+      "theme": "Economia Brasileira",
       "source_name": "BBC News Brasil",
       "source_id": "bbc_brasil",
       "is_brazilian": true,
       "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/735f/live/3097b690-c9a2-11f1-ad54-aba20166b422.jpg",
       "fallback_images": [
+        "https://images.unsplash.com/photo-1506744038136-46273834b3fb?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Los manifestantes incendian la sede del Supremo en el quinto día de disturbios en Albania",
+      "link": "https://www.europapress.es/internacional/noticia-manifestantes-incendian-sede-supremo-quinto-dia-disturbios-albania-20261017200939.html",
+      "summary": "Este sábado se han producido nuevos enfrentamientos entre manifestantes y fuerzas de seguridad en Tirana, la capital de Albania, unas protestas que comenzaron para protestar por el coste de la vida, las deficiencias en las instalaciones del sistema educativo y la corrupción del Gobierno.",
+      "published_at": "2026-10-17T18:09:39Z",
+      "region": "Europa",
+      "theme": "Geopolítica e Segurança",
+      "source_name": "Europa Press",
+      "source_id": "europa_press",
+      "is_brazilian": false,
+      "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20261017200939_120.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Lula está animado para “confronto” com Flávio, diz Edinho Silva",
+      "link": "https://www.poder360.com.br/poder-eleicoes-2026/lula-esta-animado-para-confronto-com-flavio-diz-edinho-silva/",
+      "summary": "Presidente se encontrará pela 1ª vez durante a campanha com o senador Flávio Bolsonaro (PL-RJ) em debate na “Band”",
+      "published_at": "2026-10-17T18:07:29Z",
+      "region": "América do Sul",
+      "theme": "Política Brasileira",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2026/03/edinho-silva-pt-estudio-poder360.jpg",
+      "fallback_images": [
         "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Zelenskyy urges support for new U.S. sanctions on Russia put on hold by Trump",
+      "link": "https://www.pbs.org/newshour/world/zelenskyy-urges-support-for-new-u-s-sanctions-on-russia-put-on-hold-by-trump",
+      "summary": "Zelenskyy called Trump's decision unfortunate but avoided directly criticizing the U.S. leader despite deepening tensions between Ukraine and Washington in recent days.",
+      "published_at": "2026-10-17T18:02:43Z",
+      "region": "América do Norte",
+      "theme": "Geopolítica e Segurança",
+      "source_name": "PBS NewsHour",
+      "source_id": "pbs_newshour",
+      "is_brazilian": false,
+      "image_url": "https://d3i6fh83elv35t.cloudfront.net/static/2026/10/2026-10-17T080534Z_1489834758_RC2V4OAGHX9R_RTRMADP_3_UKRAINE-CRISIS-ATTACK-ZAPORIZHZHIA-1024x701.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Los nacionalistas escoceses relanzan su apuesta por la independencia de Reino Unido",
+      "link": "https://www.europapress.es/internacional/noticia-nacionalistas-escoceses-relanzan-apuesta-independencia-reino-unido-20261017194410.html",
+      "summary": "El ministro principal de Escocia y líder del Partido Nacionalista Escocés (SNP), John Swinney, ha relanzado este sábado en el congreso anual de su partido celebrado en Aberdeen la apuesta por una Escocia independiente.",
+      "published_at": "2026-10-17T17:44:10Z",
+      "region": "Europa",
+      "theme": "Outros / Multitemático",
+      "source_name": "Europa Press",
+      "source_id": "europa_press",
+      "is_brazilian": false,
+      "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20261017194410_120.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "India and West Indies denied a thrilling finale as rain hits final T20",
+      "link": "https://www.aljazeera.com/sports/2026/10/17/india-and-west-indies-denied-thrilling-finale-as-rain-hits-final-t20?traffic_source=rss",
+      "summary": "India reached 118-5 after seven overs with Naman Dhir hitting 24 off six balls before rain forced an end to the game.",
+      "published_at": "2026-10-17T17:42:01Z",
+      "region": "Ásia",
+      "theme": "Outros / Multitemático",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/10/AFP__20261017__D3L89AJ__v1__MidRes__CricketIndWisT20-1792253604.jpg?resize=1200%2C630",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Prédio incendiado, 272 presos: o que está por trás de dia de protestos na França",
+      "link": "https://www.bbc.com/portuguese/articles/ck0546rzg0gvo?at_medium=RSS&at_campaign=rss",
+      "summary": "Neste sábado (17/10), diversas cidades francesas foram tomadas por milhares de manifestantes que pedem melhorias nos serviços públicos e se queixam do aumento no custo de vida",
+      "published_at": "2026-10-17T17:41:35Z",
+      "region": "Europa",
+      "theme": "Outros / Multitemático",
+      "source_name": "BBC News Brasil",
+      "source_id": "bbc_brasil",
+      "is_brazilian": true,
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8196/live/a0be8040-ca36-11f1-9ab2-b325ce61f9d2.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Pope Leo returns to Vatican after lung cancer surgery",
+      "link": "https://www.aljazeera.com/news/2026/10/17/pope-leo-returns-to-vatican-after-lung-cancer-surgery?traffic_source=rss",
+      "summary": "Doctors say they are seeing 'continued improvement' after the US-born pope had a lump removed from his lung on Tuesday.",
+      "published_at": "2026-10-17T17:37:52Z",
+      "region": "América do Norte",
+      "theme": "Outros / Multitemático",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": "https://s.france24.com/media/display/745c4444-ca16-11f1-81af-638c1c1f5fd6/w:1024/p:16x9/5eefb12dbc48266fba95f0685a09134b43ef53d7.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "How Alberta separatism went from fringe cause to referendum",
+      "link": "https://www.pbs.org/newshour/world/how-alberta-separatism-went-from-fringe-cause-to-referendum",
+      "summary": "Alberta is not voting to leave Canada on Oct. 19. Instead, voters will decide whether the province should remain in Canada or begin the legal process toward a future referendum on separation.",
+      "published_at": "2026-10-17T17:35:55Z",
+      "region": "América do Norte",
+      "theme": "Outros / Multitemático",
+      "source_name": "PBS NewsHour",
+      "source_id": "pbs_newshour",
+      "is_brazilian": false,
+      "image_url": "https://d3i6fh83elv35t.cloudfront.net/static/2026/10/2026-10-16T220443Z_887291548_RC2J4OATJRHW_RTRMADP_3_CANADA-ALBERTA-1024x683.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
       ]
     },
     {
@@ -53,6 +444,40 @@
       ]
     },
     {
+      "title": "Trump faces bipartisan backlash over Russia sanctions waiver",
+      "link": "https://www.aljazeera.com/news/2026/10/17/trump-faces-bipartisan-backlash-over-russia-sanctions-waiver?traffic_source=rss",
+      "summary": "Republicans and Democrats condemn Trump’s decision to suspend sanctions, saying it undermines support for Ukraine.",
+      "published_at": "2026-10-17T17:24:07Z",
+      "region": "América do Norte",
+      "theme": "Geopolítica e Segurança",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": null,
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Jerusalem Daily: Israeli settlers attack farmers and journalists",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/17/aje-onl-nf_yt-dnrbltn-261017-salehm-jerusalem_daily-171026?traffic_source=rss",
+      "summary": "After Israeli settlers beat and severely wounded Palestinian farmers, settler violence continues.",
+      "published_at": "2026-10-17T17:18:50Z",
+      "region": "Oriente Médio",
+      "theme": "Geopolítica e Segurança",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": null,
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
       "title": "🔴 Live: Chaotic scenes as organisers of French protests claim 800,000 have taken to streets",
       "link": "https://www.france24.com/en/france/20261017-live-france-s-yellow-vests-throw-their-weight-behind-mounting-student-protests",
       "summary": "",
@@ -67,6 +492,23 @@
         "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Más de 500.000 personas se manifiestan en Francia contra el Gobierno",
+      "link": "https://www.europapress.es/internacional/noticia-mas-500000-personas-manifiestan-francia-contra-gobierno-20261017191401.html",
+      "summary": "Más de 500.000 personas han participado este sábado en las multitudinarias movilizaciones celebradas en las principales ciudades francesas para denunciar la mala situación de la educación pública, el elevado coste de la vida y la violencia policial de las últimas semanas, según la cifra proporcionada por la Confederación General del Trabajo (CGT), el principal sindicato francés.",
+      "published_at": "2026-10-17T17:14:01Z",
+      "region": "Europa",
+      "theme": "Política Internacional",
+      "source_name": "Europa Press",
+      "source_id": "europa_press",
+      "is_brazilian": false,
+      "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20261017191401_120.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
       ]
     },
     {
@@ -104,7 +546,7 @@
       ]
     },
     {
-      "title": "Al Jazeera reports from Paris as protests turns violent",
+      "title": "Al Jazeera reports from Paris as protests turn violent",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/10/17/al-jazeera-reports-from-paris-as-protests-turns-violent?traffic_source=rss",
       "summary": "In Paris, thousands are protesting teacher shortages, poor school facilities and cuts to public services.",
       "published_at": "2026-10-17T16:56:40Z",
@@ -606,7 +1048,7 @@
       "source_name": "DW World News",
       "source_id": "dw_english",
       "is_brazilian": false,
-      "image_url": null,
+      "image_url": "https://static.dw.com/image/79363604_6.jpg",
       "fallback_images": [
         "https://images.unsplash.com/photo-1578575437130-527eed3abbec?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?q=80&w=800&auto=format&fit=crop",
@@ -641,23 +1083,6 @@
       "source_id": "france24",
       "is_brazilian": false,
       "image_url": "https://s.france24.com/media/display/b40d67d8-ca36-11f1-acb1-638c1c1f5fd6/w:1024/p:16x9/EN-20261017-130200-130306-CS.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Prédio incendiado, 270 presos: o que está por trás de dia de protestos na França",
-      "link": "https://www.bbc.com/portuguese/articles/ck0546rzg0gvo?at_medium=RSS&at_campaign=rss",
-      "summary": "Neste sábado (17/10), diversas cidades francesas foram tomadas por milhares de manifestantes que pedem melhorias nos serviços públicos e se queixam do aumento no custo de vida",
-      "published_at": "2026-10-17T14:40:30Z",
-      "region": "Europa",
-      "theme": "Outros / Multitemático",
-      "source_name": "BBC News Brasil",
-      "source_id": "bbc_brasil",
-      "is_brazilian": true,
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8196/live/a0be8040-ca36-11f1-9ab2-b325ce61f9d2.jpg",
       "fallback_images": [
         "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
@@ -1141,6 +1566,23 @@
       ]
     },
     {
+      "title": "Looting, blazes and clashes in France amid nationwide protests",
+      "link": "https://www.france24.com/en/live-news/20261017-french-protesters-clash-with-police-during-nationwide-demonstrations",
+      "summary": "Police and protesters clashed violently in Paris and other French cities Saturday on the sidelines of nationwide marches against soaring inflation, with one demonstrator's hand blown off, multiple blazes set and looters breaking into dozens of stores to strip them bare.",
+      "published_at": "2026-10-17T12:31:24Z",
+      "region": "Europa",
+      "theme": "Economia Internacional",
+      "source_name": "France 24",
+      "source_id": "france24",
+      "is_brazilian": false,
+      "image_url": "https://s.france24.com/media/display/cc30ed64-ca4d-11f1-a832-2d1c143cdef3/w:1024/p:16x9/ad8cc1eedbdc9fbb239bb669f5f2566c1bcba589.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
       "title": "🔴 Live: Tens of thousands join protests across France, clashes reported in several cities",
       "link": "https://www.france24.com/en/france/20261017-live-france-s-yellow-vests-throw-their-weight-behind-mounting-student-protests",
       "summary": "",
@@ -1257,23 +1699,6 @@
         "https://images.unsplash.com/photo-1542810634-71277d95dcbb?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1489533119213-66a5cd877091?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1531206715517-5c0ba140e2b8?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
-      "link": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
-      "summary": "The US president temporarily ends many restrictions on Moscow recently passed by Congress over \"national security\" concerns.",
-      "published_at": "2026-10-17T11:56:06Z",
-      "region": "Europa",
-      "theme": "Política Internacional",
-      "source_name": "BBC World News",
-      "source_id": "bbc_world",
-      "is_brazilian": false,
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c147/live/f608c860-c9cf-11f1-84c1-fd3c3266bb86.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
       ]
     },
     {
@@ -1651,23 +2076,6 @@
       ]
     },
     {
-      "title": "Pope Leo returns to Vatican four days after lung cancer surgery",
-      "link": "https://www.france24.com/en/europe/20261017-pope-leo-returns-to-vatican-four-days-after-lung-cancer-surgery",
-      "summary": "Pope Leo XIV was released from the hospital on Saturday after lung cancer surgery. Doctors removed part of the 71-year-old's right lung last week to extract a cancerous tumour.",
-      "published_at": "2026-10-17T10:35:22Z",
-      "region": "Europa",
-      "theme": "Outros / Multitemático",
-      "source_name": "France 24",
-      "source_id": "france24",
-      "is_brazilian": false,
-      "image_url": "https://s.france24.com/media/display/745c4444-ca16-11f1-81af-638c1c1f5fd6/w:1024/p:16x9/5eefb12dbc48266fba95f0685a09134b43ef53d7.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
       "title": "Trump says did not order curb to Starshield for Ukraine",
       "link": "https://www.france24.com/en/video/20261017-trump-says-did-not-order-curb-to-starshield-for-ukraine",
       "summary": "Donald Trump said Friday he did not request a reduction in Starshield services for Ukraine, after tech billionaire Elon Musk insisted any limits on the SpaceX-operated communications system would ultimately have come from the US president.",
@@ -1770,7 +2178,7 @@
       ]
     },
     {
-      "title": "O que a eleição de uma estreante deputada federal de 24 anos do Rio revela sobre a onda de direita no Brasil",
+      "title": "O que a eleição da deputada federal mais jovem do Rio revela sobre a onda de direita no Brasil",
       "link": "https://www.bbc.com/portuguese/articles/cwq6n967qyqvo?at_medium=RSS&at_campaign=rss",
       "summary": "A influenciadora Julia de Castro faz parte da leva de jovens de direita eleitos após construir capital político digital e serem recrutados por partidos, em uma estratégia bem-sucedida liderada pelo PL.",
       "published_at": "2026-10-17T09:57:35Z",
@@ -2093,6 +2501,23 @@
       ]
     },
     {
+      "title": "France: Protesters clash with police in nationwide protests, amid rising social polarization",
+      "link": "https://www.dw.com/en/france-protesters-clash-with-police-in-nationwide-protests-amid-rising-social-polarization/a-79685584?maca=en-rss-en-world-4025-rdf",
+      "summary": "Unrest broke out in parts of France as students, trade unionists and Yellow Vest activists took to the streets to protest high prices and inequality. Police arrested hundreds amid chaotic scenes in cities across France.",
+      "published_at": "2026-10-17T08:02:00Z",
+      "region": "Europa",
+      "theme": "Direitos Humanos, Sociedade e Migrações",
+      "source_name": "DW World News",
+      "source_id": "dw_english",
+      "is_brazilian": false,
+      "image_url": "https://static.dw.com/image/79689696_6.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1542810634-71277d95dcbb?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1489533119213-66a5cd877091?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1531206715517-5c0ba140e2b8?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
       "title": "France: Police and protesters clash in nationwide protests",
       "link": "https://www.dw.com/en/france-police-and-protesters-clash-in-nationwide-protests/a-79685584?maca=en-rss-en-world-4025-rdf",
       "summary": "Students, trade unionists and Yellow Vest activists are taking to French streets to protest high prices and inequality. Police and protesters have already clashed in Paris and Marseille.",
@@ -2124,431 +2549,6 @@
         "https://images.unsplash.com/photo-1542810634-71277d95dcbb?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1489533119213-66a5cd877091?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1531206715517-5c0ba140e2b8?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Arrests made for pro-Nazi chants at Hajduk Split-Ajax match in Croatia",
-      "link": "https://www.aljazeera.com/sports/2026/10/17/pro-nazi-arrests-made-for-chants-at-hajduk-split-ajax-in-uefa-europa-league?traffic_source=rss",
-      "summary": "Croatian football fans arrested over slurs before and during UEFA Conference League game in Split.",
-      "published_at": "2026-10-17T07:45:31Z",
-      "region": "Oriente Médio",
-      "theme": "Outros / Multitemático",
-      "source_name": "Al Jazeera",
-      "source_id": "aljazeera_english",
-      "is_brazilian": false,
-      "image_url": null,
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Albania eleva a 156 los heridos por las protestas en la capital y acusa a la oposición de instrumentalizar la violencia",
-      "link": "https://www.europapress.es/internacional/noticia-albania-eleva-156-heridos-protestas-capital-acusa-oposicion-instrumentalizar-violencia-20261017091837.html",
-      "summary": "El ministro del Interior de Albania, Ervin Demo, ha informado a última hora de este viernes de que un total de 156 ciudadanos albaneses han resultado heridos como consecuencia de la violencia registrada en el marco de las protestas estudiantiles de los últimos cuatro días. Entre los afectados se encuentran 97 agentes de Policía, 45 manifestantes y 14 transeúntes ajenos a los enfrentamientos, además de cuatro menores de edad.",
-      "published_at": "2026-10-17T07:18:37Z",
-      "region": "Europa",
-      "theme": "Direito Internacional e Instituições",
-      "source_name": "Europa Press",
-      "source_id": "europa_press",
-      "is_brazilian": false,
-      "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20261017091837_120.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1505664194779-8beaceb93744?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Can Yemen’s government forces sustain their offensive against the Houthis?",
-      "link": "https://www.aljazeera.com/news-analysis/2026/10/17/can-yemens-government-forces-sustain-their-offensive-against-the-houthis?traffic_source=rss",
-      "summary": "Houthi missile strikes threaten key supply routes on Yemen's Red Sea coast, intensifying pressure on government forces.",
-      "published_at": "2026-10-17T06:41:34Z",
-      "region": "Oriente Médio",
-      "theme": "Geopolítica e Segurança",
-      "source_name": "Al Jazeera",
-      "source_id": "aljazeera_english",
-      "is_brazilian": false,
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/10/reuters_6ad19542-1792120130.jpg?resize=1920%2C1440",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Ukraine and Europe have little choice but to work with Trump",
-      "link": "https://www.aljazeera.com/opinions/2026/10/17/ukraine-and-europe-have-little-choice-but-to-work-with-trump?traffic_source=rss",
-      "summary": "Despite growing tensions over Russia, Kyiv and European leaders remain dependent on US support.",
-      "published_at": "2026-10-17T06:36:03Z",
-      "region": "Europa",
-      "theme": "Política Internacional",
-      "source_name": "Al Jazeera",
-      "source_id": "aljazeera_english",
-      "is_brazilian": false,
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/10/reuters_6ad2139c-1792152476.jpg?resize=1920%2C1440",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "AI fears are being weaponised",
-      "link": "https://www.aljazeera.com/opinions/2026/10/17/ai-fears-are-being-weaponised?traffic_source=rss",
-      "summary": "Tech giants are fighting to protect their monopolies from cheap open-source models. Fear is their weapon.",
-      "published_at": "2026-10-17T06:21:39Z",
-      "region": "Oriente Médio",
-      "theme": "Outros / Multitemático",
-      "source_name": "Al Jazeera",
-      "source_id": "aljazeera_english",
-      "is_brazilian": false,
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/09/afp_6ab118f42bb9-1789991156.jpg?resize=1920%2C1440",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Vance reconoce \"errores\" en las redadas migratorias del ICE y promete responsabilidad política",
-      "link": "https://www.europapress.es/internacional/noticia-vance-reconoce-errores-redadas-migratorias-ice-promete-responsabilidad-politica-20261017081310.html",
-      "summary": "El vicepresidente de Estados Unidos, JD Vance, ha reconocido este viernes que hay algunos agentes del Servicio de Control de Inmigración y Aduanas (ICE, por sus siglas en inglés) \"que cometen errores\" --en referencia a los casos de brutalidad policial-- y ha defendido que su Gobierno tiene la responsabilidad de tomar medidas contra quienes los tienen.",
-      "published_at": "2026-10-17T06:13:10Z",
-      "region": "América do Norte",
-      "theme": "Política Internacional",
-      "source_name": "Europa Press",
-      "source_id": "europa_press",
-      "is_brazilian": false,
-      "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20261017081310_120.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Oregon school shooting: Police praise 'heroism' of those who intervened to stop more killing",
-      "link": "https://www.dw.com/en/oregon-school-shooting-police-praise-heroism-of-those-who-intervened-to-stop-more-killing/a-79685302?maca=en-rss-en-world-4025-rdf",
-      "summary": "US police have praised the actions of three people who cut short a deadly shooting at a school in the state of Oregon. Three children and a teacher were killed in the attack, carried out by a former pupil at the school.",
-      "published_at": "2026-10-17T06:04:00Z",
-      "region": "América do Norte",
-      "theme": "Saúde",
-      "source_name": "DW World News",
-      "source_id": "dw_english",
-      "is_brazilian": false,
-      "image_url": "https://static.dw.com/image/79675080_6.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1584515901367-f1c2a12a50ea?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1505751172876-fa1923c5c528?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1584036561566-baf2418a7c21?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Yemen's Houthis claim responsibility for fresh missile strike on Aden airport",
-      "link": "https://www.france24.com/en/middle-east/20261017-yemen-s-houthis-claim-responsibility-for-fresh-missile-strike-on-aden-airport",
-      "summary": "Yemen's Iran-aligned Houthi group claimed responsibility after two missiles struck Aden International Airport on Friday, saying they had targeted a weapons depot as well as a military command headquarters. The Aden Security Department said a Yemenia Airways flight bound for Cairo had been preparing for takeoff when the attack took place.",
-      "published_at": "2026-10-17T06:00:32Z",
-      "region": "Oriente Médio",
-      "theme": "Geopolítica e Segurança",
-      "source_name": "France 24",
-      "source_id": "france24",
-      "is_brazilian": false,
-      "image_url": "https://s.france24.com/media/display/8be454f8-c9ee-11f1-a86a-2d1c143cdef3/w:1024/p:16x9/AP26286485676861.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "The chatbot murder guide: AI’s struggle between privacy, reporting violence",
-      "link": "https://www.aljazeera.com/news/2026/10/17/the-chatbot-murder-guide-ais-struggle-between-privacy-reporting-violence?traffic_source=rss",
-      "summary": "Experts say balancing the need to govern AI for public safety with user privacy is 'extraordinarily difficult'.",
-      "published_at": "2026-10-17T05:50:37Z",
-      "region": "Oriente Médio",
-      "theme": "Ciência, Tecnologia e Inovação",
-      "source_name": "Al Jazeera",
-      "source_id": "aljazeera_english",
-      "is_brazilian": false,
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/10/getty_6acf79b5b3-1791982005.jpg?resize=1920%2C1440",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1518770660439-4636190af475?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1507668077129-56e32842fceb?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Russian attacks in Ukraine kill at least 8, cut power to 1 million",
-      "link": "https://www.aljazeera.com/news/2026/10/17/russian-attacks-in-ukraine-kill-at-least-8-cut-power-to-1-million?traffic_source=rss",
-      "summary": "Russia strikes Kharkiv, Kramatorsk, Volyn and Rivne as Moscow presses its campaign against Ukraine's power grid.",
-      "published_at": "2026-10-17T05:19:19Z",
-      "region": "Europa",
-      "theme": "Outros / Multitemático",
-      "source_name": "Al Jazeera",
-      "source_id": "aljazeera_english",
-      "is_brazilian": false,
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/10/reuters_6ad2fb78-1792211832.jpg?resize=1920%2C1365",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Live: Police crack down as protesters try to raise barricades across France",
-      "link": "https://www.france24.com/en/france/20261017-live-france-s-yellow-vests-throw-their-weight-behind-mounting-student-protests",
-      "summary": "French police used tear gas and batons to try to drive protesters from the streets in Paris, Marseille and Lyon as demonstrators staged unsanctioned marches and tried to block traffic with impromptu barricades Saturday. Hundreds of thousands of people are expected to demonstrate across France as students, trade union members and remnants of the Yellow Vest movement join forces to protest rising cost of living. Follow our liveblog for the latest updates.",
-      "published_at": "2026-10-17T05:17:22Z",
-      "region": "Europa",
-      "theme": "Geopolítica e Segurança",
-      "source_name": "France 24",
-      "source_id": "france24",
-      "is_brazilian": false,
-      "image_url": "https://s.france24.com/media/display/030758e8-ca1f-11f1-9dc7-2d1c143cdef3/w:1024/p:16x9/000-D3KE3F3.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Live: France's Yellow Vests throw their weight behind mounting student protests",
-      "link": "https://www.france24.com/en/france/20261017-live-france-s-yellow-vests-throw-their-weight-behind-mounting-student-protests",
-      "summary": "Hundreds of thousands of ⁠people are expected to ​demonstrate across France on Saturday as students, trade union members and remnants of the Yellow Vest movement join forces to protest rising cost of living and ​the country's fraying social model. Follow our liveblog for the latest developments.",
-      "published_at": "2026-10-17T05:17:22Z",
-      "region": "Europa",
-      "theme": "Geopolítica e Segurança",
-      "source_name": "France 24",
-      "source_id": "france24",
-      "is_brazilian": false,
-      "image_url": "https://s.france24.com/media/display/e9533b5c-c9fa-11f1-8c76-2d1c143cdef3/w:1024/p:16x9/2026-10-17T070722Z-1548666842-RC2U4OA7SH8V-RTRMADP-3-FRANCE-PROTEST.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Pope's health should not be taken 'for granted', says top Vatican diplomat",
-      "link": "https://www.bbc.co.uk/news/articles/c6kg53zrexdeo?at_medium=RSS&at_campaign=rss",
-      "summary": "Archbishop Paul Gallagher tells the BBC there was no sign of the Pope's ill health prior to his operation this week.",
-      "published_at": "2026-10-17T05:01:40Z",
-      "region": "Global",
-      "theme": "Saúde",
-      "source_name": "BBC World News",
-      "source_id": "bbc_world",
-      "is_brazilian": false,
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e95/live/6651a140-c96d-11f1-a6e6-417671ef62cb.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1584515901367-f1c2a12a50ea?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1505751172876-fa1923c5c528?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1584036561566-baf2418a7c21?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Three Mexicans jailed for 158 years each for killing Australian, US surfers",
-      "link": "https://www.aljazeera.com/news/2026/10/17/three-mexicans-jailed-for-158-years-each-for-killing-australian-us-surfers?traffic_source=rss",
-      "summary": "A Mexican judge sentenced the three men for the 2024 murders a week after they were found guilty.",
-      "published_at": "2026-10-17T05:01:14Z",
-      "region": "América do Norte",
-      "theme": "Outros / Multitemático",
-      "source_name": "Al Jazeera",
-      "source_id": "aljazeera_english",
-      "is_brazilian": false,
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/10/afp_6ad2f9e66ff2-1792211430.jpg?resize=1920%2C1440",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "The Israeli politicians seeking to replace Netanyahu",
-      "link": "https://www.aljazeera.com/news/2026/10/17/the-israeli-politicians-seeking-to-replace-netanyahu?traffic_source=rss",
-      "summary": "A look at Israel's main opposition leaders, their parties and their largely shared positions on Gaza and other wars.",
-      "published_at": "2026-10-17T05:00:58Z",
-      "region": "Oriente Médio",
-      "theme": "Outros / Multitemático",
-      "source_name": "Al Jazeera",
-      "source_id": "aljazeera_english",
-      "is_brazilian": false,
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/10/GettyImages-2153281784-1-3-1791989772.jpg?resize=1200%2C630",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Trump waives Russia sanctions as rift with Zelenskyy widens",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/17/trump-waives-russia-sanctions-as-rift-with-zelenskyy-widens?traffic_source=rss",
-      "summary": "US President Donald Trump has waived more sanctions on Russia in a bid to ease energy prices.",
-      "published_at": "2026-10-17T04:58:32Z",
-      "region": "América do Norte",
-      "theme": "Política Internacional",
-      "source_name": "Al Jazeera",
-      "source_id": "aljazeera_english",
-      "is_brazilian": false,
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/10/image-1792213059.jpg?resize=1920%2C1080&quality=80",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Trump puts on hold new Russia sanctions he signed into law",
-      "link": "https://www.aljazeera.com/news/2026/10/17/trump-puts-on-hold-new-russia-sanctions-he-signed-into-law?traffic_source=rss",
-      "summary": "US president's executive order comes two days before sanctions deadline and a week after diesel deal with Putin.",
-      "published_at": "2026-10-17T04:45:03Z",
-      "region": "América do Norte",
-      "theme": "Política Internacional",
-      "source_name": "Al Jazeera",
-      "source_id": "aljazeera_english",
-      "is_brazilian": false,
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2025/09/reuters_68cbd1ad-1758187949.jpg?resize=1920%2C1436",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Albania’s PM blames ‘foreign hands’ for protests",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/17/albanias-pm-blames-foreign-hands-for-protests?traffic_source=rss",
-      "summary": "Albanian PM Edi Rama claimed ‘foreign hands’ are driving protests that have rocked the country for months.",
-      "published_at": "2026-10-17T04:21:18Z",
-      "region": "Oriente Médio",
-      "theme": "Outros / Multitemático",
-      "source_name": "Al Jazeera",
-      "source_id": "aljazeera_english",
-      "is_brazilian": false,
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/10/image-1792210824.jpg?resize=1920%2C1080&quality=80",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Trump suspende el último paquete de sanciones contra Rusia por motivos de \"interés nacional\"",
-      "link": "https://www.europapress.es/internacional/noticia-trump-suspende-ultimo-paquete-sanciones-contra-rusia-motivos-interes-nacional-20261017054007.html",
-      "summary": "El presidente de Estados Unidos, Donald Trump, ha suspendido este viernes la aplicación del último paquete de sanciones contra Rusia --aprobado por el Congreso hace un mes y el cual estaba a punto de entrar en vigor-- alegando que la decisión \"redunda en el interés nacional\" del país.",
-      "published_at": "2026-10-17T03:40:07Z",
-      "region": "América do Norte",
-      "theme": "Política Internacional",
-      "source_name": "Europa Press",
-      "source_id": "europa_press",
-      "is_brazilian": false,
-      "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20261017054007_120.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Southern California wildfire engulfs homes, prompts evacuation orders",
-      "link": "https://www.aljazeera.com/news/2026/10/17/southern-california-wildfire-engulfs-homes-prompts-evacuation-orders?traffic_source=rss",
-      "summary": "The fast-spreading Norte Fire in Orange County is fuelled by intense warm winds and unseasonably high temperatures.",
-      "published_at": "2026-10-17T03:30:36Z",
-      "region": "Oriente Médio",
-      "theme": "Outros / Multitemático",
-      "source_name": "Al Jazeera",
-      "source_id": "aljazeera_english",
-      "is_brazilian": false,
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/10/afp_6ad2d683dbb6-1792202371.jpg?resize=1920%2C1440",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "“O cara tá afiado”: aliados elogiam Flávio após entrevista à “Globo”",
-      "link": "https://www.poder360.com.br/poder-eleicoes-2026/o-cara-ta-afiado-aliados-elogiam-flavio-apos-entrevista-a-globo/",
-      "summary": "Nikolas Ferreira, Rogério Marinho e Deltan Dallagnol elogiaram o desempenho do candidato, enquanto Renata Lo Prete foi criticada",
-      "published_at": "2026-10-17T03:26:43Z",
-      "region": "América do Sul",
-      "theme": "Outros / Multitemático",
-      "source_name": "Poder360",
-      "source_id": "poder360",
-      "is_brazilian": true,
-      "image_url": "https://static.poder360.com.br/uploads/2026/10/flavio-bolsonaro-entrevista-na-tv-globo-16-outubro-2026-1200x675.png",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "“Motoboy”: Flávio repete estratégia de Bolsonaro e usa cola na mão",
-      "link": "https://www.poder360.com.br/poder-eleicoes-2026/motoboy-flavio-repete-estrategia-de-bolsonaro-e-usa-cola-na-mao/",
-      "summary": "Durante entrevista à \"TV Globo\", candidato apareceu com anotação, repetindo recurso usado pelo pai em 2018 e 2022",
-      "published_at": "2026-10-17T03:26:12Z",
-      "region": "América do Norte",
-      "theme": "Política Brasileira",
-      "source_name": "Poder360",
-      "source_id": "poder360",
-      "is_brazilian": true,
-      "image_url": "https://static.poder360.com.br/uploads/2026/10/flavio-anotacao-entrevista-globo-1200x675.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Cameroonians await government reshuffle after Biya’s return",
-      "link": "https://www.aljazeera.com/news/2026/10/17/cameroonians-await-government-reshuffle-after-biyas-return?traffic_source=rss",
-      "summary": "After 10 weeks abroad, Biya returned to Cameroon but has yet to appoint a new government or vice president.",
-      "published_at": "2026-10-17T03:14:28Z",
-      "region": "Oriente Médio",
-      "theme": "Política Internacional",
-      "source_name": "Al Jazeera",
-      "source_id": "aljazeera_english",
-      "is_brazilian": false,
-      "image_url": null,
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Three men jailed for 158 years each for murdering Australian and US surfers in Mexico",
-      "link": "https://www.bbc.co.uk/news/articles/c3kgqjkzw29wo?at_medium=RSS&at_campaign=rss",
-      "summary": "Brothers Jake and Callum Robinson and their friend Carter Rhoad were killed on a surfing trip in an apparent botched robbery.",
-      "published_at": "2026-10-17T03:11:10Z",
-      "region": "América do Norte",
-      "theme": "Outros / Multitemático",
-      "source_name": "BBC World News",
-      "source_id": "bbc_world",
-      "is_brazilian": false,
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ab9/live/138578c0-c453-11f1-bc2e-018d645d8d21.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Brazil’s Amazon deforestation hits lowest level on record",
-      "link": "https://www.aljazeera.com/news/2026/10/17/brazils-amazon-deforestation-hits-lowest-level-on-record?traffic_source=rss",
-      "summary": "Data show a 42 percent drop in forest clearance from a year earlier, giving Lula a boost before the election run-off.",
-      "published_at": "2026-10-17T02:49:21Z",
-      "region": "América do Sul",
-      "theme": "Meio Ambiente e Clima",
-      "source_name": "Al Jazeera",
-      "source_id": "aljazeera_english",
-      "is_brazilian": false,
-      "image_url": null,
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?q=80&w=800&auto=format&fit=crop"
       ]
     }
   ]
