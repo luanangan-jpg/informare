@@ -1,6 +1,873 @@
 {
-  "updated_at": "2026-10-21T10:52:11.942089Z",
+  "updated_at": "2026-10-21T15:45:23.030883Z",
   "news": [
+    {
+      "title": "Resultado da Quaest, agenda de Flávio e Lula e outras notícias desta quarta-feira; siga",
+      "link": "https://www.bbc.co.uk/portuguese/live/cqly3dejgzplt?at_medium=RSS&at_campaign=rss",
+      "summary": "Flavio com Tarcísio em SP, Lula em MG e na TV Record; confira as agendas dos candidatos nesta quarta-feira e as principais notícias da eleição em tempo real",
+      "published_at": "2026-10-21T15:45:13.590988Z",
+      "region": "América do Sul",
+      "theme": "Política Brasileira",
+      "source_name": "BBC News Brasil",
+      "source_id": "bbc_brasil",
+      "is_brazilian": true,
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/84cd/live/7f972850-cd4b-11f1-9a39-31b474234113.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Netanyahu insiste en que \"hay que derrocar al régimen de Irán\": \"Mojtaba Jamenei sigue los pasos de su padre\"",
+      "link": "https://www.europapress.es/internacional/noticia-netanyahu-insiste-hay-derrocar-regimen-iran-mojtaba-jamenei-sigue-pasos-padre-20261021173802.html",
+      "summary": "El primer ministro de Israel, Benjamin Netanyahu, ha reiterado este miércoles el mensaje de que \"hay que derrocar al régimen de Irán\", incidiendo en que el nuevo líder supremo, Mojtaba Jamenei, \"ha decidido seguir los pasos de su padre\" acusándole de trabajar para desarrollar armas nucleares.",
+      "published_at": "2026-10-21T15:38:02Z",
+      "region": "Oriente Médio",
+      "theme": "Geopolítica e Segurança",
+      "source_name": "Europa Press",
+      "source_id": "europa_press",
+      "is_brazilian": false,
+      "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20261021173802_120.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Análise: quem está por trás dos protestos violentos na França e quem pode se beneficiar deles?",
+      "link": "https://www.bbc.com/portuguese/articles/c6x29lmmmexno?at_medium=RSS&at_campaign=rss",
+      "summary": "País está dividido sobre o que levou a alguns dos piores distúrbios vistos em cidades francesas na história moderna; mas quem ganha com o caos no país?",
+      "published_at": "2026-10-21T15:35:08Z",
+      "region": "Europa",
+      "theme": "Outros / Multitemático",
+      "source_name": "BBC News Brasil",
+      "source_id": "bbc_brasil",
+      "is_brazilian": true,
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f8fb/live/9d496cd0-cc9e-11f1-94e6-edd4c60b2e1d.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Trump says AI data centres should pay ‘dividends’ in pre-midterm shift",
+      "link": "https://www.aljazeera.com/news/2026/10/21/trump-says-ai-data-centres-should-pay-dividends-in-pre-midterm-shift?traffic_source=rss",
+      "summary": "US president has continued to support data centres in advance of midterms, despite growing opposition from Republicans.",
+      "published_at": "2026-10-21T15:09:33Z",
+      "region": "América do Norte",
+      "theme": "Política Internacional",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": null,
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Governo Lula amplia isenção para universidades a 4 dias do 2º turno",
+      "link": "https://www.poder360.com.br/poder-economia/governo-lula-amplia-isencao-para-universidades-a-4-dias-do-2o-turno/",
+      "summary": "Fazenda reconhece imunidade já prevista na Constituição, mas não informa se medida terá efeito adicional na arrecadação",
+      "published_at": "2026-10-21T15:02:57Z",
+      "region": "América do Sul",
+      "theme": "Política Brasileira",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2026/10/Durigan-foto-de-Washington-Costa-MF-9.out_.2026-1200x675.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Lula envia PEC para transporte gratuito ao Congresso",
+      "link": "https://www.poder360.com.br/poder-governo/lula-envia-pec-para-transporte-gratuito-ao-congresso/",
+      "summary": "Projeto para tarifa zero tem custo estimado de R$ 16 bilhões; envio é feito 4 dias antes do 2º turno das eleições",
+      "published_at": "2026-10-21T14:55:15Z",
+      "region": "América do Sul",
+      "theme": "Política Brasileira",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2026/10/lula-games-planalto-1200x675.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Russia to send first diesel tanker to the US amid Trump deal",
+      "link": "https://www.aljazeera.com/economy/2026/10/21/russia-to-send-first-diesel-tanker-to-the-us-amid-trump-deal?traffic_source=rss",
+      "summary": "Russia will send on Thursday its first diesel tanker to the US to an undisclosed port.",
+      "published_at": "2026-10-21T14:54:55Z",
+      "region": "América do Norte",
+      "theme": "Política Internacional",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": null,
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Musk pledges $10bn in SpaceX shares for US children: Who really gains?",
+      "link": "https://www.aljazeera.com/news/2026/10/21/musk-pledges-10bn-in-spacex-shares-for-us-children-who-really-gains?traffic_source=rss",
+      "summary": "The pledge, which Trump says will go through tax-friendly 'Trump accounts', comes two weeks before the US midterms.",
+      "published_at": "2026-10-21T14:41:03Z",
+      "region": "América do Norte",
+      "theme": "Saúde",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": null,
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1584515901367-f1c2a12a50ea?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1505751172876-fa1923c5c528?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1584036561566-baf2418a7c21?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "US envoy Witkoff calls Russia’s Putin a ‘humanitarian’",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/21/us-envoy-witkoff-calls-russias-putin-a?traffic_source=rss",
+      "summary": "US envoy Steve Witkoff praised Russian President Vladimir Putin as a ‘humanitarian’.",
+      "published_at": "2026-10-21T14:39:08Z",
+      "region": "Europa",
+      "theme": "Política Internacional",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": null,
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Russia releases American Stephen Hubbard after four years in prison",
+      "link": "https://www.aljazeera.com/news/2026/10/21/russia-releases-american-stephen-hubbard-after-four-years-in-prison?traffic_source=rss",
+      "summary": "Hubbard was jailed after being accused of fighting alongside Ukrainian forces against Russia.",
+      "published_at": "2026-10-21T14:31:53Z",
+      "region": "Europa",
+      "theme": "Geopolítica e Segurança",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": null,
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Fachin diz que desafio do STF é equilibrar omissão e protagonismo",
+      "link": "https://www.poder360.com.br/poder-justica/fachin-diz-que-desafio-do-stf-e-equilibrar-omissao-e-protagonismo/",
+      "summary": "Presidente do Supremo afirma que um tribunal que substitui o debate político por sua própria vontade “trai a sua missão”",
+      "published_at": "2026-10-21T14:18:30Z",
+      "region": "América do Sul",
+      "theme": "Política Brasileira",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2026/09/Edson-Fachin-STF-2-1200x675.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Russia arrests German man, calls him a Ukraine 'mercenary'",
+      "link": "https://www.dw.com/en/russia-arrests-german-man-calls-him-a-ukraine-mercenary/a-79723871?maca=en-rss-en-world-4025-rdf",
+      "summary": "Russian FSB agents have arrested a German national and accused him of fighting as a mercenary for Ukraine's military. They claim he deserted over unpaid wages and say he was a sniper who once served in the Bundeswehr.",
+      "published_at": "2026-10-21T14:17:00Z",
+      "region": "Europa",
+      "theme": "Geopolítica e Segurança",
+      "source_name": "DW World News",
+      "source_id": "dw_english",
+      "is_brazilian": false,
+      "image_url": "https://static.dw.com/image/79722151_6.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Flávio tem 50% contra 48% de Lula no 2º turno, diz pesquisa",
+      "link": "https://www.poder360.com.br/poder-pesquisas/flavio-tem-50-contra-48-de-lula-no-2o-turno-diz-pesquisa/",
+      "summary": "Levantamento Palver ouviu 5.000 pessoas de 16 a 20 de outubro de 2026; margem de erro é de 2,4 p.p.",
+      "published_at": "2026-10-21T14:16:02Z",
+      "region": "América do Sul",
+      "theme": "Política Brasileira",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2026/09/prismada-Flavio-Bolsonaro-e-Lula-994x675.png",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "US congressional candidate Brad Lander freed after West Bank detention",
+      "link": "https://www.aljazeera.com/news/2026/10/21/us-congressional-candidate-brad-lander-freed-after-west-bank-detention?traffic_source=rss",
+      "summary": "Lander says dozens remain in Israeli custody after being detained while helping Palestinian farmers harvest olives.",
+      "published_at": "2026-10-21T14:12:15Z",
+      "region": "América do Norte",
+      "theme": "Outros / Multitemático",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": null,
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Macron accuses foreign leaders of exploiting French riots",
+      "link": "https://www.bbc.co.uk/news/articles/ckjrw044ggxgo?at_medium=RSS&at_campaign=rss",
+      "summary": "The comment is an apparent swipe at Benjamin Netanyahu and Donald Trump, who both face elections in coming weeks.",
+      "published_at": "2026-10-21T14:04:28Z",
+      "region": "Europa",
+      "theme": "Política Internacional",
+      "source_name": "BBC World News",
+      "source_id": "bbc_world",
+      "is_brazilian": false,
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b6f4/live/ad9474c0-cd63-11f1-9a39-31b474234113.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Flávio recebe 9 vezes mais que Lula em doações de pessoas físicas",
+      "link": "https://www.poder360.com.br/poder-eleicoes-2026/flavio-recebe-9-vezes-mais-que-lula-em-doacoes-de-pessoas-fisicas/",
+      "summary": "Número de doadores de cada um dos candidatos é parecido, mas valor médio doado ao senador é superior ao enviado ao petista",
+      "published_at": "2026-10-21T13:59:27Z",
+      "region": "América do Sul",
+      "theme": "Política Brasileira",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2026/10/doacoes-pessoas-fisicas-campanhas-lula-flavio-20-out-2026-2-1200x675.png",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "How Qatar, Turkiye, Pakistan and Indonesia are deepening defence ties",
+      "link": "https://www.aljazeera.com/news/2026/10/21/how-qatar-turkiye-pakistan-and-indonesia-are-deepening-defence-ties?traffic_source=rss",
+      "summary": "Experts say conflicts and uncertainty are accelerating efforts to strengthen regional military capacity.",
+      "published_at": "2026-10-21T13:58:17Z",
+      "region": "Ásia",
+      "theme": "Geopolítica e Segurança",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": null,
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Flávio tem 45% contra 44% de Lula no 2º turno, diz Quaest",
+      "link": "https://www.poder360.com.br/poder-eleicoes-2026/flavio-tem-45-contra-44-de-lula-no-2o-turno-diz-quaest/",
+      "summary": "Levantamento ouviu 2.154 eleitores de 17 a 20 de outubro; margem de erro é de 2 pontos percentuais",
+      "published_at": "2026-10-21T13:56:45Z",
+      "region": "América do Sul",
+      "theme": "Política Brasileira",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2026/10/pesquisa-quaest-21-out-2026-thumb-1200x675.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Putin agrees to resume trilateral Russia-Ukraine-U.S. talks next month",
+      "link": "https://www.pbs.org/newshour/world/putin-agrees-to-resume-trilateral-russia-ukraine-u-s-talks-next-month",
+      "summary": "The Russian leader has agreed \"in principle\" to resume the talks after Nov. 10, Putin's foreign affairs adviser Yuri Ushakov told reporters following a meeting in St. Petersburg between Putin and U.S. President Donald Trump's envoy Steve Witkoff.",
+      "published_at": "2026-10-21T13:56:19Z",
+      "region": "Europa",
+      "theme": "Política Internacional",
+      "source_name": "PBS NewsHour",
+      "source_id": "pbs_newshour",
+      "is_brazilian": false,
+      "image_url": "https://d3i6fh83elv35t.cloudfront.net/static/2026/10/2026-10-21T134903Z_467914664_RC2P7OAXQUS0_RTRMADP_3_RUSSIA-CHINA-1024x710.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Russia frees jailed American Stephen Hubbard during Witkoff talks",
+      "link": "https://www.dw.com/en/russia-frees-jailed-american-stephen-hubbard-during-witkoff-talks/a-79719452?maca=en-rss-en-world-4025-rdf",
+      "summary": "During talks between Vladimir Putin and Steve Witkoff, Putin announced that jailed American Stephen Hubbard had been released. The Kremlin also said Russia was \"in principle\" ready to resume trilateral talks next month.",
+      "published_at": "2026-10-21T13:56:00Z",
+      "region": "Europa",
+      "theme": "Política Internacional",
+      "source_name": "DW World News",
+      "source_id": "dw_english",
+      "is_brazilian": false,
+      "image_url": "https://static.dw.com/image/79721576_6.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "US citizen Stephen Hubbard freed by Russia as Trump envoy meets Putin",
+      "link": "https://www.bbc.co.uk/news/articles/c6m24l9v3745o?at_medium=RSS&at_campaign=rss",
+      "summary": "The 74-year-old former teacher, who was captured, has been released without any \"swap\" required, Trump says.",
+      "published_at": "2026-10-21T13:49:50Z",
+      "region": "América do Norte",
+      "theme": "Política Internacional",
+      "source_name": "BBC World News",
+      "source_id": "bbc_world",
+      "is_brazilian": false,
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a22e/live/83914ac0-8497-11ef-bf4c-1f355eb87d3c.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "ONU: El Niño pode ser o mais forte dos últimos 40 anos",
+      "link": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-10/onu-el-nino-pode-ser-o-mais-forte-dos-ultimos-40-anos",
+      "summary": "O El Niño pode ter intensidade sem precedentes e ultrapassar os padrões observados nas últimas quatro décadas, afirmou nesta quarta-feira (21) a diretora da agência meteorológica das Nações Unidas. O El Niño deve levar uma onda de calor para algumas regiões e abalar os padrões de chuva, provocando seca severa, enquanto em outras regiões ele pode causar inundações, disse Celeste Saulo, secretária-geral da Organização Meteorológica Mundial. Relatório Notícias relacionadas: Agência da ONU diz que El Niño deve se intensificar e ir até fevereiro. Painel indica que El Niño pode ser um dos mais intensos desde 1950. O aquecimento global deve ser mais intenso que as projeções anteriores, mesmo no cenário mais otimista, com as temperaturas médias subindo para 1,7 a 1,8 graus Celsius acima dos níveis pré-industriais até meados do século, segundo relatório da ONU divulgado hoje. Apesar da rápida expansão das energias renováveis e das políticas climáticas que estão reduzindo as emissões em muitos países, o relatório mostrou que ainda são necessárias reduções “urgentes e rigorosas” para alcançar o melhor cenário possível. O relatório do Programa das Nações Unidas para o Meio Ambiente (Pnuma) indicou que as emissões de gases de efeito estufa precisariam cair 18% em relação aos níveis de 2025 até 2030, 45% até 2035 e 69% até 2040. Os planos nacionais atuais reduziriam as emissões em apenas 5% a 8% até 2030 e 11% a 15% até 2035. O relatório projetou um aquecimento global de 2,8 graus Celsius até o ano de 2100 sob as políticas atuais, ou 2,6 °C caso os países implementem integralmente os compromissos climáticos existentes. Ambas as estimativas são superiores às projeções do ano passado, refletindo a saída dos Estados Unidos do Acordo de Paris e as avaliações revisadas das emissões históricas. Enquanto os países se preparam para a próxima rodada de negociações climáticas na Turquia, a COP31, o secretário-geral da ONU, António Guterres, afirmou que é crucial não desistir dos esforços para conter as emissões que estão causando inundações, incêndios e outros desastres naturais. “Ultrapassar a meta não significa desistir. Ainda podemos manter esse aumento o menor e mais curto possível – e fazer com que as temperaturas voltem a ficar abaixo de 1,5 grau até o final do século”, disse ele. De acordo com o Acordo de Paris de 2015, os países concordaram em tentar manter o aumento médio da temperatura bem abaixo de 2 graus e, preferencialmente, em 1,5°C. Como limitar o aquecimento a 1,5°C sem ultrapassagem ou com ultrapassagem limitada não é mais considerado possível, o Pnuma disse que seu novo cenário de ultrapassagem, “mais baixo possível”, oferece cerca de 50% de chance de que as temperaturas possam retornar a 1,5°C ou menos até 2100. O relatório indicou ainda que os planos climáticos apresentados desde o ano passado praticamente não alteraram as projeções de aquecimento futuro e que o retorno à meta de 1,5°C dependeria da remoção de carbono em grande escala, cuja viabilidade é incerta . *Reportagem adicional de Simon Jessop *É proibida a reprodução deste conteúdo.",
+      "published_at": "2026-10-21T13:49:00Z",
+      "region": "Europa",
+      "theme": "Direito Internacional e Instituições",
+      "source_name": "Agência Brasil",
+      "source_id": "agencia_brasil",
+      "is_brazilian": true,
+      "image_url": null,
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1505664194779-8beaceb93744?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Flávio tem 51,1% dos votos válidos, contra 48,9% de Lula, diz Futura",
+      "link": "https://www.poder360.com.br/poder-pesquisas/flavio-tem-511-dos-votos-validos-contra-489-de-lula-diz-futura/",
+      "summary": "Levantamento ouviu 2.000 pessoas de 19 a 20 de outubro de 2026; margem de erro é 2,2 p.p.",
+      "published_at": "2026-10-21T13:45:11Z",
+      "region": "América do Sul",
+      "theme": "Política Brasileira",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2026/09/prismada-Flavio-Bolsonaro-e-Lula-994x675.png",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Registran oficinas de la ultraderecha en la Eurocámara por presunto fraude de fondos por el antiguo grupo de Le Pen",
+      "link": "https://www.europapress.es/internacional/noticia-registran-oficinas-ultraderecha-eurocamara-presunto-fraude-fondos-antiguo-grupo-le-pen-20261021153552.html",
+      "summary": "Las autoridades francesas han llevado a cabo este miércoles registros en varias oficinas en la sede del Parlamento Europeo en Estrasburgo (Francia) de excolaboradores del extinto Identidad y Democracia, el grupo que hasta la pasada legislatura representó a la extrema derecha de la francesa Marine Le Pen (Agrupación Nacional) y del italiano Matteo Salvini (La Liga).",
+      "published_at": "2026-10-21T13:35:52Z",
+      "region": "Europa",
+      "theme": "Política Internacional",
+      "source_name": "Europa Press",
+      "source_id": "europa_press",
+      "is_brazilian": false,
+      "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20261021153552_120.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Family of prison officer killed by IRA receives state apology",
+      "link": "https://www.bbc.co.uk/news/articles/ck20rver1j31o?at_medium=RSS&at_campaign=rss",
+      "summary": "Brian Stack was crossing a street in Dublin in 1983 when he was shot in the back of the neck and died 18 months later.",
+      "published_at": "2026-10-21T13:35:27Z",
+      "region": "Global",
+      "theme": "Outros / Multitemático",
+      "source_name": "BBC World News",
+      "source_id": "bbc_world",
+      "is_brazilian": false,
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eddf/live/9ed26bb0-cc7b-11f1-bc2e-018d645d8d21.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Zelenski se muestra dispuesto a aceptar la actual línea del frente para avanzar hacia un acuerdo de paz",
+      "link": "https://www.europapress.es/internacional/noticia-zelenski-muestra-dispuesto-aceptar-actual-linea-frente-avanzar-acuerdo-paz-20261021153421.html",
+      "summary": "El presidente de Ucrania, Volodimir Zelenski, se ha mostrado dispuesto a congelar las actuales línea del frente si con ello se logra avanzar hacia un acuerdo de paz, unas declaraciones que suponen un importante cambio de discurso en la postura que ha venido adoptando desde el inicio del conflicto.",
+      "published_at": "2026-10-21T13:34:21Z",
+      "region": "Europa",
+      "theme": "Direito Internacional e Instituições",
+      "source_name": "Europa Press",
+      "source_id": "europa_press",
+      "is_brazilian": false,
+      "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20261021153421_120.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1505664194779-8beaceb93744?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "How war in Lebanon has cost young people with autism and ADHD",
+      "link": "https://www.aljazeera.com/news/2026/10/21/how-cost-israels-war-on-lebanon-has-on-young-people-with-autism-and-adhd?traffic_source=rss",
+      "summary": "Experts warn that war takes a heavy toll on neurodivergent people, who often rely on routine.",
+      "published_at": "2026-10-21T13:32:57Z",
+      "region": "Oriente Médio",
+      "theme": "Geopolítica e Segurança",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": null,
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Israel detains dozens of Americans, including a congressional candidate, in West Bank",
+      "link": "https://www.npr.org/2026/10/21/nx-s1-6010460/brad-lander-detained-west-bank-israel-palestinians",
+      "summary": "Democratic congressional candidate Brad Lander along with about 80 American and Israeli rabbis and activists were helping Palestinian olive harvesters when they were detained by Israeli forces.",
+      "published_at": "2026-10-21T13:28:04Z",
+      "region": "Oriente Médio",
+      "theme": "Geopolítica e Segurança",
+      "source_name": "NPR World News",
+      "source_id": "npr",
+      "is_brazilian": false,
+      "image_url": null,
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Leão XIV sobe ao papamóvel pela primeira vez desde cirurgia de câncer",
+      "link": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-10/leao-xiv-sobe-ao-papamovel-pela-primeira-vez-desde-cirurgia-de-cancer",
+      "summary": "O papa Leão voltou à Praça de São Pedro nesta quarta-feira (21), acenando para os peregrinos e abençoando bebês em seu papamóvel aberto, enquanto realizava sua primeira audiência geral no Vaticano desde que passou por uma cirurgia de câncer de pulmão, há oito dias. O pontífice, de 71 anos, que prometeu no domingo (18) que retomaria gradualmente suas funções como líder de 1,4 bilhão de católicos no mundo, ficou na parte traseira do veículo enquanto atravessava a praça, acenando, sorrindo e parando para conversar com os peregrinos. Notícias relacionadas: Papa Leão XIV retorna ao Vaticano quatro dias após cirurgia de câncer. Papa divulga mensagem no Dia Mundial da Alimentação. Recuperação do papa ocorre conforme o esperado, diz Vaticano. Leão passou por uma cirurgia em 13 de outubro para remoção do lobo inferior do pulmão direito e foi diagnosticado com adenocarcinoma pulmonar, a forma mais comum de câncer de pulmão. O diagnóstico, para o papa mais jovem em décadas — eleito apenas em maio de 2025 — causou comoção e levantou questões sobre o futuro de seu papado. A audiência de hoje, a primeira realizada desde 7 de outubro, seguiu formato normal. A multidão começou a se reunir horas antes do início da audiência, às 9h45, segurando guarda-chuvas sob um céu cinzento e com chuvisco. “A primeira coisa que quero dizer a vocês é obrigado pelo apoio e pelas orações”, disse Leão à multidão em suas palavras de abertura do evento de 50 minutos, sem mencionar especificamente sua saúde. “Graças a Deus por sua generosidade”, afirmou o papa, falando com voz clara enquanto aplausos ecoavam na praça. “Vamos renovar nossa confiança na bondade e na misericórdia de Deus.” Calendário papal Depois de percorrer a Praça, Leão proferiu um sermão em italiano. Na única grande mudança em relação às ocasiões anteriores, ele fez breves saudações em sete idiomas, em vez de nove. Os médicos de Leão afirmaram que a cirurgia foi concluída com sucesso, sem complicações. Eles ainda não divulgaram o tamanho do tumor, nem se a doença se espalhou para os gânglios linfáticos próximos, fatores-chave para determinar o prognóstico. O Vaticano não forneceu nenhuma indicação sobre a agenda de Leão após esta quarta-feira. O papa tem visita programada para o Uruguai, a Argentina e o Peru de 6 a 17 de novembro, em uma das viagens mais intensas organizadas para um líder católico nas últimas décadas. Ainda não está claro, no entanto, se essa viagem ocorrerá conforme planejado. *É proibida a reprodução deste conteúdo.",
+      "published_at": "2026-10-21T13:26:00Z",
+      "region": "América do Sul",
+      "theme": "Meio Ambiente e Clima",
+      "source_name": "Agência Brasil",
+      "source_id": "agencia_brasil",
+      "is_brazilian": true,
+      "image_url": null,
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Are the UK, France being pulled into the Saudi-Houthi conflict?",
+      "link": "https://www.aljazeera.com/news/2026/10/21/are-the-uk-france-being-pulled-into-the-saudi-houthi-conflict?traffic_source=rss",
+      "summary": "The European states say their support for Riyadh is 'defensive', but analysts warn Houthi reaction may complicate that.",
+      "published_at": "2026-10-21T13:25:50Z",
+      "region": "Europa",
+      "theme": "Geopolítica e Segurança",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": null,
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Alcanzados dos petroleros por proyectiles de origen desconocido en el golfo Pérsico",
+      "link": "https://www.europapress.es/internacional/noticia-alcanzados-dos-petroleros-proyectiles-origen-desconocido-golfo-persico-20261021152420.html",
+      "summary": "El centro de Operaciones Marítimas Comerciales de Reino Unido (UKMTO, por sus siglas en inglés), vinculado a la Armada británica, ha informado de dos incidentes con buques en el golfo Pérsico que han sido alcanzados por proyectiles de origen desconocido.",
+      "published_at": "2026-10-21T13:24:20Z",
+      "region": "Europa",
+      "theme": "Outros / Multitemático",
+      "source_name": "Europa Press",
+      "source_id": "europa_press",
+      "is_brazilian": false,
+      "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20261021152420_120.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "From one house to villages: Israeli settlers have Palestinians surrounded",
+      "link": "https://www.aljazeera.com/features/2026/10/21/from-one-house-to-whole-villages-settlers-have-palestinians-surrounded?traffic_source=rss",
+      "summary": "A family in the South Hebron Hills has spent more than two weeks cut off by settlers camped outside.",
+      "published_at": "2026-10-21T13:20:27Z",
+      "region": "Oriente Médio",
+      "theme": "Outros / Multitemático",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": null,
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Russia frees American Stephen Hubbard after over 4 years in prison, during a visit from U.S. envoy Witkoff",
+      "link": "https://www.pbs.org/newshour/world/russia-frees-american-stephen-hubbard-after-over-4-years-in-prison-during-a-visit-from-u-s-envoy-witkoff",
+      "summary": "The release comes at a time when President Donald Trump has taken a series of actions meant to benefit Moscow.",
+      "published_at": "2026-10-21T13:15:29Z",
+      "region": "América do Norte",
+      "theme": "Política Internacional",
+      "source_name": "PBS NewsHour",
+      "source_id": "pbs_newshour",
+      "is_brazilian": false,
+      "image_url": "https://d3i6fh83elv35t.cloudfront.net/static/2026/10/2026-10-21T124818Z_981563377_RC2O7OA2H2GT_RTRMADP_3_RUSSIA-USA-HUBBARD-1024x640.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Pakistani authorities arrest man accused in $126m US postage fraud",
+      "link": "https://www.aljazeera.com/news/2026/10/21/pakistani-authorities-arrest-man-accused-in-126m-us-postage-fraud?traffic_source=rss",
+      "summary": "Faheem Akram has been charged with several offences including conspiracy to defraud the United States.",
+      "published_at": "2026-10-21T13:06:53Z",
+      "region": "América do Norte",
+      "theme": "Outros / Multitemático",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": null,
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Felca tem título cancelado e não votará do 2º turno das eleições",
+      "link": "https://www.poder360.com.br/poder-gente/felca-tem-titulo-cancelado-e-nao-votara-do-2o-turno-das-eleicoes/",
+      "summary": "Influenciador não compareceu e não justificou ausência em 3 turnos consecutivos das eleições; ele publicou vídeo sobre fobia social",
+      "published_at": "2026-10-21T13:02:54Z",
+      "region": "América do Sul",
+      "theme": "Política Brasileira",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2025/08/Felca-Fantastico-17-ago-2025.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Ao vivo: Flávio vai a evento de campanha em Guarulhos",
+      "link": "https://www.poder360.com.br/poder-eleicoes-2026/ao-vivo-flavio-vai-a-evento-de-campanha-em-guarulhos/",
+      "summary": "A agenda inclui compromissos nas regiões Sudeste e Nordeste, em meio à mobilização da campanha para o 2º turno das eleições",
+      "published_at": "2026-10-21T13:00:39Z",
+      "region": "América do Sul",
+      "theme": "Política Brasileira",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2026/09/flavio-bolsonaro-28set26-1200x675.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Exército do Lula: canal de Janones chega a 7 milhões de seguidores",
+      "link": "https://www.poder360.com.br/poder-eleicoes-2026/exercito-do-lula-canal-de-janones-chega-a-7-milhoes-de-seguidores/",
+      "summary": "Grupo de WhatsApp usado para mobilizar apoiadores do presidente ultrapassou a marca na reta final do 2º turno",
+      "published_at": "2026-10-21T13:00:35Z",
+      "region": "América do Sul",
+      "theme": "Geopolítica e Segurança",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2026/10/janones-panelaco-1200x675.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "BBC News Brasil faz transmissão AO VIVO para você acompanhar apuração e resultados do 2º turno",
+      "link": "https://www.bbc.com/portuguese/articles/cwrkyjpv5p7no?at_medium=RSS&at_campaign=rss",
+      "summary": "No domingo, dia da eleição, a cobertura em tempo real — na página da BBC News Brasil — acompanha a abertura das urnas, o clima da votação e os principais acontecimentos do dia.",
+      "published_at": "2026-10-21T12:58:14Z",
+      "region": "América do Sul",
+      "theme": "Política Brasileira",
+      "source_name": "BBC News Brasil",
+      "source_id": "bbc_brasil",
+      "is_brazilian": true,
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8e09/live/36a63520-ccc2-11f1-951b-8fbc7a9ea030.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "France’s Macron says protesters won’t be allowed to ‘cause chaos’",
+      "link": "https://www.aljazeera.com/news/2026/10/21/frances-macron-says-protesters-wont-be-allowed-to-cause-chaos?traffic_source=rss",
+      "summary": "French president criticises comments by 'foreign leaders' trying to exploit disorder for their own political agenda.",
+      "published_at": "2026-10-21T12:54:43Z",
+      "region": "Europa",
+      "theme": "Política Internacional",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": null,
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Protests as UK approves new gas drilling in North Sea",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/21/protests-as-uk-approves-new-gas-drilling-in-north-sea?traffic_source=rss",
+      "summary": "Climate activists have protested against the UK’s decision to go ahead with new gas drilling in the North Sea.",
+      "published_at": "2026-10-21T12:49:52Z",
+      "region": "Europa",
+      "theme": "Meio Ambiente e Clima",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": null,
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Nigeria confirms Ebola case linked to East Africa",
+      "link": "https://www.bbc.co.uk/news/articles/cm2l4xw7xpjgo?at_medium=RSS&at_campaign=rss",
+      "summary": "The female patient, who sources have told the BBC is not Nigerian, is in isolation and in an Abuja hospital.",
+      "published_at": "2026-10-21T12:39:34Z",
+      "region": "África",
+      "theme": "Saúde",
+      "source_name": "BBC World News",
+      "source_id": "bbc_world",
+      "is_brazilian": false,
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/20ac/live/3b3288b0-cd3e-11f1-bc2e-018d645d8d21.png",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1584515901367-f1c2a12a50ea?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1505751172876-fa1923c5c528?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1584036561566-baf2418a7c21?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "'Comecei a usar cetamina aos 14 anos e aos 22 precisei de fraldas'",
+      "link": "https://www.bbc.com/portuguese/articles/cm8xz1llkr54o?at_medium=RSS&at_campaign=rss",
+      "summary": "Há dois anos, Megan sofre com dores intensas e não consegue ficar com o corpo ereto por causa do uso de cetamina.",
+      "published_at": "2026-10-21T12:33:30Z",
+      "region": "América do Sul",
+      "theme": "Outros / Multitemático",
+      "source_name": "BBC News Brasil",
+      "source_id": "bbc_brasil",
+      "is_brazilian": true,
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0e22/live/99cf5bb0-cc66-11f1-b1a3-5bda642ff934.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "‘They try to break us’: Pro-Palestine activists in Czech custody",
+      "link": "https://www.aljazeera.com/news/2026/10/21/they-try-to-break-us-pro-palestine-activists-in-czech-custody?traffic_source=rss",
+      "summary": "As a group is accused of an attack on a weapons factory, activists allege growing crackdown on the solidarity movement.",
+      "published_at": "2026-10-21T12:24:23Z",
+      "region": "América do Norte",
+      "theme": "Geopolítica e Segurança",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": null,
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Macron says Trump spread rumours about protests",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/21/macron-says-trump-spread-rumours-about-protests?traffic_source=rss",
+      "summary": "Macron says Trump spread rumours about protests",
+      "published_at": "2026-10-21T12:18:37Z",
+      "region": "América do Norte",
+      "theme": "Política Internacional",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": null,
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Pezeshkian traslada a EEUU que \"no puede bloquear todos los caminos y hablar de negociaciones\"",
+      "link": "https://www.europapress.es/internacional/noticia-pezeshkian-traslada-eeuu-no-puede-bloquear-todos-caminos-hablar-negociaciones-20261021140201.html",
+      "summary": "El presidente de Irán, Masud Pezeshkian, ha trasladado este miércoles a Estados Unidos que \"no puede bloquear todos los caminos y hablar de negociaciones\", en medio del estancamiento de las conversaciones para poner fin al conflicto abierto en Oriente Próximo por la ofensiva lanzada en febrero por Estados Unidos e Israel contra el país asiático.",
+      "published_at": "2026-10-21T12:02:01Z",
+      "region": "América do Norte",
+      "theme": "Geopolítica e Segurança",
+      "source_name": "Europa Press",
+      "source_id": "europa_press",
+      "is_brazilian": false,
+      "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20261021140201_120.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Salvar o clima ainda é possível mesmo após ultrapassar 1,5 °C",
+      "link": "https://news.un.org/feed/view/pt/story/2026/10/1854696",
+      "summary": "ONU diz que mundo segue para quase 3 °C de aquecimento global se políticas atuais continuarem; secretário-geral, António Guterres, avisa que superar o limite jamais será desculpa para baixar a guarda na ação climática.",
+      "published_at": "2026-10-21T12:00:00Z",
+      "region": "Global",
+      "theme": "Meio Ambiente e Clima",
+      "source_name": "ONU News",
+      "source_id": "onu_news",
+      "is_brazilian": false,
+      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/09/03-09-2026-Climate-Visuals-Poland.jpg/image560x340cropped.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Renda e escolaridade definem impacto das doenças crônicas no Brasil",
+      "link": "https://news.un.org/feed/view/pt/story/2026/10/1854695",
+      "summary": "Estudo inédito da OMS alerta que a desigualdade socioeconômica e geográfica é o principal obstáculo no combate às enfermidades nos países lusófonos; a situação condiciona desde a prevenção até o tratamento de acordo com renda, gênero e localização.",
+      "published_at": "2026-10-21T12:00:00Z",
+      "region": "América do Sul",
+      "theme": "Direitos Humanos, Sociedade e Migrações",
+      "source_name": "ONU News",
+      "source_id": "onu_news",
+      "is_brazilian": false,
+      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/07/27-07-2026-UNICEF-Equatorial-Guinea.jpg/image560x340cropped.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1542810634-71277d95dcbb?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1489533119213-66a5cd877091?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1531206715517-5c0ba140e2b8?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Unicef lança apelo para o fim do casamento infantil em Bangladesh",
+      "link": "https://news.un.org/feed/view/pt/story/2026/10/1854692",
+      "summary": "Quase metade das mulheres bengalesas entre 20 e 24 anos casou antes de atingir idade adulta; agência da ONU adverte que casamento infantil dita saída de meninas da escola e limita oportunidades ao longo da vida.",
+      "published_at": "2026-10-21T12:00:00Z",
+      "region": "Global",
+      "theme": "Direito Internacional e Instituições",
+      "source_name": "ONU News",
+      "source_id": "onu_news",
+      "is_brazilian": false,
+      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/30-01-2025-UNICEF-Bangladesh-06.jpg/image560x340cropped.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1505664194779-8beaceb93744?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "DOJ's noncitizen voter list is unreliable, officials say. And, U.S. pollution rises",
+      "link": "https://www.npr.org/2026/10/21/g-s1-149068/up-first-newsletter-california-voter-roll-united-nations-emissions-us-crimes-ukraine-russia",
+      "summary": "The Justice Department's \"likely\" noncitizen voter list in California is \"unreliable,\" according to officials. And, the United Nations reports a major increase in U.S. climate pollution.",
+      "published_at": "2026-10-21T11:46:59Z",
+      "region": "Global",
+      "theme": "Meio Ambiente e Clima",
+      "source_name": "NPR World News",
+      "source_id": "npr",
+      "is_brazilian": false,
+      "image_url": null,
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Putin anuncia que en \"dos o tres días\" parte el primer petrolero ruso a EEUU como parte del acuerdo energético",
+      "link": "https://www.europapress.es/internacional/noticia-putin-anuncia-dos-tres-dias-parte-primer-petrolero-ruso-eeuu-parte-acuerdo-energetico-20261021132546.html",
+      "summary": "El presidente de Rusia, Vladimir Putin, ha informado este miércoles de que en \"dos o tres días\" partirá el primer buque con 40.000 toneladas de diésel rumbo a Estados Unidos, como parte de un controvertido acuerdo con Washington, que aligera de manera temporal las sanciones financieras y comerciales sobre este combustible.",
+      "published_at": "2026-10-21T11:25:46Z",
+      "region": "Europa",
+      "theme": "Política Internacional",
+      "source_name": "Europa Press",
+      "source_id": "europa_press",
+      "is_brazilian": false,
+      "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20261021132546_120.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Former U.S. Ambassador to Ukraine on Trump's turn toward Russia",
+      "link": "https://www.npr.org/2026/10/21/nx-s1-6009376/former-u-s-ambassador-to-ukraine-on-trumps-turn-toward-russia",
+      "summary": "NPR's Steve Inskeep asks former U.S. Ambassador to Ukraine John Herbst about President Trump's embrace of Russia as envoy Steve Witkoff heads to Moscow after meeting Ukraine's Volodymyr Zelenskyy.",
+      "published_at": "2026-10-21T10:56:00Z",
+      "region": "Europa",
+      "theme": "Política Internacional",
+      "source_name": "NPR World News",
+      "source_id": "npr",
+      "is_brazilian": false,
+      "image_url": null,
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
     {
       "title": "Comitê da Meta vê falhas da empresa sobre atuação eleitoral no Brasil; siga as notícias do 2º turno",
       "link": "https://www.bbc.co.uk/portuguese/live/c98rzv56p3g0t?at_medium=RSS&at_campaign=rss",
@@ -53,23 +920,6 @@
       ]
     },
     {
-      "title": "Análise: quem está por trás dos tumultos na França e quem pode se beneficiar deles?",
-      "link": "https://www.bbc.com/portuguese/articles/c6x29lmmmexno?at_medium=RSS&at_campaign=rss",
-      "summary": "País está dividido sobre o que levou a alguns dos piores distúrbios vistos em cidades francesas na história moderna; mas quem ganha com o caos no país?",
-      "published_at": "2026-10-21T10:37:50Z",
-      "region": "Europa",
-      "theme": "Outros / Multitemático",
-      "source_name": "BBC News Brasil",
-      "source_id": "bbc_brasil",
-      "is_brazilian": true,
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f8fb/live/9d496cd0-cc9e-11f1-94e6-edd4c60b2e1d.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
       "title": "Why are French protesters chanting ‘Bismillah, c’est les ténèbres’?",
       "link": "https://www.aljazeera.com/news/2026/10/21/why-are-french-protesters-chanting-bismillah-cest-les?traffic_source=rss",
       "summary": "The slogan has come to represent a whole array of grievances that lie at the heart of the protest movement.",
@@ -84,6 +934,23 @@
         "https://images.unsplash.com/photo-1542810634-71277d95dcbb?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1489533119213-66a5cd877091?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1531206715517-5c0ba140e2b8?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Pakistan-Taliban conflict: How India could benefit from shifting regional dynamics",
+      "link": "https://www.dw.com/en/pakistan-taliban-conflict-how-india-could-benefit-from-shifting-regional-dynamics/a-79721426?maca=en-rss-en-world-4025-rdf",
+      "summary": "As Pakistan's influence in Afghanistan comes under strain, India is rebuilding ties with the Taliban in Kabul. Can New Delhi turn this diplomatic opening into lasting strategic gains?",
+      "published_at": "2026-10-21T10:35:00Z",
+      "region": "Ásia",
+      "theme": "Geopolítica e Segurança",
+      "source_name": "DW World News",
+      "source_id": "dw_english",
+      "is_brazilian": false,
+      "image_url": "https://static.dw.com/image/77746735_6.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
       ]
     },
     {
@@ -157,7 +1024,7 @@
     {
       "title": "Russia releases imprisoned U.S. citizen Stephen Hubbard following Trump's request",
       "link": "https://www.npr.org/2026/10/21/nx-s1-6009380/russia-releases-imprisoned-us-citizen",
-      "summary": "Russian President Vladimir Putin says he has freed an American, Stephen Hubbard, from a Russian prison following a request from President Trump.",
+      "summary": "The announcement of Hubbard's release came as talks got underway between Putin and White House envoy Steve Witkoff in Saint Petersburg focused on the latest U.S. efforts to end the war in Ukraine.",
       "published_at": "2026-10-21T10:20:50Z",
       "region": "Europa",
       "theme": "Política Internacional",
@@ -274,37 +1141,37 @@
       ]
     },
     {
-      "title": "Flávio tem 51,1% e Lula, 48,9% dos votos válidos, diz Meio/Ideia",
-      "link": "https://www.poder360.com.br/poder-eleicoes-2026/flavio-tem-511-e-lula-489-dos-votos-validos-diz-meio-ideia/",
-      "summary": "Levantamento ouviu 1.500 pessoas de 15 a 19 de outubro de 2026; margem de erro é 2,5 p.p.",
-      "published_at": "2026-10-21T10:00:14Z",
+      "title": "Milei confía en recuperar las Malvinas por la vía diplomática: \"No creemos en soluciones bélicas\"",
+      "link": "https://www.europapress.es/internacional/noticia-milei-confia-recuperar-malvinas-via-diplomatica-no-creemos-soluciones-belicas-20261021115555.html",
+      "summary": "Evita confirmar su asistencia a la Cumbre Iberoamericana de noviembre y defiende que \"venga quien tenga que venir\", incluida Delcy Rodríguez",
+      "published_at": "2026-10-21T09:55:55Z",
       "region": "América do Sul",
-      "theme": "Política Brasileira",
-      "source_name": "Poder360",
-      "source_id": "poder360",
-      "is_brazilian": true,
-      "image_url": "https://static.poder360.com.br/uploads/2026/09/prismada-Flavio-Bolsonaro-e-Lula-994x675.png",
+      "theme": "Política Internacional",
+      "source_name": "Europa Press",
+      "source_id": "europa_press",
+      "is_brazilian": false,
+      "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20261021115555_120.jpg",
       "fallback_images": [
-        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
+        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
       ]
     },
     {
       "title": "Rusia libera al ciudadano estadounidense Stephen Hubbard, condenado por sumarse a las filas ucranianas",
       "link": "https://www.europapress.es/internacional/noticia-rusia-libera-ciudadano-estadounidense-stephen-hubbard-condenado-sumarse-filas-ucranianas-20261021114804.html",
-      "summary": "El presidente de Rusia, Vladimir Putin, ha confirmado este miércoles la liberación de Stephen Hubbard, un estadounidense de 75 años encarcelado en el país tras ser acusado de participar en la guerra con Ucrania como \"mercenario\" en las filas ucranianas.",
+      "summary": "El presidente de Rusia, Vladimir Putin, ha confirmado este miércoles la liberación del ciudadano estadounidense de 72 años Stephen Hubbard, quien había sido detenido en abril de 2022 y condenado por participar como mercenario en las filas del Ejército ucraniano durante la invasión que apenas acababa de comenzar.",
       "published_at": "2026-10-21T09:48:04Z",
       "region": "Europa",
-      "theme": "Política Internacional",
+      "theme": "Geopolítica e Segurança",
       "source_name": "Europa Press",
       "source_id": "europa_press",
       "is_brazilian": false,
       "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20261021114804_120.jpg",
       "fallback_images": [
-        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
+        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
       ]
     },
     {
@@ -475,6 +1342,40 @@
         "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Millions are struck off India's voter rolls in largest disenfranchisement in history",
+      "link": "https://www.npr.org/2026/10/21/nx-s1-5997960/india-voter-rolls",
+      "summary": "India is plunged into political crisis after 130 million names were struck off voter rolls during a massive revision.",
+      "published_at": "2026-10-21T08:42:10Z",
+      "region": "Ásia",
+      "theme": "Economia Internacional",
+      "source_name": "NPR World News",
+      "source_id": "npr",
+      "is_brazilian": false,
+      "image_url": null,
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Saudi Arabia cancels 'Davos in the Desert' due to Yemen's Houthi strikes",
+      "link": "https://www.npr.org/2026/10/21/nx-s1-6009545/saudi-arabia-cancels-davos-in-the-desert-due-to-air-strikes",
+      "summary": "Britain offers military support as Saudi cancels renowned 'Davos in desert\" investor meeting due to strikes from Houthi forces in Yemen.",
+      "published_at": "2026-10-21T08:40:51Z",
+      "region": "Oriente Médio",
+      "theme": "Geopolítica e Segurança",
+      "source_name": "NPR World News",
+      "source_id": "npr",
+      "is_brazilian": false,
+      "image_url": null,
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
       ]
     },
     {
@@ -1053,23 +1954,6 @@
         "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Exército do Lula: canal de Janones chega a 6 milhões de seguidores",
-      "link": "https://www.poder360.com.br/poder-eleicoes-2026/exercito-do-lula-canal-de-janones-chega-a-6-milhoes-de-seguidores/",
-      "summary": "Grupo de WhatsApp usado para mobilizar apoiadores do presidente ultrapassou a marca na reta final do 2º turno",
-      "published_at": "2026-10-21T01:11:17Z",
-      "region": "América do Sul",
-      "theme": "Geopolítica e Segurança",
-      "source_name": "Poder360",
-      "source_id": "poder360",
-      "is_brazilian": true,
-      "image_url": "https://static.poder360.com.br/uploads/2026/10/janones-panelaco-1200x675.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
       ]
     },
     {
@@ -1661,890 +2545,6 @@
       "source_id": "aljazeera_english",
       "is_brazilian": false,
       "image_url": null,
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "O que J.R.R. Tolkien dizia sobre 'o momento mais trágico' de 'O Senhor dos Anéis'",
-      "link": "https://www.bbc.com/portuguese/articles/cm0reljzj2jjo?at_medium=RSS&at_campaign=rss",
-      "summary": "Em 1968, a BBC transmitiu trechos da última entrevista gravada de J.R.R. Tolkien, 31 anos depois da primeira edição de 'O Hobbit'. Em 2019, o vídeo completo foi desenterrado dos arquivos, trazendo revelações surpreendentes.",
-      "published_at": "2026-10-20T22:19:39Z",
-      "region": "América do Sul",
-      "theme": "Outros / Multitemático",
-      "source_name": "BBC News Brasil",
-      "source_id": "bbc_brasil",
-      "is_brazilian": true,
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f338/live/255127e0-bb41-11f1-a071-65d2e11c8f4a.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Nigeria confirms first Ebola case",
-      "link": "https://www.france24.com/en/nigeria-confirms-first-ebola-case",
-      "summary": "In tonight's programme, Nigeria confirms its first Ebola case in the midst of an outbreak that began in DRC Congo in mid-May. Also, a former top South African police officer facing sexual grooming and rape charges is denied bail. Finally, São Tomé and Príncipe's rich volcanic soils produce vanilla pods with an entrancing taste unlike those grown anywhere else.",
-      "published_at": "2026-10-20T21:28:37Z",
-      "region": "África",
-      "theme": "Saúde",
-      "source_name": "France 24",
-      "source_id": "france24",
-      "is_brazilian": false,
-      "image_url": "https://s.france24.com/media/display/d169c3e2-cccc-11f1-897d-d1d2c32ebb87/w:1024/p:16x9/capture-0eb05e6c.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1584515901367-f1c2a12a50ea?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1505751172876-fa1923c5c528?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1584036561566-baf2418a7c21?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Zelensky says US intelligence sharing 'works now' after talks with Trump envoy in Oslo",
-      "link": "https://www.bbc.co.uk/news/articles/cq5ynkx3xy11o?at_medium=RSS&at_campaign=rss",
-      "summary": "Ukraine had accused the US of withholding key intelligence - a claim rejected as \"scandalous\" by Washington.",
-      "published_at": "2026-10-20T21:27:39Z",
-      "region": "América do Norte",
-      "theme": "Política Internacional",
-      "source_name": "BBC World News",
-      "source_id": "bbc_world",
-      "is_brazilian": false,
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c49a/live/3ca9cb60-ccba-11f1-9a39-31b474234113.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Trump commits more than $400m ahead of high-stakes midterm elections",
-      "link": "https://www.aljazeera.com/news/2026/10/20/trump-commits-more-than-400m-ahead-of-high-stakes-midterm-elections?traffic_source=rss",
-      "summary": "The president's Republican Party seeks to maintain its hold over both chambers of Congress, despite declining polls.",
-      "published_at": "2026-10-20T21:27:38Z",
-      "region": "América do Norte",
-      "theme": "Política Internacional",
-      "source_name": "Al Jazeera",
-      "source_id": "aljazeera_english",
-      "is_brazilian": false,
-      "image_url": null,
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "PSG score late to sink Barcelona 4-2 in Champions League blockbuster",
-      "link": "https://www.aljazeera.com/sports/2026/10/20/psg-sink-barcelona-4-2-for-third-champions-league-win-in-a-row?traffic_source=rss",
-      "summary": "Late strikes by Vitinha and Fabian Ruiz grab victory for PSG as they aim to win the UCL for third season running.",
-      "published_at": "2026-10-20T21:24:06Z",
-      "region": "Oriente Médio",
-      "theme": "Outros / Multitemático",
-      "source_name": "Al Jazeera",
-      "source_id": "aljazeera_english",
-      "is_brazilian": false,
-      "image_url": null,
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "US food importer sues Trump over 50 percent tariffs on Canadian goods",
-      "link": "https://www.aljazeera.com/economy/2026/10/20/us-food-importer-sues-trump-over-50-percent-tariffs-on-canadian-goods?traffic_source=rss",
-      "summary": "The lawsuit argues Trump bypassed Congress and misused a Depression-era law to impose tariffs on Canadian imports.",
-      "published_at": "2026-10-20T21:19:12Z",
-      "region": "América do Norte",
-      "theme": "Comércio e Finanças",
-      "source_name": "Al Jazeera",
-      "source_id": "aljazeera_english",
-      "is_brazilian": false,
-      "image_url": null,
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1578575437130-527eed3abbec?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1522071820081-009f0129c71c?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Mensagens de Vorcaro mostram comparação entre banqueiro e Jeffrey Epstein: 'Jeff tá amador demais'",
-      "link": "https://www.bbc.com/portuguese/articles/ck4g18721rv2o?at_medium=RSS&at_campaign=rss",
-      "summary": "Conversas extraídas pela PF também contêm propostas de investimento em agências de modelos; polícia investiga suspeitas de exploração sexual envolvendo mulheres.",
-      "published_at": "2026-10-20T21:19:11Z",
-      "region": "América do Sul",
-      "theme": "Política Brasileira",
-      "source_name": "BBC News Brasil",
-      "source_id": "bbc_brasil",
-      "is_brazilian": true,
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e993/live/c21aea60-c970-11f1-9a39-31b474234113.png",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Egypt involvement in Yemen 'may actually weaken Cairo's regional role', expert says",
-      "link": "https://www.france24.com/en/tv-shows/a-propos/20261020-egypt-involvement-in-yemen-may-actually-weaken-egypt-s-regional-role-expert-says",
-      "summary": "Egypt's parliament on Monday delayed a debate on President Abdel Fattah al-Sisi's request to authorise military support for Saudi Arabia until next week, state media reported, after an emergency session ended without a decision a day earlier. FRANCE 24's Sharon Gaffney speaks with Dr May Darwich, Associate Professor in International Relations of the Middle East at the University of Birmingham. She explains that \"this kind of military operation does not really have any objectives or exit strategy so at the moment this might actually weaken Egypt's regional role\".",
-      "published_at": "2026-10-20T21:18:48Z",
-      "region": "África",
-      "theme": "Geopolítica e Segurança",
-      "source_name": "France 24",
-      "source_id": "france24",
-      "is_brazilian": false,
-      "image_url": "https://s.france24.com/media/display/79e2bede-ccc8-11f1-93ab-4dd8ac2cf3bf/w:1024/p:16x9/EN-20261020-223120-224311-CS.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "PSG end Barcelona's winning run as Liverpool fight back against Villarreal",
-      "link": "https://www.france24.com/en/sport/20261020-psg-end-barcelona-winning-run-as-liverpool-fight-back-against-villarreal",
-      "summary": "Paris Saint-Germain came from behind to beat Barcelona 4-2 in a Champions League thriller on Tuesday, handing the Catalans their first defeat of the season. Liverpool staged a dramatic comeback to edge Villarreal 4-3 at Anfield, while Manchester City cruised to a 5-1 victory over AEK Athens.",
-      "published_at": "2026-10-20T21:17:50Z",
-      "region": "Europa",
-      "theme": "Outros / Multitemático",
-      "source_name": "France 24",
-      "source_id": "france24",
-      "is_brazilian": false,
-      "image_url": "https://s.france24.com/media/display/a729d7c0-ccc7-11f1-bd29-d1d2c32ebb87/w:1024/p:16x9/2026-10-20T203956Z-1465285986-UP1EMAK1LEJIG-RTRMADP-3-SOCCER-CHAMPIONS-PSG-BAR.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Suspect arrested after historic town hall set alight - French media",
-      "link": "https://www.bbc.co.uk/news/articles/cw5yn5e8mezvo?at_medium=RSS&at_campaign=rss",
-      "summary": "The spire of the clock tower at Limoges city hall dramatically collapsed as it was engulfed in flames on Saturday.",
-      "published_at": "2026-10-20T21:05:50Z",
-      "region": "Europa",
-      "theme": "Outros / Multitemático",
-      "source_name": "BBC World News",
-      "source_id": "bbc_world",
-      "is_brazilian": false,
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4edf/live/fff77fe0-cc56-11f1-a64c-550be9e3c66b.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Abertura de sigilo: Lula protocola no TSE autorização e desafia Flávio; siga as notícias do 2º turno",
-      "link": "https://www.bbc.co.uk/portuguese/live/c98rzv56p3g0t?at_medium=RSS&at_campaign=rss",
-      "summary": "Siga a cobertura especial da BBC News Brasil na reta final do 2º turno e baixe nosso aplicativo para receber os alertas com os maiores destaques do noticiário",
-      "published_at": "2026-10-20T21:01:37.567518Z",
-      "region": "América do Sul",
-      "theme": "Política Brasileira",
-      "source_name": "BBC News Brasil",
-      "source_id": "bbc_brasil",
-      "is_brazilian": true,
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/425c/live/737afa00-cca7-11f1-a5d0-db40ec16d9a9.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Why do the US midterms matter for Trump and Congress?",
-      "link": "https://www.aljazeera.com/news/2026/10/20/why-do-the-us-midterms-matter-for-trump-and-congress?traffic_source=rss",
-      "summary": "Republicans and Democrats jockey for control of Congress, which will set course for Trump's final two years in office.",
-      "published_at": "2026-10-20T21:00:42Z",
-      "region": "América do Norte",
-      "theme": "Política Internacional",
-      "source_name": "Al Jazeera",
-      "source_id": "aljazeera_english",
-      "is_brazilian": false,
-      "image_url": null,
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Ao vivo: TSE analisa representações da campanha de Flávio",
-      "link": "https://www.poder360.com.br/poder-eleicoes-2026/ao-vivo-tse-analisa-representacoes-da-campanha-de-flavio/",
-      "summary": "Ações do PL contestam publicações de Guilherme Boulos, Gleisi Hoffmann, Lindbergh Farias, Erika Hilton e Rick Azevedo",
-      "published_at": "2026-10-20T21:00:26Z",
-      "region": "América do Sul",
-      "theme": "Política Brasileira",
-      "source_name": "Poder360",
-      "source_id": "poder360",
-      "is_brazilian": true,
-      "image_url": "https://static.poder360.com.br/uploads/2026/10/sessao-TSE-6out2026-1200x675.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Lula's campaign seeks to disqualify Bolsonoro from Brazil presidential vote over Meta 'interference'",
-      "link": "https://www.france24.com/en/americas/20261020-lula-campaign-seeks-disqualify-bolsonoro-from-brazil-presidential-vote-over-meta-interference",
-      "summary": "President Luiz Inácio Lula da Silva’s campaign is preparing to request the annulment of right-wing rival Flavio Bolsonaro's candidacy over alleged social media interference from US tech giant Meta as Brazil’s presidential race intensifies ahead of Sunday’s runoff. The petition that will be submitted to the country's top electoral court claims \"algorithmic manipulation\" by Meta to suppress Lula's campaign content and boost Bolsonaro.",
-      "published_at": "2026-10-20T20:59:51Z",
-      "region": "América do Sul",
-      "theme": "Política Internacional",
-      "source_name": "France 24",
-      "source_id": "france24",
-      "is_brazilian": false,
-      "image_url": "https://s.france24.com/media/display/3edd3e22-ccc3-11f1-9db3-d1d2c32ebb87/w:1024/p:16x9/AP26292009753736.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "WATCH: Trump says U.S. has gotten 'nothing' from Ukraine other than 'high diesel,' urging deal",
-      "link": "https://www.pbs.org/newshour/politics/watch-trump-says-u-s-has-gotten-nothing-from-ukraine-other-than-high-diesel-urging-deal",
-      "summary": "President Donald Trump said \"it's time\" for Ukraine to agree to a deal with Russia on Tuesday.",
-      "published_at": "2026-10-20T20:55:21Z",
-      "region": "Europa",
-      "theme": "Política Internacional",
-      "source_name": "PBS NewsHour",
-      "source_id": "pbs_newshour",
-      "is_brazilian": false,
-      "image_url": "https://d3i6fh83elv35t.cloudfront.net/static/2026/10/2026-10-20T184914Z_1768336824_RC267OA3Q3PP_RTRMADP_3_USA-TRUMP-1024x683.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "EUA proíbem DeepSeek em sistemas de órgãos federais",
-      "link": "https://www.poder360.com.br/poder-internacional/eua-proibem-deepseek-em-sistemas-de-orgaos-federais/",
-      "summary": "Ordem do Departamento de Segurança Interna cita riscos de vazamento de dados e possíveis vulnerabilidades da IA chinesa",
-      "published_at": "2026-10-20T20:53:09Z",
-      "region": "América do Norte",
-      "theme": "Ciência, Tecnologia e Inovação",
-      "source_name": "Poder360",
-      "source_id": "poder360",
-      "is_brazilian": true,
-      "image_url": "https://static.poder360.com.br/uploads/2025/01/logo-deepseek.png",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1518770660439-4636190af475?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1507668077129-56e32842fceb?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "PSG and Barcelona fans divided over politics in football amid Paris riots",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/20/psg-and-barcelona-fans-divided-over-politics-in-football-amid-paris-riots?traffic_source=rss",
-      "summary": "As PSG face Barcelona in a Champions League clash, fans weigh in on whether football should be a political platform.",
-      "published_at": "2026-10-20T20:49:00Z",
-      "region": "Europa",
-      "theme": "Outros / Multitemático",
-      "source_name": "Al Jazeera",
-      "source_id": "aljazeera_english",
-      "is_brazilian": false,
-      "image_url": null,
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Aviação registra recorde de passageiros em setembro com 10,89 milhões",
-      "link": "https://www.poder360.com.br/poder-infra/aviacao-registra-recorde-de-passageiros-em-setembro-com-1089-milhoes/",
-      "summary": "Resultado mensal aproxima setor da marca de 100 milhões de pessoas transportadas no ano",
-      "published_at": "2026-10-20T20:47:41Z",
-      "region": "América do Sul",
-      "theme": "Outros / Multitemático",
-      "source_name": "Poder360",
-      "source_id": "poder360",
-      "is_brazilian": true,
-      "image_url": "https://static.poder360.com.br/uploads/2026/07/aeroporto-congonhas-dez-2025.png",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "US regulators certify Boeing 737 Max 10 after years of delay",
-      "link": "https://www.france24.com/en/tv-shows/business/20261020-us-regulators-certify-boeing-737-max-10-after-years-of-delay",
-      "summary": "The US Federal Aviation Administration has given final approval for the 737-10, the largest model in Boeing's best-selling Max family. The certification comes more than five years after the narrowbody jet's maiden flight, and marks an important step for the planemaker that's been trying to regain ground following a safety and management crisis. Plus, the French government has offered all businesses affected by the recent riots a interest-free loan of up to 50,000 euros.",
-      "published_at": "2026-10-20T20:46:03Z",
-      "region": "América do Norte",
-      "theme": "Política Internacional",
-      "source_name": "France 24",
-      "source_id": "france24",
-      "is_brazilian": false,
-      "image_url": "https://s.france24.com/media/display/1283b000-ccc7-11f1-a1c1-d1d2c32ebb87/w:1024/p:16x9/VIDI42JJ2WD-EN-STOCKSHOTS-Boeing-planes.png",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "‘I’m alive’: Paris street medic isn’t dead, despite viral claims he was killed by police",
-      "link": "https://www.france24.com/en/tv-shows/truth-or-fake/20261020-i-m-alive-paris-street-medic-isn-t-dead-despite-viral-claims-he-was-killed-by-police",
-      "summary": "A video showing French riot police violently beating a 26-year-old street medic in Paris has gone viral, with social media users falsely claiming he died from his injuries. But the street medic is alive, and spoke to FRANCE 24. The rumour was fuelled by confusion with a separate incident that same day: a man died of cardiac arrest in the same area, causing online users to conflate the two events. Vedika Bahl explains in Truth or Fake.",
-      "published_at": "2026-10-20T20:43:22Z",
-      "region": "Europa",
-      "theme": "Outros / Multitemático",
-      "source_name": "France 24",
-      "source_id": "france24",
-      "is_brazilian": false,
-      "image_url": "https://s.france24.com/media/display/7a29c07a-ccc5-11f1-9d16-4dd8ac2cf3bf/w:1024/p:16x9/icon.png",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "PT reúne 100 assinaturas para abrir CPI contra Flávio Bolsonaro",
-      "link": "https://www.poder360.com.br/poder-congresso/pt-reune-100-assinaturas-para-abrir-cpi-contra-flavio-bolsonaro/",
-      "summary": "Pedro Uczai disse que petistas também assinaram pedido de CPI para investigar Lulinha e Roberta Luchsinger e cobrou apoio da oposição às 2 investigações; para abrir uma CPI, são necessárias 198 assinaturas",
-      "published_at": "2026-10-20T20:41:13Z",
-      "region": "América do Sul",
-      "theme": "Política Brasileira",
-      "source_name": "Poder360",
-      "source_id": "poder360",
-      "is_brazilian": true,
-      "image_url": "https://static.poder360.com.br/uploads/2026/10/pedro-uczai-camilo-santana-1200x675.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Dólar cai 0,58% e fecha a R$ 5,019; Ibovespa sobe 1,57%",
-      "link": "https://www.poder360.com.br/poder-economia/dolar-cai-058-e-fecha-a-r-5019-ibovespa-sobe-157/",
-      "summary": "Investidores estão cautelosos na reta final da eleição, marcada para domingo (25.out); Lula e Flávio disputam a Presidência",
-      "published_at": "2026-10-20T20:38:12Z",
-      "region": "América do Sul",
-      "theme": "Comércio e Finanças",
-      "source_name": "Poder360",
-      "source_id": "poder360",
-      "is_brazilian": true,
-      "image_url": "https://static.poder360.com.br/uploads/2026/10/2valor-dolar-trajetoria-diaria-20-out-2026-1200x675.png",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1578575437130-527eed3abbec?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1522071820081-009f0129c71c?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "SUS ofertará 9 medicamentos contra o câncer",
-      "link": "https://www.poder360.com.br/poder-saude/sus-ofertara-9-medicamentos-contra-o-cancer/",
-      "summary": "Medicamentos já estavam incorporados ao sistema, mas sem oferta aos pacientes; nova política prevê atender 116 mil pessoas",
-      "published_at": "2026-10-20T20:33:38Z",
-      "region": "América do Sul",
-      "theme": "Outros / Multitemático",
-      "source_name": "Poder360",
-      "source_id": "poder360",
-      "is_brazilian": true,
-      "image_url": "https://static.poder360.com.br/uploads/2026/03/SUS-medicamento.png",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Trump: Ilhan Omar could be deported, slams Somalia as a ‘s—house’",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/20/trump-ilhan-omar-could-be-deported-slams-somalia-as-a-s?traffic_source=rss",
-      "summary": "Donald Trump called Congresswoman Ilhan Omar “sick” and “dishonest” a week after federal agents raided her home.",
-      "published_at": "2026-10-20T20:32:29Z",
-      "region": "América do Norte",
-      "theme": "Política Internacional",
-      "source_name": "Al Jazeera",
-      "source_id": "aljazeera_english",
-      "is_brazilian": false,
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/10/image-1792528338.jpg?resize=1620%2C1080&quality=80",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Inadimplência atinge 75,05 milhões de consumidores em setembro",
-      "link": "https://www.poder360.com.br/poder-economia/inadimplencia-atinge-7505-milhoes-de-consumidores-em-setembro/",
-      "summary": "Número aumentou 2,07% em relação a agosto; valor do mês passado representa 44,67% da população adulta",
-      "published_at": "2026-10-20T20:31:48Z",
-      "region": "América do Sul",
-      "theme": "Outros / Multitemático",
-      "source_name": "Poder360",
-      "source_id": "poder360",
-      "is_brazilian": true,
-      "image_url": "https://static.poder360.com.br/uploads/2026/09/Moedas-Real-Dinheiro-4-1200x675.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Meta tells Brazil's electoral court it gives equal treatment to Lula and Fl&aacute;vio Bolsonaro",
-      "link": "https://www.pbs.org/newshour/world/meta-tells-brazils-electoral-court-it-gives-equal-treatment-to-lula-and-flavio-bolsonaro",
-      "summary": "Meta said it had \"completed the implementation of measures to comply with the directive from the electoral court.\"",
-      "published_at": "2026-10-20T20:29:31Z",
-      "region": "América do Sul",
-      "theme": "Política Internacional",
-      "source_name": "PBS NewsHour",
-      "source_id": "pbs_newshour",
-      "is_brazilian": false,
-      "image_url": "https://d3i6fh83elv35t.cloudfront.net/static/2026/10/2026-10-20T172533Z_1592987701_RC2H2OAPOYFG_RTRMADP_3_BRAZIL-ELECTION-META-PLATFORMS-1024x742.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Current U.S. support for Ukraine looks very different than it did",
-      "link": "https://www.npr.org/2026/10/20/nx-s1-6009227/current-u-s-support-for-ukraine-looks-very-different-than-it-did",
-      "summary": "NPR's Scott Detrow talks with William Taylor, former U.S. Ambassador to Ukraine, about President Trump's recent moves to support Russia and how that compares to past administrations.",
-      "published_at": "2026-10-20T20:27:23Z",
-      "region": "Europa",
-      "theme": "Política Internacional",
-      "source_name": "NPR World News",
-      "source_id": "npr",
-      "is_brazilian": false,
-      "image_url": "https://media.npr.org/include/images/facebook-default-wide-s1400-c85.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Eleição no Brasil é a mais importante para o mundo fora dos EUA em 2026, diz Nobel de Economia",
-      "link": "https://www.bbc.com/portuguese/articles/ckvg74ve4371o?at_medium=RSS&at_campaign=rss",
-      "summary": "Daron Acemoglu, que leciona no MIT, nos EUA, argumenta à BBC News Brasil que retorno de um Bolsonaro ao poder ameaça colapsar a democracia liberal brasileira — que encabeça o mundo em desenvolvimento",
-      "published_at": "2026-10-20T20:25:22Z",
-      "region": "América do Sul",
-      "theme": "Política Internacional",
-      "source_name": "BBC News Brasil",
-      "source_id": "bbc_brasil",
-      "is_brazilian": true,
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9a0c/live/f0402260-ccc3-11f1-951b-8fbc7a9ea030.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Why the war on Iran could backfire on US regime-change goals",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/20/aje-onl-nf_war-on-iran-could-strengthen-nationalism-201026?traffic_source=rss",
-      "summary": "Mortazavi: The war on Iran could strengthen Iranian nationalism rather than trigger regime change.",
-      "published_at": "2026-10-20T20:23:52Z",
-      "region": "Oriente Médio",
-      "theme": "Geopolítica e Segurança",
-      "source_name": "Al Jazeera",
-      "source_id": "aljazeera_english",
-      "is_brazilian": false,
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/10/image-1792527825.jpg?resize=1920%2C1080&quality=80",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Nigeria confirms an Ebola case in Abuja as a woman arriving from Uganda tests positive",
-      "link": "https://www.npr.org/2026/10/20/g-s1-148975/nigeria-confirms-ebola-case",
-      "summary": "Nigeria is the latest country to report an Ebola case as the outbreak spreads across the region. Kenya confirmed its first case earlier this month and has since recorded nine infections.",
-      "published_at": "2026-10-20T20:19:16Z",
-      "region": "África",
-      "theme": "Saúde",
-      "source_name": "NPR World News",
-      "source_id": "npr",
-      "is_brazilian": false,
-      "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5760x3240+0+300/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F5f%2F08%2F95973b6c4216b275907f27dea332%2Fap26289768195932.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1584515901367-f1c2a12a50ea?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1505751172876-fa1923c5c528?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1584036561566-baf2418a7c21?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "British police rearrest 2 men on suspicion of assisting Iran over suspected plot at a U.S.-run air base",
-      "link": "https://www.pbs.org/newshour/world/britain-rearrests-2-men-on-suspicion-of-assisting-iran-over-suspected-plot-at-a-u-s-run-air-base",
-      "summary": "Police have been investigating a suspected terror plot on September 27 against the U.S.-run base in western England.",
-      "published_at": "2026-10-20T20:18:49Z",
-      "region": "Europa",
-      "theme": "Geopolítica e Segurança",
-      "source_name": "PBS NewsHour",
-      "source_id": "pbs_newshour",
-      "is_brazilian": false,
-      "image_url": "https://d3i6fh83elv35t.cloudfront.net/static/2026/10/2026-09-29T064654Z_1635109463_RC2USNAUC1I4_RTRMADP_3_BRITAIN-USA-FAIRFORD-1024x684.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "UK police rearrest two men on suspicion of assisting Iran’s intelligence",
-      "link": "https://www.aljazeera.com/news/2026/10/20/uk-police-re-arrest-two-men-on-suspicion-of-assisting-iranian-intelligence?traffic_source=rss",
-      "summary": "Duo was first arrested for suspected link to incident at US-run airbase used for striking Iran during this year's war.",
-      "published_at": "2026-10-20T20:17:53Z",
-      "region": "Oriente Médio",
-      "theme": "Geopolítica e Segurança",
-      "source_name": "Al Jazeera",
-      "source_id": "aljazeera_english",
-      "is_brazilian": false,
-      "image_url": null,
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "France riots leave thousands of businesses damaged",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/20/france-riots-leave-thousands-of-businesses-damaged?traffic_source=rss",
-      "summary": "Weekend riots in France left more than 3,000 businesses damaged with owners facing devastating losses",
-      "published_at": "2026-10-20T20:16:01Z",
-      "region": "Europa",
-      "theme": "Outros / Multitemático",
-      "source_name": "Al Jazeera",
-      "source_id": "aljazeera_english",
-      "is_brazilian": false,
-      "image_url": null,
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Trump campaigning in Republican strongholds amid slide in polls",
-      "link": "https://www.france24.com/en/trump-campaigning-in-republican-strongholds-amid-slide-in-polls",
-      "summary": "With the midterm elections fast approaching, US President Donald Trump is stumping for candidates in states that he won by double digits in 2024. Despite what he says, it’s a sign of what Trump and the Republican party are fearing: with polls showing GOP support slip drastically even in some deep red states. FRANCE 24's Monte Francis has more.",
-      "published_at": "2026-10-20T20:13:03Z",
-      "region": "América do Norte",
-      "theme": "Política Internacional",
-      "source_name": "France 24",
-      "source_id": "france24",
-      "is_brazilian": false,
-      "image_url": "https://s.france24.com/media/display/f637b458-c269-11f1-a77a-f50f6d982dc3/w:1024/p:16x9/AP26277064284536.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Italy sends troops, toughens security laws after Milan clashes",
-      "link": "https://www.france24.com/en/italy-sends-troops-toughens-security-laws-after-milan-clashes",
-      "summary": "Italy on Tuesday approved the deployment of 500 troops to Milan after violent clashes as fuel price protests hit pasta production and food deliveries in southern Italy. A cabinet meeting on Tuesday also approved a series of security measures, including making the detention of minors easier and introducing the crime of \"violent participation in a demonstration\". FRANCE 24's Seema Gupta reports from Rome.",
-      "published_at": "2026-10-20T20:09:52Z",
-      "region": "Europa",
-      "theme": "Política Internacional",
-      "source_name": "France 24",
-      "source_id": "france24",
-      "is_brazilian": false,
-      "image_url": "https://s.france24.com/media/display/2dc62256-cc88-11f1-ad46-4dd8ac2cf3bf/w:1024/p:16x9/000-D3L672D.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Entenda as regras para sair do Bolsa Família e o que defende Flávio",
-      "link": "https://www.poder360.com.br/poder-eleicoes-2026/entenda-as-regras-para-sair-do-bolsa-familia-e-o-que-defende-flavio/",
-      "summary": "Proposta de Daniella Marques, da campanha do senador, defende maior período de transição que o modelo atual e retorno imediato do beneficiário em caso de perda de renda; hoje, ele entra em fila prioritária e pode esperar até 3 anos",
-      "published_at": "2026-10-20T20:09:26Z",
-      "region": "América do Sul",
-      "theme": "Comércio e Finanças",
-      "source_name": "Poder360",
-      "source_id": "poder360",
-      "is_brazilian": true,
-      "image_url": "https://static.poder360.com.br/uploads/2026/10/2regra-saida-bolsa-familia-lula-proposta-bolsonaro-20-out-2026-1200x675.png",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1578575437130-527eed3abbec?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1522071820081-009f0129c71c?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "French PM vows 'massive' police deployment for new demonstrations",
-      "link": "https://www.france24.com/en/french-pm-vows-massive-police-deployment-for-new-demonstrations",
-      "summary": "French Prime Minister Sebastien Lecornu on Tuesday vowed a \"massive\" police presence at fresh protests called for the coming weekend, as he faced criticism over the handling of recent street violence. The eurozone's second-largest economy was rocked on Saturday by some of its worst rioting in recent years, just six months before voters head to the polls to elect a successor to President Emmanuel Macron. FRANCE 24's Ellen Gainsford reports.",
-      "published_at": "2026-10-20T20:05:44Z",
-      "region": "Europa",
-      "theme": "Política Internacional",
-      "source_name": "France 24",
-      "source_id": "france24",
-      "is_brazilian": false,
-      "image_url": "https://s.france24.com/media/display/91bb254e-cc7a-11f1-a766-2d1c143cdef3/w:1024/p:16x9/2026-10-20T060008Z-980083559-RC2R5OADDPJ2-RTRMADP-3-EUROPE-POLITICS.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "EU revises Arctic strategy as pressure from Russia, US grows",
-      "link": "https://www.aljazeera.com/news/2026/10/20/eu-revises-arctic-strategy-as-pressure-from-russia-us-grows?traffic_source=rss",
-      "summary": "The new strategy shifts the bloc's focus from long-term climate concerns to urgent security measures.",
-      "published_at": "2026-10-20T20:05:39Z",
-      "region": "Europa",
-      "theme": "Meio Ambiente e Clima",
-      "source_name": "Al Jazeera",
-      "source_id": "aljazeera_english",
-      "is_brazilian": false,
-      "image_url": null,
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "TSE reduz para 453 o número de locais de votação alterados no 2º turno",
-      "link": "https://www.poder360.com.br/poder-eleicoes-2026/tse-reduz-para-453-o-numero-de-locais-de-votacao-alterados-no-2o-turno/",
-      "summary": "Dados anteriores do sistema da Justiça Eleitoral indicavam até 4.300 alterações; eleitores devem consultar o local de votação no site do tribunal",
-      "published_at": "2026-10-20T20:04:55Z",
-      "region": "América do Sul",
-      "theme": "Política Brasileira",
-      "source_name": "Poder360",
-      "source_id": "poder360",
-      "is_brazilian": true,
-      "image_url": "https://static.poder360.com.br/uploads/2026/09/TribunalSuperiorEleitoral-TSE-Fachada-Placa-Externa-111-scaled-1-1200x675.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "'Netanyahu is fighting for his political career', expert says a week ahead of crucial vote",
-      "link": "https://www.france24.com/en/netanyahu-is-fighting-for-his-political-career-expert-says-a-week-ahead-of-crucial-vote",
-      "summary": "Israeli Prime Minister Benjamin Netanyahu basked in Donald Trump's endorsement on Monday ahead of close-fought elections, airing a phone call in which the US president predicted he would win and suggested they may again attack Iran together. FRANCE 24's Noga Tarnopolsky reports from Jerusalem. FRANCE 24's Mark Owen speaks with Simon Mabon, Professor of International Politics and Middle East Studies at Lancaster University.",
-      "published_at": "2026-10-20T20:03:50Z",
-      "region": "Oriente Médio",
-      "theme": "Política Internacional",
-      "source_name": "France 24",
-      "source_id": "france24",
-      "is_brazilian": false,
-      "image_url": "https://s.france24.com/media/display/858d62aa-c18a-11f1-8b18-0f96b136895a/w:1024/p:16x9/000-C4VA8T6.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Trump and Zelensky appear at loggerheads despite new optimism",
-      "link": "https://www.bbc.co.uk/news/articles/ckrey51jrgnro?at_medium=RSS&at_campaign=rss",
-      "summary": "The Ukrainian leader's hug with Steve Witkoff in the Norwegian capital is unlikely to dispel misgivings about US policy towards his country, writes Paul Adams.",
-      "published_at": "2026-10-20T20:00:57Z",
-      "region": "América do Norte",
-      "theme": "Política Internacional",
-      "source_name": "BBC World News",
-      "source_id": "bbc_world",
-      "is_brazilian": false,
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ca83/live/3f595b00-ccba-11f1-a64c-550be9e3c66b.png",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Is money ruining US elections?",
-      "link": "https://www.aljazeera.com/video/lets-focus/2026/10/20/is-money-ruining-us-elections?traffic_source=rss",
-      "summary": "Who pays for US elections and what do they get? Josh Rushing asks Lawrence Lessig and Bradley Smith.",
-      "published_at": "2026-10-20T19:59:46Z",
-      "region": "América do Norte",
-      "theme": "Política Internacional",
-      "source_name": "Al Jazeera",
-      "source_id": "aljazeera_english",
-      "is_brazilian": false,
-      "image_url": null,
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "PSG fans divided over protests in France as Barcelona game goes ahead",
-      "link": "https://www.aljazeera.com/sports/2026/10/20/psg-fans-divided-over-protests-in-france-as-barcelona-game-goes-ahead?traffic_source=rss",
-      "summary": "Champions League football game takes place amid backdrop of unrest over education issues and the cost of living.",
-      "published_at": "2026-10-20T19:55:37Z",
-      "region": "Europa",
-      "theme": "Outros / Multitemático",
-      "source_name": "Al Jazeera",
-      "source_id": "aljazeera_english",
-      "is_brazilian": false,
-      "image_url": null,
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Netanyahu says he discussed ‘eliminating’ Iran’s regime with Trump",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/20/netanyahu-says-he-discussed-eliminating-irans-regime-with-trump?traffic_source=rss",
-      "summary": "Israeli Prime Minister Benjamin Netanyahu says he discussed the need to topple Iran’s regime with US President Trump.",
-      "published_at": "2026-10-20T19:51:09Z",
-      "region": "Oriente Médio",
-      "theme": "Política Internacional",
-      "source_name": "Al Jazeera",
-      "source_id": "aljazeera_english",
-      "is_brazilian": false,
-      "image_url": null,
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Trump asegura que Rusia no culminó su invasión de Ucrania en un solo día por la incompetencia de sus generales",
-      "link": "https://www.europapress.es/internacional/noticia-trump-asegura-rusia-no-culmino-invasion-ucrania-solo-dia-incompetencia-generales-20261020213657.html",
-      "summary": "El presidente de Estados Unidos, Donald Trump, se ha declarado convencido de que si Rusia no se hizo con el control de la capital de Ucrania, Kiev, a las 24 horas de comenzar su invasión del país, se debió principalmente a la incompetencia de sus generales.",
-      "published_at": "2026-10-20T19:36:57Z",
-      "region": "América do Norte",
-      "theme": "Política Internacional",
-      "source_name": "Europa Press",
-      "source_id": "europa_press",
-      "is_brazilian": false,
-      "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20261020213657_120.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Janones recebe alta em SP e diz que retomará campanha",
-      "link": "https://www.poder360.com.br/poder-eleicoes-2026/janones-recebe-alta-em-sp-e-diz-que-retomara-campanha/",
-      "summary": "Deputado federal foi internado por arritmia cardíaca; Janones lidera canal de apoio a Lula no WhatsApp",
-      "published_at": "2026-10-20T19:31:31Z",
-      "region": "América do Sul",
-      "theme": "Política Brasileira",
-      "source_name": "Poder360",
-      "source_id": "poder360",
-      "is_brazilian": true,
-      "image_url": "https://static.poder360.com.br/uploads/2026/10/Janones_alta_saida_hospital-1200x675.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Milei lança plano para demitir 21 mil servidores na Argentina",
-      "link": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-10/milei-lanca-plano-para-demitir-21-mil-servidores-na-argentina",
-      "summary": "O governo da Argentina de Javier Milei publicou decreto, nesta segunda-feira (19), com plano de demissão voluntária que pode alcançar até 21 mil servidores públicos. Desde janeiro de 2023, o governo Milei fechou 77 mil vagas no serviço estatal argentino. A política faz parte da agenda de corte de gastos de Milei, que assumiu a Casa Rosada empunhando o símbolo da motosserra, instrumento que representaria o corte de despesas e a redução do Estado. Notícias relacionadas: Manifestação contra Milei termina em confrontos na Argentina. Ajuste de Milei reduz número de novos aposentados em 53% na Argentina. Argentina sob Milei fecha 31 mil empresas e 245 mil empregos formais. A Associação dos Trabalhadores do Estado (ATE) da Argentina destaca que milhões de pessoas vão ficar sem serviço público com essa demissão em massa e acusa o governo de intimidação de funcionários para aderir à proposta. O governo, por sua vez, defende que a adesão é voluntária. O Decreto 1.203 de 2026 prevê a demissão voluntária de três grupos distintos dentro do serviço público federal, com exceção dos militares e funcionários da segurança e inteligência. O decreto prevê que as vagas dos servidores que aderirem serão suprimidas de forma permanente. A norma abrange funcionários perto da idade de se aposentar, entre 58 e 64 anos, ou que já tenham alcançado os requisitos para aposentadoria. O plano prevê, entre outras modalidades de rescisão, o pagamento de um salário por ano trabalhado no Estado, além de um pagamento mensal de 60% do salário pelos próximos três anos. O ministro da desregulação e transformação do Estado, Fede Sturzenegger, destacou que quem aderir ao plano de demissão não poderá voltar a ocupar emprego no Estado pelos próximos oito anos “para evitar uma porta giratória”. Motosserra de Milei Entre dezembro de 2023, logo após Milei assumir o governo, e agosto de 2026, foram 77,5 mil postos de trabalho suprimidos no setor público argentino. Desse total, foram 44,7 mil vagas fechadas na Administração Pública direta e indireta; 11,1 mil vagas nas Forças Armadas e entre membros das forças de segurança, além de 21,6 mil funcionários das empresas públicas. “Nesse período, a Administração Pública Nacional (APN) reduziu seu quadro de pessoal em 21,8%, enquanto, nas empresas estatais, a diminuição atingiu 23,7%. Por sua vez, o número de postos de trabalho na APN centralizada reduziu-se em 30%, ao passo que, na descentralizada, a redução foi de 18%”, diz informe do governo . O governo Milei apresenta esses cortes como uma “economia” para a Argentina da ordem de US$ 3,2 bilhões. “Esta medida reflete o compromisso do governo com a redução do gasto público e sua determinação de cumprir as promessas de eficiência e austeridade na administração pública”, diz o governo. Servidores públicos Os servidores organizados na Associação dos Trabalhadores do Estado (ATE) publicaram nota contra a iniciativa do governo . O secretário-geral da ATE, Rodolfo Aguiar, denuncia que as chefias têm pressionado os empregados para aderir ao plano. “Se é realmente voluntário, por que estão ameaçando os trabalhadores? Se há intimidação, então o consentimento não é livre. As declarações dos funcionários são como: ‘Ou você assina os papéis da aposentadoria ou eu te coloco em licença e depois te demito’”, destacou o líder sindical. Ainda segundo Aguiar, a ATE Nacional vai recomendar a não adesão ao plano considerando a experiência de demissão voluntária da década de 1990 na Argentina, que teria deixado milhares de servidores sem emprego e sem aposentadoria. “Essa decisão deixará milhões de argentinos sem serviços públicos essenciais. Não podemos permitir que desmantelam o Estado e o deixem sem seu bem mais precioso: um valioso recurso humano com experiência e histórico comprovado”, concluiu o secretário-geral da ATE Nacional. Desemprego A taxa de desemprego na Argentina subiu 0,3 pontos percentuais (p.p.) no primeiro semestre de 2026, se comparado com o mesmo período de 2025, chegando a 7,9% da população economicamente ativa, segundo dados oficiais do Indec. Sob o comando do presidente Javier Milei, a Argentina fechou 31,3 mil empresas, 6,1% do total das companhias registradas no país. Além disso, 245 mil postos formais de emprego foram encerrados em 31 meses, queda de 3,9% do total, segundo levantamento do Centro de Economia Política Argentina (Cepa). Saiba mais no Repórter Brasil Tarde, da TV Brasil",
-      "published_at": "2026-10-20T19:31:00Z",
-      "region": "América do Sul",
-      "theme": "Política Internacional",
-      "source_name": "Agência Brasil",
-      "source_id": "agencia_brasil",
-      "is_brazilian": true,
-      "image_url": null,
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Trump sued over Canadian tariffs in latest legal challenge",
-      "link": "https://www.bbc.co.uk/news/articles/cqrkyj13m588o?at_medium=RSS&at_campaign=rss",
-      "summary": "The lawsuit argues the White House exceeded its authority in imposing the latest tariffs on the country and caused \"immediate harm to American businesses\".",
-      "published_at": "2026-10-20T19:30:05Z",
-      "region": "América do Norte",
-      "theme": "Comércio e Finanças",
-      "source_name": "BBC World News",
-      "source_id": "bbc_world",
-      "is_brazilian": false,
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/18fe/live/5bca92c0-ccb7-11f1-a64c-550be9e3c66b.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1578575437130-527eed3abbec?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1522071820081-009f0129c71c?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Photos: Qatar holds biennial Milipol homeland security exhibition",
-      "link": "https://www.aljazeera.com/gallery/2026/10/20/photos-qatar-holds-biennial-milipol-homeland-security-exhibition?traffic_source=rss",
-      "summary": "Qatar and France sign a three-year action plan for security cooperation on the sidelines of the Milipol exhibition.",
-      "published_at": "2026-10-20T19:29:39Z",
-      "region": "Oriente Médio",
-      "theme": "Outros / Multitemático",
-      "source_name": "Al Jazeera",
-      "source_id": "aljazeera_english",
-      "is_brazilian": false,
-      "image_url": null,
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Cornell Jane Doe says embattled university head doubted her gang-rape allegation",
-      "link": "https://www.bbc.co.uk/news/articles/cwn73z5gnnrro?at_medium=RSS&at_campaign=rss",
-      "summary": "As a no-confidence vote looms, Cornell says the characterisation of the head's reaction is \"incorrect\".",
-      "published_at": "2026-10-20T19:08:06Z",
-      "region": "Global",
-      "theme": "Outros / Multitemático",
-      "source_name": "BBC World News",
-      "source_id": "bbc_world",
-      "is_brazilian": false,
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b22d/live/08cf8f60-c8cc-11f1-95b2-9f12d414946d.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Nigeria records its first Ebola case, in capital Abuja",
-      "link": "https://www.dw.com/en/nigeria-records-its-first-ebola-case-in-capital-abuja/a-79717377?maca=en-rss-en-world-4025-rdf",
-      "summary": "Nigeria has reported its first known case of Ebola during Africa's latest outbreak originating in the DRC. Health Minister Muhammad Ali Pate said the patient was a woman who had recently flown to Abuja from Uganda.",
-      "published_at": "2026-10-20T19:08:00Z",
-      "region": "África",
-      "theme": "Saúde",
-      "source_name": "DW World News",
-      "source_id": "dw_english",
-      "is_brazilian": false,
-      "image_url": "https://static.dw.com/image/79717428_6.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1584515901367-f1c2a12a50ea?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1505751172876-fa1923c5c528?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1584036561566-baf2418a7c21?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Zelensky meets Witkoff as US-Ukraine relations sink to new lows",
-      "link": "https://www.france24.com/en/zelenskiy-meets-witkoff-as-us-ukraine-relations-sink-to-new-lows",
-      "summary": "Ukrainian President Volodymyr Zelensky was meeting US special envoy Steve Witkoff on Tuesday in a ​bid to rescue relations that have sunk to new lows as President Donald Trump has courted Moscow and Kyiv has complained about Washington withholding vital defences. FRANCE 24's Gulliver Cragg reports from Kharkiv.",
-      "published_at": "2026-10-20T19:06:57Z",
-      "region": "Europa",
-      "theme": "Política Internacional",
-      "source_name": "France 24",
-      "source_id": "france24",
-      "is_brazilian": false,
-      "image_url": "https://s.france24.com/media/display/c33fd7da-ccb7-11f1-ae24-6313a763b466/w:1024/p:16x9/EN-20261020-204050-204809-CS.jpg",
       "fallback_images": [
         "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
