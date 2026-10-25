@@ -1,6 +1,516 @@
 {
-  "updated_at": "2026-10-25T20:32:59.913680Z",
+  "updated_at": "2026-10-25T22:56:41.397813Z",
   "news": [
+    {
+      "title": "Eleições 2026 ao vivo: Com mais de 13% das urnas apuradas, Flávio tem 50,01%,4% e Lula, 49,99%; siga",
+      "link": "https://www.bbc.co.uk/portuguese/live/c6vg0rrxzx13t?at_medium=RSS&at_campaign=rss",
+      "summary": "Após pedido das campanhas de Lula e Flávio Bolsonaro, ministro Cristiano Zanin ordena que urnas fiquem abertas até 19h; acompanhe a cobertura completa. BBC News Brasil faz transmissão ao vivo com apuração dos votos.",
+      "published_at": "2026-10-25T22:56:31.366651Z",
+      "region": "América do Sul",
+      "theme": "Política Brasileira",
+      "source_name": "BBC News Brasil",
+      "source_id": "bbc_brasil",
+      "is_brazilian": true,
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5558/live/91f4ccb0-d0ba-11f1-bb22-5d7091b6f0f8.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Serbia's veteran ruler Vučić concedes election to student-led protest movement",
+      "link": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss",
+      "summary": "The populist right-wing leader of 12 years says it is \"clear\" his party has lost the vote billed as a referendum on the country's future.",
+      "published_at": "2026-10-25T22:54:57Z",
+      "region": "Global",
+      "theme": "Política Internacional",
+      "source_name": "BBC World News",
+      "source_id": "bbc_world",
+      "is_brazilian": false,
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/79e5/live/ec88c6f0-d0b9-11f1-93e1-3b657b665bcf.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Estudante é agredido em SP depois de apresentação em ato de Lula",
+      "link": "https://www.poder360.com.br/poder-seguranca-publica/estudante-e-agredido-em-sp-depois-de-apresentacao-em-ato-de-lula/",
+      "summary": "Marcelo Oliveira Rocha foi encontrado espancado e inconsciente, em Santos, no litoral de São Paulo; ele está hospitalizado",
+      "published_at": "2026-10-25T22:53:40Z",
+      "region": "América do Sul",
+      "theme": "Política Brasileira",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2026/10/marcelo-rocha-25-out-2026.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Danilo Forte diz que decisão de Zanin abre crise eleitoral",
+      "link": "https://www.poder360.com.br/poder-eleicoes-2026/danilo-forte-diz-que-decisao-de-zanin-abre-crise-eleitoral/",
+      "summary": "Deputado critica prorrogação da votação, prevê questionamentos ao resultado e diz que procurará Hugo Motta",
+      "published_at": "2026-10-25T22:41:32Z",
+      "region": "América do Sul",
+      "theme": "Política Brasileira",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2026/10/danilo-forte-1200x675.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Nikolas critica decisão de Zanin: “Criar narrativa de golpe”",
+      "link": "https://www.poder360.com.br/poder-eleicoes-2026/nikolas-critica-decisao-de-zanin-criar-narrativa-de-golpe/",
+      "summary": "Deputado afirmou que decisão de ministro é “impossível de cumprir” e contribui para a candidatura de Lula",
+      "published_at": "2026-10-25T22:34:54Z",
+      "region": "América do Sul",
+      "theme": "Política Brasileira",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2026/10/nikolas-ferreira-1-1200x675.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "O que se sabe sobre as denúncias sobre falta de ônibus pelo Brasil?",
+      "link": "https://www.bbc.com/portuguese/articles/cm93z1wyl706o?at_medium=RSS&at_campaign=rss",
+      "summary": "O presidente e candidato à reeleição Luiz Inácio Lula da Silva (PT) pediu ao Tribunal Superior Eleitoral (TSE) a prorrogação do horário de votação nas cidades que registraram irregularidades.",
+      "published_at": "2026-10-25T22:34:34Z",
+      "region": "América do Sul",
+      "theme": "Política Brasileira",
+      "source_name": "BBC News Brasil",
+      "source_id": "bbc_brasil",
+      "is_brazilian": true,
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6853/live/1fcae2c0-d0a4-11f1-a701-fddedf244c16.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Leia o que a mídia internacional diz sobre a prorrogação da votação",
+      "link": "https://www.poder360.com.br/poder-eleicoes/leia-o-que-a-midia-internacional-diz-sobre-a-prorrogacao-da-votacao/",
+      "summary": "Jornais destacaram problemas com transporte público que dificultaram a ida de eleitores às seções eleitorais",
+      "published_at": "2026-10-25T22:33:46Z",
+      "region": "América do Sul",
+      "theme": "Política Brasileira",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2026/09/foto-urna-eleicao-1200x675.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Bolsonaro se impone a Lula en las presidenciales de Brasil con un 14,57% escrutado",
+      "link": "https://www.europapress.es/internacional/noticia-lula-gana-bolsonaro-estrecho-margen-escrutado-20261025233026.html",
+      "summary": "El candidato del Partido Liberal, Flávio Bolsonaro, ha ganado las elecciones la segunda vuelta de las elecciones presidenciales brasileñas con un 50,05% de votos, según resultados oficiales aún parciales correspondientes al 14,57% del escrutinio.",
+      "published_at": "2026-10-25T22:30:26Z",
+      "region": "América do Sul",
+      "theme": "Política Internacional",
+      "source_name": "Europa Press",
+      "source_id": "europa_press",
+      "is_brazilian": false,
+      "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20261025233026_120_v2.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "'Só consegui votar com carona': eleitores esperam horas por transporte público e recorrem a redes sociais e até 40 km de bicicleta para chegar às urnas",
+      "link": "https://www.bbc.com/portuguese/articles/cmly0zplj298o?at_medium=RSS&at_campaign=rss",
+      "summary": "Taynan Carvalho de Sá, de Salvador, só conseguiu carona no final do dia, mas encontrou sua seção eleitoral fechada, apesar da prorrogação nacional.",
+      "published_at": "2026-10-25T22:27:22Z",
+      "region": "América do Sul",
+      "theme": "Ciência, Tecnologia e Inovação",
+      "source_name": "BBC News Brasil",
+      "source_id": "bbc_brasil",
+      "is_brazilian": true,
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/1c70/live/8a0e5790-d0c0-11f1-a701-fddedf244c16.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1518770660439-4636190af475?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1507668077129-56e32842fceb?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "MPE foi contra estender votação, mas STF manteve urnas até 19h",
+      "link": "https://www.poder360.com.br/poder-eleicoes-2026/mpe-foi-contra-estender-votacao-mas-stf-manteve-urnas-ate-19h/",
+      "summary": "Parecer enviado ao TSE defendeu horário padrão e apuração de irregularidades antes de ordem para estender pleito",
+      "published_at": "2026-10-25T22:25:55Z",
+      "region": "América do Sul",
+      "theme": "Política Brasileira",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2026/09/urna-eleicao-1200x675.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Mélenchon cree que hay elementos de una \"situación revolucionaria\" en Francia",
+      "link": "https://www.europapress.es/internacional/noticia-melenchon-cree-hay-elementos-situacion-revolucionaria-francia-20261025232335.html",
+      "summary": "El candidato de la Francia Insumisa a la Presidencia francesa, Jean-Luc Mélenchon, ha afirmado este domingo en Francia que se dan los elementos para una \"situación revolucionaria\" tras las recientes protestas sociales en todo el país.",
+      "published_at": "2026-10-25T22:23:35Z",
+      "region": "Europa",
+      "theme": "Outros / Multitemático",
+      "source_name": "Europa Press",
+      "source_id": "europa_press",
+      "is_brazilian": false,
+      "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20261025232335_120.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Real Madrid beat Barcelona 2-1 at Camp Nou to halve gap to La Liga leaders",
+      "link": "https://www.aljazeera.com/sports/2026/10/25/real-madrid-beat-barcelona-2-1-at-camp-nou-to-halve-gap-to-la-liga-leaders?traffic_source=rss",
+      "summary": "French superstar Kylian Mbappe scores brace for Madrid to inflict Barcelona's first domestic defeat of the campaign.",
+      "published_at": "2026-10-25T22:22:53Z",
+      "region": "Europa",
+      "theme": "Outros / Multitemático",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": null,
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Justiça nega pedido do PT para prender gestores do transporte de SP",
+      "link": "https://www.poder360.com.br/poder-eleicoes-2026/justica-nega-pedido-do-pt-para-prender-gestores-do-transporte-de-sp/",
+      "summary": "TRE-SP considerou insuficientes as provas apresentadas sobre possível descumprimento de ordem para ampliar a frota de ônibus no 2º turno",
+      "published_at": "2026-10-25T22:21:25Z",
+      "region": "América do Sul",
+      "theme": "Outros / Multitemático",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2026/10/sptrans.jpeg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Mapa das Eleições 2026: veja o resultado para presidente e governador no 2º turno",
+      "link": "https://www.bbc.com/portuguese/articles/c61m430mdek2o?at_medium=RSS&at_campaign=rss",
+      "summary": "Neste interativo, você pode consultar os resultados da eleição para presidente e governador por Estado e município.",
+      "published_at": "2026-10-25T22:18:32Z",
+      "region": "América do Sul",
+      "theme": "Política Brasileira",
+      "source_name": "BBC News Brasil",
+      "source_id": "bbc_brasil",
+      "is_brazilian": true,
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/aedf/live/f950f710-cec8-11f1-b441-2b33b063138f.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Deeply divided Israel braces for pivotal election",
+      "link": "https://www.bbc.co.uk/news/articles/ckpdgy6pl7xlo?at_medium=RSS&at_campaign=rss",
+      "summary": "After three years of regional war, this is a battle Israel always knew was coming, writes Lucy Williamson.",
+      "published_at": "2026-10-25T22:11:13Z",
+      "region": "Oriente Médio",
+      "theme": "Política Internacional",
+      "source_name": "BBC World News",
+      "source_id": "bbc_world",
+      "is_brazilian": false,
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c38d/live/19e08ff0-d0a3-11f1-adbe-cd0eaeb0fff9.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "María Corina Machado volta à Venezuela depois de quase 1 ano fora",
+      "link": "https://www.poder360.com.br/poder-internacional/maria-corina-machado-volta-a-venezuela-depois-de-quase-1-ano-fora/",
+      "summary": "Laureada com o Nobel da Paz encerra período de exílio; EUA atribuem retorno a negociações apoiadas por Washington",
+      "published_at": "2026-10-25T22:02:58Z",
+      "region": "América do Sul",
+      "theme": "Outros / Multitemático",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2026/10/mariacorinavenezuela-1200x675.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Após prorrogação, Lula e aliados pedem que eleitores votem",
+      "link": "https://www.poder360.com.br/poder-eleicoes/apos-prorrogacao-lula-e-aliados-pedem-que-eleitores-votem/",
+      "summary": "O ministro do STF Cristiano Zanin prorrogou a votação até as 19h; Boulos, Tabata e Janones se pronunciaram",
+      "published_at": "2026-10-25T21:58:23Z",
+      "region": "América do Sul",
+      "theme": "Política Brasileira",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2026/09/lula-canal-livre-27-set-20265-1200x675.png",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Após prorrogação da votação, Lula encontra apoiadores; veja imagens",
+      "link": "https://www.poder360.com.br/poder-eleicoes-2026/apos-prorrogacao-da-votacao-lula-encontra-apoiadores-veja-imagens/",
+      "summary": "Presidente tirou fotos com apoiadores depois de Zanin estender a votação até as 19h",
+      "published_at": "2026-10-25T21:50:39Z",
+      "region": "América do Sul",
+      "theme": "Política Brasileira",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2026/10/lula-e-apoiadores-em-sao-paulo-1200x675.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Marine Le Pen vows French ‘renaissance’ as far right eyes seat of power",
+      "link": "https://www.aljazeera.com/news/2026/10/25/marine-le-pen-vows-a-french-renaissance-as-far-right-eyes-seat-of-power?traffic_source=rss",
+      "summary": "National Rally's Le Pen launches presidential campaign against backdrop of protests and social, economic discontent.",
+      "published_at": "2026-10-25T21:50:36Z",
+      "region": "Europa",
+      "theme": "Economia Internacional",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": null,
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Famosos votam no 2º turno das eleições; veja fotos",
+      "link": "https://www.poder360.com.br/poder-eleicoes-2026/famosos-votam-no-2o-turno-das-eleicoes-veja-fotos/",
+      "summary": "Atores, cantores e influenciadores postaram nas suas redes sociais fotos neste domingo (25.out)",
+      "published_at": "2026-10-25T21:48:34Z",
+      "region": "América do Sul",
+      "theme": "Política Brasileira",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2026/10/famosos-2oTurno.png",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "US Attorney General Todd Blanche defends Alaska Senate election lawsuit",
+      "link": "https://www.aljazeera.com/news/2026/10/25/us-attorney-general-todd-blanche-defends-alaska-senate-election-lawsuit?traffic_source=rss",
+      "summary": "The Department of Justice has faced criticism that its lawsuit is aimed at blocking a Democratic victory in a key race.",
+      "published_at": "2026-10-25T21:41:10Z",
+      "region": "América do Norte",
+      "theme": "Política Internacional",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": null,
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Serbia's strongman leader Vucic concedes defeat to student-led movement in seismic political shift",
+      "link": "https://www.pbs.org/newshour/world/serbias-strongman-leader-vucic-concedes-defeat-to-student-led-movement-in-seismic-political-shift",
+      "summary": "It was a seismic political shift in the Balkan country where Vucic, who had been endorsed by Russian President Vladimir Putin and who denounced the student movement as a foreign-led attempt to unseat him, led with virtually absolute power for 14 years.",
+      "published_at": "2026-10-25T21:35:34Z",
+      "region": "Europa",
+      "theme": "Política Internacional",
+      "source_name": "PBS NewsHour",
+      "source_id": "pbs_newshour",
+      "is_brazilian": false,
+      "image_url": "https://d3i6fh83elv35t.cloudfront.net/static/2026/10/2026-10-25T212423Z_1001107172_RC2LAOABLY3N_RTRMADP_3_SERBIA-ELECTION-1024x683.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Trump VS California",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/25/trump-vs-california?traffic_source=rss",
+      "summary": "The Democrats have redrawn district lines in a bid to flip five Republican-held seats in California.",
+      "published_at": "2026-10-25T21:29:23Z",
+      "region": "América do Norte",
+      "theme": "Política Internacional",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": null,
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Serbia's Vucic concedes defeat in historic snap election with record turnout",
+      "link": "https://www.france24.com/en/europe/20261025-serbia-s-vucic-concedes-defeat-in-historic-snap-election-with-record-turnout",
+      "summary": "Serbia's Aleksandar Vucic conceded defeat in an historic election on Sunday following a near to 70% turnout at polling stations – the highest since the break-up of Yugoslavia in 1992. The snap election followed nearly two years of student-led demonstrations against perceived corruption and authoritarianism triggered by the deaths of 16 people when a train station canopy collapsed in the ‌city of Novi Sad in 2024.",
+      "published_at": "2026-10-25T21:24:42Z",
+      "region": "Europa",
+      "theme": "Política Internacional",
+      "source_name": "France 24",
+      "source_id": "france24",
+      "is_brazilian": false,
+      "image_url": "https://s.france24.com/media/display/d8ecce54-d0b7-11f1-b879-bdb9616e85cf/w:1024/p:16x9/AP26298757145534.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "U.S. influence in Latin America at stake in runoff election in Brazil",
+      "link": "https://www.npr.org/2026/10/25/nx-s1-6011223/u-s-influence-in-latin-america-at-stake-in-runoff-election-in-brazil",
+      "summary": "A polarizing presidential election runoff in Latin America's largest economy and biggest democracy pits leftist Lula da Silva's legacy against Trump ally Flavio Bolsonaro, son of the former Brazilian president.",
+      "published_at": "2026-10-25T21:22:43Z",
+      "region": "América do Sul",
+      "theme": "Política Internacional",
+      "source_name": "NPR World News",
+      "source_id": "npr",
+      "is_brazilian": false,
+      "image_url": null,
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "This center-right former general could unseat Netanyahu as Prime Minister in Israel",
+      "link": "https://www.npr.org/2026/10/25/nx-s1-6011185/this-center-right-former-general-could-unseat-netanyahu-as-prime-minister-in-israel",
+      "summary": "A former Israeli general is the main center-right challenger hoping to unseat Prime Minister Benjamin Netanyahu in Israeli elections this week.",
+      "published_at": "2026-10-25T21:22:40Z",
+      "region": "Oriente Médio",
+      "theme": "Política Internacional",
+      "source_name": "NPR World News",
+      "source_id": "npr",
+      "is_brazilian": false,
+      "image_url": null,
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Kenya bus crash kills at least 24 as government vows road safety crackdown",
+      "link": "https://www.aljazeera.com/news/2026/10/25/kenya-bus-crash-kills-at-least-24-as-government-vows-road-safety-crackdown?traffic_source=rss",
+      "summary": "Church mourners die on Kenya’s Nairobi-Mombasa Highway weeks after another crash killed 17 people.",
+      "published_at": "2026-10-25T21:00:02Z",
+      "region": "África",
+      "theme": "Política Internacional",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": null,
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Los primeros resultados oficiales dan una clara victoria a la Lista de Estudiantes en Serbia",
+      "link": "https://www.europapress.es/internacional/noticia-vucic-reconoce-derrota-elecciones-anticipadas-serbias-domingo-20261025215545.html",
+      "summary": "La Lista de Estudiantes, liderada por Ilija Srdanovic, cardiólogo y profesor en Novi Sad, ha ganado las elecciones legislativas anticipadas celebradas este domingo en Serbia con un 52% de los votos, según resultados aún parciales correspondientes al escrutinio de 750 colegios electorales.",
+      "published_at": "2026-10-25T20:55:45Z",
+      "region": "Europa",
+      "theme": "Política Internacional",
+      "source_name": "Europa Press",
+      "source_id": "europa_press",
+      "is_brazilian": false,
+      "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20261025215545_120.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Que horas saem os resultados do 2º turno das eleições e como acompanhar a apuração?",
+      "link": "https://www.bbc.com/portuguese/articles/cqm26v3llpgdo?at_medium=RSS&at_campaign=rss",
+      "summary": "BBC News Brasil acompanhará a apuração do segundo turno das eleições 2026, em 25 de outubro, com um programa ao vivo trazendo os resultados e análise em tempo real conforme os votos forem contados.",
+      "published_at": "2026-10-25T20:42:07Z",
+      "region": "América do Sul",
+      "theme": "Política Brasileira",
+      "source_name": "BBC News Brasil",
+      "source_id": "bbc_brasil",
+      "is_brazilian": true,
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c72f/live/e5409bc0-bff7-11f1-a64c-550be9e3c66b.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Presidential race in Bulgaria heads to runoff due to record low turnout",
+      "link": "https://www.pbs.org/newshour/world/presidential-race-in-bulgaria-heads-to-runoff-due-to-record-low-turnout",
+      "summary": "In a surprisingly strong performance, the candidate of the pro-Western reformist opposition, Andrey Gyurov, will face the incumbent leftist president, Iliana Yotova, setting clear lines of division regarding the country's future relationships with other nations.",
+      "published_at": "2026-10-25T20:39:50Z",
+      "region": "Global",
+      "theme": "Política Internacional",
+      "source_name": "PBS NewsHour",
+      "source_id": "pbs_newshour",
+      "is_brazilian": false,
+      "image_url": "https://d3i6fh83elv35t.cloudfront.net/static/2026/10/2026-10-25T105957Z_656776555_RC26AOAMTQMO_RTRMADP_3_BULGARIA-ELECTION-PRESIDENT-1024x683.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
     {
       "title": "Eleições 2026 ao vivo: STF prorroga votação até 19h após denúncias de falta de transporte; TSE pausa divulgação da apuração; siga",
       "link": "https://www.bbc.co.uk/portuguese/live/c6vg0rrxzx13t?at_medium=RSS&at_campaign=rss",
@@ -33,6 +543,23 @@
         "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1505664194779-8beaceb93744?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Termina votação após horário estendido e apuração é retomada; acompanhe na DW",
+      "link": "https://www.dw.com/pt-br/termina-votação-após-horário-estendido-e-apuração-é-retomada-acompanhe-na-dw/live-78393402?maca=bra-rss-br-all-1030-rdf",
+      "summary": "Mais de 158 milhões de brasileiros estão aptos a votar neste domingo. Flávio Bolsonaro e Lula já votaram, e resultados do exterior começam a chegar. Acompanhe a cobertura das eleições na DW.",
+      "published_at": "2026-10-25T20:29:00Z",
+      "region": "América do Sul",
+      "theme": "Política Internacional",
+      "source_name": "DW Brasil",
+      "source_id": "dw_brasil",
+      "is_brazilian": false,
+      "image_url": "https://static.dw.com/image/79757970_6.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
       ]
     },
     {
@@ -80,23 +607,6 @@
       "source_id": "poder360",
       "is_brazilian": true,
       "image_url": "https://static.poder360.com.br/uploads/2026/09/STF-julga-no-plenario-se-Alexandre-de-Moraes-e-investigado-no-caso-Banco-Master-15set2026-zanin--1200x675.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Mapa das Eleições 2026: veja o resultado para presidente e governador no 2º turno",
-      "link": "https://www.bbc.com/portuguese/articles/c61m430mdek2o?at_medium=RSS&at_campaign=rss",
-      "summary": "Neste interativo, você pode consultar os resultados da eleição para presidente e governador por Estado e município.",
-      "published_at": "2026-10-25T20:13:02Z",
-      "region": "América do Sul",
-      "theme": "Política Brasileira",
-      "source_name": "BBC News Brasil",
-      "source_id": "bbc_brasil",
-      "is_brazilian": true,
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/aedf/live/f950f710-cec8-11f1-b441-2b33b063138f.jpg",
       "fallback_images": [
         "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
@@ -172,9 +682,9 @@
       ]
     },
     {
-      "title": "Brazil election results 2026 live: Polls close in Lula, Bolsonaro face-off",
+      "title": "Brazil election results 2026 live: Vote counting begins for Lula, Bolsonaro",
       "link": "https://www.aljazeera.com/news/liveblog/2026/10/25/brazil-election-results-2026-live-polls-close-in-lula-bolsonaro-face-off?traffic_source=rss",
-      "summary": "Brazilian President Luiz Inacio Lula da Silva and Senator Flavio Bolsonaro square off in a closely watched election.",
+      "summary": "Legal challenges likely as voting hour extension adds tension to Brazil's polarized political landscape.",
       "published_at": "2026-10-25T20:00:04Z",
       "region": "América do Sul",
       "theme": "Política Internacional",
@@ -189,20 +699,20 @@
       ]
     },
     {
-      "title": "O que se sabe sobre as denúncias sobre falta de ônibus pelo Brasil?",
-      "link": "https://www.bbc.com/portuguese/articles/cm93z1wyl706o?at_medium=RSS&at_campaign=rss",
-      "summary": "O presidente e candidato à reeleição Luiz Inácio Lula da Silva (PT) pediu ao Tribunal Superior Eleitoral (TSE) a prorrogação do horário de votação nas cidades que registraram irregularidades.",
-      "published_at": "2026-10-25T19:58:59Z",
+      "title": "Brazil election results 2026 live: Polls close in Lula, Bolsonaro face-off",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/10/25/brazil-election-results-2026-live-polls-close-in-lula-bolsonaro-face-off?traffic_source=rss",
+      "summary": "Brazilian President Luiz Inacio Lula da Silva and Senator Flavio Bolsonaro square off in a closely watched election.",
+      "published_at": "2026-10-25T20:00:04Z",
       "region": "América do Sul",
-      "theme": "Política Brasileira",
-      "source_name": "BBC News Brasil",
-      "source_id": "bbc_brasil",
-      "is_brazilian": true,
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6853/live/1fcae2c0-d0a4-11f1-a701-fddedf244c16.jpg",
+      "theme": "Política Internacional",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": null,
       "fallback_images": [
-        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
+        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
       ]
     },
     {
@@ -318,6 +828,23 @@
       "source_id": "pbs_newshour",
       "is_brazilian": false,
       "image_url": "https://d3i6fh83elv35t.cloudfront.net/static/2026/10/2026-10-21T123208Z_1261042642_RC2L7OAN64MX_RTRMADP_3_IRAN-CRISIS-TRUMP-CAGE-1024x683.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Serbia’s Vucic concedes election defeat to student-led movement",
+      "link": "https://www.aljazeera.com/news/2026/10/25/serbia-voter-turnout-highest-in-decades-as-students-oppose-longtime-leader?traffic_source=rss",
+      "summary": "Vucic says the opposition Student List is projected to win a parliamentary majority after nearly two years of protests.",
+      "published_at": "2026-10-25T19:19:54Z",
+      "region": "Oriente Médio",
+      "theme": "Política Internacional",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": null,
       "fallback_images": [
         "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
@@ -1277,23 +1804,6 @@
       ]
     },
     {
-      "title": "Que horas saem os resultados do 2º turno das eleições e como acompanhar a apuração?",
-      "link": "https://www.bbc.com/portuguese/articles/cqm26v3llpgdo?at_medium=RSS&at_campaign=rss",
-      "summary": "BBC News Brasil acompanhará a apuração do segundo turno das eleições 2026, em 25 de outubro, com um programa ao vivo trazendo os resultados e análise em tempo real conforme os votos forem contados.",
-      "published_at": "2026-10-25T15:51:05Z",
-      "region": "América do Sul",
-      "theme": "Política Brasileira",
-      "source_name": "BBC News Brasil",
-      "source_id": "bbc_brasil",
-      "is_brazilian": true,
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c72f/live/e5409bc0-bff7-11f1-a64c-550be9e3c66b.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
       "title": "Seven killed in Gaza as Israel targets university campus and other sites",
       "link": "https://www.aljazeera.com/news/2026/10/25/seven-killed-in-gaza-as-israel-targets-university-campus-and-other-sites?traffic_source=rss",
       "summary": "Israeli air strike kills three security guards in one of two attacks on the Islamic University in Gaza City.",
@@ -2035,516 +2545,6 @@
       "source_id": "bbc_brasil",
       "is_brazilian": true,
       "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/43e3/live/bde26a50-b768-11f1-bc1f-3f186ca4140c.png",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "The week in pictures: Protests across France, wildfires in Indonesia and Brazilian elections",
-      "link": "https://www.france24.com/en/europe/20261025-the-week-in-pictures-protests-across-france-wildfires-in-indonesia-and-brazilian-elections",
-      "summary": "From student protests across France over the weekend and presidential elections in Brazil pitting leftist incumbent Luiz Inacio Lula da Silva against right-wing challenger Flavio Bolsonaro to wildfires in Indonesia, FRANCE 24 looks back at some of the most striking images from the past week.",
-      "published_at": "2026-10-25T12:48:31Z",
-      "region": "América do Sul",
-      "theme": "Política Internacional",
-      "source_name": "France 24",
-      "source_id": "france24",
-      "is_brazilian": false,
-      "image_url": "https://s.france24.com/media/display/cd897c30-d056-11f1-8d7f-5b4a75578ebb/w:1024/p:16x9/2026-10-24T194218Z-1784067987-RC2R9OAGSDD5-RTRMADP-3-FRANCE-PROTEST.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Voting under way across Brazil in tight presidential run-off between Lula and Flavio Bolsonaro",
-      "link": "https://www.france24.com/en/americas/20261025-live-voting-under-way-across-brazil-in-tight-presidential-run-off-between-lula-and-bolsonaro",
-      "summary": "Brazil’s 158 million voters decide between leftist President Luiz Inácio Lula da Silva and right-wing challenger Senator Flavio Bolsonaro – the son of former president and Trump ally Jair Bolsonaro – following a highly charged run-off campaign period, with the candidates in a dead heat in polls. Follow our liveblog for the latest developments.",
-      "published_at": "2026-10-25T12:46:02Z",
-      "region": "América do Sul",
-      "theme": "Política Internacional",
-      "source_name": "France 24",
-      "source_id": "france24",
-      "is_brazilian": false,
-      "image_url": "https://s.france24.com/media/display/86a91224-d099-11f1-88dc-5b4a75578ebb/w:1024/p:16x9/AP26298414533867.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Elena Rybakina retains Ningbo title, wins first trophy as world number one",
-      "link": "https://www.aljazeera.com/sports/2026/10/25/elena-rybakina-retains-ningbo-title-wins-first-trophy-as-world-number-one?traffic_source=rss",
-      "summary": "The victory helped the Kazakh take a big step towards securing the year-end number one ranking.",
-      "published_at": "2026-10-25T12:40:20Z",
-      "region": "Oriente Médio",
-      "theme": "Outros / Multitemático",
-      "source_name": "Al Jazeera",
-      "source_id": "aljazeera_english",
-      "is_brazilian": false,
-      "image_url": null,
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "UK PM Burnham says he wants to discuss a return to EU freedom of movement",
-      "link": "https://www.aljazeera.com/news/2026/10/25/uk-pm-burnham-says-he-wants-to-discuss-a-return-to-eu-freedom-of-movement?traffic_source=rss",
-      "summary": "Burnham says Britain should have an 'honest discussion' about how immigration to the UK has changed since Brexit.",
-      "published_at": "2026-10-25T12:38:54Z",
-      "region": "Europa",
-      "theme": "Outros / Multitemático",
-      "source_name": "Al Jazeera",
-      "source_id": "aljazeera_english",
-      "is_brazilian": false,
-      "image_url": null,
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Wembanyama scores 23 as Spurs beat Mavericks for first win of NBA season",
-      "link": "https://www.aljazeera.com/sports/2026/10/25/wembanyama-scores-23-as-spurs-beat-mavericks-for-first-win-of-nba-season?traffic_source=rss",
-      "summary": "Joel Embiid posts triple-double as 76ers handle Bucks. Devin Booker posts 43 to help Suns down Warriors.",
-      "published_at": "2026-10-25T12:37:49Z",
-      "region": "Oriente Médio",
-      "theme": "Outros / Multitemático",
-      "source_name": "Al Jazeera",
-      "source_id": "aljazeera_english",
-      "is_brazilian": false,
-      "image_url": null,
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Como saber se seu local de votação mudou no 2º turno",
-      "link": "https://www.bbc.com/portuguese/articles/cq1j3zl8npr8o?at_medium=RSS&at_campaign=rss",
-      "summary": "Segundo TSE, informações sobre locais de votação estão sendo atualizadas e eleitores devem conferir se houve mudança de endereço antes de sair de casa no domingo (25/10).",
-      "published_at": "2026-10-25T12:35:20Z",
-      "region": "América do Sul",
-      "theme": "Política Brasileira",
-      "source_name": "BBC News Brasil",
-      "source_id": "bbc_brasil",
-      "is_brazilian": true,
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/53fb/live/0e44c720-cb1b-11f1-a9ef-8b4e735f71f0.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Netanyahu advierte de un \"segundo holocausto\" con un ataque nuclear sobre Tel Aviv a dos días de las elecciones",
-      "link": "https://www.europapress.es/internacional/noticia-netanyahu-advierte-segundo-holocausto-ataque-nuclear-tel-aviv-dos-dias-elecciones-20261025133453.html",
-      "summary": "El primer ministro israelí, Benjamin Netanyahu, ha publicado en redes sociales este domingo, a dos días de las elecciones generales israelíes, una imagen generada por IA de una explosión nuclear sobre Tel Aviv y ha advertido de un \"segundo holocausto\" provocado por Irán si no gana la votación.",
-      "published_at": "2026-10-25T12:34:53Z",
-      "region": "Oriente Médio",
-      "theme": "Geopolítica e Segurança",
-      "source_name": "Europa Press",
-      "source_id": "europa_press",
-      "is_brazilian": false,
-      "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20261025133453_120.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Algerian parliament’s upper house approves troop deployment to Niger",
-      "link": "https://www.aljazeera.com/news/2026/10/25/algerian-parliaments-upper-house-approves-troop-deployment-to-niger?traffic_source=rss",
-      "summary": "Vote to send forces comes after a recent defence pact between the two neighbouring countries.",
-      "published_at": "2026-10-25T12:19:41Z",
-      "region": "África",
-      "theme": "Política Internacional",
-      "source_name": "Al Jazeera",
-      "source_id": "aljazeera_english",
-      "is_brazilian": false,
-      "image_url": null,
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Flávio Bolsonaro x Lula após Datafolha e Quaest: o que mostra o Agregador de Pesquisas da BBC?",
-      "link": "https://www.bbc.com/portuguese/articles/cvrly555knx9o?at_medium=RSS&at_campaign=rss",
-      "summary": "Acompanhe as intenções de voto para Lula e Flávio Bolsonaro no segundo turno das eleições de 2026, de acordo com o Agregador de Pesquisas da BBC News Brasil.",
-      "published_at": "2026-10-25T12:18:43Z",
-      "region": "América do Sul",
-      "theme": "Política Brasileira",
-      "source_name": "BBC News Brasil",
-      "source_id": "bbc_brasil",
-      "is_brazilian": true,
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e0f9/live/a48cfac0-cc62-11f1-a64c-550be9e3c66b.png",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Why Israel’s latest assault on Hebron is so significant for the West Bank",
-      "link": "https://www.aljazeera.com/economy/2026/10/25/why-israels-latest-assault-on-hebron-is-so-significant-for-the-west-bank?traffic_source=rss",
-      "summary": "Mass expulsions, blockades and expanding settler control in Hebron threaten to devastate the West Bank economy.",
-      "published_at": "2026-10-25T12:17:39Z",
-      "region": "Oriente Médio",
-      "theme": "Outros / Multitemático",
-      "source_name": "Al Jazeera",
-      "source_id": "aljazeera_english",
-      "is_brazilian": false,
-      "image_url": null,
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Al menos tres muertos en un ataque israelí a la Universidad Islámica de Gaza, el segundo esta semana",
-      "link": "https://www.europapress.es/internacional/noticia-menos-tres-muertos-ataque-israeli-universidad-islamica-gaza-segundo-semana-20261025130639.html",
-      "summary": "Al menos tres personas han fallecido este domingo como consecuencia de un bombardeo israelí contra el campus de la Universidad Islámica de Gaza, situado en el oeste de la ciudad de Gaza, en un episodio que constituye el segundo ataque de esta semana contra la misma institución y que eleva a diez estudiantes y un profesor los fallecidos, según datos del Ministerio de Educación palestino recogidos por la agencia de noticias Wafa.",
-      "published_at": "2026-10-25T12:06:39Z",
-      "region": "Oriente Médio",
-      "theme": "Direito Internacional e Instituições",
-      "source_name": "Europa Press",
-      "source_id": "europa_press",
-      "is_brazilian": false,
-      "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20261025130639_120.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1505664194779-8beaceb93744?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Oil slick from tanker in Hormuz Strait washes up on UAE beaches",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/25/oil-slick-from-tanker-in-hormuz-strait-washes-up-on-uae-beaches?traffic_source=rss",
-      "summary": "An oil slick has been filmed washing up on the UAE shoreline, prompting authorities to close beaches in Umm Al Quwain.",
-      "published_at": "2026-10-25T12:05:16Z",
-      "region": "Oriente Médio",
-      "theme": "Outros / Multitemático",
-      "source_name": "Al Jazeera",
-      "source_id": "aljazeera_english",
-      "is_brazilian": false,
-      "image_url": null,
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Abren las urnas en Brasil para la segunda vuelta presidencial entre Flávio Bolsonaro y Lula",
-      "link": "https://www.europapress.es/internacional/noticia-abren-urnas-brasil-segunda-vuelta-presidencial-flavio-bolsonaro-lula-20261025130009.html",
-      "summary": "Este domingo a las 8.00 horas --12.00 horas en la España peninsular-- han abierto las urnas para que más de 158 millones de brasileños puedan votar y elegir entre el actual presidente Luiz Inácio Lula da Silva, y el aspirante Flávio Bolsonaro en la segunda vuelta de los comicios para elegir al jefe del Estado.",
-      "published_at": "2026-10-25T12:00:09Z",
-      "region": "América do Sul",
-      "theme": "Política Internacional",
-      "source_name": "Europa Press",
-      "source_id": "europa_press",
-      "is_brazilian": false,
-      "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20261025130009_120.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Voters in Brazil head to polls as Lula goes up against Bolsonaro's son",
-      "link": "https://www.bbc.co.uk/news/articles/cxp8g21j4648o?at_medium=RSS&at_campaign=rss",
-      "summary": "Flávio Bolsonaro, the son of Brazil's imprisoned ex-president, is challenging Lula, who is seeking a fourth term in office.",
-      "published_at": "2026-10-25T11:54:16Z",
-      "region": "América do Sul",
-      "theme": "Política Internacional",
-      "source_name": "BBC World News",
-      "source_id": "bbc_world",
-      "is_brazilian": false,
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5c93/live/6c2dbd80-d064-11f1-bbf5-99ed69f0d81f.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Como Geraldo Alckmin foi de rival a 'companheiro' e candidato a vice-presidente de Lula",
-      "link": "https://www.bbc.com/portuguese/articles/cr86z5exqn91o?at_medium=RSS&at_campaign=rss",
-      "summary": "Governador que administrou São Paulo por mais tempo, entre os anos 2000 e 2010, ele estava de saída da vida política quando Fernando Haddad costurou a chapa com o atual presidente.",
-      "published_at": "2026-10-25T11:52:03Z",
-      "region": "América do Sul",
-      "theme": "Política Brasileira",
-      "source_name": "BBC News Brasil",
-      "source_id": "bbc_brasil",
-      "is_brazilian": true,
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b69a/live/671c9c40-cf69-11f1-8bee-01389bd440f4.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Brasil vai às urnas em eleição mais acirrada desde a redemocratização; acompanhe na DW",
-      "link": "https://www.dw.com/pt-br/brasil-vai-às-urnas-em-eleição-mais-acirrada-desde-a-redemocratização-acompanhe-na-dw/live-78393402?maca=bra-rss-br-all-1030-rdf",
-      "summary": "Mais de 158 milhões de brasileiros estão aptos a votar neste domingo. Flávio Bolsonaro e Lula já votaram, e resultados do exterior começam a chegar. Acompanhe a cobertura das eleições na DW.",
-      "published_at": "2026-10-25T11:49:00Z",
-      "region": "América do Sul",
-      "theme": "Política Internacional",
-      "source_name": "DW Brasil",
-      "source_id": "dw_brasil",
-      "is_brazilian": false,
-      "image_url": "https://static.dw.com/image/79754733_6.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Como Alfredo Gaspar, candidato a vice de Flávio, usou ligações com Collor e Calheiros para crescer no Congresso",
-      "link": "https://www.bbc.com/portuguese/articles/c95ynje2z7pzo?at_medium=RSS&at_campaign=rss",
-      "summary": "Acusado de desviar recursos via emendas PIX e em meio a uma investigação por estupro de menor, promotor foi figura silenciosa durante campanha com Flávio.",
-      "published_at": "2026-10-25T11:45:14Z",
-      "region": "América do Sul",
-      "theme": "Política Brasileira",
-      "source_name": "BBC News Brasil",
-      "source_id": "bbc_brasil",
-      "is_brazilian": true,
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/38b5/live/78e0f670-cf6d-11f1-a98a-bb970bd2aa12.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Polls open in Brazil presidential runoff",
-      "link": "https://www.france24.com/en/polls-open-in-brazil-presidential-runoff",
-      "summary": "Brazilian President Luiz Inácio Lula da Silva and sight-wing senator Flavio Bolsonaro faced off Friday in their second and final debate ahead of Sunday's presidential runoff election. The two candidates repeated their campaign proposals, focusing on the cost of living and security, while exchanging ⁠allegations of corruption. France 24 Jan Onoszko telles us the latest from Rio de Janeiro.",
-      "published_at": "2026-10-25T11:40:38Z",
-      "region": "América do Sul",
-      "theme": "Política Internacional",
-      "source_name": "France 24",
-      "source_id": "france24",
-      "is_brazilian": false,
-      "image_url": "https://s.france24.com/media/display/f689cca0-d067-11f1-911d-4b25c96ec90e/w:1024/p:16x9/EN-20261025-120157-120549-CS.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "CENTCOM reportedly has plans for Iran strikes: Will Trump approve them?",
-      "link": "https://www.aljazeera.com/news/2026/10/25/centcom-reportedly-has-plans-for-iran-strikes-will-trump-approve-them?traffic_source=rss",
-      "summary": "Reports say Pentagon has drawn up plans for strikes after midterm polls, but analysts question what it could achieve.",
-      "published_at": "2026-10-25T11:39:41Z",
-      "region": "América do Norte",
-      "theme": "Política Internacional",
-      "source_name": "Al Jazeera",
-      "source_id": "aljazeera_english",
-      "is_brazilian": false,
-      "image_url": null,
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Far-right leader Le Pen says visible policing keeps protests smooth",
-      "link": "https://www.france24.com/en/far-right-leader-le-pen-says-visible-policing-keeps-protests-smooth",
-      "summary": "Meanwhile, France’s far-right National Rally is holding the second day of its party congress in Orléans, south of Paris. Marine Le Pen is expected to officially launch her presidential campaign in a speech later this afternoon, while Jordan Bardella is being re-elected as party leader. On Saturday, a large counter-demonstration against the far right was held in the city. Our reporter Antonia Kerrigan has been following the latest developments.",
-      "published_at": "2026-10-25T11:39:18Z",
-      "region": "Europa",
-      "theme": "Outros / Multitemático",
-      "source_name": "France 24",
-      "source_id": "france24",
-      "is_brazilian": false,
-      "image_url": "https://s.france24.com/media/display/5160b9a4-d068-11f1-b673-5b4a75578ebb/w:1024/p:16x9/EN-20261025-121058-121405-CS.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Israel: Demonstrators rally against government ahead of election",
-      "link": "https://www.france24.com/en/israel-demonstrators-rally-against-government-ahead-of-election",
-      "summary": "In Israel, the anti-Netanyahu movement is mobilising. Thousands gathered in Tel Aviv on Friday to protest against the Israeli government, just three days ahead of a general election widely seen as a referendum on Prime Minister Benjamin Netanyahu.",
-      "published_at": "2026-10-25T11:38:01Z",
-      "region": "Oriente Médio",
-      "theme": "Política Internacional",
-      "source_name": "France 24",
-      "source_id": "france24",
-      "is_brazilian": false,
-      "image_url": "https://s.france24.com/media/display/4abc8a7a-d067-11f1-a9cf-4b25c96ec90e/w:1024/p:16x9/EN-20261025-110931-111122-CS.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Obama hits campaign trail for democrats",
-      "link": "https://www.france24.com/en/obama-hits-campaign-trail-for-democrats",
-      "summary": "With less than two weeks to go before the US midterm elections, former President Barack Obama has hit the campaign trail, rallying support for Democratic candidates in the key states of Michigan and Ohio. He criticised the Trump administration, blaming the White House for rising living costs, a major concern for voters. Democrats are hoping to regain control of Congress, with polls showing several closely contested races. Ophelie Jacobson has more.",
-      "published_at": "2026-10-25T11:36:56Z",
-      "region": "América do Norte",
-      "theme": "Política Internacional",
-      "source_name": "France 24",
-      "source_id": "france24",
-      "is_brazilian": false,
-      "image_url": "https://s.france24.com/media/display/a6c5f842-d067-11f1-838f-4d317af013fd/w:1024/p:16x9/EN-20261025-111149-111339-CS.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "West Bank: Families forcibly displaced in Hebron",
-      "link": "https://www.france24.com/en/west-bank-families-forcibly-displaced-in-hebron",
-      "summary": "More Palestinian families have been displaced in the occupied West Bank as Israeli forces continue operations in Hebron, following a deadly shooting that killed two Israeli soldiers on Friday. With elections scheduled for Tuesday, Prime Minister Benjamin Netanyahu has vowed a heavy response to the attack. Morgaene Ayre has the latest.",
-      "published_at": "2026-10-25T11:35:30Z",
-      "region": "Oriente Médio",
-      "theme": "Geopolítica e Segurança",
-      "source_name": "France 24",
-      "source_id": "france24",
-      "is_brazilian": false,
-      "image_url": "https://s.france24.com/media/display/11d151aa-d067-11f1-9d2a-4b25c96ec90e/w:1024/p:16x9/EN-20261025-110725-110909-CS.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "This College of Magic turns ordinary kids into cool magicians",
-      "link": "https://www.npr.org/2026/10/25/g-s1-149089/magic-magicians-south-africa-school-students",
-      "summary": "The students, many from marginalized communities, learn to conjure up candy, do card tricks — and face the world with a confident, creative and resilient mindset.",
-      "published_at": "2026-10-25T11:24:58Z",
-      "region": "Global",
-      "theme": "Outros / Multitemático",
-      "source_name": "NPR World News",
-      "source_id": "npr",
-      "is_brazilian": false,
-      "image_url": null,
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "The College of Magic turns ordinary kids into confident, top-hat wearing magicians",
-      "link": "https://www.npr.org/2026/10/25/g-s1-149089/magic-magicians-south-africa-school-students",
-      "summary": "The students, many from marginalized communities, learn to conjure up candy, do card tricks — and face the world with a confident, creative and resilient mindset.",
-      "published_at": "2026-10-25T11:24:58Z",
-      "region": "Global",
-      "theme": "Outros / Multitemático",
-      "source_name": "NPR World News",
-      "source_id": "npr",
-      "is_brazilian": false,
-      "image_url": null,
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "El presidente de RDC acusa a su antecesor de traición y llama a la unidad ante el desafío rebelde en el país",
-      "link": "https://www.europapress.es/internacional/noticia-presidente-rdc-acusa-antecesor-traicion-llama-unidad-desafio-rebelde-pais-20261025121956.html",
-      "summary": "El presidente de República Democrática del Congo (RDC), Félix Tshisekedi, ha arremetido contra su predecesor, Joseph Kabila, por asumir el liderazgo del Frente para la Refundación de la Nación, una escisión de la Alianza del Río Congo (AFC-M23), y ha instado a su mayoría parlamentaria a cerrar filas frente al desafío político y militar que afronta el país.",
-      "published_at": "2026-10-25T11:19:56Z",
-      "region": "África",
-      "theme": "Política Internacional",
-      "source_name": "Europa Press",
-      "source_id": "europa_press",
-      "is_brazilian": false,
-      "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20261025121956_120.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "At least 1,300 people arrested in mass weekend protests across France",
-      "link": "https://www.france24.com/en/france/20261025-at-least-1-300-people-arrested-in-mass-weekend-protests-across-france",
-      "summary": "At least 1,300 people were arrested on the sidelines of Saturday's protests across France and at least 50 officers and three protesters were hurt, the interior ministry said Sunday. The arrests occurred as clashes broke out on the margins of largely calm demonstrations in major cities over the high cost of living.",
-      "published_at": "2026-10-25T11:02:41Z",
-      "region": "Europa",
-      "theme": "Outros / Multitemático",
-      "source_name": "France 24",
-      "source_id": "france24",
-      "is_brazilian": false,
-      "image_url": "https://s.france24.com/media/display/b7dd62bc-d05a-11f1-88d3-5b4a75578ebb/w:1024/p:16x9/AP26297559777844.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "El Salvador president says bodies found in Haiti are not those of hostages",
-      "link": "https://www.bbc.co.uk/news/articles/c8ly097zw1xwo?at_medium=RSS&at_campaign=rss",
-      "summary": "Nayib Bukele says bodies delivered to soldiers are \"not our men\" amid search for Salvadorans abducted last week.",
-      "published_at": "2026-10-25T10:55:33Z",
-      "region": "América Central",
-      "theme": "Política Internacional",
-      "source_name": "BBC World News",
-      "source_id": "bbc_world",
-      "is_brazilian": false,
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2f31/live/75490920-d05e-11f1-b441-2b33b063138f.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Iran’s authorities take ‘self-sacrifice’ mobilisation campaign nationwide",
-      "link": "https://www.aljazeera.com/news/2026/10/25/irans-authorities-take-self-sacrifice-mobilisation-campaign-nationwide?traffic_source=rss",
-      "summary": "The IRGC says it wants to use main squares in every capital of Iran’s 31 provinces for the Janfada campaign.",
-      "published_at": "2026-10-25T10:50:38Z",
-      "region": "Oriente Médio",
-      "theme": "Outros / Multitemático",
-      "source_name": "Al Jazeera",
-      "source_id": "aljazeera_english",
-      "is_brazilian": false,
-      "image_url": null,
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "As pesquisas para presidente na véspera do 2º turno — o que diziam em 2018, 2022 e o que mostram agora",
-      "link": "https://www.bbc.com/portuguese/articles/ckvgd18g287jo?at_medium=RSS&at_campaign=rss",
-      "summary": "O cenário eleitoral mudou ao longo dos anos: Flávio Bolsonaro ocupa a primeira posição nas pesquisas de 2026, enquanto Lula era o favorito em 2022 e Jair Bolsonaro, em 2018. Confira a trajetória nos gráficos da reportagem.",
-      "published_at": "2026-10-25T10:49:40Z",
-      "region": "América do Sul",
-      "theme": "Política Brasileira",
-      "source_name": "BBC News Brasil",
-      "source_id": "bbc_brasil",
-      "is_brazilian": true,
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3a7e/live/55ce0f10-cff9-11f1-a701-fddedf244c16.png",
       "fallback_images": [
         "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
