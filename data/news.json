@@ -1,6 +1,907 @@
 {
-  "updated_at": "2026-10-28T16:54:25.198161Z",
+  "updated_at": "2026-10-28T21:26:47.589199Z",
   "news": [
+    {
+      "title": "Após se declarar 'verdadeiro presidente do Brasil', Flávio muda carta e se diz 'líder do Brasil'; siga",
+      "link": "https://www.bbc.co.uk/portuguese/live/c6x2v49yvrygt?at_medium=RSS&at_campaign=rss",
+      "summary": "Governo da Argentina diz que senador estava em avião que foi para o Equador. Ontem, fontes relataram à BBC que Flávio iria para os EUA; ministro Alexandre de Moraes, do STF, havia ordenado que o senador entregasse seus passaportes e proibido que ele saísse do Brasil; siga a cobertura.",
+      "published_at": "2026-10-28T21:26:38.628336Z",
+      "region": "América do Sul",
+      "theme": "Política Internacional",
+      "source_name": "BBC News Brasil",
+      "source_id": "bbc_brasil",
+      "is_brazilian": true,
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/66de/live/add04c60-d2e1-11f1-a701-fddedf244c16.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Democratas criticam Rubio por facilitar entrada de Flávio nos EUA",
+      "link": "https://www.poder360.com.br/poder-internacional/democratas-criticam-rubio-por-facilitar-entrada-de-flavio-nos-eua/",
+      "summary": "Comissão de Relações Exteriores da Câmara dos EUA questiona tratamento dado ao senador brasileiro e compara situação à de refugiados do Sudão e do Haiti",
+      "published_at": "2026-10-28T21:17:54Z",
+      "region": "América do Norte",
+      "theme": "Direitos Humanos, Sociedade e Migrações",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2026/10/flavio-bolsonaro-desembarca-miami-eua-familia-28out2026-7-1200x675.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1542810634-71277d95dcbb?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1489533119213-66a5cd877091?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1531206715517-5c0ba140e2b8?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Flávio Bolsonaro lands in Miami after defeat in Brazil's presidential election",
+      "link": "https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo?at_medium=RSS&at_campaign=rss",
+      "summary": "Bolsonaro's arrival in the US ends speculation about his whereabouts after he failed to comply with an order to surrender his passports.",
+      "published_at": "2026-10-28T21:07:06Z",
+      "region": "América do Sul",
+      "theme": "Política Internacional",
+      "source_name": "BBC World News",
+      "source_id": "bbc_world",
+      "is_brazilian": false,
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2c2c/live/4c19c1e0-d2eb-11f1-b441-2b33b063138f.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Flávio questiona derrota e, dos EUA, diz ser o “líder do Brasil”",
+      "link": "https://www.poder360.com.br/poder-eleicoes-2026/nos-eua-flavio-diz-ser-o-verdadeiro-presidente-eleito-do-brasil/",
+      "summary": "Candidato derrotado ao Planalto divulga carta após fugir do país, edita trecho em que afirma ser o \"verdadeiro presidente eleito\" e usa teoria da conspiração para justificar que não perdeu a disputa",
+      "published_at": "2026-10-28T21:03:21Z",
+      "region": "América do Norte",
+      "theme": "Política Internacional",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2026/10/Design-sem-nome-81-1200x675.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Alta de juro do Bradesco para casa própria freia vendas e eleva parcelas",
+      "link": "https://www.poder360.com.br/poder-economia/alta-de-juro-do-bradesco-para-casa-propria-freia-vendas-e-eleva-parcelas/",
+      "summary": "Banco aumentou taxa mínima para 15% ao ano; para especialistas, decisão reflete preocupação fiscal",
+      "published_at": "2026-10-28T20:59:19Z",
+      "region": "América do Sul",
+      "theme": "Outros / Multitemático",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2026/03/minha-casa-minha-vida-rs.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Ibovespa cai 2,71%; dólar recua 0,19%, a R$ 5,340",
+      "link": "https://www.poder360.com.br/poder-economia/ibovespa-cai-271-dolar-recua-019-a-r-5340/",
+      "summary": "Índice brasileiro fechou o pregão aos 170.946,55 pontos; Fed manteve juros em 3,75% a 4,00% e mercado avalia reeleição de Lula",
+      "published_at": "2026-10-28T20:55:55Z",
+      "region": "América do Sul",
+      "theme": "Comércio e Finanças",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2026/10/valor-dolar-trajetoria-diaria-28-out-2026-02-1200x675.png",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1578575437130-527eed3abbec?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1522071820081-009f0129c71c?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "4 takeaways from Israel's inconclusive election",
+      "link": "https://www.pbs.org/newshour/world/4-takeaways-from-israels-inconclusive-election",
+      "summary": "Prime Minister Benjamin Netanyahu is down but not out.",
+      "published_at": "2026-10-28T20:47:47Z",
+      "region": "Oriente Médio",
+      "theme": "Política Internacional",
+      "source_name": "PBS NewsHour",
+      "source_id": "pbs_newshour",
+      "is_brazilian": false,
+      "image_url": "https://d3i6fh83elv35t.cloudfront.net/static/2026/10/2026-10-28T012038Z_1380127196_RC21COAJDFFE_RTRMADP_3_ISRAEL-ELECTION-1024x690.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "What’s next for Brazil’s Flavio Bolsonaro after election defeat?",
+      "link": "https://www.aljazeera.com/news/2026/10/28/whats-next-for-brazils-flavio-bolsonaro-after-election-defeat?traffic_source=rss",
+      "summary": "The far-right ally of US President Donald Trump has fled to Miami with his wife and children.",
+      "published_at": "2026-10-28T20:38:01Z",
+      "region": "América do Sul",
+      "theme": "Política Internacional",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/10/ap_6ae201cabb011-1793196490.jpg?resize=1796%2C1080",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Historic gains for Arab-majority parties in Israeli election",
+      "link": "https://www.france24.com/en/historic-gains-for-arab-majority-parties-in-israeli-election",
+      "summary": "Two Arab-majority parties are set to win a historic 19 seats in total, amid a record turnout at the polls in Israel on Tuesday. Voters from the community, descendants of Palestinians who stayed after Israel's creation and who make up around 20 percent of the population, have been enraged by the Netanyahu government's ultra-nationalist Jewish vision for the country and the Palestinian territories. FRANCE 24's Emerald Maxwell reports.",
+      "published_at": "2026-10-28T20:32:29Z",
+      "region": "Oriente Médio",
+      "theme": "Política Internacional",
+      "source_name": "France 24",
+      "source_id": "france24",
+      "is_brazilian": false,
+      "image_url": "https://s.france24.com/media/display/0517f4d4-d2c2-11f1-9e41-bf69a9ce9852/w:1024/p:16x9/000-D4LX4B4.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Netanyahu's bloc leading Israel election but short of majority, partial results show",
+      "link": "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo?at_medium=RSS&at_campaign=rss",
+      "summary": "With 85% of ballots counted, Netanyahu's Likud party and its allies are set to win 53 seats in the 120-seat Knesset.",
+      "published_at": "2026-10-28T20:24:39Z",
+      "region": "Oriente Médio",
+      "theme": "Política Internacional",
+      "source_name": "BBC World News",
+      "source_id": "bbc_world",
+      "is_brazilian": false,
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3381/live/719a4410-d2f2-11f1-8d86-83eebc838351.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "UN votes to condemn embargo of Cuba despite US lobbying push",
+      "link": "https://www.aljazeera.com/news/2026/10/28/un-votes-to-condemn-embargo-of-cuba-despite-us-lobbying-push?traffic_source=rss",
+      "summary": "US points to increase in abstentions in General Assembly as evidence that push to isolate Cuba is slowly succeeding.",
+      "published_at": "2026-10-28T20:22:16Z",
+      "region": "América do Norte",
+      "theme": "Direito Internacional e Instituições",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2006/12/1_203775_1_5.jpeg?resize=1200%2C675",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1505664194779-8beaceb93744?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Top US federal judge who handled 9/11, Trump, Maduro cases dies aged 92",
+      "link": "https://www.france24.com/en/americas/20261028-top-us-federal-judge-who-handled-9-11-trump-maduro-cases-dies-aged-92",
+      "summary": "Alvin Hellerstein, a top US judge who was handling the trial against deposed Venezuelan leader Nicholas Maduro and previously oversaw lawsuits stemming from the September 11 attacks on the World Trade Centre and multiple cases involving President Donald Trump, died on Wednesday aged 92.",
+      "published_at": "2026-10-28T20:22:05Z",
+      "region": "América do Norte",
+      "theme": "Política Internacional",
+      "source_name": "France 24",
+      "source_id": "france24",
+      "is_brazilian": false,
+      "image_url": "https://s.france24.com/media/display/03fc7ce6-d2fe-11f1-a7b8-efcc5769f1db/w:1024/p:16x9/2026-10-08T171620Z-1636244633-RC25ZNAVWNT2-RTRMADP-3-USA-VENEZUELA-MADURO-FLORES.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "O que pode ter causado colisão entre trens na Espanha",
+      "link": "https://www.bbc.com/portuguese/articles/ckvg704vp1l2o?at_medium=RSS&at_campaign=rss",
+      "summary": "Governo aponta possível \"erro humano\" como causa do segundo acidente ferroviário com dezenas de mortos na Espanha em menos de um ano",
+      "published_at": "2026-10-28T20:19:48Z",
+      "region": "Europa",
+      "theme": "Outros / Multitemático",
+      "source_name": "BBC News Brasil",
+      "source_id": "bbc_brasil",
+      "is_brazilian": true,
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2ffb/live/499ef380-d30f-11f1-ad4f-5d2bbacf0caf.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "ONU aprova resolução contra embargo dos EUA a Cuba",
+      "link": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-10/onu-aprova-resolucao-contra-embargo-dos-eua-cuba",
+      "summary": "A Assembleia Geral das Nações Unidas aprovou nesta quarta-feira (28) uma resolução contra o embargo unilateral mantido pelos Estados Unidos contra Cuba há quase 27 anos. A medida foi aprovada com 130 votos favoráveis, incluindo o do Brasil, 17 contrários e 25 abstenções. Esse foi o menor apoio ao fim do bloqueio em 30 anos. A queda está relacionada a uma campanha intensa dos Estados Unidos para convencer países aliados a rejeitarem a resolução. Notícias relacionadas: Anistia Internacional denunciará Milei à ONU por ataque a jornalistas. ONU aponta falta de isenção da Meta em eleição brasileira. EUA impõem mais sanções a Cuba. A resolução já foi votada 33 vezes na ONU. Na primeira vez, em 1992, só 59 países votaram favoráveis. Entre 2015 e 2017, 191 países votaram pelo fim do embargo, o maior número até hoje. O período corresponde ao governo do ex-presidente norte-americano Barack Obama, que buscou uma reaproximação entre Estados Unidos e Cuba. Em quase todas as votações, o Brasil se colocou favorável ao fim do bloqueio. As exceções foram em três ocasiões no governo do ex-presidente Jair Bolsonaro (PL) . Em 2019 o Brasil votou contra e em 2021 e 2022 se absteve. Crise humanitária Cuba sofre com um bloqueio econômico imposto pelos Estados Unidos desde 1960. Na época, Washington tomou a medida em retaliação à revolução cubana de 1959. Este ano, o governo de Donald Trump intensificou as sanções contra a ilha , agravando ainda mais a crise econômica do país. Desde então, Cuba enfrenta escassez de energia, combustível, gás de cozinha, medicamentos e serviços essenciais. A inflação deste ano cresceu 25% em relação a 2025.",
+      "published_at": "2026-10-28T20:19:00Z",
+      "region": "América do Norte",
+      "theme": "Direito Internacional e Instituições",
+      "source_name": "Agência Brasil",
+      "source_id": "agencia_brasil",
+      "is_brazilian": true,
+      "image_url": null,
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1505664194779-8beaceb93744?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Rwanda’s milk bars",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/28/rwandas-milk-bars?traffic_source=rss",
+      "summary": "Rwanda’s milk bars",
+      "published_at": "2026-10-28T20:14:13Z",
+      "region": "Oriente Médio",
+      "theme": "Outros / Multitemático",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/10/image-1793218390.jpg?resize=1920%2C1080&quality=80",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Bolsonaro's escape to the US: How it happened",
+      "link": "https://www.france24.com/en/bolsonaro-s-escape-to-the-us-how-it-happened",
+      "summary": "Brazil's defeated right-wing presidential candidate Flavio Bolsonaro arrived in Florida by private plane Wednesday after fleeing his country in defiance of a court order to surrender his passport. Bolsonaro, who lost a runoff election to incumbent Luiz Inacio Lula da Silva on Sunday, is under investigation in Brazil for alleged corruption and money laundering and, with his defeat, is set to lose parliamentary immunity. FRANCE 24's international affairs editor Kethevane Gorjestani explains.",
+      "published_at": "2026-10-28T20:06:05Z",
+      "region": "América do Norte",
+      "theme": "Política Internacional",
+      "source_name": "France 24",
+      "source_id": "france24",
+      "is_brazilian": false,
+      "image_url": "https://s.france24.com/media/display/466b4824-d2e9-11f1-84e4-a7bbbeea0b20/w:1024/p:16x9/FlavioFloride.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Economista pede “mensagem concreta” do governo sobre contas públicas",
+      "link": "https://www.poder360.com.br/poder-economia/economista-pede-mensagem-concreta-do-governo-sobre-contas-publicas/",
+      "summary": "João Machado, da S&P Global, avalia que país entrará em 2027 com mais fragilidades e juros limitados",
+      "published_at": "2026-10-28T20:04:53Z",
+      "region": "América do Sul",
+      "theme": "Economia Brasileira",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2026/10/evento-ETF-1.png",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1506744038136-46273834b3fb?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "PF indicia Vorcaro, Paulo Henrique Costa e mais 13 por fraude no Master",
+      "link": "https://www.poder360.com.br/poder-justica/pf-indicia-vorcaro-paulo-henrique-costa-e-mais-13-por-fraude-no-master/",
+      "summary": "Investigação também aponta para a participação de integrantes das estruturas executivas, financeiras, jurídicas e operacionais dos bancos",
+      "published_at": "2026-10-28T20:04:38Z",
+      "region": "América do Sul",
+      "theme": "Política Brasileira",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2026/10/Daniel-Vorcaro-1024x675.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Flávio Bolsonaro se autoproclama \"verdadero presidente electo de Brasil\" y denuncia fraude electoral",
+      "link": "https://www.europapress.es/internacional/noticia-flavio-bolsonaro-autoproclama-verdadero-presidente-electo-brasil-denuncia-fraude-electoral-20261028210413.html",
+      "summary": "Se ve víctima de una \"caza de brujas\" tras la \"imposible\" victoria de Lula y promete una oposición en el exilio al estilo venezolano",
+      "published_at": "2026-10-28T20:04:13Z",
+      "region": "América do Sul",
+      "theme": "Política Internacional",
+      "source_name": "Europa Press",
+      "source_id": "europa_press",
+      "is_brazilian": false,
+      "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20261028210413_120.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "US envoy reads anti-Castro book during Cuban FM’s UN address",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/28/us-envoy-reads-anti-castro-book-during-cuban-fms-un-address?traffic_source=rss",
+      "summary": "US envoy reads anti-Castro book during Cuban FM’s UN address",
+      "published_at": "2026-10-28T20:02:42Z",
+      "region": "América do Norte",
+      "theme": "Direito Internacional e Instituições",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/10/anti-castro-book-horizontal-thumb-1793216807.jpg?resize=1920%2C1080&quality=80",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1505664194779-8beaceb93744?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Amid uncertainty over EU aid, Vitalii Kim insists Ukraine has no choice but to fight for motherland",
+      "link": "https://www.france24.com/en/tv-shows/spotlight/20261028-amid-uncertainty-over-eu-aid-vitalii-kim-insists-ukraine-has-no-choice-but-to-fight-for-motherland",
+      "summary": "François Picard is pleased to welcome Vitalii Kim, Minister for Veterans Affairs of Ukraine. “If Europe will not support us, we also will fight because it's our motherland,” says Kim, insisting that Ukraine's determination to resist Russian aggression will endure regardless of the outcome of negotiations over European financial assistance. Yet behind this assertion of national resolve lies a more complex reality: a country confronting not only the immediate pressures of war, but also its mounting psychological, social and institutional consequences.",
+      "published_at": "2026-10-28T19:57:46Z",
+      "region": "Europa",
+      "theme": "Geopolítica e Segurança",
+      "source_name": "France 24",
+      "source_id": "france24",
+      "is_brazilian": false,
+      "image_url": "https://s.france24.com/media/display/89bfec5e-d304-11f1-8b0d-75c7729144f1/w:1024/p:16x9/EN-20261028-183320-184320-CS.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Bolsonaristas incentivam boicote a trabalhadores e empresas que apoiam Lula",
+      "link": "https://www.poder360.com.br/poder-eleicoes-2026/bolsonaristas-incentivam-boicote-a-trabalhadores-e-empresas-que-apoiam-lula/",
+      "summary": "Ministério do Trabalho repudiou campanhas de retaliação e registrou 530 denúncias após o resultado do 2º turno",
+      "published_at": "2026-10-28T19:53:23Z",
+      "region": "América do Sul",
+      "theme": "Política Brasileira",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2026/10/Lula-Aniversario-81anos-Alvorada-68-1200x675.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Bolsonaro flees Brazil for US after election defeat",
+      "link": "https://www.france24.com/en/bolsonaro-flees-brazil-for-us-after-election-defeat",
+      "summary": "Flavio Bolsonaro's clandestine escape to the United States bewildered Brazil and triggered a frantic search for his whereabouts. The Supreme Court had ordered the son of jailed ex-leader Jair Bolsonaro to forfeit his passports after his electoral loss on Sunday, amid fears he would leave the country due to ongoing investigations against him. But the defeated right-wing presidential candidate failed to hand them in, choosing instead to flee to the US via Argentina and Ecuador. FRANCE 24's Tim Vickery reports from Rio de Janeiro.",
+      "published_at": "2026-10-28T19:44:17Z",
+      "region": "América do Sul",
+      "theme": "Política Internacional",
+      "source_name": "France 24",
+      "source_id": "france24",
+      "is_brazilian": false,
+      "image_url": "https://s.france24.com/media/display/5551a2de-d307-11f1-ab35-75c7729144f1/w:1024/p:16x9/EN-20261028-201254-202039-CS.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Saiba como será a audiência pública das bets no STF",
+      "link": "https://www.poder360.com.br/poder-justica/saiba-como-sera-a-audiencia-publica-das-bets-no-stf/",
+      "summary": "PGR, ministérios, AGU, clubes de futebol e associações ligadas ao setor de apostas serão ouvidas em 3 de novembro",
+      "published_at": "2026-10-28T19:42:48Z",
+      "region": "América do Sul",
+      "theme": "Política Brasileira",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2025/06/arte-bets-2-jun-2025-02-scaled-e1766858291930.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "American taxpayers' bill for Iran war grows to estimated $47.1 billion",
+      "link": "https://www.pbs.org/newshour/world/american-taxpayers-bill-for-iran-war-grows-to-estimated-47-1-billion",
+      "summary": "The Republican president has said new strikes on Iran are an option after the midterms and is sending more military resources to the Middle East, despite initially promising Americans a military campaign that would last only a matter of weeks.",
+      "published_at": "2026-10-28T19:40:33Z",
+      "region": "Oriente Médio",
+      "theme": "Geopolítica e Segurança",
+      "source_name": "PBS NewsHour",
+      "source_id": "pbs_newshour",
+      "is_brazilian": false,
+      "image_url": "https://d3i6fh83elv35t.cloudfront.net/static/2026/10/2026-10-23T221830Z_1842984863_RC2Q8LA2RZNQ_RTRMADP_3_USA-CHINA-PENTAGON-1024x698.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Which way will Israel break? Netanyahu still in it after election night surprises",
+      "link": "https://www.france24.com/en/tv-shows/the-debate/20261028-which-way-will-israel-break-netanyahu-still-in-it-after-election-night-surprises",
+      "summary": "In Israel, the surprises only start with election night: they're still counting ballots in a vote that featured the highest turnout in decades, historic inroads by Arab parties, Benjamin Netanyahu’s worst result since 1999 and yet Israel’s longest-serving prime minister still has a path to staying in power. As we await the definitive makeup of the next parliament, our panel breaks out the calculators and pie charts: in what scenario does Netanyahu survive? Is the issue with the right-wing Likud leader or his policies?",
+      "published_at": "2026-10-28T19:34:30Z",
+      "region": "Oriente Médio",
+      "theme": "Política Internacional",
+      "source_name": "France 24",
+      "source_id": "france24",
+      "is_brazilian": false,
+      "image_url": "https://s.france24.com/media/display/391f5776-d2ff-11f1-8a4b-a7bbbeea0b20/w:1024/p:16x9/2026-10-28T123350Z-597274871-RC2BCOAXNME7-RTRMADP-3-ISRAEL-ELECTION.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Spain demands answers after deadliest train disaster in over a decade",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/28/spain-demands-answers-after-deadliest-train-disaster-in-over-a-decade?traffic_source=rss",
+      "summary": "At least 68 people have been killed and more than 100 injured after two high-speed trains collided south of Madrid.",
+      "published_at": "2026-10-28T19:32:57Z",
+      "region": "Europa",
+      "theme": "Outros / Multitemático",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/10/image-1793215961.jpg?resize=1920%2C1080&quality=80",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Spain high-speed train crash kills 68, injures over 100",
+      "link": "https://www.france24.com/en/spain-high-speed-train-crash-kills-68-injures-over-100",
+      "summary": "A high-speed train collision south of Madrid killed 68 people and injured scores more on Wednesday, with the toll likely to rise, authorities said, in one of Europe's deadliest such disasters this century. The second such accident to strike Spain this year will raise fresh questions about the country's rail safety, with the transport minister speaking of an \"error\" and \"inexplicable circumstances\" that led to the collision. FRANCE 24's Sarah Morris reports from Urda, south of Madrid.",
+      "published_at": "2026-10-28T19:32:38Z",
+      "region": "Europa",
+      "theme": "Outros / Multitemático",
+      "source_name": "France 24",
+      "source_id": "france24",
+      "is_brazilian": false,
+      "image_url": "https://s.france24.com/media/display/9520b7d6-d304-11f1-bd08-811458fcf026/w:1024/p:16x9/EN-20261028-200141-200812-CS.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "'Direita terá que decidir se desembarca do bolsonarismo', diz pesquisador de Harvard",
+      "link": "https://www.bbc.com/portuguese/articles/crx23wv1100ko?at_medium=RSS&at_campaign=rss",
+      "summary": "Para o historiador Sidney Chalhoub, a reação de Flávio Bolsonaro à derrota e sua saída do Brasil expõem o dilema de uma direita que, segundo ele, precisará se afastar da contestação das regras democráticas para voltar a disputar a Presidência.",
+      "published_at": "2026-10-28T19:30:11Z",
+      "region": "América do Sul",
+      "theme": "Política Brasileira",
+      "source_name": "BBC News Brasil",
+      "source_id": "bbc_brasil",
+      "is_brazilian": true,
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/1c14/live/7f754f50-d0f7-11f1-9c21-f5c8b92552b0.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Fuga de Flávio para os EUA aprofunda crise entre Brasil e Washington",
+      "link": "https://www.dw.com/pt-br/fuga-de-flávio-para-os-eua-aprofunda-crise-entre-brasil-e-washington/a-79782315?maca=bra-rss-br-all-1030-rdf",
+      "summary": "Após perder para Lula em virada histórica, filho de Jair Bolsonaro deixou o país mesmo com passaporte cancelado. Para especialistas, relação entre os dois países sofre baque, mas ruptura ainda é evitável.",
+      "published_at": "2026-10-28T19:16:00Z",
+      "region": "América do Norte",
+      "theme": "Política Internacional",
+      "source_name": "DW Brasil",
+      "source_id": "dw_brasil",
+      "is_brazilian": false,
+      "image_url": "https://static.dw.com/image/79790245_6.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Putin: Russia is African continent’s best partner, not ‘colonial’ West",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/28/putin-russia-is-african-continents-best-partner-not-colonial-west?traffic_source=rss",
+      "summary": "Russian President Vladimir Putin told the leaders of dozens of African nations that Moscow was their best partner.",
+      "published_at": "2026-10-28T19:13:32Z",
+      "region": "Europa",
+      "theme": "Política Internacional",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": null,
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "'Israeli electorate has moved rightward: Many underestimated extent of fracture in Israeli society'",
+      "link": "https://www.france24.com/en/israeli-electorate-has-moved-rightward-many-underestimated-extent-of-fracture-in-israeli-society",
+      "summary": "Erin Ogunkeye is pleased to welcome Dr. Shira Efron, RAND's Distinguished Israel Policy Chair. “Many of us, myself included, underestimated the extent of the fracture in Israeli society.” It reflects a political system in which ideological polarisation, the rightward shift of the Jewish electorate and the contested legitimacy of Arab political participation have sharply narrowed the possibilities for coalition-building. Dr. Efron illustrates a political landscape in which Netanyahu’s governing bloc has lost ground, yet still has “more cards, or better cards, to play,” she argues, whether through another election, a national unity government or attempts to draw opposition partners into his orbit.",
+      "published_at": "2026-10-28T19:12:30Z",
+      "region": "Oriente Médio",
+      "theme": "Política Internacional",
+      "source_name": "France 24",
+      "source_id": "france24",
+      "is_brazilian": false,
+      "image_url": "https://s.france24.com/media/display/9975e314-d300-11f1-970a-811458fcf026/w:1024/p:16x9/EN-20261028-151107-152314-CS.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Fed leaves interest rates unchanged despite inflation in the US",
+      "link": "https://www.aljazeera.com/economy/2026/10/28/fed-leaves-interest-rates-unchanged-despite-inflation-in-the-us?traffic_source=rss",
+      "summary": "Rates will remain 3.75-4 percent even as inflation continues to rise.",
+      "published_at": "2026-10-28T19:05:44Z",
+      "region": "América do Norte",
+      "theme": "Economia Internacional",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": null,
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Avião de Flávio evitou espaço aéreo brasileiro durante fuga",
+      "link": "https://www.poder360.com.br/poder-internacional/aviao-de-flavio-evitou-espaco-aereo-brasileiro-durante-fuga/",
+      "summary": "Jato que levou senador aos EUA passou por Argentina e Equador para evitar o risco de uma interceptação",
+      "published_at": "2026-10-28T19:04:29Z",
+      "region": "América do Sul",
+      "theme": "Política Brasileira",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2026/10/aviao-usado-flavio-28-out-2026-1-2-1200x675.png",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "What are the implications of Israel’s elections?",
+      "link": "https://www.aljazeera.com/video/inside-story/2026/10/28/what-are-the-implications-of-israels-elections?traffic_source=rss",
+      "summary": "No clear winner in Israel's first election since the October 7 attacks and genocidal war in Gaza.",
+      "published_at": "2026-10-28T19:03:03Z",
+      "region": "Oriente Médio",
+      "theme": "Política Internacional",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": null,
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "US jury convicts Rwandan American of lying about role in genocide",
+      "link": "https://www.aljazeera.com/news/2026/10/28/us-jury-convicts-rwandan-american-of-lying-about-role-in-genocide?traffic_source=rss",
+      "summary": "Jurors heard competing witness testimony on where Eric Nshimiye was and what he was doing in April 1994.",
+      "published_at": "2026-10-28T19:02:38Z",
+      "region": "América do Norte",
+      "theme": "Outros / Multitemático",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": null,
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "How do the US midterms work, and why are they so important for Trump's presidency?",
+      "link": "https://www.dw.com/en/how-do-the-us-midterms-work-and-why-are-they-so-important-for-trump-s-presidency/a-79789932?maca=en-rss-en-world-4025-rdf",
+      "summary": "US voters are electing a new Congress. The results will be decisive for the future of the United States, and a judgment on Donald Trump's second term as president.",
+      "published_at": "2026-10-28T19:02:00Z",
+      "region": "América do Norte",
+      "theme": "Política Internacional",
+      "source_name": "DW World News",
+      "source_id": "dw_english",
+      "is_brazilian": false,
+      "image_url": "https://static.dw.com/image/79306056_6.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Putin tells African leaders Moscow will not pursue ‘neo-colonialism’",
+      "link": "https://www.aljazeera.com/news/2026/10/28/putin-tells-african-leaders-moscow-will-not-pursue-neo-colonialism?traffic_source=rss",
+      "summary": "Speaking at the third Russia-Africa Summit, Putin frames Moscow as an alternative to former colonial powers.",
+      "published_at": "2026-10-28T19:01:46Z",
+      "region": "Europa",
+      "theme": "Política Internacional",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": null,
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Kassio dá 10 dias para PGR se manifestar sobre condenação de Bolsonaro",
+      "link": "https://www.poder360.com.br/poder-justica/kassio-da-10-dias-para-pgr-se-manifestar-sobre-condenacao-de-bolsonaro/",
+      "summary": "Ex-presidente foi condenado a 27 anos e 3 meses por tentativa de golpe; a defesa tenta anular a condenação",
+      "published_at": "2026-10-28T18:56:08Z",
+      "region": "América do Sul",
+      "theme": "Política Brasileira",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2026/10/kassio-nunes-marques-stf-tse-2026-1200x675.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Students on hunger strike in India demand restoration of student union",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/28/students-on-hunger-strike-in-india-demand-restoration-of-student-union?traffic_source=rss",
+      "summary": "Students at New Delhi’s Jamia Millia Islamia university are on hunger strike demanding a student union.",
+      "published_at": "2026-10-28T18:52:58Z",
+      "region": "Ásia",
+      "theme": "Outros / Multitemático",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": null,
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "How did Flávio Bolsonaro end up in Miami?",
+      "link": "https://www.bbc.co.uk/news/videos/ck4g1xe5xny4o?at_medium=RSS&at_campaign=rss",
+      "summary": "BBC Verify has pieced together defeated presidential candidate Flávio Bolsonaro's journey through Brazil, Argentina and Ecuador to reach Miami.",
+      "published_at": "2026-10-28T18:51:05Z",
+      "region": "América do Sul",
+      "theme": "Política Internacional",
+      "source_name": "BBC World News",
+      "source_id": "bbc_world",
+      "is_brazilian": false,
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c9c9/live/0a0506e0-d2f8-11f1-a701-fddedf244c16.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Five key takeaways from the UK Autumn Budget",
+      "link": "https://www.aljazeera.com/economy/2026/10/28/five-key-takeaways-from-the-uk-autumn-budget?traffic_source=rss",
+      "summary": "The United Kingdom's government says its policies are for the 'working people of Britain'.",
+      "published_at": "2026-10-28T18:46:45Z",
+      "region": "Europa",
+      "theme": "Política Internacional",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": null,
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Fuel costs force US cruise ship to suspend multiyear voyage in Cambodia",
+      "link": "https://www.aljazeera.com/news/2026/10/28/fuel-costs-force-us-cruise-ship-to-suspend-multi-year-voyage-in-cambodia?traffic_source=rss",
+      "summary": "Hundreds of passengers are stranded after the ship’s three-and-a-half-year voyage is cut short due to fuel costs.",
+      "published_at": "2026-10-28T18:34:10Z",
+      "region": "América do Norte",
+      "theme": "Outros / Multitemático",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": null,
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Jerusalem Daily: What’s next after Israel’s elections?",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/28/jerusalem-daily-whats-next-after-israels-elections?traffic_source=rss",
+      "summary": "Prime Minister Benjamin Netanyahu and former military chief Gadi Eisenkot are both claiming victory in Israel’s election",
+      "published_at": "2026-10-28T18:31:33Z",
+      "region": "Oriente Médio",
+      "theme": "Política Internacional",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": null,
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Aranhas exibem fase de sono semelhante à dos humanos",
+      "link": "https://www.dw.com/pt-br/aranhas-exibem-fase-de-sono-semelhante-à-dos-humanos/a-79789720?maca=bra-rss-br-all-1030-rdf",
+      "summary": "Pesquisa na Alemanha descobre uma fase parecida ao sono REM dos vertebrados em aranhas-saltadoras, tornando aracnídeos um modelo promissor para estudar a evolução do sono.",
+      "published_at": "2026-10-28T18:29:00Z",
+      "region": "Europa",
+      "theme": "Ciência, Tecnologia e Inovação",
+      "source_name": "DW Brasil",
+      "source_id": "dw_brasil",
+      "is_brazilian": false,
+      "image_url": "https://static.dw.com/image/79776999_6.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1518770660439-4636190af475?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1507668077129-56e32842fceb?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Democratas condenam decisão de Trump de conceder visto a Flávio",
+      "link": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-10/democratas-condenam-decisao-de-trump-de-conceder-visto-flavio",
+      "summary": "O Comitê de Relações Exteriores da Câmara dos Deputados dos Estados Unidos criticou a decisão do governo de Donald Trump de conceder visto ao senador brasileiro Flávio Bolsonaro (PL-RJ). Nas redes sociais, o comitê, ligado aos democratas, fez um comparativo entre a atual política migratória estadunidense aplicada a pessoas que fogem de conflitos e o tratamento concedido a Flávio e à família Bolsonaro. Notícias relacionadas: Flávio Bolsonaro chega aos Estados Unidos depois de fugir do Brasil. STF nega ter ordenado buscas em endereços de Flávio Bolsonaro. Coordenador de campanha se diz surpreso com fuga de Flávio. “Nenhum asilo para pessoas fugindo da guerra no Sudão ou de conflitos no Haiti, mas [o secretário de Estado Marco] Rubio está estendendo o tapete vermelho para Bolsonaro”, diz o post do comitê no X. “Aparentemente, fugir da violência não qualifica [o migrante a entrar nos Estados Unidos]. Negar resultados eleitorais, sim”, continuou o post, ao citar que o Departamento de Estado planeja conceder vistos a Flávio e sua família. Em perfil no Instagram, o parlamentar democrata Joaquin Castro afirmou que “perder as eleições não é motivo para asilo”, referindo-se à derrota de Flávio na candidatura ao cargo de presidente da República no último domingo (26). “Ainda assim, o governo Trump está concedendo refúgio a Flávio Bolsonaro nos Estados Unidos. No Brasil, ele está sob investigação por suposta corrupção, lavagem de dinheiro e evasão de divisas e foi ordenado a entregar seus passaportes”, postou. Para Castro, o governo Trump deve explicações ao Congresso norte-americano “por seu papel em ajudar [Flávio] Bolsonaro a fugir do Brasil, violando a legislação brasileira”. Entenda Flávio Bolsonaro, a esposa e as duas filhas chegaram nesta quarta-feira (28) a Miami depois de cruzarem a fronteira brasileira com a Argentina e pegarem voo rumo aos Estados Unidos. A aeronave privada chegou a fazer uma parada no Equador. Na terça-feira (27), um aliado próximo de Flávio e uma fonte do governo norte-americano confirmaram à agência Reuters que o senador havia fugido para os Estados Unidos. Flávio descumpriu o prazo estabelecido pelo ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF), para entregar os passaportes à Polícia Federal. Na véspera, em vídeo publicado nas redes sociais após ser intimado pelo Judiciário, Flávio negou ter a intenção de deixar o Brasil e disse que ficaria no país para, segundo ele, organizar a oposição contra o governo do presidente Luiz Inácio Lula da Silva, reeleito no domingo ao derrotar o senador no segundo turno da eleição presidencial, por mais de 4,4 milhões de votos. Lavagem de dinheiro Alexandre de Moraes determinou a entrega dos passaportes de Flávio, no âmbito de um inquérito em que o senador é investigado por lavagem de dinheiro , juntamente com o advogado Willer Tomaz, amigo dele. Ambos negam qualquer irregularidade. A decisão do ministro do STF foi tomada depois de o ex-deputado Eduardo Bolsonaro, irmão de Flávio, dizer, em uma transmissão nas redes sociais, que Flávio deveria deixar o país caso perdesse a eleição presidencial e liderar a oposição brasileira do exterior. Saiba mais no Repórter Brasil Tarde, da TV Brasil",
+      "published_at": "2026-10-28T18:28:00Z",
+      "region": "América do Norte",
+      "theme": "Política Brasileira",
+      "source_name": "Agência Brasil",
+      "source_id": "agencia_brasil",
+      "is_brazilian": true,
+      "image_url": null,
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Putin woos African leaders as Moscow seeks to expand footprint in Africa",
+      "link": "https://www.france24.com/en/africa/20261028-putin-woos-african-leaders-moscow-seeks-expand-footprint-africa",
+      "summary": "Russian President Vladimir Putin sought to woo African leaders and government delegates on Wednesday as they gathered in Moscow for the third Russia-Africa Summit to discuss trade, security, arms deals and grain supplies as part of the Kremlin's strategic efforts to expand its footprint in Africa.",
+      "published_at": "2026-10-28T18:13:49Z",
+      "region": "Europa",
+      "theme": "Política Internacional",
+      "source_name": "France 24",
+      "source_id": "france24",
+      "is_brazilian": false,
+      "image_url": "https://s.france24.com/media/display/6edccb5c-d2f8-11f1-8803-75c7729144f1/w:1024/p:16x9/000-D4NG2RM.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Balad leader blasts ‘racist’ exclusion of Arab parties in Israel",
+      "link": "https://www.aljazeera.com/news/2026/10/28/balad-leader-blasts-racist-exclusion-of-arab-parties-in-israel?traffic_source=rss",
+      "summary": "Elections have yielded no clear winner but opposition bloc refuses to ally with Arab parties.",
+      "published_at": "2026-10-28T17:54:51Z",
+      "region": "Oriente Médio",
+      "theme": "Política Internacional",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": null,
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "'Si, se puede': US civil rights icon Dolores Huerta dies at 96",
+      "link": "https://www.france24.com/en/americas/20261028-si-se-puede-us-civil-rights-icon-dolores-huerta-dies-96",
+      "summary": "Influential US labour union co-founder, feminist, and civil rights icon Dolores Huerta died on Wednesday in Bakersfield, California, her family said. Credited with coining the enduring \"Si, se puede!\" rallying cry later adapted by former US president Barack Obama, Huerta continued her activism on race, poverty, LGBTQ and women's rights issues until the last months of her life.",
+      "published_at": "2026-10-28T17:49:46Z",
+      "region": "América do Norte",
+      "theme": "Direitos Humanos, Sociedade e Migrações",
+      "source_name": "France 24",
+      "source_id": "france24",
+      "is_brazilian": false,
+      "image_url": "https://s.france24.com/media/display/aafa5844-d2f7-11f1-a891-75c7729144f1/w:1024/p:16x9/AP26077703606889.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1542810634-71277d95dcbb?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1489533119213-66a5cd877091?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1531206715517-5c0ba140e2b8?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Evacuation from Oleshky: How are preparations going?",
+      "link": "https://www.dw.com/en/evacuation-from-oleshky-how-are-preparations-going/a-79790001?maca=en-rss-en-world-4025-rdf",
+      "summary": "A lawyer with the Save Ukraine Foundation, Myroslava Kharchenko, told DW about what has been happening in Russian-occupied Oleshky since a temporary ceasefire brokered by Melania Trump took effect.",
+      "published_at": "2026-10-28T17:04:00Z",
+      "region": "Europa",
+      "theme": "Política Internacional",
+      "source_name": "DW World News",
+      "source_id": "dw_english",
+      "is_brazilian": false,
+      "image_url": "https://static.dw.com/image/79771347_6.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Quem venceu a eleição em Israel e o que acontece agora?",
+      "link": "https://www.dw.com/pt-br/quem-venceu-a-eleição-em-israel-e-o-que-acontece-agora/a-79789417?maca=bra-rss-br-all-1030-rdf",
+      "summary": "Nem o bloco do premiê Benjamin Netanyahu nem o do opositor Gadi Eisenkot obtém maioria no Parlamento, segundo contagem parcial. Partidos árabes avançam e podem decidir governo.",
+      "published_at": "2026-10-28T17:03:00Z",
+      "region": "Oriente Médio",
+      "theme": "Política Internacional",
+      "source_name": "DW Brasil",
+      "source_id": "dw_brasil",
+      "is_brazilian": false,
+      "image_url": "https://static.dw.com/image/79788644_6.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "US grants visa to defeated Brazilian presidential candidate Flavio Bolsonaro",
+      "link": "https://www.france24.com/en/video/20261028-us-grants-visa-to-defeated-brazilian-presidential-candidate-flavio-bolsonaro",
+      "summary": "Brazil's defeated presidential candidate Flavio Bolsonaro and his immediate family landed in Miami, Florida on Wednesday after he refused to surrender his passports as ordered by his country's Supreme Court in connection with a money-laundering probe. The US State Department on Tuesday announced it had granted entry visas to the senator and his family. France 24's Kethevane Gorjestani explains.",
+      "published_at": "2026-10-28T17:00:58Z",
+      "region": "América do Norte",
+      "theme": "Política Internacional",
+      "source_name": "France 24",
+      "source_id": "france24",
+      "is_brazilian": false,
+      "image_url": "https://s.france24.com/media/display/88c25a40-d2ef-11f1-a32e-47de50b3c1e4/w:1024/p:16x9/capture-25dcf831.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Israel election: What impact on Iran as the war in the Middle East continues?",
+      "link": "https://www.france24.com/en/video/20261028-israel-election-what-impact-on-iran-as-the-war-in-the-middle-east-continues",
+      "summary": "Benjamin Netanyahu is expected to face greater constraints as Israel’s caretaker prime minister following Tuesday’s election. However, experts say his government could retain significant powers, including the authority to wage war against Iran. So what impact will the election have on Israel’s approach to Iran? France 24’s International Affairs Editor Angela Diffley shares further insights.",
+      "published_at": "2026-10-28T16:54:33Z",
+      "region": "Oriente Médio",
+      "theme": "Política Internacional",
+      "source_name": "France 24",
+      "source_id": "france24",
+      "is_brazilian": false,
+      "image_url": "https://s.france24.com/media/display/d4cd0e98-d2eb-11f1-8391-47de50b3c1e4/w:1024/p:16x9/capture-1b4d2875.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
     {
       "title": "Flávio desembarca nos EUA, apontam imagens; governo Trump diz que dará visto a senador e família",
       "link": "https://www.bbc.co.uk/portuguese/live/c6x2v49yvrygt?at_medium=RSS&at_campaign=rss",
@@ -16,6 +917,40 @@
         "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "France: Racist attack in Trappes deeply scars local community",
+      "link": "https://www.france24.com/en/video/20261028-france-racist-attack-in-trappes-deeply-scars-local-community",
+      "summary": "It has been five days since a gunman opened fire in the Paris suburb of Trappes in a racist attack that left one person dead and five others injured. Over the weekend, hundreds of people marched through the town to pay tribute to the 26-year-old victim, Bossio Wangi, and show solidarity with his family. The attack has left a deep mark on the local community, and mediators have been mobilised to provide support. Eliza Herbert reports.",
+      "published_at": "2026-10-28T16:53:01Z",
+      "region": "Europa",
+      "theme": "Geopolítica e Segurança",
+      "source_name": "France 24",
+      "source_id": "france24",
+      "is_brazilian": false,
+      "image_url": "https://s.france24.com/media/display/a476116e-d1f5-11f1-8114-bdb9616e85cf/w:1024/p:16x9/2026-10-26T185301Z-1414144200-RC26BOAZJ25N-RTRMADP-3-FRANCE-SECURITY-SHOOTING-PROTEST.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Defeated presidential candidate Bolsonaro lands in Miami after fleeing Brazil",
+      "link": "https://www.france24.com/en/video/20261028-defeated-presidential-candidate-bolsonaro-lands-in-miami-after-fleeing-brazil",
+      "summary": "Brazilian Senator ​Flavio Bolsonaro and his family arrived in Miami on Wednesday, where the United States government granted them ​entry visas after he refused to comply with a Brazilian Supreme Court order to surrender his passports. Bolsonaro lost Sunday's presidential election to leftist incumbent President Luiz Inacio Lula da Silva.",
+      "published_at": "2026-10-28T16:50:18Z",
+      "region": "América do Sul",
+      "theme": "Política Internacional",
+      "source_name": "France 24",
+      "source_id": "france24",
+      "is_brazilian": false,
+      "image_url": "https://s.france24.com/media/display/27e463cc-d2ee-11f1-b552-a7bbbeea0b20/w:1024/p:16x9/minibol.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
       ]
     },
     {
@@ -114,6 +1049,40 @@
       "source_id": "aljazeera_english",
       "is_brazilian": false,
       "image_url": null,
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Como Flávio Bolsonaro conseguiu fugir para os EUA",
+      "link": "https://www.dw.com/pt-br/como-flávio-bolsonaro-conseguiu-fugir-para-os-eua/a-79787003?maca=bra-rss-br-all-1030-rdf",
+      "summary": "Obrigado pelo STF a entregar passaportes, candidato derrotado à Presidência descumpriu a determinação e viajou para Miami em jatinho, partindo da Argentina. Operação teve apoio dos governos Milei e Trump.",
+      "published_at": "2026-10-28T16:34:00Z",
+      "region": "América do Norte",
+      "theme": "Política Internacional",
+      "source_name": "DW Brasil",
+      "source_id": "dw_brasil",
+      "is_brazilian": false,
+      "image_url": "https://static.dw.com/image/79788733_6.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "One year on, families seek justice after election violence",
+      "link": "https://www.dw.com/en/one-year-on-families-seek-justice-after-election-violence/a-79779105?maca=en-rss-en-world-4025-rdf",
+      "summary": "One year after Tanzania's deadly post-election violence, families are still seeking answers. A government inquiry recorded 518 deaths. DW research has documented apparent use of excessive force by security forces.",
+      "published_at": "2026-10-28T16:30:00Z",
+      "region": "Europa",
+      "theme": "Política Internacional",
+      "source_name": "DW World News",
+      "source_id": "dw_english",
+      "is_brazilian": false,
+      "image_url": "https://static.dw.com/image/74556152_6.jpg",
       "fallback_images": [
         "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
@@ -614,6 +1583,23 @@
       ]
     },
     {
+      "title": "Flavio Bolsonaro lands in US, declares himself 'president-elect' of Brazil",
+      "link": "https://www.dw.com/en/flavio-bolsonaro-lands-in-us-declares-himself-president-elect-of-brazil/a-79788659?maca=en-rss-en-world-4025-rdf",
+      "summary": "Defeated Brazilian presidential candidate Flavio Bolsonaro and his family landed in Florida early on Wednesday. Facing money laundering allegations, he fled just days after refusing to concede defeat to incumbent Lula.",
+      "published_at": "2026-10-28T15:10:00Z",
+      "region": "América do Sul",
+      "theme": "Política Internacional",
+      "source_name": "DW World News",
+      "source_id": "dw_english",
+      "is_brazilian": false,
+      "image_url": "https://static.dw.com/image/79790316_6.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
       "title": "Flavio Bolsonaro lands in Miami after fleeing Brazil for US",
       "link": "https://www.dw.com/en/flavio-bolsonaro-lands-in-miami-after-fleeing-brazil-for-us/a-79788659?maca=en-rss-en-world-4025-rdf",
       "summary": "Defeated Brazilian presidential candidate Flavio Bolsonaro and his family landed in Florida early on Wednesday. Facing money laundering allegations, he fled just days after refusing to concede defeat to incumbent Lula.",
@@ -682,7 +1668,7 @@
       ]
     },
     {
-      "title": "O que se sabe sobre saída de Flávio Bolsonaro do Brasil",
+      "title": "Flávio Bolsonaro nos EUA: o que se sabe sobre a saída do senador do Brasil",
       "link": "https://www.bbc.com/portuguese/articles/c617k8y8zw1lo?at_medium=RSS&at_campaign=rss",
       "summary": "Derrotado nas eleições, senador saiu do Brasil após decisão do STF que o proibia de deixar o país.",
       "published_at": "2026-10-28T14:57:37Z",
@@ -832,23 +1818,6 @@
         "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Flavio Bolsonaro lands in Miami after losing Brazil’s presidential election",
-      "link": "https://www.aljazeera.com/news/2026/10/28/flavio-bolsonaro-lands-in-miami-after-losing-brazils-presidential-election?traffic_source=rss",
-      "summary": "Bolsonaro and his family fled to the US amid a Brazilian Supreme Court order to surrender his passports.",
-      "published_at": "2026-10-28T14:32:16Z",
-      "region": "América do Sul",
-      "theme": "Política Internacional",
-      "source_name": "Al Jazeera",
-      "source_id": "aljazeera_english",
-      "is_brazilian": false,
-      "image_url": null,
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
       ]
     },
     {
@@ -1138,6 +2107,23 @@
         "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Assembleia Geral reitera rejeição a embargo dos Estados Unidos contra Cuba",
+      "link": "https://news.un.org/feed/view/pt/story/2026/10/1854778",
+      "summary": "Resolução foi adotada por 130 votos a favor, 17 contra e 25 abstenções, nesta quarta-feira; autoridades cubanas dizem que medida, imposta na década de 1960, levou à crise energética e humanitária na ilha caribenha.",
+      "published_at": "2026-10-28T12:00:00Z",
+      "region": "América Central",
+      "theme": "Outros / Multitemático",
+      "source_name": "ONU News",
+      "source_id": "onu_news",
+      "is_brazilian": false,
+      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Graphics%20Library/2026/10/28-10-2026-UN-Photo-GA-vote-Cuba.jpg/image560x340cropped.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
       ]
     },
     {
@@ -1563,992 +2549,6 @@
         "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Lincoln Gakiya diz que aceitaria ser ministro de Lula",
-      "link": "https://www.poder360.com.br/poder-justica/lincoln-gakiya-diz-que-aceitaria-ser-ministro-de-lula/",
-      "summary": "Cotado para o Ministério da Segurança, promotor do Gaeco é uma das autoridades mais respeitadas no combate ao PCC",
-      "published_at": "2026-10-28T09:45:40Z",
-      "region": "América do Sul",
-      "theme": "Política Brasileira",
-      "source_name": "Poder360",
-      "source_id": "poder360",
-      "is_brazilian": true,
-      "image_url": "https://static.poder360.com.br/uploads/2025/11/Lincoln-Gakiya_CPI-Crime_25.nov_.2025.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Mapping the siege of Yemen’s Taiz, and the price families are paying",
-      "link": "https://www.aljazeera.com/news/2026/10/28/mapping-the-siege-of-yemens-taiz-and-the-price-families-are-paying?traffic_source=rss",
-      "summary": "Three weeks into the siege of Yemen’s third-largest city, prices have doubled, and families are down to the basics.",
-      "published_at": "2026-10-28T09:43:09Z",
-      "region": "Oriente Médio",
-      "theme": "Outros / Multitemático",
-      "source_name": "Al Jazeera",
-      "source_id": "aljazeera_english",
-      "is_brazilian": false,
-      "image_url": null,
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Israel: The economic challenges ahead",
-      "link": "https://www.france24.com/en/israel-the-economic-challenges-ahead",
-      "summary": "Questions over the future of Israel’s economy are looming in the wake of the elections. With one of the highest costs of living in the region, and defence spending continuing to rise, households are facing growing financial pressure. Caitlin Brown reports.",
-      "published_at": "2026-10-28T09:43:01Z",
-      "region": "Oriente Médio",
-      "theme": "Economia Internacional",
-      "source_name": "France 24",
-      "source_id": "france24",
-      "is_brazilian": false,
-      "image_url": "https://s.france24.com/media/display/badb3ed0-d2b2-11f1-8a6d-bf69a9ce9852/w:1024/p:16x9/EN-20261028-101022-101222-CS.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Israel election: There's no clear winner",
-      "link": "https://www.france24.com/en/israel-election-there-s-no-clear-winner",
-      "summary": "The path ahead remains uncertain in the Knesset in Jerusalem, as the Central Elections Committee continues to count the votes. With more than 60% of ballots tallied, Prime Minister Benjamin Netanyahu’s camp is narrowly ahead of the opposition, but still short of a clear majority. These are still partial results and could change, meaning no clear winner has emerged so far. Both leading candidates for the prime minister’s office traded barbs in their respective speeches after polls closed. Antonia Kerrigan reports.",
-      "published_at": "2026-10-28T09:40:15Z",
-      "region": "Oriente Médio",
-      "theme": "Política Internacional",
-      "source_name": "France 24",
-      "source_id": "france24",
-      "is_brazilian": false,
-      "image_url": "https://s.france24.com/media/display/3ae9d138-d2b1-11f1-bfca-47de50b3c1e4/w:1024/p:16x9/EN-20261028-100155-100340-CS.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Israeli right makes provocative statements as election votes are counted",
-      "link": "https://www.aljazeera.com/news/2026/10/28/israeli-right-makes-provocative-statements-as-election-votes-are-counted?traffic_source=rss",
-      "summary": "Netanyahu and Smotrich rail against Arab voters as rival political camps face an uncertain path to power.",
-      "published_at": "2026-10-28T09:30:03Z",
-      "region": "Oriente Médio",
-      "theme": "Política Internacional",
-      "source_name": "Al Jazeera",
-      "source_id": "aljazeera_english",
-      "is_brazilian": false,
-      "image_url": null,
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Injuries reported after two trains collide in Spain",
-      "link": "https://www.aljazeera.com/news/2026/10/28/injuries-reported-after-two-trains-collide-in-spain?traffic_source=rss",
-      "summary": "This is a breaking news story.",
-      "published_at": "2026-10-28T09:26:47Z",
-      "region": "Europa",
-      "theme": "Outros / Multitemático",
-      "source_name": "Al Jazeera",
-      "source_id": "aljazeera_english",
-      "is_brazilian": false,
-      "image_url": null,
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Plenário do STF: saiba quais ações estão na pauta desta 4ª feira",
-      "link": "https://www.poder360.com.br/poder-justica/plenario-do-stf-saiba-quais-acoes-estao-na-pauta-desta-4a-feira-11/",
-      "summary": "Supremo analisa forma de pagamento dos prejuízos de investidores da poupança decorrentes de planos econômicos das décadas de 1980 e 1990",
-      "published_at": "2026-10-28T09:15:16Z",
-      "region": "América do Sul",
-      "theme": "Política Brasileira",
-      "source_name": "Poder360",
-      "source_id": "poder360",
-      "is_brazilian": true,
-      "image_url": "https://static.poder360.com.br/uploads/2026/07/capas-posts-agenda-Lula-eleicoes-ministros-STF-STJ-indicadores-site-Poder360-03-scaled.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Governo Lula: leia a agenda de ministros do governo nesta 4ª feira",
-      "link": "https://www.poder360.com.br/poder-governo/governo-lula-leia-a-agenda-de-ministros-do-governo-nesta-4a-feira-14/",
-      "summary": "Ministro do Meio Ambiente participa de programa da \"EBC\"; Paulo Pereira (Micro e Pequenas Empresas) vai a evento em São Paulo",
-      "published_at": "2026-10-28T09:15:01Z",
-      "region": "América do Sul",
-      "theme": "Política Brasileira",
-      "source_name": "Poder360",
-      "source_id": "poder360",
-      "is_brazilian": true,
-      "image_url": "https://static.poder360.com.br/uploads/2026/07/capas-posts-agenda-Lula-eleicoes-ministros-STF-STJ-indicadores-site-Poder360-09-scaled.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Israel: Netanyahu and Eisenkot both pledge to form government",
-      "link": "https://www.france24.com/en/video/20261028-israel-netanyahu-and-eisenkot-both-pledge-to-form-government",
-      "summary": "🗳️ Both Israeli Prime Minister Benjamin #Netanyahu and rival Gadi #Eisenkot pledged to form a government as the two are projected to finish neck and neck in #Israel's critical election Tuesday. Exit polls show both blocs falling short of a parliamentary majority.",
-      "published_at": "2026-10-28T09:06:44Z",
-      "region": "Oriente Médio",
-      "theme": "Política Internacional",
-      "source_name": "France 24",
-      "source_id": "france24",
-      "is_brazilian": false,
-      "image_url": "https://s.france24.com/media/display/5e33c442-d2b0-11f1-9449-47de50b3c1e4/w:1024/p:16x9/title-5.png",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "🔴 Two high-speed trains collide in Spain, halting traffic on Madrid-Andalusia line",
-      "link": "https://www.france24.com/en/europe/20261028-two-high-speed-trains-collide-in-southern-spain-rail-operator-says",
-      "summary": "",
-      "published_at": "2026-10-28T09:01:52Z",
-      "region": "Europa",
-      "theme": "Outros / Multitemático",
-      "source_name": "France 24",
-      "source_id": "france24",
-      "is_brazilian": false,
-      "image_url": null,
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "El opositor Yair Golan aboga por una coalición con partidos árabes para desbancar a Netanyahu en Israel",
-      "link": "https://www.europapress.es/internacional/noticia-opositor-yair-golan-aboga-coalicion-partidos-arabes-desbancar-netanyahu-israel-20261028100134.html",
-      "summary": "El líder de Los Demócratas recalca que el primer ministro \"ha perdido\" y pide \"dejar de tener miedo\": \"Todos los votos valen exactamente lo mismo\"",
-      "published_at": "2026-10-28T09:01:34Z",
-      "region": "Oriente Médio",
-      "theme": "Política Internacional",
-      "source_name": "Europa Press",
-      "source_id": "europa_press",
-      "is_brazilian": false,
-      "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20261028100134_120.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Lula poderá reformular 100% das reguladoras até o fim do novo mandato",
-      "link": "https://www.poder360.com.br/poder-governo/lula-podera-reformular-100-das-reguladoras-ate-o-fim-do-novo-mandato/",
-      "summary": "Diretores têm mandatos de até 6 anos; indicações do presidente dependem de aprovação do Senado",
-      "published_at": "2026-10-28T09:00:50Z",
-      "region": "América do Sul",
-      "theme": "Política Brasileira",
-      "source_name": "Poder360",
-      "source_id": "poder360",
-      "is_brazilian": true,
-      "image_url": "https://static.poder360.com.br/uploads/2026/10/lula-indica-agencias-reguladoras-26-out-2026-02-1-1200x675.png",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "7,1% dos declarantes de IR têm patrimônio acima de R$ 1 milhão",
-      "link": "https://www.poder360.com.br/poder-economia/71-dos-declarantes-de-ir-tem-patrimonio-acima-de-r-1-milhao/",
-      "summary": "Do total, 27,6 milhões de declarantes, ou 65,4%, têm patrimônio de até R$ 100 mil, segundo dados da Receita Federal",
-      "published_at": "2026-10-28T09:00:41Z",
-      "region": "América do Sul",
-      "theme": "Economia Brasileira",
-      "source_name": "Poder360",
-      "source_id": "poder360",
-      "is_brazilian": true,
-      "image_url": "https://static.poder360.com.br/uploads/2026/10/2declarantes-ir-pratimonio-27-out-2026-1200x675.png",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1506744038136-46273834b3fb?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Saiba quais indicadores e balanços saem nesta 4ª feira",
-      "link": "https://www.poder360.com.br/poder-economia/saiba-quais-indicadores-e-balancos-saem-nesta-4a-feira-12/",
-      "summary": "Mercado acompanha a divulgação de indicadores de confiança do empresário industrial, além da decisão da taxa de juros dos EUA",
-      "published_at": "2026-10-28T09:00:17Z",
-      "region": "América do Norte",
-      "theme": "Economia Internacional",
-      "source_name": "Poder360",
-      "source_id": "poder360",
-      "is_brazilian": true,
-      "image_url": "https://static.poder360.com.br/uploads/2026/07/capas-posts-agenda-Lula-eleicoes-ministros-STF-STJ-indicadores-site-Poder360-07-scaled.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "At least 10 killed in high-speed train collision in central Spain",
-      "link": "https://www.france24.com/en/europe/20261028-two-high-speed-trains-collide-in-southern-spain-rail-operator-says",
-      "summary": "At least 10 people have been killed on Wednesday after two high-speed trains collided in Spain's central Toledo province, Spanish media reported. High-speed rail services between Madrid and Andalusia have been suspended.",
-      "published_at": "2026-10-28T09:00:03Z",
-      "region": "Europa",
-      "theme": "Outros / Multitemático",
-      "source_name": "France 24",
-      "source_id": "france24",
-      "is_brazilian": false,
-      "image_url": "https://s.france24.com/media/display/7ee47dca-d2b1-11f1-9163-efcc5769f1db/w:1024/p:16x9/2026-10-28T092103Z-628549791-RC29COAMI7TY-RTRMADP-3-SPAIN-ACCIDENT.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Flávio Bolsonaro cruza fronteira argentina e segue para o Equador",
-      "link": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-10/flavio-bolsonaro-cruza-fronteira-argentina-e-segue-para-o-equador",
-      "summary": "O senador Flávio Bolsonaro (PL), sua esposa Fernanda Antunes Figueira Bolsonaro e suas duas filhas, Carolina Figueira Bolsonaro e Luiza Figueira Bolsonaro, entraram na Argentina na noite dessa terça-feira (27). A informação foi confirmada pela Direção Nacional de Migrações da Argentina. Em nota, o órgão detalhou que o acesso ocorreu às 22h50 por meio da Ponte Internacional Tancredo Neves, na província de Misiones. Às 23h30, Flávio e família, segundo o governo argentino, embarcaram em um avião privado da companhia Baires Fly e seguiram para Guayaquil, no Equador, conforme informado no plano de voo. Notícias relacionadas: Coordenador de campanha se diz surpreso com fuga de Flávio. “Ato vergonhoso”, diz Lula sobre fuga de Flávio Bolsonaro. Imprensa internacional repercute fuga de Flávio Bolsonaro do Brasil. Ainda de acordo com a Direção Nacional de Migração da Argentina, os quatro apresentaram documentação válida para viagem, sem nenhum impedimento legal para entrar no país. “A travessia foi registrada pela autoridade migratória sem incidentes”, informou o órgão.",
-      "published_at": "2026-10-28T09:00:00Z",
-      "region": "América do Sul",
-      "theme": "Política Brasileira",
-      "source_name": "Agência Brasil",
-      "source_id": "agencia_brasil",
-      "is_brazilian": true,
-      "image_url": null,
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "China says it takes Mbappe’s apology ‘seriously’ after Mao dictator comment",
-      "link": "https://www.aljazeera.com/sports/2026/10/28/china-says-it-takes-mbappes-apology-seriously-after-mao-dictator-comment?traffic_source=rss",
-      "summary": "France international Kylian Mbappe's remarks saw him become the latest foreign sports figure to anger Beijing.",
-      "published_at": "2026-10-28T08:57:49Z",
-      "region": "Ásia",
-      "theme": "Cultura, Mídia e Sociedade",
-      "source_name": "Al Jazeera",
-      "source_id": "aljazeera_english",
-      "is_brazilian": false,
-      "image_url": null,
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1460661419201-fd4cecdf8a8b?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1508700115892-45ecd05ae2ad?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Canada signs trade deal with UAE in push for non-US markets",
-      "link": "https://www.aljazeera.com/news/2026/10/28/canada-signs-trade-deal-with-uae-in-push-for-non-us-markets?traffic_source=rss",
-      "summary": "The agreement aims to cut tariffs, reduce red tape and improve market access for businesses in both countries.",
-      "published_at": "2026-10-28T08:50:55Z",
-      "region": "América do Norte",
-      "theme": "Comércio e Finanças",
-      "source_name": "Al Jazeera",
-      "source_id": "aljazeera_english",
-      "is_brazilian": false,
-      "image_url": null,
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1578575437130-527eed3abbec?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1522071820081-009f0129c71c?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Serbian police shoot dead assailant at Israeli Embassy",
-      "link": "https://www.dw.com/en/serbian-police-shoot-dead-assailant-at-israeli-embassy/a-79782905?maca=en-rss-en-world-4025-rdf",
-      "summary": "A \"minor\" has been killed by police after attacking a guard at Israel's embassy in Belgrade with knives, the interior minister says. Ivica Dacic said police had declared the highest terror alert after the incident.",
-      "published_at": "2026-10-28T08:48:00Z",
-      "region": "Oriente Médio",
-      "theme": "Política Internacional",
-      "source_name": "DW World News",
-      "source_id": "dw_english",
-      "is_brazilian": false,
-      "image_url": "https://static.dw.com/image/79783016_6.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Trump's relationship with Putin comes under fire ahead of the midterms",
-      "link": "https://www.npr.org/2026/10/28/nx-s1-6009262/trumps-relationship-with-putin-comes-under-fire-ahead-of-the-midterms",
-      "summary": "President Trump's relationship with Russia's Vladimir Putin is under scrutiny again as the president makes deals with Moscow ahead of the midterms.",
-      "published_at": "2026-10-28T08:47:18Z",
-      "region": "Europa",
-      "theme": "Política Internacional",
-      "source_name": "NPR World News",
-      "source_id": "npr",
-      "is_brazilian": false,
-      "image_url": null,
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Partial results from Israel's contentious election show no clear winner",
-      "link": "https://www.npr.org/2026/10/28/nx-s1-6019423/israel-election-results",
-      "summary": "Prime Minister Benjamin Netanyahu's right-wing bloc was leading opposition rival Gadi Eisenkot. Arab parties had a strong showing, and a key question now is whether Eisenkot's bloc will consider forming a coalition with them.",
-      "published_at": "2026-10-28T08:46:47Z",
-      "region": "Oriente Médio",
-      "theme": "Política Internacional",
-      "source_name": "NPR World News",
-      "source_id": "npr",
-      "is_brazilian": false,
-      "image_url": null,
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Ex-Israeli diplomat calls opposition's refusal to work with Arab parties 'reckless'",
-      "link": "https://www.npr.org/2026/10/28/nx-s1-6019328/israel-election-arab-parties-government",
-      "summary": "Why a stronger showing for Arab parties may not translate into political power in Israel.",
-      "published_at": "2026-10-28T08:46:16Z",
-      "region": "Oriente Médio",
-      "theme": "Outros / Multitemático",
-      "source_name": "NPR World News",
-      "source_id": "npr",
-      "is_brazilian": false,
-      "image_url": null,
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "French Senate debates new 'rioters pay' bill",
-      "link": "https://www.france24.com/en/tv-shows/business/20261028-french-senate-debates-new-rioters-pay-bill",
-      "summary": "As thousands of French businesses grapple with the fallout from recent riots, French senators are debating a new bill aimed at making not only the perpetrators but also those belonging to the same group pay for damages. The idea of \"collective civil liability\" divides lawmakers, with opponents saying it could potentially violate people's democratic rights to protest as some might stay clear of demonstrations for fear of being in the wrong place at the wrong time.",
-      "published_at": "2026-10-28T08:43:09Z",
-      "region": "Europa",
-      "theme": "Política Internacional",
-      "source_name": "France 24",
-      "source_id": "france24",
-      "is_brazilian": false,
-      "image_url": "https://s.france24.com/media/display/df83f682-d244-11f1-ad69-a7bbbeea0b20/w:1024/p:16x9/EN-NW-OOV-ECO-FRANCE-RIOT-AFETERMATH-ROYER-Yuka.png",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Khouri: Strong Israel-Arab bloc result does not mean Israel has changed",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/28/khouri-strong-israel-arab-bloc-result-does-not-mean-israel-has-changed?traffic_source=rss",
-      "summary": "Rami Khouri challenges the idea that a strong IsraelI-Arab bloc result signals any positive shift in Israeli society.",
-      "published_at": "2026-10-28T08:35:05Z",
-      "region": "Oriente Médio",
-      "theme": "Outros / Multitemático",
-      "source_name": "Al Jazeera",
-      "source_id": "aljazeera_english",
-      "is_brazilian": false,
-      "image_url": null,
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Is AIPAC losing its grip on US politics?",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/28/is-aipac-losing-its-grip-on-us-politics?traffic_source=rss",
-      "summary": "Pro-Israel lobby, AIPAC, is changing its strategy, ending candidate endorsements and direct campaign contributions.",
-      "published_at": "2026-10-28T08:29:49Z",
-      "region": "América do Norte",
-      "theme": "Outros / Multitemático",
-      "source_name": "Al Jazeera",
-      "source_id": "aljazeera_english",
-      "is_brazilian": false,
-      "image_url": null,
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Anger in Kenya over extradition hearing delay for ex-British soldier accused of murdering woman",
-      "link": "https://www.bbc.co.uk/news/articles/cmly073ql392o?at_medium=RSS&at_campaign=rss",
-      "summary": "No official reason has been given for postponing next month’s hearing to May 2027, the family says.",
-      "published_at": "2026-10-28T08:28:39Z",
-      "region": "Europa",
-      "theme": "Outros / Multitemático",
-      "source_name": "BBC World News",
-      "source_id": "bbc_world",
-      "is_brazilian": false,
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d546/live/12047420-d2a3-11f1-9aa6-4f9b16403e50.png",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Former world No 3 Stan Wawrinka ends career in home match defeat in Basel",
-      "link": "https://www.aljazeera.com/sports/2026/10/28/former-world-no-3-stan-wawrinka-ends-career-in-home-match-defeat-in-basel?traffic_source=rss",
-      "summary": "Stan Wawrinka, one of few players to win multiple Grand Slams in era dominated by Federer, Nadal and Djokovic, retires.",
-      "published_at": "2026-10-28T08:27:50Z",
-      "region": "Oriente Médio",
-      "theme": "Outros / Multitemático",
-      "source_name": "Al Jazeera",
-      "source_id": "aljazeera_english",
-      "is_brazilian": false,
-      "image_url": null,
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Why is the system failing France’s younger generation?",
-      "link": "https://www.aljazeera.com/video/money-works/2026/10/28/why-is-the-system-failing-frances-younger-generation?traffic_source=rss",
-      "summary": "Why are French youth rioting?",
-      "published_at": "2026-10-28T08:26:58Z",
-      "region": "Europa",
-      "theme": "Outros / Multitemático",
-      "source_name": "Al Jazeera",
-      "source_id": "aljazeera_english",
-      "is_brazilian": false,
-      "image_url": null,
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Xhaka, Embolo return to Swiss squad after fake COVID docs affair",
-      "link": "https://www.aljazeera.com/sports/2026/10/28/xhaka-embolo-return-to-swiss-squad-after-fake-covid-docs-affair?traffic_source=rss",
-      "summary": "Granit Xhaka and Breel Embolo's return to Switzerland 'the right course of action,' national team director says.",
-      "published_at": "2026-10-28T08:24:29Z",
-      "region": "Europa",
-      "theme": "Saúde",
-      "source_name": "Al Jazeera",
-      "source_id": "aljazeera_english",
-      "is_brazilian": false,
-      "image_url": null,
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1584515901367-f1c2a12a50ea?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1505751172876-fa1923c5c528?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1584036561566-baf2418a7c21?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Why the US midterms matter even if you don’t live in America",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/28/why-the-us-midterms-matter-even-if-you-dont-live-in-america?traffic_source=rss",
-      "summary": "From military aid and sanctions to trade and tariffs, the US midterms could shape decisions that affect millions.",
-      "published_at": "2026-10-28T08:15:19Z",
-      "region": "América do Norte",
-      "theme": "Geopolítica e Segurança",
-      "source_name": "Al Jazeera",
-      "source_id": "aljazeera_english",
-      "is_brazilian": false,
-      "image_url": null,
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Trump espera mantener \"muy pronto\" una reunión con Putin y Zelenski ante los \"grandes progresos\" obtenidos",
-      "link": "https://www.europapress.es/internacional/noticia-trump-espera-mantener-muy-pronto-reunion-putin-zelenski-grandes-progresos-obtenidos-20261028091116.html",
-      "summary": "El presidente de Estados Unidos, Donald Trump, ha afirmado que espera mantener \"muy pronto\" una reunión trilateral con sus homólogos de Rusia y Ucrania, Vladimir Putin y Volodimir Zelenski, respectivamente, antes de destacar los \"grandes progresos\" obtenidos en las últimas conversaciones con ambos países para avanzar hacia un acuerdo de paz.",
-      "published_at": "2026-10-28T08:11:16Z",
-      "region": "América do Norte",
-      "theme": "Política Internacional",
-      "source_name": "Europa Press",
-      "source_id": "europa_press",
-      "is_brazilian": false,
-      "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20261028091116_120.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Cyclone Arnab makes landfall in India’s Andhra Pradesh",
-      "link": "https://www.aljazeera.com/news/2026/10/28/cyclone-arnab-makes-landfall-in-indias-andhra-pradesh?traffic_source=rss",
-      "summary": "Authorities evacuate 180,000 people as storm causes flooding, disrupting flights and train schedules.",
-      "published_at": "2026-10-28T08:07:26Z",
-      "region": "Ásia",
-      "theme": "Meio Ambiente e Clima",
-      "source_name": "Al Jazeera",
-      "source_id": "aljazeera_english",
-      "is_brazilian": false,
-      "image_url": null,
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "A U.S. cruise ship ends voyage due to fuel costs and passengers lose their homes",
-      "link": "https://www.npr.org/2026/10/28/nx-s1-6020180/us-cruise-ship-ends-voyage-passengers-lose-homes",
-      "summary": "The Odyssey set sail two years ago on a three-year voyage to the seven continents marketed as combining long-term living at sea with global travel.",
-      "published_at": "2026-10-28T07:57:51Z",
-      "region": "Global",
-      "theme": "Outros / Multitemático",
-      "source_name": "NPR World News",
-      "source_id": "npr",
-      "is_brazilian": false,
-      "image_url": null,
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Bloco de Netanyahu lidera apuração em Israel, mas sem maioria",
-      "link": "https://www.poder360.com.br/poder-internacional/bloco-de-netanyahu-lidera-apuracao-em-israel-mas-sem-maioria/",
-      "summary": "Com 76% das urnas apuradas, grupo do premiê tem 54 cadeiras; oposição soma 47 e partidos árabes, 19",
-      "published_at": "2026-10-28T07:52:35Z",
-      "region": "Oriente Médio",
-      "theme": "Política Brasileira",
-      "source_name": "Poder360",
-      "source_id": "poder360",
-      "is_brazilian": true,
-      "image_url": "https://static.poder360.com.br/uploads/2026/08/Benjamin-Netanyahu-9-ago-2026.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Elecciones en Israel en tres claves: Netanyahu aguanta, Eisenkot no suma y los árabes piden voz",
-      "link": "https://www.europapress.es/internacional/noticia-elecciones-israel-tres-claves-netanyahu-aguanta-eisenkot-no-suma-arabes-piden-voz-20261028081914.html",
-      "summary": "Israel tendrá que esperar aún para conocer quién será su primer ministro. El actual, Benjamin Netanyahu, ha conseguido resistir al envite de la ola de cambio que lideraba el antiguo jefe del Ejército Gadi Eisenkot, cuyo bloque no ha conseguido sumar el respaldo necesario para aproximarse a la mayoría de 61 escaños en la Knesset, mientras que los partidos árabe-israelíes han cosechado un resultado histórico y piden que se tenga en cuenta a una comunidad que representa el 20% de la población.",
-      "published_at": "2026-10-28T07:19:14Z",
-      "region": "Oriente Médio",
-      "theme": "Política Internacional",
-      "source_name": "Europa Press",
-      "source_id": "europa_press",
-      "is_brazilian": false,
-      "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20261028081914_120.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Argentina confirma la escala de Bolsonaro para tomar un vuelo privado hacia Ecuador en su huida a EEUU",
-      "link": "https://www.europapress.es/internacional/noticia-argentina-confirma-escala-bolsonaro-tomar-vuelo-privado-ecuador-huida-eeuu-20261028081130.html",
-      "summary": "La Dirección Nacional de Migraciones (DNM) de Argentina ha confirmado que el excandidato presidencial brasileño Flávio Bolsonaro y su familia ingresaron a territorio argentino a última hora del martes por la provincia de Misiones, desde donde tomaron poco después un vuelo privado con destino a la ciudad ecuatoriana de Guayaquil.",
-      "published_at": "2026-10-28T07:11:30Z",
-      "region": "América do Sul",
-      "theme": "Política Internacional",
-      "source_name": "Europa Press",
-      "source_id": "europa_press",
-      "is_brazilian": false,
-      "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20261028081130_120.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "🔴 Live: Israel election deadlock leaves Netanyahu and rival Eisenkot short of majority",
-      "link": "https://www.france24.com/en/middle-east/20261027-live-polls-open-in-first-israeli-election-since-october-7-attack",
-      "summary": "",
-      "published_at": "2026-10-28T06:27:07Z",
-      "region": "Oriente Médio",
-      "theme": "Política Internacional",
-      "source_name": "France 24",
-      "source_id": "france24",
-      "is_brazilian": false,
-      "image_url": null,
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Trump se atribuye la \"remontada\" de Netanyahu en las elecciones de Israel",
-      "link": "https://www.europapress.es/internacional/noticia-trump-atribuye-remontada-netanyahu-elecciones-israel-20261028072223.html",
-      "summary": "El presidente de Estados Unidos, Donald Trump, se ha atribuido este miércoles el cambio de tendencia en las elecciones legislativas de Israel, asegurando que su reciente respaldo público al primer ministro, Benjamin Netanyahu, ha evitado su derrota y ha propiciado una \"remontada\" del bloque conservador.",
-      "published_at": "2026-10-28T06:22:23Z",
-      "region": "Oriente Médio",
-      "theme": "Política Internacional",
-      "source_name": "Europa Press",
-      "source_id": "europa_press",
-      "is_brazilian": false,
-      "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20261028072223_120.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Kylian Mbappé apologises after Mao Zedong joke",
-      "link": "https://www.france24.com/en/tv-shows/sports/20261028-kylian-mbapp%C3%A9-had-to-apologise-after-mao-zedong-joke",
-      "summary": "Several major Chinese companies have ended their partnerships with Kylian Mbappé after he joked about former Chinese leader Mao Zedong. Mbappé has apologised, citing \"a deep respect for the Chinese people and their history\".",
-      "published_at": "2026-10-28T06:17:01Z",
-      "region": "Ásia",
-      "theme": "Outros / Multitemático",
-      "source_name": "France 24",
-      "source_id": "france24",
-      "is_brazilian": false,
-      "image_url": "https://s.france24.com/media/display/7d479a08-d273-11f1-9c5e-a7bbbeea0b20/w:1024/p:16x9/mbappe-4.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Delcy Rodríguez defiende que las elecciones en Venezuela sirvan para \"resolver problemas y no para convertirse en uno\"",
-      "link": "https://www.europapress.es/internacional/noticia-delcy-rodriguez-defiende-elecciones-venezuela-sirvan-resolver-problemas-no-convertirse-20261028055044.html",
-      "summary": "La presidenta encargada de Venezuela, Delcy Rodríguez, ha subrayado que los futuros procesos electorales que se celebren en el país deben estar orientados a \"resolver problemas\" y no a convertirse en un uno, apelando a la responsabilidad de los actores políticos en el marco de la mesa de diálogo entre el Gobierno y la oposición.",
-      "published_at": "2026-10-28T04:50:44Z",
-      "region": "América do Sul",
-      "theme": "Política Internacional",
-      "source_name": "Europa Press",
-      "source_id": "europa_press",
-      "is_brazilian": false,
-      "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20261028055044_120.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "King acknowledges 'suffering of the past' as Caribbean tour begins",
-      "link": "https://www.bbc.co.uk/news/articles/cmwyv8ld22z1o?at_medium=RSS&at_campaign=rss",
-      "summary": "The King is on a nine-day tour that will take him to three countries, including the Bahamas, Guyana and Antigua and Barbuda.",
-      "published_at": "2026-10-28T04:32:36Z",
-      "region": "América Central",
-      "theme": "Outros / Multitemático",
-      "source_name": "BBC World News",
-      "source_id": "bbc_world",
-      "is_brazilian": false,
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f0e4/live/7d77ba00-d249-11f1-8ba3-9fd3e261415f.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Watch: What happens now after close vote in Israeli election?",
-      "link": "https://www.bbc.co.uk/news/videos/cm79p5pxqey2o?at_medium=RSS&at_campaign=rss",
-      "summary": "Polls have closed in the Israeli election, but there is no clear winner.",
-      "published_at": "2026-10-28T04:22:59Z",
-      "region": "Oriente Médio",
-      "theme": "Política Internacional",
-      "source_name": "BBC World News",
-      "source_id": "bbc_world",
-      "is_brazilian": false,
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5351/live/42654eb0-d29d-11f1-a701-fddedf244c16.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Trump anuncia el fin de los controles de metano de la era Biden para \"abaratar\" la energía en EEUU",
-      "link": "https://www.europapress.es/internacional/noticia-trump-anuncia-fin-controles-metano-era-biden-abaratar-energia-eeuu-20261028051259.html",
-      "summary": "El presidente de Estados Unidos, Donald Trump, ha anunciado este martes la anulación formal de las normativas sobre emisiones de metano impuestas por su predecesor, Joe Biden, una medida con la que busca recortar costes a los productores, desbloquear reservas de gas natural y calmar el descontento de los votantes por el encarecimiento de la energía de cara a las próximas elecciones de mitad de mandato, que se celebrarán el próximo martes.",
-      "published_at": "2026-10-28T04:12:59Z",
-      "region": "América do Norte",
-      "theme": "Política Internacional",
-      "source_name": "Europa Press",
-      "source_id": "europa_press",
-      "is_brazilian": false,
-      "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20261028051259_120.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "María Corina Machado se reúne con más de un centenar de familiares de presos políticos tras su regreso a Venezuela",
-      "link": "https://www.europapress.es/internacional/noticia-maria-corina-machado-reune-mas-centenar-familiares-presos-politicos-regreso-venezuela-20261028043137.html",
-      "summary": "La líder opositora venezolana María Corina Machado ha mantenido un encuentro con más de un centenar de familiares de presos políticos, representantes de organizaciones de derechos humanos y víctimas de la represión, en el marco de sus primeras actividades tras su retorno a territorio venezolano después de diez meses en el extranjero.",
-      "published_at": "2026-10-28T03:31:37Z",
-      "region": "América do Sul",
-      "theme": "Direito Internacional e Instituições",
-      "source_name": "Europa Press",
-      "source_id": "europa_press",
-      "is_brazilian": false,
-      "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20261028043137_120.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1505664194779-8beaceb93744?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Flávio Bolsonaro chega aos EUA e governo Trump diz que lhe dará visto; as notícias dessa 3ªf",
-      "link": "https://www.bbc.co.uk/portuguese/live/c6x2v49yvrygt?at_medium=RSS&at_campaign=rss",
-      "summary": "Fontes confirmaram à BBC que o senador deixou o Brasil e está em solo americano; ministro Alexandre de Moraes, do STF, havia ordenado que o senador entregasse seus passaportes e proibido que ele saísse do Brasil; acompanhe também a reação dos mercados após vitória de Lula para um quarto mandato e todas as notícias desta terça-feira.",
-      "published_at": "2026-10-28T03:10:34.113702Z",
-      "region": "América do Norte",
-      "theme": "Política Brasileira",
-      "source_name": "BBC News Brasil",
-      "source_id": "bbc_brasil",
-      "is_brazilian": true,
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b4e/live/4ea598f0-d253-11f1-b6ed-51fc9a3ab608.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "La petrolera Nabep envía a Texas su primer cargamento de crudo venezolano tras el acuerdo con EEUU",
-      "link": "https://www.europapress.es/internacional/noticia-petrolera-nabep-envia-texas-primer-cargamento-crudo-venezolano-acuerdo-eeuu-20261028040933.html",
-      "summary": "La compañía petrolera North American Blue Energy Partners (Nabep), liderada por el empresario venezolano Alejandro Betancourt, ha anunciado la llegada de su primer cargamento de crudo a Estados Unidos, consistente en un millón de barriles distribuidos en dos petroleros que ya han atracado en el puerto de Corpus Christi, en Texas.",
-      "published_at": "2026-10-28T03:09:33Z",
-      "region": "América do Norte",
-      "theme": "Direito Internacional e Instituições",
-      "source_name": "Europa Press",
-      "source_id": "europa_press",
-      "is_brazilian": false,
-      "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20261028040933_120.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1505664194779-8beaceb93744?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Rights groups oppose UAE’s Lana Nusseibeh for UN chief over Sudan claims",
-      "link": "https://www.france24.com/en/americas/20261028-lana-nusseibeh-un-chief-uae-sudan-rights-groups",
-      "summary": "Human rights groups on Tuesday urged countries to reject UAE diplomat Lana Nusseibeh’s bid to become United Nations secretary general citing allegations that Abu Dhabi funds Sudan’s paramilitary Rapid Support Forces. The UAE denies the accusations. Nusseibeh, 48, is seeking to become the first woman to lead the UN.",
-      "published_at": "2026-10-28T02:56:59Z",
-      "region": "África",
-      "theme": "Direito Internacional e Instituições",
-      "source_name": "France 24",
-      "source_id": "france24",
-      "is_brazilian": false,
-      "image_url": "https://s.france24.com/media/display/ddd14ba6-d284-11f1-86b8-efcc5769f1db/w:1024/p:16x9/2026-10-27T223751Z-1217152200-RC2YBOA6HWDN-RTRMADP-3-UN-SECRETARYGENERAL-EMIRATES.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1505664194779-8beaceb93744?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Mega-Sena volta a acumular e prêmio vai a R$ 320 milhões",
-      "link": "https://www.poder360.com.br/poder-brasil/mega-sena-volta-a-acumular-e-premio-vai-a-r-320-milhoes/",
-      "summary": "O próximo concurso será na 4ª feira (28.out); a Caixa realiza a Mega Semana da Mega-Sena, com 5 sorteios consecutivos",
-      "published_at": "2026-10-28T02:35:30Z",
-      "region": "América do Sul",
-      "theme": "Outros / Multitemático",
-      "source_name": "Poder360",
-      "source_id": "poder360",
-      "is_brazilian": true,
-      "image_url": "https://static.poder360.com.br/uploads/2026/07/mega-sena-1536x864-1.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Aliados de Flávio Bolsonaro reconhecem derrota para Lula",
-      "link": "https://www.dw.com/pt-br/aliados-de-flávio-bolsonaro-reconhecem-derrota-para-lula/a-79782287?maca=bra-rss-br-all-1030-rdf",
-      "summary": "Governador Tarcísio de Freitas e Alfredo Gaspar, candidato a vice na chapa de Flávio, agradeceram eleitores e reconheceram desfecho. \"A eleição passou”, diz governador de SP. Publicações não mencionam paradeiro de Flávio",
-      "published_at": "2026-10-28T02:30:00Z",
-      "region": "América do Sul",
-      "theme": "Política Internacional",
-      "source_name": "DW Brasil",
-      "source_id": "dw_brasil",
-      "is_brazilian": false,
-      "image_url": "https://static.dw.com/image/79752494_6.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Comboio deixou casa de Flávio na noite anterior à sua saída do Brasil",
-      "link": "https://www.poder360.com.br/poder-justica/comboio-deixou-casa-de-flavio-na-noite-anterior-a-sua-saida-do-brasil/",
-      "summary": "Quatro carros saíram da residência às 19h42 e seguiram por caminhos diferentes; não se sabe se o senador ou familiares estavam nos veículos",
-      "published_at": "2026-10-28T02:29:44Z",
-      "region": "América do Sul",
-      "theme": "Política Brasileira",
-      "source_name": "Poder360",
-      "source_id": "poder360",
-      "is_brazilian": true,
-      "image_url": "https://static.poder360.com.br/uploads/2026/10/carros-saindo-da-casa-de-flavio-26.out_.2026-1200x675.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Empresários dizem que vão demitir funcionários que votaram em Lula",
-      "link": "https://www.poder360.com.br/poder-eleicoes-2026/empresarios-dizem-que-vao-demitir-funcionarios-que-votaram-em-lula/",
-      "summary": "Publicações nas redes sociais incentivam dispensas por preferência política; prática é considerada discriminatória pela legislação trabalhista",
-      "published_at": "2026-10-28T02:28:14Z",
-      "region": "América do Sul",
-      "theme": "Política Brasileira",
-      "source_name": "Poder360",
-      "source_id": "poder360",
-      "is_brazilian": true,
-      "image_url": "https://static.poder360.com.br/uploads/2026/10/debate-band-lula-flavio-1200x675.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Netanyahu: Coalition with Arab parties would be ‘shameful’",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/28/netanyahu-coalition-with-arab-parties-would-be?traffic_source=rss",
-      "summary": "Netanyahu has called the prospect of working with Arab parties to form a government ‘a disgrace and a shame’.",
-      "published_at": "2026-10-28T02:26:27Z",
-      "region": "Oriente Médio",
-      "theme": "Política Internacional",
-      "source_name": "Al Jazeera",
-      "source_id": "aljazeera_english",
-      "is_brazilian": false,
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/10/Screenshot-2026-10-28-at-02.20.52-1793154228.png?resize=1200%2C675",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Israel vai às urnas, e legado do 7 de outubro pode definir se Netanyahu terá seu sétimo mandato",
-      "link": "https://www.bbc.com/portuguese/articles/cm4g1qpnkv11o?at_medium=RSS&at_campaign=rss",
-      "summary": "Muitos temem que nenhum dos principais blocos políticos consiga cadeiras suficientes para formar maioria, o que significa que semanas ou meses de disputas políticas podem estar por vir.",
-      "published_at": "2026-10-28T02:20:36Z",
-      "region": "Oriente Médio",
-      "theme": "Outros / Multitemático",
-      "source_name": "BBC News Brasil",
-      "source_id": "bbc_brasil",
-      "is_brazilian": true,
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9543/live/7b21c3e0-d1cc-11f1-837e-832a94a7445c.png",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Alexander brothers each sentenced to 30 years in prison in sex trafficking case",
-      "link": "https://www.bbc.co.uk/news/articles/cqn498mng08ro?at_medium=RSS&at_campaign=rss",
-      "summary": "The trio - two of whom were high-profile US real estate moguls - were found guilty using their social status to lure women to parties and then raping them.",
-      "published_at": "2026-10-28T02:20:25Z",
-      "region": "América do Norte",
-      "theme": "Outros / Multitemático",
-      "source_name": "BBC World News",
-      "source_id": "bbc_world",
-      "is_brazilian": false,
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c228/live/e6371090-d249-11f1-8ba3-9fd3e261415f.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Apoiadores exaltam trajetória de Lula no seu aniversário de 81 anos",
-      "link": "https://www.poder360.com.br/poder-eleicoes-2026/apoiadores-exaltam-trajetoria-de-lula-no-seu-aniversario-de-81-anos/",
-      "summary": "Petista comemorou a data nesta 3ª feira (27.out), no Palácio da Alvorada, e distribuiu bolo entre a militância",
-      "published_at": "2026-10-28T02:10:59Z",
-      "region": "América do Sul",
-      "theme": "Política Brasileira",
-      "source_name": "Poder360",
-      "source_id": "poder360",
-      "is_brazilian": true,
-      "image_url": "https://static.poder360.com.br/uploads/2026/10/apoiadora-lula-alvorada-1200x675.png",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Flávio Bolsonaro arrives in Florida after fleeing Brazil",
-      "link": "https://www.npr.org/2026/10/27/nx-s1-6019678/u-s-to-issue-visas-to-flavio-bolsonaro-as-his-whereabouts-remain-unclear",
-      "summary": "Brazil's defeated candidate Flávio Bolsonaro arrives in the U.S. after a multi-country journey as Washington says it will issue him a visa.",
-      "published_at": "2026-10-28T01:58:08Z",
-      "region": "América do Sul",
-      "theme": "Política Internacional",
-      "source_name": "NPR World News",
-      "source_id": "npr",
-      "is_brazilian": false,
-      "image_url": null,
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "U.S. to issue visas to Flávio Bolsonaro as his whereabouts remain unclear",
-      "link": "https://www.npr.org/2026/10/27/nx-s1-6019678/u-s-to-issue-visas-to-flavio-bolsonaro-as-his-whereabouts-remain-unclear",
-      "summary": "Flávio Bolsonaro leaves Brazil for the U.S. amid a money-laundering probe, as Washington agrees to issue visas to him and his family.",
-      "published_at": "2026-10-28T01:58:08Z",
-      "region": "América do Norte",
-      "theme": "Política Internacional",
-      "source_name": "NPR World News",
-      "source_id": "npr",
-      "is_brazilian": false,
-      "image_url": null,
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Nikolas critica Pedro Rousseff por pedir apreensão de seu passaporte",
-      "link": "https://www.poder360.com.br/poder-congresso/nikolas-critica-pedro-rousseff-por-pedir-apreensao-de-seu-passaporte/",
-      "summary": "Deputado diz que pedido busca dar visibilidade ao sobrinho da ex-presidente Dilma Rousseff",
-      "published_at": "2026-10-28T01:53:32Z",
-      "region": "América do Sul",
-      "theme": "Política Brasileira",
-      "source_name": "Poder360",
-      "source_id": "poder360",
-      "is_brazilian": true,
-      "image_url": "https://static.poder360.com.br/uploads/2026/09/nikolas-ferreira-x-1200x675.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
       ]
     }
   ]
