@@ -1,6 +1,822 @@
 {
-  "updated_at": "2026-11-02T21:07:42.760127Z",
+  "updated_at": "2026-11-03T03:12:10.925464Z",
   "news": [
+    {
+      "title": "Man and boy arrested after allegedly attacking One Nation volunteer with baseball bat in Australia",
+      "link": "https://www.bbc.co.uk/news/articles/cwly3jd27m9xo?at_medium=RSS&at_campaign=rss",
+      "summary": "The incident comes amid growing calls for the temperature of political debate in Australia to be turned down.",
+      "published_at": "2026-11-03T03:11:16Z",
+      "region": "Oceania",
+      "theme": "Outros / Multitemático",
+      "source_name": "BBC World News",
+      "source_id": "bbc_world",
+      "is_brazilian": false,
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a969/live/dd51e9c0-d729-11f1-9b56-c9b433d51ba8.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Trump to remove Rwanda and South Africa from US trade deal",
+      "link": "https://www.bbc.co.uk/news/articles/c9j346xg0mkvo?at_medium=RSS&at_campaign=rss",
+      "summary": "The move comes barely a week after Rwanda's defence ministry was hit with sanctions by the US Treasury.",
+      "published_at": "2026-11-03T03:00:36Z",
+      "region": "América do Norte",
+      "theme": "Política Internacional",
+      "source_name": "BBC World News",
+      "source_id": "bbc_world",
+      "is_brazilian": false,
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e727/live/e5cde5c0-d6ef-11f1-ae42-99a80c72db9e.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "U.S. strikes Iranian targets in Strait of Hormuz, U.S. official tells AP",
+      "link": "https://www.pbs.org/newshour/world/u-s-strikes-iranian-targets-in-strait-of-hormuz-u-s-official-tells-ap",
+      "summary": "A U.S. official says the U.S. has conducted defensive strikes on some Iranian targets in the Strait of Hormuz. Iranian state television reported that explosions were heard on Qeshm Island.",
+      "published_at": "2026-11-03T02:59:26Z",
+      "region": "Oriente Médio",
+      "theme": "Outros / Multitemático",
+      "source_name": "PBS NewsHour",
+      "source_id": "pbs_newshour",
+      "is_brazilian": false,
+      "image_url": "https://d3i6fh83elv35t.cloudfront.net/static/2026/11/2026-08-14T135207Z_2024186339_RC2DYMAS9U9B_RTRMADP_3_IRAN-CRISIS-SHIPPING-SPILLS-1024x741.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "US strikes Iran's Qeshm Island as Trump signals progress in talks",
+      "link": "https://www.france24.com/en/middle-east/20261103-us-strikes-iran-qeshm-island-as-trump-signals-progress-in-talks",
+      "summary": "The United States reportedly struck Iran's Qeshm Island on Monday, even as President Donald Trump signalled progress in negotiations with Tehran to end the eight-month-old conflict. The reported attack was the latest in a series of limited strikes Washington has secretly carried out in recent weeks.",
+      "published_at": "2026-11-03T02:28:07Z",
+      "region": "América do Norte",
+      "theme": "Política Internacional",
+      "source_name": "France 24",
+      "source_id": "france24",
+      "is_brazilian": false,
+      "image_url": "https://s.france24.com/media/display/3748a8b2-a186-11f1-a403-005056bfb2b6/w:1024/p:16x9/AP26225375678305.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "US urges Venezuela to follow phased plan for democratic transition",
+      "link": "https://www.aljazeera.com/news/2026/11/3/us-urges-venezuela-to-follow-phased-plan-for-democratic-transition?traffic_source=rss",
+      "summary": "This comes as leading opposition leader returns to Venezuela and hints at criticism of Trump administration.",
+      "published_at": "2026-11-03T02:27:51Z",
+      "region": "América do Norte",
+      "theme": "Política Internacional",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": null,
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Explosions hit Iran’s Qeshm Island as US media report US strikes in Hormuz",
+      "link": "https://www.aljazeera.com/news/2026/11/3/explosions-hit-irans-qeshm-island-as-us-media-report-us-strikes-in-hormuz?traffic_source=rss",
+      "summary": "Several explosions heard in Qeshm Island and Bandar Lengeh as US media say the US military had carried out the strikes.",
+      "published_at": "2026-11-03T02:25:02Z",
+      "region": "América do Norte",
+      "theme": "Geopolítica e Segurança",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": null,
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Thousands displaced as homes are bulldozed in India’s Assam state",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/3/thousands-displaced-as-homes-are-bulldozed-in-indias-assam-state?traffic_source=rss",
+      "summary": "Hundreds of homes have been bulldozed in the Dhubri district of Assam state in northeastern India.",
+      "published_at": "2026-11-03T02:15:39Z",
+      "region": "Ásia",
+      "theme": "Outros / Multitemático",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": null,
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Janones convoca argentinos para vencer Milei; assista ao vídeo",
+      "link": "https://www.poder360.com.br/poder-eleicoes/janones-convoca-argentinos-para-vencer-milei-assista-ao-video/",
+      "summary": "Deputado encontrou Sergio Massa para apoiar oposição argentina com estratégias digitais da campanha de Lula",
+      "published_at": "2026-11-03T02:13:27Z",
+      "region": "América do Sul",
+      "theme": "Política Brasileira",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2026/11/Janones-convoca-argentinos-contra-Milei-2-nov-2026-1200x675.png",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "US lawmakers ask Trump administration to stop deportation of Afghans",
+      "link": "https://www.aljazeera.com/news/2026/11/3/us-lawmakers-ask-trump-administration-to-stop-deportation-of-afghans?traffic_source=rss",
+      "summary": "At least 150 Afghans are facing deportation to Pakistan and on to Afghanistan.",
+      "published_at": "2026-11-03T02:12:33Z",
+      "region": "América do Norte",
+      "theme": "Política Internacional",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": null,
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Russian bombing kills 26 people at Ukraine aid centre, Kyiv says",
+      "link": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&at_campaign=rss",
+      "summary": "Officials say at least nine 3,000kg aerial bombs hit a southern Ukrainian village in what the president called an \"utterly horrific\" attack.",
+      "published_at": "2026-11-03T01:56:27Z",
+      "region": "Europa",
+      "theme": "Geopolítica e Segurança",
+      "source_name": "BBC World News",
+      "source_id": "bbc_world",
+      "is_brazilian": false,
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee1e/live/8480acc0-d6eb-11f1-a741-236ee91c2e25.png",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "EUA atacam a ilha iraniana de Qeshm, no estreito de Ormuz",
+      "link": "https://www.poder360.com.br/poder-internacional/eua-atacam-a-ilha-iraniana-de-qeshm-no-estreito-de-ormuz/",
+      "summary": "Ofensiva integra estratégia de ataques de menor escala e sem anúncio público de Washington",
+      "published_at": "2026-11-03T01:45:29Z",
+      "region": "América do Norte",
+      "theme": "Outros / Multitemático",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2026/11/ilha-ira-1200x675.png",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "European force to hold first Ukraine support exercise in Poland",
+      "link": "https://www.france24.com/en/europe/20261103-european-force-to-hold-first-ukraine-support-exercise-in-poland",
+      "summary": "Around 2,800 troops from 10 European countries will take part in a military exercise in southeastern Poland from November 9 to 22, testing a multinational force designed to support Ukraine after a potential ceasefire. Led by France and Britain, the force aims to bolster Ukraine's security without taking on an offensive role.",
+      "published_at": "2026-11-03T01:43:00Z",
+      "region": "Europa",
+      "theme": "Geopolítica e Segurança",
+      "source_name": "France 24",
+      "source_id": "france24",
+      "is_brazilian": false,
+      "image_url": "https://s.france24.com/media/display/3c45eeb4-d724-11f1-9971-d18c5759e759/w:1024/p:16x9/AP26258377621895.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Janones se reúne com Kirchner e leva estratégia digital à Argentina",
+      "link": "https://www.poder360.com.br/poder-internacional/janones-se-reune-com-kirchner-e-leva-estrategia-digital-a-argentina/",
+      "summary": "Deputado também se encontrou com Sergio Massa para compartilhar estratégias digitais usadas na campanha de reeleição de Lula",
+      "published_at": "2026-11-03T01:40:37Z",
+      "region": "América do Sul",
+      "theme": "Política Brasileira",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2026/11/Design-sem-nome-85-1200x675.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "North Korea denies being behind record $6.3bn Binance hack",
+      "link": "https://www.bbc.co.uk/news/articles/c6rey4v53exgo?at_medium=RSS&at_campaign=rss",
+      "summary": "US government agencies and cyber analysts have blamed Pyongyang for the record-breaking heist.",
+      "published_at": "2026-11-03T01:23:03Z",
+      "region": "Ásia",
+      "theme": "Política Internacional",
+      "source_name": "BBC World News",
+      "source_id": "bbc_world",
+      "is_brazilian": false,
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7a90/live/75145840-d727-11f1-b237-93d5595d4291.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Exército mobiliza mais de 1.200 militares em exercício no RJ",
+      "link": "https://www.poder360.com.br/poder-seguranca-publica/exercito-mobiliza-mais-de-1-200-militares-em-exercicio-no-rj/",
+      "summary": "Manobra Escolar 2026 reúne 140 viaturas e 4 aeronaves em atividades de treinamento em 4 municípios do Sul Fluminense",
+      "published_at": "2026-11-03T01:19:06Z",
+      "region": "América do Sul",
+      "theme": "Geopolítica e Segurança",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2026/11/Manobra-Escolar-2026-864x675.jpeg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Russian strikes kill 26 in Ukraine after longest ceasefire ends",
+      "link": "https://www.france24.com/en/europe/20261103-russian-strikes-kill-26-in-ukraine-after-longest-ceasefire-ends",
+      "summary": "Russia killed at least 26 people in strikes on a village in southern Ukraine on Monday, including civilians collecting humanitarian aid, emergency workers and police officers. The attack came hours after a rare ceasefire ended, extinguishing hopes of progress towards peace.",
+      "published_at": "2026-11-03T01:18:44Z",
+      "region": "Europa",
+      "theme": "Geopolítica e Segurança",
+      "source_name": "France 24",
+      "source_id": "france24",
+      "is_brazilian": false,
+      "image_url": "https://s.france24.com/media/display/77d61602-d701-11f1-8594-d18c5759e759/w:1024/p:16x9/c83c0482d49f8575fc0b65f32d551aa79b4d413b.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Multiple Russian strikes kill at least 26 at Ukraine aid centre",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/3/multiple-russian-strikes-kill-at-least-26-at-ukraine-aid-centre?traffic_source=rss",
+      "summary": "At least 26 people were killed in Russian strikes on a school being used as a humanitarian aid centre.",
+      "published_at": "2026-11-03T01:17:57Z",
+      "region": "Europa",
+      "theme": "Outros / Multitemático",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": null,
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Trump makes final midterms pitch at Lincoln Memorial Reflecting Pool",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/3/trump-makes-final-midterms-pitch-at-lincoln-memorial-reflecting-pool?traffic_source=rss",
+      "summary": "US President Donald Trump urged supporters to turn out ahead of Election Day",
+      "published_at": "2026-11-03T01:01:16Z",
+      "region": "América do Norte",
+      "theme": "Política Internacional",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": null,
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Ebola outbreak kills more than 5,300 people in DR Congo",
+      "link": "https://www.aljazeera.com/news/2026/11/3/ebola-outbreak-kills-more-than-5300-people-in-dr-congo?traffic_source=rss",
+      "summary": "The Bundibugyo strain has spread to Kenya and Uganda, while two in Nigeria returned negative results.",
+      "published_at": "2026-11-03T00:50:38Z",
+      "region": "África",
+      "theme": "Saúde",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": null,
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1584515901367-f1c2a12a50ea?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1505751172876-fa1923c5c528?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1584036561566-baf2418a7c21?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Plane may have broken apart ahead of deadly Florida jet crash, say investigators",
+      "link": "https://www.bbc.co.uk/news/articles/cm369yy7lw73o?at_medium=RSS&at_campaign=rss",
+      "summary": "The National Transportation Safety Board also believes weather could have been a factor in the crash, but warns it is too early to determine the cause.",
+      "published_at": "2026-11-03T00:08:14Z",
+      "region": "Global",
+      "theme": "Outros / Multitemático",
+      "source_name": "BBC World News",
+      "source_id": "bbc_world",
+      "is_brazilian": false,
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b940/live/17a71660-d714-11f1-b19c-4d0080e30e42.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Thousands of European troops to rehearse Ukraine deployment in event of peace",
+      "link": "https://www.bbc.co.uk/news/articles/cm3wv085ne6po?at_medium=RSS&at_campaign=rss",
+      "summary": "Western officials stress that any force sent to Ukraine would not take part in any offensive operations.",
+      "published_at": "2026-11-03T00:07:05Z",
+      "region": "Europa",
+      "theme": "Outros / Multitemático",
+      "source_name": "BBC World News",
+      "source_id": "bbc_world",
+      "is_brazilian": false,
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4086/live/4322ff00-d6f3-11f1-93e1-3b657b665bcf.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Iran war live: US carries out ‘defensive’ strikes in Strait of Hormuz",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/11/3/iran-war-live-vance-sees-progress-in-talks-tehran-says-ball-in-us-court?traffic_source=rss",
+      "summary": "US forces target Iranian positions in the Strait of Hormuz in \"defensive\" strikes following missile threats.",
+      "published_at": "2026-11-03T00:00:00Z",
+      "region": "América do Norte",
+      "theme": "Geopolítica e Segurança",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": null,
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "North Korea rejects US allegations over $6 billion Binance crypto heist",
+      "link": "https://www.france24.com/en/asia-pacific/20261102-north-korea-rejects-us-allegations-over-6-billion-binance-crypto-heist",
+      "summary": "North Korea on Tuesday dismissed US allegations that it was behind a $6 billion cryptocurrency theft from Binance as \"absurd rhetoric\", accusing Washington of seeking to portray the country as a cybercriminal state and warning that US hostility could affect future diplomatic engagement.",
+      "published_at": "2026-11-02T23:49:10Z",
+      "region": "América do Norte",
+      "theme": "Outros / Multitemático",
+      "source_name": "France 24",
+      "source_id": "france24",
+      "is_brazilian": false,
+      "image_url": "https://s.france24.com/media/display/8f8ad8a0-cdb0-11f1-9dd8-4da0d2c6855d/w:1024/p:16x9/2026-10-08T042855Z-1116982708-RC2SYNASEWEO-RTRMADP-3-NORTHKOREA-SOUTHKOREA-1.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Zelenskyy on his 'emotional' relationship with Trump and fighting Russia",
+      "link": "https://www.pbs.org/newshour/show/zelenskyy-on-his-emotional-relationship-with-trump-and-fighting-russia",
+      "summary": "A Russian strike on an aid station and shelter killed at least 26 people in southern Ukraine on Monday. It was the latest in an unceasing series of Russian attacks on Ukrainian cities and the civilians living there. Before the bombing, Amna Nawaz spoke with Ukrainian President Volodymyr Zelenskyy as the war remains at a stalemate both on the battlefield and at the negotiating table.",
+      "published_at": "2026-11-02T23:45:25Z",
+      "region": "Europa",
+      "theme": "Política Internacional",
+      "source_name": "PBS NewsHour",
+      "source_id": "pbs_newshour",
+      "is_brazilian": false,
+      "image_url": "https://d3i6fh83elv35t.cloudfront.net/static/2026/11/6pm-Broadcast-CR1-6_16_39-pm-2026-11-02-1024x576.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "El Supremo de EEUU rechaza la petición de la Administración Trump para apartar 20.000 votos en California",
+      "link": "https://www.europapress.es/internacional/noticia-supremo-eeuu-rechaza-peticion-administracion-trump-apartar-20000-votos-california-20261103004321.html",
+      "summary": "El Tribunal Supremo de Estados Unidos ha rechazado la solicitud de urgencia presentada por el Gobierno de Estados Unidos, liderado por Donald Trump, para obligar al estado de California a separar y no contabilizar de forma preventiva cerca de 20.000 votos por correo correspondientes a electores a los que la Administración federal señalaba como posibles \"no ciudadanos\", de cara a las próximas elecciones de medio mandato que se celebran este martes en el país.",
+      "published_at": "2026-11-02T23:43:21Z",
+      "region": "América do Norte",
+      "theme": "Política Internacional",
+      "source_name": "Europa Press",
+      "source_id": "europa_press",
+      "is_brazilian": false,
+      "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20261103004321_120.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "War, tariffs and China: What the US midterms mean for the Asia-Pacific",
+      "link": "https://www.aljazeera.com/news/2026/11/2/war-tariffs-and-china-what-the-us-midterms-mean-for-the-asia-pacific?traffic_source=rss",
+      "summary": "Hit hard by Trump's tariffs and the war on Iran, countries in the Asia-Pacific want 'enormous changes' in US policies.",
+      "published_at": "2026-11-02T23:41:18Z",
+      "region": "Ásia",
+      "theme": "Geopolítica e Segurança",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": null,
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Advocates warn Afghans deported by U.S. will face 'certain death' under Taliban",
+      "link": "https://www.pbs.org/newshour/show/advocates-warn-afghans-deported-by-u-s-will-face-certain-death-under-taliban",
+      "summary": "The Trump administration is preparing to deport at least 150 Afghans over the next 48 hours, first to Pakistan and then to Taliban-controlled Afghanistan. Many of those facing deportation are relatives of those who worked alongside the United States. They could face severe retaliation from the Taliban upon their return. Nick Schifrin discussed more with Shawn VanDiver of Afghan Evac.",
+      "published_at": "2026-11-02T23:40:28Z",
+      "region": "América do Norte",
+      "theme": "Política Internacional",
+      "source_name": "PBS NewsHour",
+      "source_id": "pbs_newshour",
+      "is_brazilian": false,
+      "image_url": "https://d3i6fh83elv35t.cloudfront.net/static/2026/11/afghanistan-1024x680.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Legal challenge to Australia's social media ban to start in High Court",
+      "link": "https://www.bbc.co.uk/news/articles/ck79py02p1jlo?at_medium=RSS&at_campaign=rss",
+      "summary": "A rights group will argue the world-leading policy robs under-16s of their right to free communication.",
+      "published_at": "2026-11-02T23:37:31Z",
+      "region": "Oceania",
+      "theme": "Outros / Multitemático",
+      "source_name": "BBC World News",
+      "source_id": "bbc_world",
+      "is_brazilian": false,
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7af5/live/6a1bb4a0-d67e-11f1-ac3d-edfeb9f7d0aa.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Supreme Court rejects Trump bid to block 20,000 California ballots",
+      "link": "https://www.dw.com/en/supreme-court-rejects-trump-bid-to-block-20-000-california-ballots/a-79833739?maca=en-rss-en-world-4025-rdf",
+      "summary": "The Trump administration had appealed to the Supreme Court over claims that a list of more than 20,000 ballots in California include non-US citizens.",
+      "published_at": "2026-11-02T23:18:00Z",
+      "region": "América do Norte",
+      "theme": "Política Internacional",
+      "source_name": "DW World News",
+      "source_id": "dw_english",
+      "is_brazilian": false,
+      "image_url": "https://static.dw.com/image/79833931_6.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Trump approval rating near record low on eve of US midterm elections: Poll",
+      "link": "https://www.aljazeera.com/news/2026/11/2/trump-approval-rating-near-record-low-on-eve-of-us-midterm-elections-poll?traffic_source=rss",
+      "summary": "Only 32 percent of voters approve of Trump's job performance in the latest Reuters/Ipsos poll.",
+      "published_at": "2026-11-02T23:05:30Z",
+      "region": "América do Norte",
+      "theme": "Política Internacional",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": null,
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Powerful storm tears through beach resort on Italy’s southern coast",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/2/powerful-storm-tears-through-beach-resort-on-italys-southern-coast?traffic_source=rss",
+      "summary": "Surveillance footage captured the moment a tornado ripped through a beach resort restaurant in Castellaneta Marina",
+      "published_at": "2026-11-02T22:59:41Z",
+      "region": "Europa",
+      "theme": "Meio Ambiente e Clima",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": null,
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Como foi o El Niño histórico de 1877, quando passagem do fenômeno se tornou um desastre global",
+      "link": "https://www.bbc.com/portuguese/watch/cr9dz8gvn0j4o?at_medium=RSS&at_campaign=rss",
+      "summary": "Fenômeno contribuiu para a morte de 50 milhões de pessoas, 3% da população mundial na época, e traz ensinamentos para a passagem atual.",
+      "published_at": "2026-11-02T22:46:46Z",
+      "region": "América do Sul",
+      "theme": "Meio Ambiente e Clima",
+      "source_name": "BBC News Brasil",
+      "source_id": "bbc_brasil",
+      "is_brazilian": true,
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2fac/live/dbc3e2a0-d71c-11f1-b723-458a2ded4fa2.png",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "US midterms 2026: What polls reveal about Democratic, Republican voters",
+      "link": "https://www.aljazeera.com/news/2026/11/2/us-midterms-2026-what-polls-reveal-about-democratic-republican-voters?traffic_source=rss",
+      "summary": "From the economy and cost of living to immigration, polls suggest where American voters agree and disagree.",
+      "published_at": "2026-11-02T22:40:06Z",
+      "region": "América do Norte",
+      "theme": "Outros / Multitemático",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": null,
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Emergency alerts hacking 'designed to undermine trust in government', expert says",
+      "link": "https://www.france24.com/en/tv-shows/a-propos/20261102-emergency-alerts-hacking-designed-to-undermine-trust-in-government-expert-says",
+      "summary": "Emergency alert systems in Russia and Ukraine were hit in cyber attacks overnight, with fake warnings of possible nuclear strikes broadcast to users in both countries. The systems have since been brought back under control, though much remains unclear about the attacks, including who was responsible. FRANCE 24's Sharon Gaffney speaks with Dr Melanie Garson, Associate Professor in International Security at University College London. She says that these kind of attacks \"are designed to undermine faith in the government's ability to provide trust\".",
+      "published_at": "2026-11-02T22:30:09Z",
+      "region": "Europa",
+      "theme": "Política Internacional",
+      "source_name": "France 24",
+      "source_id": "france24",
+      "is_brazilian": false,
+      "image_url": "https://s.france24.com/media/display/ea04afee-d707-11f1-b1d9-1beafce15fea/w:1024/p:16x9/EN-20261102-223118-224510-CS.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Merz defende que Alemanha tenha primeira presidente mulher",
+      "link": "https://www.dw.com/pt-br/merz-defende-que-alemanha-tenha-primeira-presidente-mulher/a-79834919?maca=bra-rss-br-all-1030-rdf",
+      "summary": "Chanceler federal alemão diz que possível sucessora de Frank-Walter Steinmeier deve vir de seu partido. Se eleita, candidata seria a primeira a ocupar a presidência em 77 anos de República Federal.",
+      "published_at": "2026-11-02T22:23:00Z",
+      "region": "Europa",
+      "theme": "Política Internacional",
+      "source_name": "DW Brasil",
+      "source_id": "dw_brasil",
+      "is_brazilian": false,
+      "image_url": "https://static.dw.com/image/79831388_6.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Cinco explosiones sacuden la isla iraní de Qeshm, en el golfo Pérsico",
+      "link": "https://www.europapress.es/internacional/noticia-cinco-explosiones-sacuden-isla-irani-qeshm-golfo-persico-20261102231526.html",
+      "summary": "Este lunes se han producido cinco explosiones en la isla de Queshm, en la parte norte del estrecho de Ormuz, en el lado iraní, según ha informado la agencia de noticias oficial iraní, IRNA.",
+      "published_at": "2026-11-02T22:15:26Z",
+      "region": "Europa",
+      "theme": "Outros / Multitemático",
+      "source_name": "Europa Press",
+      "source_id": "europa_press",
+      "is_brazilian": false,
+      "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20261102231526_120.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Leia a íntegra do documento sobre política fiscal de Lula",
+      "link": "https://www.poder360.com.br/poder-integras/leia-a-integra-do-documento-sobre-politica-fiscal-de-lula/",
+      "summary": "Texto de José Sérgio Gabrielli defende corte de juros sem impor austeridade e apoia tese de André Lara Resende",
+      "published_at": "2026-11-02T22:14:16Z",
+      "region": "América do Sul",
+      "theme": "Política Brasileira",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2026/06/Gabrielli-Petrobras-12mar2015.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Apple bate recordes e atinge receita trimestral de US$ 114,5 bi",
+      "link": "https://www.poder360.com.br/poder-tech/apple-bate-recordes-e-atinge-receita-trimestral-de-us-1145-bi/",
+      "summary": "Empresa atribui resultado ao desempenho de vendas do iPhone, que teve recorde para um único semestre",
+      "published_at": "2026-11-02T22:12:48Z",
+      "region": "América do Norte",
+      "theme": "Outros / Multitemático",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2025/12/cade-apple-condutas-anticoncorrenciais-23dez25.png",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Ana Elisa e irmão de Cleitinho divergem sobre quem encarece combustíveis",
+      "link": "https://www.poder360.com.br/poder-congresso/ana-elisa-e-irmao-de-cleitinho-divergem-sobre-quem-encarece-combustiveis/",
+      "summary": "Deputada atribui aumento previsto para fevereiro de 2027 à elevação do ICMS aprovada pelos Estados; deputado responsabiliza governo Lula",
+      "published_at": "2026-11-02T21:53:41Z",
+      "region": "América do Sul",
+      "theme": "Política Brasileira",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2026/11/Design-sem-nome-84-1200x675.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Coordenador do programa de governo de Lula endossa Lara Resende",
+      "link": "https://www.poder360.com.br/poder-economia/coordenador-do-programa-de-governo-de-lula-endossa-lara-resende/",
+      "summary": "Gabrielli defendeu criar órgão para metas de juros e criticou o mercado financeiro em artigo sobre política econômica",
+      "published_at": "2026-11-02T21:51:21Z",
+      "region": "América do Sul",
+      "theme": "Política Brasileira",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2026/03/Jose-Sergio-Gabrielli-de-Azevedo-.png",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "US to drop South Africa, Rwanda from duty-free trade initiative",
+      "link": "https://www.dw.com/en/us-to-drop-south-africa-rwanda-from-duty-free-trade-initiative/a-79834508?maca=en-rss-en-world-4025-rdf",
+      "summary": "The Trump administration has said South Africa and Rwanda are breaking the rules of the AGOA free trade initiative, a centerpiece of US economic engagement with sub-Saharan Africa.",
+      "published_at": "2026-11-02T21:40:00Z",
+      "region": "África",
+      "theme": "Comércio e Finanças",
+      "source_name": "DW World News",
+      "source_id": "dw_english",
+      "is_brazilian": false,
+      "image_url": "https://static.dw.com/image/73497516_6.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1578575437130-527eed3abbec?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1522071820081-009f0129c71c?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Trump promised 'no more wars'. His foreign policy tells another story",
+      "link": "https://www.france24.com/en/tv-shows/truth-or-fake/20261102-trump-promised-no-more-wars-his-foreign-policy-tells-another-story",
+      "summary": "Donald Trump promised an “America First” foreign policy and pledged to keep the US out of foreign wars. But since returning to the White House, his administration has been deeply involved in conflicts around the world. From the war in Ukraine and threats to Greenland and Canada, to the US intervention in Venezuela, Trump's shifting approach to the Middle East and war with Iran, Vedika Bahl examines his foreign policy record since returning to office.",
+      "published_at": "2026-11-02T21:34:10Z",
+      "region": "América do Norte",
+      "theme": "Política Internacional",
+      "source_name": "France 24",
+      "source_id": "france24",
+      "is_brazilian": false,
+      "image_url": "https://s.france24.com/media/display/67eb27a2-d6fa-11f1-8418-a575454bc579/w:1024/p:16x9/capture-1a252fd9.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Student protests resume in France as pupils return to school",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/2/student-protests-resume-in-france-as-pupils-return-to-school?traffic_source=rss",
+      "summary": "Student protests resume in France as pupils return to school",
+      "published_at": "2026-11-02T21:28:55Z",
+      "region": "Europa",
+      "theme": "Outros / Multitemático",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": null,
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Uganda withdrawing troops from peacekeeping mission in Somalia",
+      "link": "https://www.france24.com/en/uganda-withdrawing-troops-from-peacekeeping-mission-in-somalia",
+      "summary": "In tonight's edition, Uganda starts drawing down troops just days after the UN ends its political mission in Somalia. Also, upcoming municipal elections in South Africa risk solidifying growing political fragmentation. And the drought gripping Chad could be the country’s worst in more than 40 years.",
+      "published_at": "2026-11-02T21:24:21Z",
+      "region": "África",
+      "theme": "Política Internacional",
+      "source_name": "France 24",
+      "source_id": "france24",
+      "is_brazilian": false,
+      "image_url": "https://s.france24.com/media/display/071e4c16-d703-11f1-b357-d18c5759e759/w:1024/p:16x9/DL00006258-VOD-00023657.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Ursos se proliferam na Rússia e já mataram 30 em 2026",
+      "link": "https://www.dw.com/pt-br/ursos-se-proliferam-na-rússia-e-já-mataram-30-em-2026/a-79834503?maca=bra-rss-br-all-1030-rdf",
+      "summary": "População do animal mais que dobrou em três décadas na Rússia. Invernos mais amenos, incêndios florestais, escassez de alimentos silvestres e a busca por comida em áreas habitadas agravam a crise.",
+      "published_at": "2026-11-02T21:24:00Z",
+      "region": "Europa",
+      "theme": "Meio Ambiente e Clima",
+      "source_name": "DW Brasil",
+      "source_id": "dw_brasil",
+      "is_brazilian": false,
+      "image_url": "https://static.dw.com/image/40929716_6.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "‘Work to do’: Authorities give update on Florida private jet crash",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/2/work-to-do-authorities-give-update-on-florida-private-jet-crash?traffic_source=rss",
+      "summary": "Officials have provided an update on the investigation into Sunday’s deadly Learjet crash in Florida.",
+      "published_at": "2026-11-02T21:23:31Z",
+      "region": "Oriente Médio",
+      "theme": "Outros / Multitemático",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": null,
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Jatinho pode ter começado a se partir antes da queda, dizem EUA",
+      "link": "https://www.poder360.com.br/poder-internacional/jatinho-pode-ter-comecado-a-se-partir-antes-da-queda-dizem-eua/",
+      "summary": "Conselho Nacional de Segurança nos Transportes afirma que imagens do acidente mostram aeronave sem estabilizador horizontal",
+      "published_at": "2026-11-02T21:15:11Z",
+      "region": "América do Norte",
+      "theme": "Outros / Multitemático",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2026/11/jatinho-eua-1200x675.png",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Karl Bushby embraces his mother as he completes his 28-year walk around world",
+      "link": "https://www.pbs.org/newshour/world/karl-bushby-embraces-his-mother-as-he-completes-his-28-year-walk-around-world",
+      "summary": "Bushby was a 29-year-old ex-paratrooper when he began his journey from Punta Arenas, Chile, on Nov. 1, 1998. He walked 31,000 miles across four continents and 30 countries.",
+      "published_at": "2026-11-02T21:12:12Z",
+      "region": "América do Sul",
+      "theme": "Outros / Multitemático",
+      "source_name": "PBS NewsHour",
+      "source_id": "pbs_newshour",
+      "is_brazilian": false,
+      "image_url": "https://d3i6fh83elv35t.cloudfront.net/static/2026/11/AP26306504348382-1024x683.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
     {
       "title": "Janones leva a Sergio Massa estratégias digitais da campanha de Lula",
       "link": "https://www.poder360.com.br/poder-eleicoes-2026/janones-leva-a-sergio-massa-estrategias-digitais-da-campanha-de-lula/",
@@ -16,6 +832,40 @@
         "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "The Long Hull: Karl Bushby reflects on perseverance & 'best of humanity' on his 28-year journey home",
+      "link": "https://www.france24.com/en/tv-shows/spotlight/20261102-the-long-hull-karl-bushby-reflects-on-perseverance-best-of-humanity-on-his-28-year-journey-home",
+      "summary": "“They say it takes a village. In this case, it took a world.” After 28 years and some 50,000 kilometres, British explorer and adventurer Karl Bushby has returned to his hometown of Hull, completing an extraordinary life journey across four continents that illustrates not only the limits of human endurance, but also the intricate relationship between individual determination, geopolitical constraints and a world of humanity. Speaking to France 24's François Picard shortly after his emotional homecoming, Bushby reflects on an undertaking that resembles a modern-day Odyssey, although the defining obstacles were often more geopolitical than mythological.",
+      "published_at": "2026-11-02T20:54:38Z",
+      "region": "Europa",
+      "theme": "Outros / Multitemático",
+      "source_name": "France 24",
+      "source_id": "france24",
+      "is_brazilian": false,
+      "image_url": "https://s.france24.com/media/display/ec1df072-d6fa-11f1-aa08-695cb59fade5/w:1024/p:16x9/EN-20261102-183552-184505-CS.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Mamdani’s progressive allies vie for seats in Congress",
+      "link": "https://www.aljazeera.com/news/2026/11/2/mamdanis-progressive-allies-vie-for-seats-in-congress?traffic_source=rss",
+      "summary": "Three New York City progressive Democrats are expected to win their midterm congressional races in Tuesday's election.",
+      "published_at": "2026-11-02T20:48:56Z",
+      "region": "América do Norte",
+      "theme": "Política Internacional",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": null,
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
       ]
     },
     {
@@ -53,20 +903,20 @@
       ]
     },
     {
-      "title": "US to suspend South Africa and Rwanda from duty-free trade access",
-      "link": "https://www.aljazeera.com/economy/2026/11/2/us-to-suspend-south-africa-and-rwanda-from-duty-free-trade-access?traffic_source=rss",
-      "summary": "South Africa to lose duty-free access, affecting $1.7bn worth of annual exports, including cars and farm products.",
-      "published_at": "2026-11-02T20:38:04Z",
-      "region": "África",
-      "theme": "Comércio e Finanças",
-      "source_name": "Al Jazeera",
-      "source_id": "aljazeera_english",
+      "title": "A explosiva combinação de protestos e alta dívida pública na França",
+      "link": "https://www.dw.com/pt-br/a-explosiva-combinação-de-protestos-e-alta-dívida-pública-na-frança/a-79830816?maca=bra-rss-br-all-1030-rdf",
+      "summary": "Pressionado, governo francês promete bilhões de euros extras para o ensino apesar de o país já enfrentar dificuldades com uma dívida pública que chega a 120% do PIB.",
+      "published_at": "2026-11-02T20:43:00Z",
+      "region": "Europa",
+      "theme": "Economia Internacional",
+      "source_name": "DW Brasil",
+      "source_id": "dw_brasil",
       "is_brazilian": false,
-      "image_url": null,
+      "image_url": "https://static.dw.com/image/79751428_6.jpg",
       "fallback_images": [
-        "https://images.unsplash.com/photo-1578575437130-527eed3abbec?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1522071820081-009f0129c71c?q=80&w=800&auto=format&fit=crop"
+        "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?q=80&w=800&auto=format&fit=crop"
       ]
     },
     {
@@ -138,6 +988,23 @@
       ]
     },
     {
+      "title": "EU says fridge attacks 'deliberate attempt to disrupt' bloc's food supply",
+      "link": "https://www.france24.com/en/eu-says-fridge-attacks-deliberate-attempt-to-disrupt-bloc-s-food-supply",
+      "summary": "Grocery stores from Sweden to Portugal were hit Monday by a suspected cyberattack on their freezer systems, in what the EU denounced as a deliberate attempt to disrupt the bloc's food chain. Supermarkets in Belgium, Estonia, Finland, Ireland, Luxembourg and the Netherlands were among at least eight countries affected in the incident, which came three weeks after a cyberattack caused mass disruption in French grocery stores. Food retailers were forced to throw out produce that had spoiled or was at risk of spoiling after refrigerator temperatures soared overnight. FRANCE 24's Dave Keating reports from Brussels.",
+      "published_at": "2026-11-02T20:30:07Z",
+      "region": "Europa",
+      "theme": "Geopolítica e Segurança",
+      "source_name": "France 24",
+      "source_id": "france24",
+      "is_brazilian": false,
+      "image_url": "https://s.france24.com/media/display/bcd91bec-d6fb-11f1-8781-a575454bc579/w:1024/p:16x9/EN-20261102-211244-211858-CS.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
       "title": "Mamdani-endorsed progressives fight to join Congress",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/11/2/mamdani-endorsed-progressives-fight-to-join-congress?traffic_source=rss",
       "summary": "Zohran Mamdani is championing a slate of Congressional candidates who want to take progressive policies national.",
@@ -155,20 +1022,20 @@
       ]
     },
     {
-      "title": "Russian bombing kills 26 people at Ukraine aid centre, Kyiv says",
-      "link": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&at_campaign=rss",
-      "summary": "Local officials say more had been missing after at least nine 3,000kg aerial bombs hit a village in southern Ukraine.",
-      "published_at": "2026-11-02T20:23:12Z",
-      "region": "Europa",
-      "theme": "Geopolítica e Segurança",
-      "source_name": "BBC World News",
-      "source_id": "bbc_world",
+      "title": "EUA aprovam genérico de lenacapavir para prevenção do HIV",
+      "link": "https://www.dw.com/pt-br/eua-aprovam-genérico-de-lenacapavir-para-prevenção-do-hiv/a-79833988?maca=bra-rss-br-all-1030-rdf",
+      "summary": "Decisão abre caminho para ampliar o acesso em países de baixa e média renda. No Brasil, alto custo segue como principal obstáculo para a incorporação da terapia ao SUS.",
+      "published_at": "2026-11-02T20:27:00Z",
+      "region": "América do Norte",
+      "theme": "Outros / Multitemático",
+      "source_name": "DW Brasil",
+      "source_id": "dw_brasil",
       "is_brazilian": false,
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee1e/live/8480acc0-d6eb-11f1-a741-236ee91c2e25.png",
+      "image_url": "https://static.dw.com/image/78523610_6.jpg",
       "fallback_images": [
-        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
       ]
     },
     {
@@ -240,6 +1107,23 @@
       ]
     },
     {
+      "title": "O papel dos influenciadores na onda do consumo de carne crua",
+      "link": "https://www.dw.com/pt-br/o-papel-dos-influenciadores-na-onda-do-consumo-de-carne-crua/a-79832878?maca=bra-rss-br-all-1030-rdf",
+      "summary": "Quando a saúde vira questão de fé, influenciadores podem acabar ganhando mais atenção do que os médicos. Entender como dietas excêntricas viram febre pode ser o primeiro passo para recuperar a confiança na ciência.",
+      "published_at": "2026-11-02T20:01:00Z",
+      "region": "Europa",
+      "theme": "Ciência, Tecnologia e Inovação",
+      "source_name": "DW Brasil",
+      "source_id": "dw_brasil",
+      "is_brazilian": false,
+      "image_url": "https://static.dw.com/image/61717609_6.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1518770660439-4636190af475?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1507668077129-56e32842fceb?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
       "title": "Após ataque hacker, Mercado Bitcoin tem perdas de US$ 40 milhões",
       "link": "https://www.poder360.com.br/poder-tech/apos-ataque-hacker-mercado-bitcoin-tem-perdas-de-us-40-milhoes/",
       "summary": "Corretora suspendeu saques e depósitos temporariamente e garantiu que não houve vazamento de dados",
@@ -257,7 +1141,7 @@
       ]
     },
     {
-      "title": "Trump llama a votar en las 'midtrem' contra los \"extremistas y peligrosos\" candidatos demócratas",
+      "title": "Trump llama a votar en las 'midterm' contra los \"extremistas y peligrosos\" candidatos demócratas",
       "link": "https://www.europapress.es/internacional/noticia-trump-llama-votar-midtrem-contra-extremistas-peligrosos-candidatos-democratas-20261102210004.html",
       "summary": "El presidente estadounidense, Donald Trump, ha aprovechado su último acto político antes de las elecciones de medio mandato de mañana para pedir el voto contra los candidatos demócratas, que ha caracterizado como \"extremistas y peligrosos\" en las que considera las 'midterms' \"más importantes de nuestra vida\".",
       "published_at": "2026-11-02T20:00:04Z",
@@ -266,7 +1150,7 @@
       "source_name": "Europa Press",
       "source_id": "europa_press",
       "is_brazilian": false,
-      "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20261102210004_120.jpg",
+      "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20261102210004_120_v2.jpg",
       "fallback_images": [
         "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
@@ -293,7 +1177,7 @@
     {
       "title": "Filha de brasileiros era copilota do avião que caiu na Flórida e deixou 9 mortos; o que se sabe",
       "link": "https://www.bbc.com/portuguese/articles/cqe8rl260ep2o?at_medium=RSS&at_campaign=rss",
-      "summary": "Nathalia Gadelha Filgueiras tinha 20 anos e tirou licença para pilotar avião aos 17.",
+      "summary": "Nathalia Gadelha Filgueiras tinha 20 anos e tirou licença para pilotar avião aos 17. Ela acumulava 1,3 mil horas de voo quando o jato particular caiu no domingo depois que ela pediu socorro pelo rádio.",
       "published_at": "2026-11-02T19:55:15Z",
       "region": "América do Sul",
       "theme": "Outros / Multitemático",
@@ -369,23 +1253,6 @@
       "source_id": "france24",
       "is_brazilian": false,
       "image_url": "https://s.france24.com/media/display/c085514e-d6f0-11f1-8735-1beafce15fea/w:1024/p:16x9/2026-11-02T150455Z-57526818-RC29FOA6T5LS-RTRMADP-3-USA-TRUMP-ELECTION.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Trump to remove Rwanda and South Africa from US trade deal",
-      "link": "https://www.bbc.co.uk/news/articles/c9j346xg0mkvo?at_medium=RSS&at_campaign=rss",
-      "summary": "The move comes barely a week after Rwanda's defence ministry was hit with sanctions by the US Treasury.",
-      "published_at": "2026-11-02T19:33:10Z",
-      "region": "América do Norte",
-      "theme": "Política Internacional",
-      "source_name": "BBC World News",
-      "source_id": "bbc_world",
-      "is_brazilian": false,
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e727/live/e5cde5c0-d6ef-11f1-ae42-99a80c72db9e.jpg",
       "fallback_images": [
         "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
@@ -478,40 +1345,6 @@
       ]
     },
     {
-      "title": "Trump asks Supreme Court to block 20,000 California midterm ballots",
-      "link": "https://www.dw.com/en/trump-asks-supreme-court-to-block-20-000-california-midterm-ballots/a-79833739?maca=en-rss-en-world-4025-rdf",
-      "summary": "The Trump administration has appealed to the Supreme Court over claims that a list of more than 20,000 ballots in California include non-US citizens. Multiple courts and independent analysis have rejected the claims.",
-      "published_at": "2026-11-02T19:13:00Z",
-      "region": "América do Norte",
-      "theme": "Política Internacional",
-      "source_name": "DW World News",
-      "source_id": "dw_english",
-      "is_brazilian": false,
-      "image_url": "https://static.dw.com/image/79833931_6.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Legal challenge to Australia's social media ban to start in High Court",
-      "link": "https://www.bbc.co.uk/news/articles/ck79py02p1jlo?at_medium=RSS&at_campaign=rss",
-      "summary": "A rights group will argue the world-leading policy robs under-16s of their right to free communication.",
-      "published_at": "2026-11-02T19:12:59Z",
-      "region": "Oceania",
-      "theme": "Outros / Multitemático",
-      "source_name": "BBC World News",
-      "source_id": "bbc_world",
-      "is_brazilian": false,
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7af5/live/6a1bb4a0-d67e-11f1-ac3d-edfeb9f7d0aa.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
       "title": "Lindsay Clancy back in court seeking to have murder charges dismissed",
       "link": "https://www.aljazeera.com/news/2026/11/2/lindsay-clancy-in-court-to-drop-child-murder-charges-after-mistrial?traffic_source=rss",
       "summary": "Defence argues that retrying Clancy would violate ⁠⁠her constitutional rights.",
@@ -529,6 +1362,23 @@
       ]
     },
     {
+      "title": "Alemanha pena para achar um depósito definitivo para seu lixo nuclear",
+      "link": "https://www.dw.com/pt-br/alemanha-pena-para-achar-um-depósito-definitivo-para-seu-lixo-nuclear/a-79832894?maca=bra-rss-br-all-1030-rdf",
+      "summary": "Finlândia é o primeiro país a ter um depósito definitivo para resíduos nucleares. Maioria dos países, como a Alemanha, continua procurando.",
+      "published_at": "2026-11-02T19:09:00Z",
+      "region": "Europa",
+      "theme": "Geopolítica e Segurança",
+      "source_name": "DW Brasil",
+      "source_id": "dw_brasil",
+      "is_brazilian": false,
+      "image_url": "https://static.dw.com/image/74651094_6.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
       "title": "Parte do PT defende teto de juros proposto por André Lara Resende",
       "link": "https://www.poder360.com.br/poder-economia/parte-do-pt-defende-teto-de-juros-proposto-por-andre-lara-resende/",
       "summary": "Economistas heterodoxos tentam convencer presidente dizendo que cerca de metade do gasto do governo federal é pagando juros altos e que corte drástico resultaria em alta de investimentos",
@@ -543,6 +1393,23 @@
         "https://images.unsplash.com/photo-1506744038136-46273834b3fb?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Sem dedicação exclusiva, prefeitos voluntários administram milhares de cidades e vilarejos na Alemanha",
+      "link": "https://www.dw.com/pt-br/sem-dedicação-exclusiva-prefeitos-voluntários-administram-milhares-de-cidades-e-vilarejos-na-alemanha/a-79806521?maca=bra-rss-br-all-1030-rdf",
+      "summary": "Em milhares de municípios alemães, moradores assumem a prefeitura em modelo de trabalho voluntário. Mas burocracia e ameaças têm afastado pretendentes.",
+      "published_at": "2026-11-02T19:01:00Z",
+      "region": "Europa",
+      "theme": "Outros / Multitemático",
+      "source_name": "DW Brasil",
+      "source_id": "dw_brasil",
+      "is_brazilian": false,
+      "image_url": "https://static.dw.com/image/79807457_6.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
       ]
     },
     {
@@ -665,6 +1532,23 @@
       ]
     },
     {
+      "title": "O que se sabe sobre nova onda de ataques hacker a supermercados na Europa",
+      "link": "https://www.dw.com/pt-br/o-que-se-sabe-sobre-nova-onda-de-ataques-hacker-a-supermercados-na-europa/a-79833140?maca=bra-rss-br-all-1030-rdf",
+      "summary": "Invasão a sistemas de refrigeração afetou redes varejistas em sete países, menos de um mês após evento similar na França. Casos expõem vulnerabilidade digital da cadeia de abastecimento alimentar da Europa.",
+      "published_at": "2026-11-02T18:21:00Z",
+      "region": "Europa",
+      "theme": "Geopolítica e Segurança",
+      "source_name": "DW Brasil",
+      "source_id": "dw_brasil",
+      "is_brazilian": false,
+      "image_url": "https://static.dw.com/image/79831414_6.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
       "title": "ONU ressalta importância de proteger jornalistas e acesso à informação",
       "link": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-11/onu-ressalta-importancia-de-proteger-jornalistas-e-acesso-informacao",
       "summary": "\"Em todo o mundo, jornalistas continuam pagando um preço exorbitante por dizerem a verdade”, o alerta foi feito nesta segunda-feira (2) pelo secretário-geral das Nações Unidas, António Guterres, ao marcar o Dia Internacional pelo Fim da Impunidade dos Crimes Contra Jornalistas. A data foi criada em homenagem aos franceses Ghislaine Dupont e Claude Verlon, da Rádio França Internacional (RFI), que foram assassinados em 2 de novembro de 2013, no Mali. Notícias relacionadas: Unesco: 189 jornalistas foram mortos no mundo em 2024 e 2025. Trump e Milei entram para lista de \"predadores da imprensa\", diz ONG. Em 2026, a ONU quer mostrar como as novas tecnologias e armamentos estão transformando os riscos enfrentados por jornalistas, especialmente em zonas de conflito. Muitas das mortes nessas regiões de guerra, ocorreram e ataques com drones, por exemplo. Mortes de jornalistas Segundo as Nações Unidas, em 2024 e 2025, 189 jornalistas foram assassinados em todo o mundo , o maior número registrado desde o biênio 2014/2015. A maior parte das mortes foi em zonas de conflito. A presidente da Federação Nacional dos Jornalistas (Fenaj), Samira de Castro, afirma que é preciso exigir dos governos que investiguem e processem os responsáveis por crimes contra jornalistas e que o assassinato de qualquer jornalista é inaceitável. “A campanha da Federação Internacional de Jornalistas (FIJ) este ano pergunta: Quem ordenou o assassinato? Quem Planejou? Quem é o responsável final? Essas são perguntas que não podem ficar sem resposta”, diz.",
@@ -747,6 +1631,23 @@
         "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Ucrania denuncia 26 muertos en un ataque ruso sobre un centro de ayuda humanitaria en Zaporiyia",
+      "link": "https://www.europapress.es/internacional/noticia-ucrania-denuncia-18-muertos-ataque-ruso-zaporiyia-acusa-moscu-no-querer-rebajar-guerra-20261102185942.html",
+      "summary": "Las autoridades ucranianas han informado este lunes que al menos 26 personas han muerto en un ataque ruso sobre una escuela utilizada como centro humanitario en la región de Zaporiyia, en una oleada de bombardeos, que, según han denunciado, evidencia que Rusia no quiere rebajar la intensidad de la guerra, después del alto el fuego humanitario pactado en la localidad de Oleshki, en la región de Jersón.",
+      "published_at": "2026-11-02T17:59:42Z",
+      "region": "Europa",
+      "theme": "Direito Internacional e Instituições",
+      "source_name": "Europa Press",
+      "source_id": "europa_press",
+      "is_brazilian": false,
+      "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20261102185942_120.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1505664194779-8beaceb93744?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop"
       ]
     },
     {
@@ -1209,6 +2110,23 @@
       ]
     },
     {
+      "title": "Em áudio | 'Não reconheci meu namorado quando o encontrei no supermercado': como descobri que tinha cegueira facial",
+      "link": "https://www.bbc.com/portuguese/listen/cr1ex1z4x2y0o?at_medium=RSS&at_campaign=rss",
+      "summary": "Após receber diagnóstico de prosopagnosia, jornalista investigou ciência por trás dessa condição.",
+      "published_at": "2026-11-02T15:12:15Z",
+      "region": "América do Sul",
+      "theme": "Ciência, Tecnologia e Inovação",
+      "source_name": "BBC News Brasil",
+      "source_id": "bbc_brasil",
+      "is_brazilian": true,
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/fb3d/live/8b33d400-d6cf-11f1-93e1-3b657b665bcf.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1518770660439-4636190af475?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1507668077129-56e32842fceb?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
       "title": "Vídeo mostra queda de avião na Flórida",
       "link": "https://www.bbc.com/portuguese/watch/c8p3grww23y2o?at_medium=RSS&at_campaign=rss",
       "summary": "O Learjet 60 decolou de Austin, no Texas, rumo às Bahamas. A queda aconteceu a cerca de 14 km de Mar-a-Lago, resort do presidente Donald Trump.",
@@ -1218,7 +2136,7 @@
       "source_name": "BBC News Brasil",
       "source_id": "bbc_brasil",
       "is_brazilian": true,
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d107/live/2dab87b0-d6ca-11f1-ac20-7783925c811f.jpg",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/bc0f/live/c0f71e00-d71d-11f1-a701-fddedf244c16.jpg",
       "fallback_images": [
         "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
@@ -1631,924 +2549,6 @@
         "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Will renewed conflict derail Ethiopia's economic growth?",
-      "link": "https://www.dw.com/en/will-renewed-conflict-derail-ethiopia-s-economic-growth/a-79807060?maca=en-rss-en-world-4025-rdf",
-      "summary": "Ethiopia's economy is growing strongly. But renewed fighting in the north of the BRICS member state could deter investment, strain public finances and push up the cost of living.",
-      "published_at": "2026-11-02T11:19:00Z",
-      "region": "África",
-      "theme": "Geopolítica e Segurança",
-      "source_name": "DW World News",
-      "source_id": "dw_english",
-      "is_brazilian": false,
-      "image_url": "https://static.dw.com/image/79652307_6.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Football: China refuses to air Real Madrid game after Mbappé comment",
-      "link": "https://www.france24.com/en/video/20261102-football-china-refuses-to-air-real-madrid-game-after-mbapp%C3%A9-comment",
-      "summary": "Chinese state broadcaster CCTV did not broadcast a Real Madrid La Liga match on Sunday after star forward Kylian Mbappé caused a furore in China with remarks he made about former leader Mao Zedong. FRANCE 24's correspondent Jan Camenzind Broomby reports.",
-      "published_at": "2026-11-02T11:09:07Z",
-      "region": "Europa",
-      "theme": "Outros / Multitemático",
-      "source_name": "France 24",
-      "source_id": "france24",
-      "is_brazilian": false,
-      "image_url": "https://s.france24.com/media/display/cf76aa84-d6a7-11f1-aa3e-695cb59fade5/w:1024/p:16x9/capture-1556c218.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "French school protests resume on smaller scale after holiday break",
-      "link": "https://www.france24.com/en/france/20261102-french-school-protests-resume-smaller-scale-after-holiday-break",
-      "summary": "French students back from autumn holidays blocked some high schools on Monday, determined to revive last month's protest movement despite a handful of concessions from the government during the break. Blockades took place in several cities across France, including Paris, Marseille and Rennes.",
-      "published_at": "2026-11-02T10:53:39Z",
-      "region": "Europa",
-      "theme": "Política Internacional",
-      "source_name": "France 24",
-      "source_id": "france24",
-      "is_brazilian": false,
-      "image_url": "https://s.france24.com/media/display/6ecdb824-d6a9-11f1-8ae6-695cb59fade5/w:1024/p:16x9/2026-11-02T103345Z-1184220162-RC2JFOADQBFC-RTRMADP-3-FRANCE-PROTEST-BLOCKADES.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Five arrested after South African farmer shot and tortured",
-      "link": "https://www.bbc.co.uk/news/articles/cv4g13z0px8yo?at_medium=RSS&at_campaign=rss",
-      "summary": "The attack on Donovan Marx, 50, comes as right-wing groups say there is a genocide of white people - a claim widely discredited.",
-      "published_at": "2026-11-02T10:48:47Z",
-      "region": "África",
-      "theme": "Geopolítica e Segurança",
-      "source_name": "BBC World News",
-      "source_id": "bbc_world",
-      "is_brazilian": false,
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d521/live/c93db920-d696-11f1-8052-913cc7942a17.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Flávio Bolsonaro vai a culto em igreja na Flórida; assista",
-      "link": "https://www.poder360.com.br/poder-gente/flavio-bolsonaro-vai-a-missa-em-igreja-na-florida-assista/",
-      "summary": "Perfil da Base Celeiro Flórida, em Fort Lauderdale, postou foto com o senador e o ex-deputado Eduardo Bolsonaro",
-      "published_at": "2026-11-02T10:46:59Z",
-      "region": "América do Sul",
-      "theme": "Política Brasileira",
-      "source_name": "Poder360",
-      "source_id": "poder360",
-      "is_brazilian": true,
-      "image_url": "https://static.poder360.com.br/uploads/2026/11/Bolsonaros-igreja-Florida-EUA-1nov2026-1200x675.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "'Give them the hammer': Trump threatens Iran ahead of midterms",
-      "link": "https://www.france24.com/en/video/20261102-give-them-the-hammer-trump-threatens-iran-ahead-of-midterms",
-      "summary": "US President Donald Trump on Sunday reiterated his threat to resume strikes against Iran, telling a campaign rally that he may have to give Tehran \"the hammer\" at some unspecified time. Trump had previously said he would not strike Iran again before the upcoming US midterm elections.",
-      "published_at": "2026-11-02T10:45:22Z",
-      "region": "América do Norte",
-      "theme": "Política Internacional",
-      "source_name": "France 24",
-      "source_id": "france24",
-      "is_brazilian": false,
-      "image_url": "https://s.france24.com/media/display/1a240708-d6a7-11f1-8c4a-1beafce15fea/w:1024/p:16x9/EN-20261102-103528-103657-CS.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "'A shift in the air': Can young voters turn Texas blue?",
-      "link": "https://www.france24.com/en/video/20261102-a-shift-in-the-air-can-young-voters-turn-texas-blue",
-      "summary": "Texas has long been a Republican stronghold. But could that be starting to change? On the eve of themidterm elections, some younger voters are expressing growing frustration with the political establishment. In Austin, the state capital, our special correspondent Tarek Kai spoke to young voters to hear about their expectations and concerns, and to find out whether they think Texas could turn blue.",
-      "published_at": "2026-11-02T10:43:26Z",
-      "region": "Europa",
-      "theme": "Política Internacional",
-      "source_name": "France 24",
-      "source_id": "france24",
-      "is_brazilian": false,
-      "image_url": "https://s.france24.com/media/display/f60e34b6-d6a5-11f1-95a5-a575454bc579/w:1024/p:16x9/EN-20261102-103300-103447-CS.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Como eleições nos EUA devem selar destino de Trump e futuro da relação com o Brasil em 4º mandato de Lula",
-      "link": "https://www.bbc.com/portuguese/articles/cw80z10renkzo?at_medium=RSS&at_campaign=rss",
-      "summary": "Nas eleições de meio de mandato desta terça, oposição democrata pode conquistar controle do Congresso americano e promover maior escrutínio sobre a agenda de Trump para a América Latina.",
-      "published_at": "2026-11-02T10:36:42Z",
-      "region": "América do Norte",
-      "theme": "Política Internacional",
-      "source_name": "BBC News Brasil",
-      "source_id": "bbc_brasil",
-      "is_brazilian": true,
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/575b/live/f31d04c0-d6a1-11f1-93e1-3b657b665bcf.png",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Brasil tem 32.454 focos de incêndio em outubro, alta anual de 13,2%",
-      "link": "https://www.poder360.com.br/poder-sustentavel/brasil-tem-32-454-focos-de-incendio-em-outubro-alta-anual-de-132/",
-      "summary": "Apesar da alta no mês, houve queda anual de 1,6% no acumulado de 2026",
-      "published_at": "2026-11-02T10:32:26Z",
-      "region": "América do Sul",
-      "theme": "Outros / Multitemático",
-      "source_name": "Poder360",
-      "source_id": "poder360",
-      "is_brazilian": true,
-      "image_url": "https://static.poder360.com.br/uploads/2026/11/queimadas-brasil-out-2026_Prancheta-18-1200x675.png",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Apps de alerta na Rússia e na Ucrânia são hackeados",
-      "link": "https://www.dw.com/pt-br/apps-de-alerta-na-rússia-e-na-ucrânia-são-hackeados/a-79828000?maca=bra-rss-br-all-1030-rdf",
-      "summary": "Nos dois países, aplicativos transmitiram informações falsas à população, dizem autoridades. Não está claro se incidentes estão relacionados.",
-      "published_at": "2026-11-02T10:32:00Z",
-      "region": "Europa",
-      "theme": "Outros / Multitemático",
-      "source_name": "DW Brasil",
-      "source_id": "dw_brasil",
-      "is_brazilian": false,
-      "image_url": "https://static.dw.com/image/79827573_6.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "US midterms: Could Senate candidate James Talarico turn Texas blue?",
-      "link": "https://www.france24.com/en/video/20261102-us-midterms-could-senate-candidate-james-talarico-turn-texas-blue",
-      "summary": "In Texas, a Democrat hopes to achieve a feat not seen in the state for 38 years: winning a seat in the US Senate. James Talarico, a young elected official who openly and proudly professes his Christian faith, is facing off against Ken Paxton, a controversial figure in the Republican Party. And his campaign is even winning over some of Donald Trump’s voters.",
-      "published_at": "2026-11-02T10:30:43Z",
-      "region": "América do Norte",
-      "theme": "Política Internacional",
-      "source_name": "France 24",
-      "source_id": "france24",
-      "is_brazilian": false,
-      "image_url": "https://s.france24.com/media/display/1c073ffe-d215-11f1-91ad-5b4a75578ebb/w:1024/p:16x9/AP26299284061928.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "La dimisión del primer ministro belga queda en el aire mientras el rey inicia consultas con la coalición",
-      "link": "https://www.europapress.es/internacional/noticia-dimision-primer-ministro-belga-queda-aire-mientras-rey-inicia-consultas-coalicion-20261102113021.html",
-      "summary": "De Wever entrega su renuncia al monarca, que se reserva su decisión hasta el viernes mientras exige \"sentido de la responsabildad\"",
-      "published_at": "2026-11-02T10:30:21Z",
-      "region": "Europa",
-      "theme": "Política Internacional",
-      "source_name": "Europa Press",
-      "source_id": "europa_press",
-      "is_brazilian": false,
-      "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20261102113021_120.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Sudan files complaints against Ethiopia with UN over deadly drone spree",
-      "link": "https://www.aljazeera.com/news/2026/11/2/sudan-files-complaints-against-ethiopia-with-un-over-deadly-drone-spree?traffic_source=rss",
-      "summary": "One-way drone attacks have killed or wounded 484 civilians since February, Khartoum says.",
-      "published_at": "2026-11-02T10:25:22Z",
-      "region": "África",
-      "theme": "Direito Internacional e Instituições",
-      "source_name": "Al Jazeera",
-      "source_id": "aljazeera_english",
-      "is_brazilian": false,
-      "image_url": null,
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1505664194779-8beaceb93744?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Jailed PKK founder Ocalan moved to new section of Turkish island prison",
-      "link": "https://www.aljazeera.com/news/2026/11/2/jailed-pkk-founder-ocalan-moved-to-new-section-of-turkish-island-prison?traffic_source=rss",
-      "summary": "Improving prison conditions for Abdullah Ocalan has been a key Kurdish demand in push to end PKK-Turkiye conflict.",
-      "published_at": "2026-11-02T10:24:47Z",
-      "region": "Oriente Médio",
-      "theme": "Geopolítica e Segurança",
-      "source_name": "Al Jazeera",
-      "source_id": "aljazeera_english",
-      "is_brazilian": false,
-      "image_url": null,
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Rússia constrói radar em Kaliningrado com capacidade para espionar grande parte da Europa",
-      "link": "https://www.dw.com/pt-br/rússia-constrói-radar-em-kaliningrado-com-capacidade-para-espionar-grande-parte-da-europa/a-79828152?maca=bra-rss-br-all-1030-rdf",
-      "summary": "Moscou está construindo novo radar OTH em seu exclave situado entre a Polônia e a Lituânia. Com estrutura, país pode vigiar movimentos militares em quase todo continente europeu.",
-      "published_at": "2026-11-02T10:21:00Z",
-      "region": "Europa",
-      "theme": "Outros / Multitemático",
-      "source_name": "DW Brasil",
-      "source_id": "dw_brasil",
-      "is_brazilian": false,
-      "image_url": "https://static.dw.com/image/79797357_6.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Ukraine and Russia both hit by cyberattacks on emergency apps",
-      "link": "https://www.france24.com/en/video/20261102-ukraine-and-russia-both-hit-by-cyberattacks-on-emergency-apps",
-      "summary": "Authorities in both Ukraine and Russia said that their emergency alert mobile applications were targeted by cyberattacks late Sunday. Residents in Ukraine received messages that there was a high nuclear radiation danger in the capital Kyiv, while Russian officials said hackers had sent fake emergency alerts after gaining access to the mobile app for Russia’s Emergency Ministry.",
-      "published_at": "2026-11-02T10:20:45Z",
-      "region": "Europa",
-      "theme": "Geopolítica e Segurança",
-      "source_name": "France 24",
-      "source_id": "france24",
-      "is_brazilian": false,
-      "image_url": "https://s.france24.com/media/display/8cfc849a-d6a6-11f1-833b-695cb59fade5/w:1024/p:16x9/EN-20261102-100230-100545-CS.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Binance users withdraw $3.4 billion after record crypto heist",
-      "link": "https://www.france24.com/en/tv-shows/business/20261102-binance-users-withdraw-3-4-billion-after-record-crypto-heist",
-      "summary": "Customers of cryptocurrency trading platform Binance withdrew some $3.4 billion of their funds on Sunday after Binance reopened trading. The company had suspended all operations after a cyberattack that compromised over $6 billion in digital assets. Also in this edition: the Wall Street Journal reports on a new US plan to restore Russian gas sales to Europe, and we look at Argentina's efforts to capitalise on Patagonia's wide open spaces to attract data centre investment.",
-      "published_at": "2026-11-02T10:18:55Z",
-      "region": "América do Sul",
-      "theme": "Geopolítica e Segurança",
-      "source_name": "France 24",
-      "source_id": "france24",
-      "is_brazilian": false,
-      "image_url": "https://s.france24.com/media/display/4792e61c-d69a-11f1-921f-a575454bc579/w:1024/p:16x9/capture-48d68e8a.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "As aid situation worsens, displaced Sudanese worry about warnings of famine",
-      "link": "https://www.aljazeera.com/features/2026/11/2/as-aid-situation-worsens-displaced-sudanese-worry-about-warnings-of-famine?traffic_source=rss",
-      "summary": "Sudan's displaced people now face a mounting food crisis, with warnings of famine.",
-      "published_at": "2026-11-02T10:16:58Z",
-      "region": "África",
-      "theme": "Direitos Humanos, Sociedade e Migrações",
-      "source_name": "Al Jazeera",
-      "source_id": "aljazeera_english",
-      "is_brazilian": false,
-      "image_url": null,
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1542810634-71277d95dcbb?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1489533119213-66a5cd877091?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1531206715517-5c0ba140e2b8?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Midterms: Will Trump backlash lead to Democratic landslide?",
-      "link": "https://www.france24.com/en/video/20261102-midterms-will-trump-backlash-lead-to-democratic-landslide",
-      "summary": "A day before the US midterms, France 24's Oliver Farry takes a look at some of the key races to watch as the Democrats seek to capitalise on Donald Trump's unpopularity. But, says Farry, polls suggest hopes of a Democratic landslide may be wide of the mark.",
-      "published_at": "2026-11-02T10:11:46Z",
-      "region": "América do Norte",
-      "theme": "Política Internacional",
-      "source_name": "France 24",
-      "source_id": "france24",
-      "is_brazilian": false,
-      "image_url": "https://s.france24.com/media/display/fa626390-d6a3-11f1-b020-bf1914cabd52/w:1024/p:16x9/EN-20261102-101319-102228-CS.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "O que documentos inéditos podem revelar sobre a morte de Tancredo Neves",
-      "link": "https://www.bbc.com/portuguese/articles/clyl1njl3vxo?at_medium=RSS&at_campaign=rss",
-      "summary": "Justiça reconheceu direito da família de ter acesso aos documentos e procedimentos relacionados aos tratamentos médicos que antecederam a morte do presidente eleito que jamais foi empossado.",
-      "published_at": "2026-11-02T10:11:36Z",
-      "region": "América do Sul",
-      "theme": "Política Brasileira",
-      "source_name": "BBC News Brasil",
-      "source_id": "bbc_brasil",
-      "is_brazilian": true,
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/898d/live/9c513110-d468-11f1-9dda-1ba6fcc7d159.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "O que quebra de sigilo de documentos sobre morte do 1º presidente eleito pós-ditadura pode revelar",
-      "link": "https://www.bbc.com/portuguese/articles/clyl1njl3vxo?at_medium=RSS&at_campaign=rss",
-      "summary": "Justiça reconheceu direito da família de ter acesso aos documentos e procedimentos relacionados aos tratamentos médicos que antecederam a morte do presidente eleito que jamais foi empossado.",
-      "published_at": "2026-11-02T10:11:36Z",
-      "region": "América do Sul",
-      "theme": "Política Brasileira",
-      "source_name": "BBC News Brasil",
-      "source_id": "bbc_brasil",
-      "is_brazilian": true,
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/898d/live/9c513110-d468-11f1-9dda-1ba6fcc7d159.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "‘Just the beginning’ for Antonelli, F1’s prodigious, charismatic new king",
-      "link": "https://www.aljazeera.com/sports/2026/11/2/just-the-beginning-for-antonelli-f1s-prodigious-charismatic-new-king?traffic_source=rss",
-      "summary": "Kimi Antonelli, F1’s youngest world champion at 20, has become the life and soul of the paddock with his personality.",
-      "published_at": "2026-11-02T10:00:21Z",
-      "region": "Oriente Médio",
-      "theme": "Outros / Multitemático",
-      "source_name": "Al Jazeera",
-      "source_id": "aljazeera_english",
-      "is_brazilian": false,
-      "image_url": null,
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "France: Some schools blocked as limited youth protests resume after holidays",
-      "link": "https://www.france24.com/en/video/20261102-france-some-schools-blocked-as-limited-youth-protests-resume-after-holidays",
-      "summary": "French students returning from autumn holidays blocked some high schools on Monday, November 2, determined to reinvigorate a protest movement despite government concessions during the break. FRANCE 24's Antonia Kerrigan reports from the ground.",
-      "published_at": "2026-11-02T09:57:47Z",
-      "region": "Europa",
-      "theme": "Política Internacional",
-      "source_name": "France 24",
-      "source_id": "france24",
-      "is_brazilian": false,
-      "image_url": "https://s.france24.com/media/display/a9a22dce-d6a2-11f1-bad3-1beafce15fea/w:1024/p:16x9/capture-f04d5e3a.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Israeli army withdraws from Hebron after operation displaces thousands of Palestinians",
-      "link": "https://www.france24.com/en/middle-east/20261102-israeli-army-withdraws-from-hebron-after-operation-displaces-thousands-of-palestinians",
-      "summary": "Israeli forces withdrew from a neighbourhood in the occupied West Bank city of Hebron on Monday, ending a military operation launched after two Israeli soldiers were killed in late October. Thousands of Palestinians displaced during the raid have begun returning to homes, many of which were damaged or ransacked.",
-      "published_at": "2026-11-02T09:51:45Z",
-      "region": "Oriente Médio",
-      "theme": "Geopolítica e Segurança",
-      "source_name": "France 24",
-      "source_id": "france24",
-      "is_brazilian": false,
-      "image_url": "https://s.france24.com/media/display/704e38a0-d69e-11f1-a67b-695cb59fade5/w:1024/p:16x9/AP26305495827887.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Saudi-led coalition intercepts a missile as fighting rages in Yemen’s al-Jawf",
-      "link": "https://www.aljazeera.com/news/2026/11/2/saudi-led-coalition-intercepts-a-missile-as-fighting-rages-in-yemens-al-jawf?traffic_source=rss",
-      "summary": "Houthi-affiliated media report that seven people were wounded in strikes on the city of Hodeidah.",
-      "published_at": "2026-11-02T09:43:59Z",
-      "region": "Oriente Médio",
-      "theme": "Geopolítica e Segurança",
-      "source_name": "Al Jazeera",
-      "source_id": "aljazeera_english",
-      "is_brazilian": false,
-      "image_url": null,
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Hundreds evacuate city during temporary ceasefire between Russia and Ukraine",
-      "link": "https://www.npr.org/2026/11/02/nx-s1-6022261/hundreds-evacuate-city-during-temporary-ceasefire-between-russia-and-ukraine",
-      "summary": "The ceasefire in a Russian-occupied Ukrainian city has ended. The ceasefire, which lasted several days, allowed hundreds of residents to evacuate.",
-      "published_at": "2026-11-02T09:42:11Z",
-      "region": "Europa",
-      "theme": "Outros / Multitemático",
-      "source_name": "NPR World News",
-      "source_id": "npr",
-      "is_brazilian": false,
-      "image_url": "https://media.npr.org/include/images/facebook-default-wide-s1400-c85.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "In California, illegal border crossings plummet under Trump administration",
-      "link": "https://www.france24.com/en/tv-shows/focus/20261102-in-california-illegal-border-crossings-plummet-under-trump-administration",
-      "summary": "It was one of US President Donald Trump's major campaign promises in 2024: putting an end to illegal crossings along the southern US border. Today, official data shows that promise has been kept: arrests for illegal crossings have plummeted by more than 93 percent since the peak of arrests under then-US President Joe Biden.",
-      "published_at": "2026-11-02T09:36:57Z",
-      "region": "América do Norte",
-      "theme": "Política Internacional",
-      "source_name": "France 24",
-      "source_id": "france24",
-      "is_brazilian": false,
-      "image_url": "https://s.france24.com/media/display/7195d970-d69e-11f1-a828-695cb59fade5/w:1024/p:16x9/capture-20d2068f.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Nuclear radiation in Russia, Ukraine? No, just hacked warning alerts",
-      "link": "https://www.aljazeera.com/news/2026/11/2/nuclear-radiation-in-russia-ukraine-no-just-hacked-warning-alerts?traffic_source=rss",
-      "summary": "Warnings startle people in Ukraine, but authorities say they cleared up the confusion in under an hour.",
-      "published_at": "2026-11-02T09:35:46Z",
-      "region": "Europa",
-      "theme": "Geopolítica e Segurança",
-      "source_name": "Al Jazeera",
-      "source_id": "aljazeera_english",
-      "is_brazilian": false,
-      "image_url": null,
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Como alimentar a população mundial se a IA derrubar a rede elétrica",
-      "link": "https://www.poder360.com.br/poder-agro/como-alimentar-a-populacao-mundial-se-a-ia-derrubar-a-rede-eletrica/",
-      "summary": "Estudo apresenta 8 alternativas para garantir o abastecimento de alimentos se a agricultura convencional entrar em colapso",
-      "published_at": "2026-11-02T09:30:23Z",
-      "region": "América do Sul",
-      "theme": "Ciência, Tecnologia e Inovação",
-      "source_name": "Poder360",
-      "source_id": "poder360",
-      "is_brazilian": true,
-      "image_url": "https://static.poder360.com.br/uploads/2026/10/agricultura-1200x675.png",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1518770660439-4636190af475?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1507668077129-56e32842fceb?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Realidade virtual e IA aprimoram detecção de declínio cognitivo",
-      "link": "https://www.poder360.com.br/poder-saude/realidade-virtual-e-ia-aprimoram-a-deteccao-de-declinio-cognitivo/",
-      "summary": "Sistema combina realidade virtual, atividade cerebral e IA para identificar comprometimento cognitivo leve em idosos",
-      "published_at": "2026-11-02T09:20:49Z",
-      "region": "América do Sul",
-      "theme": "Ciência, Tecnologia e Inovação",
-      "source_name": "Poder360",
-      "source_id": "poder360",
-      "is_brazilian": true,
-      "image_url": "https://static.poder360.com.br/uploads/2026/10/ICMC-USP-1200x675.png",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1518770660439-4636190af475?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1507668077129-56e32842fceb?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "El Ejército israelí acaba su operación en Hebrón tras once días de demoliciones y desplazamientos forzados",
-      "link": "https://www.europapress.es/internacional/noticia-ejercito-israeli-acaba-operacion-hebron-once-dias-demoliciones-desplazamientos-forzados-20261102101626.html",
-      "summary": "El Ejército de Israel ha dado por terminada la operación que lanzaron once días en Hebrón, una de las ciudades más importantes de Cisjordania, después del ataque a tiros que costó las vidas de dos de sus militares.",
-      "published_at": "2026-11-02T09:16:26Z",
-      "region": "Oriente Médio",
-      "theme": "Geopolítica e Segurança",
-      "source_name": "Europa Press",
-      "source_id": "europa_press",
-      "is_brazilian": false,
-      "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20261102101626_120.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Ferramenta on-line facilita a análise de dados genéticos complexos",
-      "link": "https://www.poder360.com.br/poder-saude/ferramenta-on-line-gratuita-facilita-a-analise-de-dados-geneticos-complexos/",
-      "summary": "Plataforma permite analisar dados de expressão gênica em células individuais sem conhecimentos de programação",
-      "published_at": "2026-11-02T09:10:32Z",
-      "region": "América do Sul",
-      "theme": "Outros / Multitemático",
-      "source_name": "Poder360",
-      "source_id": "poder360",
-      "is_brazilian": true,
-      "image_url": "https://static.poder360.com.br/uploads/2025/08/computador-aberto-dados-scaled.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Nine killed as small jet crashes on Florida street",
-      "link": "https://www.bbc.co.uk/news/articles/cm369yy7lw73o?at_medium=RSS&at_campaign=rss",
-      "summary": "Transportation Secretary Sean Duffy described the crash, which happened near President Trump's Mar-a-Lago resort, as a \"horrific tragedy\".",
-      "published_at": "2026-11-02T09:10:19Z",
-      "region": "América do Norte",
-      "theme": "Política Internacional",
-      "source_name": "BBC World News",
-      "source_id": "bbc_world",
-      "is_brazilian": false,
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5800/live/cf28de00-d691-11f1-93e1-3b657b665bcf.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "RSF publishes list of press freedom 'predators': 'Dictators want to silence journalists'",
-      "link": "https://www.france24.com/en/rsf-publishes-list-of-press-freedom-predators-dictators-want-to-silence-journalists",
-      "summary": "Eve Irvine is pleased to welcome Thibaut Bruttin, Director General and Secretary-General of Reporters Without Borders (RSF), who says, “When a journalist is killed, it is everyone's right to know what is being endangered.” His warning captures the central democratic dilemma explored in this interview marking the United Nations' International Day to End Impunity for Crimes Against Journalists. As journalists confront lethal violence, imprisonment, political intimidation and increasingly hostile working environments, the struggle for press freedom has become inseparable from a more fundamental question: who controls the public's access to truth? For RSF, press freedom is not simply a journalist's right to speak, but society's right to know.",
-      "published_at": "2026-11-02T09:06:52Z",
-      "region": "Europa",
-      "theme": "Cultura, Mídia e Sociedade",
-      "source_name": "France 24",
-      "source_id": "france24",
-      "is_brazilian": false,
-      "image_url": "https://s.france24.com/media/display/34a73f5a-d698-11f1-a86b-1beafce15fea/w:1024/p:16x9/EN-20261102-081019-081929-CS.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1460661419201-fd4cecdf8a8b?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1508700115892-45ecd05ae2ad?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "US midterms: 1 day to go – Democrats rally around El-Sayed amid attacks",
-      "link": "https://www.aljazeera.com/news/2026/11/2/us-midterms-1-day-to-go-democrats-rally-around-el-sayed-amid-attacks?traffic_source=rss",
-      "summary": "Democrats slam Haley Stevens over her endorsement of a Republican candidate a day before the polls.",
-      "published_at": "2026-11-02T09:06:20Z",
-      "region": "América do Norte",
-      "theme": "Outros / Multitemático",
-      "source_name": "Al Jazeera",
-      "source_id": "aljazeera_english",
-      "is_brazilian": false,
-      "image_url": null,
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "MLB ‘spot-fixing’ trial set to begin in US court",
-      "link": "https://www.aljazeera.com/sports/2026/11/2/mlb-spot-fixing-trial-set-to-begin-in-us-court?traffic_source=rss",
-      "summary": "MLB pitchers charged with conspiracy to influence sporting contests by bribery go on trial in New York.",
-      "published_at": "2026-11-02T09:01:49Z",
-      "region": "América do Norte",
-      "theme": "Outros / Multitemático",
-      "source_name": "Al Jazeera",
-      "source_id": "aljazeera_english",
-      "is_brazilian": false,
-      "image_url": null,
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Governo prioriza tarifa zero, segurança, bets e orçamento no Congresso",
-      "link": "https://www.poder360.com.br/poder-congresso/governo-prioriza-tarifa-zero-seguranca-bets-e-orcamento-no-congresso/",
-      "summary": "PT busca acelerar votações antes do recesso diante da expectativa de maior resistência do PL em 2027, quando o partido terá a maior bancada",
-      "published_at": "2026-11-02T09:00:50Z",
-      "region": "América do Sul",
-      "theme": "Política Brasileira",
-      "source_name": "Poder360",
-      "source_id": "poder360",
-      "is_brazilian": true,
-      "image_url": "https://static.poder360.com.br/uploads/2026/11/lula-alcolumbre-motta-ago-2026-1200x675.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Pequenas empresas não estão prontas para reforma tributária, diz Fenacon",
-      "link": "https://www.poder360.com.br/poder-economia/pequenas-empresas-nao-estao-prontas-para-reforma-tributaria-diz-fenacon/",
-      "summary": "Presidente da entidade afirmou que o governo federal deveria realizar um trabalho de conscientização com as companhias",
-      "published_at": "2026-11-02T09:00:49Z",
-      "region": "América do Sul",
-      "theme": "Economia Brasileira",
-      "source_name": "Poder360",
-      "source_id": "poder360",
-      "is_brazilian": true,
-      "image_url": "https://static.poder360.com.br/uploads/2026/10/presidente-Fenacon-1200x675.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1506744038136-46273834b3fb?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Fim da escala 6 X 1 pressiona gasto de prefeituras, diz Sebastião Melo",
-      "link": "https://www.poder360.com.br/poder-congresso/fim-da-escala-6-x-1-pressiona-gasto-de-prefeituras-diz-sebastiao-melo/",
-      "summary": "Prefeito de Porto Alegre afirma que redução da jornada vai afetar contratos municipais e pode comprometer a qualidade dos serviços",
-      "published_at": "2026-11-02T09:00:38Z",
-      "region": "América do Sul",
-      "theme": "Outros / Multitemático",
-      "source_name": "Poder360",
-      "source_id": "poder360",
-      "is_brazilian": true,
-      "image_url": "https://static.poder360.com.br/uploads/2024/05/sebastiao-melo-porto-alegre-poa.png",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "“Fox News” critica a imprensa 10 vezes mais que a “CNN”, diz estudo",
-      "link": "https://www.poder360.com.br/poder-midia/fox-news-critica-a-imprensa-10-vezes-mais-que-a-cnn-diz-estudo/",
-      "summary": "Pesquisa da Universidade Duke analisou 15 anos de programação e identificou críticas à imprensa a cada 14,5 minutos na \"Fox News\", contra 140 minutos na \"CNN\"",
-      "published_at": "2026-11-02T09:00:26Z",
-      "region": "América do Sul",
-      "theme": "Cultura, Mídia e Sociedade",
-      "source_name": "Poder360",
-      "source_id": "poder360",
-      "is_brazilian": true,
-      "image_url": "https://static.poder360.com.br/uploads/2024/01/fox-news-msnbc-cnn-logos.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1460661419201-fd4cecdf8a8b?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1508700115892-45ecd05ae2ad?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "For US Democrats, climate policy is now about energy bills",
-      "link": "https://www.dw.com/en/for-us-democrats-climate-policy-is-now-about-energy-bills/a-79808783?maca=en-rss-en-world-4025-rdf",
-      "summary": "Climate change has all but disappeared from Democrats' campaign pitches, replaced by promises to lower electricity bills. So what would the party really do for climate policy should it win control of Congress?",
-      "published_at": "2026-11-02T08:59:00Z",
-      "region": "América do Norte",
-      "theme": "Meio Ambiente e Clima",
-      "source_name": "DW World News",
-      "source_id": "dw_english",
-      "is_brazilian": false,
-      "image_url": "https://static.dw.com/image/79304538_6.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Trump makes controversial claims at final Republican campaign rallies",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/2/trump-makes-controversial-claims-at-final-republican-campaign-rallies?traffic_source=rss",
-      "summary": "Donald Trump made a series of provocative remarks during his final Republican campaign rallies.",
-      "published_at": "2026-11-02T08:55:48Z",
-      "region": "América do Norte",
-      "theme": "Política Internacional",
-      "source_name": "Al Jazeera",
-      "source_id": "aljazeera_english",
-      "is_brazilian": false,
-      "image_url": null,
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Anthrax outbreak kills hippos in DR Congo’s Virunga National Park",
-      "link": "https://www.aljazeera.com/news/2026/11/2/anthrax-outbreak-kills-hippos-in-dr-congos-virunga-national-park?traffic_source=rss",
-      "summary": "Drought and conflict compound the threat to wildlife in eastern DR Congo.",
-      "published_at": "2026-11-02T08:49:32Z",
-      "region": "África",
-      "theme": "Saúde",
-      "source_name": "Al Jazeera",
-      "source_id": "aljazeera_english",
-      "is_brazilian": false,
-      "image_url": null,
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1584515901367-f1c2a12a50ea?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1505751172876-fa1923c5c528?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1584036561566-baf2418a7c21?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Al menos cuatro muertos, entre ellas una recién nacida, en un atentado en el centro de Colombia",
-      "link": "https://www.europapress.es/internacional/noticia-menos-cuatro-muertos-ellas-recien-nacida-atentado-centro-colombia-20261102094724.html",
-      "summary": "Al menos cuatro personas han muerto este pasado domingo en el centro de Colombia, entre ellas una niña recién nacida, como consecuencia de un atentado con un camión-bomba, cuya autoría está ahora mismo bajo investigación, en el municipio de Planadas, departamento de Tolima.",
-      "published_at": "2026-11-02T08:47:24Z",
-      "region": "América do Sul",
-      "theme": "Direito Internacional e Instituições",
-      "source_name": "Europa Press",
-      "source_id": "europa_press",
-      "is_brazilian": false,
-      "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20261102094724_120.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1505664194779-8beaceb93744?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Sydney deploys heavily armed police unit after Bondi attack",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/2/sydney-deploys-heavily-armed-police-unit-after-bondi-attack?traffic_source=rss",
-      "summary": "Sydney deploys heavily armed police unit after Bondi attack",
-      "published_at": "2026-11-02T08:44:49Z",
-      "region": "Oriente Médio",
-      "theme": "Geopolítica e Segurança",
-      "source_name": "Al Jazeera",
-      "source_id": "aljazeera_english",
-      "is_brazilian": false,
-      "image_url": null,
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Nove pessoas morrem em acidente de avião na Flórida; veja o que se sabe",
-      "link": "https://www.bbc.com/portuguese/articles/cm9qz2289dvyo?at_medium=RSS&at_campaign=rss",
-      "summary": "O secretário de Transportes dos Estados Unidos, Sean Duffy, classifica como uma \"tragédia horrível\" o acidente ocorrido a cerca de 14 km do resort Mar-a-Lago, do presidente Donald Trump",
-      "published_at": "2026-11-02T08:37:44Z",
-      "region": "América do Norte",
-      "theme": "Política Internacional",
-      "source_name": "BBC News Brasil",
-      "source_id": "bbc_brasil",
-      "is_brazilian": true,
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7ff5/live/297a4cd0-d698-11f1-a701-fddedf244c16.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Thousands evacuated as India braces for second cyclone in a week",
-      "link": "https://www.aljazeera.com/news/2026/11/2/thousands-evacuated-as-india-braces-for-second-cyclone-in-a-week?traffic_source=rss",
-      "summary": "Cyclone Murasu expected to hit near Ongole late Monday with wind speeds of 100-110km/h, Meteorological Department says.",
-      "published_at": "2026-11-02T08:29:29Z",
-      "region": "Ásia",
-      "theme": "Meio Ambiente e Clima",
-      "source_name": "Al Jazeera",
-      "source_id": "aljazeera_english",
-      "is_brazilian": false,
-      "image_url": null,
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Coventry fan, 14, hands himself in after Bradley Lowery taunt in Sunderland",
-      "link": "https://www.aljazeera.com/sports/2026/11/2/coventry-fan-14-hands-himself-in-after-bradley-lowery-taunt-in-sunderland?traffic_source=rss",
-      "summary": "Police investigate after an individual in Coventry section displayed an image of Lowery during Sunderland's 3-1 defeat.",
-      "published_at": "2026-11-02T08:25:07Z",
-      "region": "Oriente Médio",
-      "theme": "Outros / Multitemático",
-      "source_name": "Al Jazeera",
-      "source_id": "aljazeera_english",
-      "is_brazilian": false,
-      "image_url": null,
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Michigan Democrat stuns party to back Republican candidate in critical Senate race",
-      "link": "https://www.france24.com/en/americas/20261102-michigan-democrat-stuns-party-back-republican-candidate-critical-senate-race",
-      "summary": "A high-profile Democratic defection shook Michigan's Senate race on the eve of US midterm elections as Representative Haley Stevens threw her support behind Republican Mike Rogers rather than backing the Democratic candidate, Abdul Al-Sayed, who beat her in the primary race. The move exposed divisions within the party as control of Congress hangs in the balance.",
-      "published_at": "2026-11-02T08:20:48Z",
-      "region": "América do Norte",
-      "theme": "Política Internacional",
-      "source_name": "France 24",
-      "source_id": "france24",
-      "is_brazilian": false,
-      "image_url": "https://s.france24.com/media/display/446637b6-d64d-11f1-b4b0-d18c5759e759/w:1024/p:16x9/2026-11-01T183814Z-1515927286-RC26FOANA85M-RTRMADP-3-USA-ELECTION-MICHIGAN.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Chinese state TV continues Real Madrid blackout after Mbappe-Mao meme row",
-      "link": "https://www.aljazeera.com/sports/2026/11/2/chinese-state-tv-continues-real-madrid-blackout-after-mbappe-mao-meme-row?traffic_source=rss",
-      "summary": "Real Madrid vs Racing Santander is not broadcast on CCTV despite apologies from Mbappe, Real and La Liga.",
-      "published_at": "2026-11-02T08:16:45Z",
-      "region": "Europa",
-      "theme": "Outros / Multitemático",
-      "source_name": "Al Jazeera",
-      "source_id": "aljazeera_english",
-      "is_brazilian": false,
-      "image_url": null,
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "How the president’s party has fared in every US midterm election since 1946",
-      "link": "https://www.aljazeera.com/news/2026/11/2/how-the-presidents-party-has-fared-in-every-us-midterm-election-since-1946?traffic_source=rss",
-      "summary": "Only twice in the past 20 midterms has the president’s party gained House seats. Polls suggest 2026 won’t be the third.",
-      "published_at": "2026-11-02T08:05:03Z",
-      "region": "América do Norte",
-      "theme": "Política Internacional",
-      "source_name": "Al Jazeera",
-      "source_id": "aljazeera_english",
-      "is_brazilian": false,
-      "image_url": null,
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "El Partido Demócrata de Michigan expulsa a la tránsfuga Stevens y cierra filas en torno a Abdul El Sayed",
-      "link": "https://www.europapress.es/internacional/noticia-partido-democrata-michigan-expulsa-transfuga-stevens-cierra-filas-torno-abdul-sayed-20261102090422.html",
-      "summary": "El líder 'de facto' del partido y exponente de la comunidad judía, Chuck Schumer, declara su apoyo inquebrantable al candidato musulmán",
-      "published_at": "2026-11-02T08:04:22Z",
-      "region": "Europa",
-      "theme": "Outros / Multitemático",
-      "source_name": "Europa Press",
-      "source_id": "europa_press",
-      "is_brazilian": false,
-      "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20261102090422_120.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Popular Australian children's author jailed over child exploitation offences",
-      "link": "https://www.bbc.co.uk/news/articles/cmjwe9nggp60o?at_medium=RSS&at_campaign=rss",
-      "summary": "The author of Jasper Jones and Runt pleaded guilty in May after police raided his home months earlier.",
-      "published_at": "2026-11-02T08:03:39Z",
-      "region": "Oceania",
-      "theme": "Outros / Multitemático",
-      "source_name": "BBC World News",
-      "source_id": "bbc_world",
-      "is_brazilian": false,
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6df4/live/dcb768a0-d693-11f1-8f56-0b6ab08f384e.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "El secretario general de la OEI augura el \"éxito\" de una Cumbre Iberoamericana con resultados concretos",
-      "link": "https://www.europapress.es/internacional/noticia-secretario-general-oei-augura-exito-cumbre-iberoamericana-resultados-concretos-20261102085448.html",
-      "summary": "El secretario general de la Organización de Estados Iberoamericanos para la Educación, la Ciencia y la Cultura (OEI), Mariano Jabonero, ha vaticinado que la XXX Cumbre Iberoamericana que se celebrará en Madrid los próximos 4 y 5 de noviembre será un \"éxito\", apuntando a que hay un enorme esfuerzo por lograr resultados concretos en la cita ante ocasiones en las que hubo \"mayor retórica\".",
-      "published_at": "2026-11-02T07:54:48Z",
-      "region": "Europa",
-      "theme": "Política Internacional",
-      "source_name": "Europa Press",
-      "source_id": "europa_press",
-      "is_brazilian": false,
-      "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20261102085448_120.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
       ]
     }
   ]
