@@ -1,17 +1,663 @@
 {
-  "updated_at": "2026-11-05T00:39:58.427113Z",
+  "updated_at": "2026-11-05T07:35:09.671631Z",
   "news": [
     {
       "title": "Democratas assumem controle do Congresso dos EUA e impõem derrota a Trump; veja cobertura da eleição minuto a minuto",
       "link": "https://www.bbc.co.uk/portuguese/live/c6073r14jp7gt?at_medium=RSS&at_campaign=rss",
       "summary": "Vitórias em Estados como Texas e Kansas confirmam 'onda azul' que dá comando do Congresso aos democratas durante o tempo restante do mandato do presidente.",
-      "published_at": "2026-11-05T00:39:48.706640Z",
+      "published_at": "2026-11-05T07:35:01.078877Z",
       "region": "América do Norte",
       "theme": "Política Internacional",
       "source_name": "BBC News Brasil",
       "source_id": "bbc_brasil",
       "is_brazilian": true,
       "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fcd4/live/0b35c1d0-d8a2-11f1-b209-6de3e7b08491.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Hackers usaram falsa entrevista de emprego em invasão, diz Binance",
+      "link": "https://www.poder360.com.br/poder-economia/hackers-usaram-falsa-entrevista-de-emprego-em-invasao-diz-binance/",
+      "summary": "Foram furtados US$ 6,3 bilhões da corretora de criptoativos na última 5ª feira (29.out)",
+      "published_at": "2026-11-05T07:22:33Z",
+      "region": "América do Norte",
+      "theme": "Geopolítica e Segurança",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2026/11/Binance-Criptomoeda-Corretora-Aplicativo-8-scaled-1-1200x675.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Live: France braces for nationwide strikes in fresh test for Macron’s policies",
+      "link": "https://www.france24.com/en/france/20261105-live-france-nationwide-strikes-living-costs",
+      "summary": "Strikes and demonstrations are planned across France on Thursday, with trade unions urging the government to support households struggling with rising living costs. The nationwide protests follow weeks of social unrest. Follow our liveblog for the latest updates.",
+      "published_at": "2026-11-05T07:10:32Z",
+      "region": "Europa",
+      "theme": "Política Internacional",
+      "source_name": "France 24",
+      "source_id": "france24",
+      "is_brazilian": false,
+      "image_url": "https://s.france24.com/media/display/1182cb7c-d8df-11f1-837f-d18c5759e759/w:1024/p:16x9/EN-20261105-063742-063927-CS.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "What the Democrats' midterms win means for the US economy and Trump",
+      "link": "https://www.dw.com/en/what-the-democrats-midterms-win-means-for-the-us-economy-and-trump/a-79853716?maca=en-rss-en-world-4025-rdf",
+      "summary": "From high oil prices and data centers to tariffs and mounting debt, economic concerns played a key role in the crushing defeat of President Donald Trump's Republicans. So can the Democrats now make a difference?",
+      "published_at": "2026-11-05T07:03:00Z",
+      "region": "América do Norte",
+      "theme": "Política Internacional",
+      "source_name": "DW World News",
+      "source_id": "dw_english",
+      "is_brazilian": false,
+      "image_url": "https://static.dw.com/image/79626408_6.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Bob Dylan comes knockin' on pope's door as Leo welcomes legend to Vatican",
+      "link": "https://www.npr.org/2026/11/05/g-s1-152035/vatican-pope-bob-dylan",
+      "summary": "The American singer-songwriter and poet visited with the American pope at the Vatican during a break between concert dates in Italy. The Vatican said the encounter was brief.",
+      "published_at": "2026-11-05T07:02:12Z",
+      "region": "América do Norte",
+      "theme": "Outros / Multitemático",
+      "source_name": "NPR World News",
+      "source_id": "npr",
+      "is_brazilian": false,
+      "image_url": null,
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Joshua Wong, face of Hong Kong's pro-democracy protests, jailed for 10 years",
+      "link": "https://www.bbc.co.uk/news/articles/cwp9g3rlp8jlo?at_medium=RSS&at_campaign=rss",
+      "summary": "Wong, 30, is among hundreds of Hongkongers detained under the controversial national security law.",
+      "published_at": "2026-11-05T06:35:25Z",
+      "region": "Global",
+      "theme": "Outros / Multitemático",
+      "source_name": "BBC World News",
+      "source_id": "bbc_world",
+      "is_brazilian": false,
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ff8f/live/68eb4bf0-d8e4-11f1-a701-fddedf244c16.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "New Zealand braces for knife-edge election: What you need to know",
+      "link": "https://www.aljazeera.com/news/2026/11/5/new-zealand-braces-for-knife-edge-election-what-you-need-to-know?traffic_source=rss",
+      "summary": "Smaller parties hold the key, with major contenders expected to fall short of the majority needed to govern alone.",
+      "published_at": "2026-11-05T06:34:50Z",
+      "region": "Oceania",
+      "theme": "Política Internacional",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/10/2026-10-26T043254Z_1618939652_RC2PAOA1AN7K_RTRMADP_3_NEWZEALAND-ELECTION-LUXON-1793278823.jpg?resize=1920%2C1440",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Heineken acerta compra da Better Drinks, dona da Praya e Baer-Mate",
+      "link": "https://www.poder360.com.br/poder-economia/heineken-acerta-compra-da-better-drinks-dona-da-praya-e-baer-mate/",
+      "summary": "Grupo terá todas as ações com direito a voto da empresa brasileira; operação inclui 5 marcas e depende de aprovação do Cade",
+      "published_at": "2026-11-05T06:24:48Z",
+      "region": "América do Sul",
+      "theme": "Outros / Multitemático",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2025/10/heineken-logo.jpeg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Has India’s democracy failed its Muslims? Jailed scholar triggers debate",
+      "link": "https://www.aljazeera.com/news/2026/11/5/has-indias-democracy-failed-its-muslims-jailed-scholar-triggers-debate?traffic_source=rss",
+      "summary": "Sharjeel Imam questioned foundational ideas of India's nationalism in interview with The Quint, inspiring heated debate.",
+      "published_at": "2026-11-05T06:10:51Z",
+      "region": "Ásia",
+      "theme": "Outros / Multitemático",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/11/017A3662-1793863585.jpg?resize=1920%2C1440",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Irán afirma que dos petroleros se han incendiado al chocar con minas en el estrecho de Ormuz",
+      "link": "https://www.europapress.es/internacional/noticia-iran-afirma-dos-petroleros-incendiado-chocar-minas-estrecho-ormuz-20261105065804.html",
+      "summary": "La Guardia Revolucionaria de Irán ha informado este jueves de que dos petroleros de gran tonelaje y un remolcador se han incendiado tras impactar con minas navales cuando intentaban cruzar de forma \"ilegal\" el estrecho de Ormuz, al tiempo que ha asegurado haber tomado el control y desviado dos drones de ataque estadounidenses.",
+      "published_at": "2026-11-05T05:58:04Z",
+      "region": "Europa",
+      "theme": "Geopolítica e Segurança",
+      "source_name": "Europa Press",
+      "source_id": "europa_press",
+      "is_brazilian": false,
+      "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20261105065804_120.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Israel’s opposition slams ‘toxic Netanyahu’ after Democrats win US Congress",
+      "link": "https://www.aljazeera.com/news/2026/11/5/israels-opposition-slams-toxic-netanyahu-after-democrats-win-us-congress?traffic_source=rss",
+      "summary": "Netanyahu's rivals say US midterm results show Israel 'cannot afford' to have the prime minister remain in office.",
+      "published_at": "2026-11-05T05:39:31Z",
+      "region": "Oriente Médio",
+      "theme": "Política Internacional",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-10-28T123350Z_597274871_RC2BCOAXNME7_RTRMADP_3_ISRAEL-ELECTION-1793857037_b6bd47-1793857065.jpg?resize=1200%2C630&quality=80",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Melania Trump to host Ukrainian, Russian officials at White House",
+      "link": "https://www.france24.com/en/americas/20261105-melania-trump-to-host-ukrainian-russian-officials-at-white-house",
+      "summary": "Russian and Ukrainian officials, including human rights chiefs, are set to meet US First Lady Melania Trump at the White House Thursday ahead of Abu Dhabi talks aimed at ending the Ukraine war. It comes weeks after Melania Trump helped broker a partial ceasefire enabling the evacuation of civilians from the Russian-occupied Ukrainian town of Oleshky.",
+      "published_at": "2026-11-05T05:23:48Z",
+      "region": "Europa",
+      "theme": "Política Internacional",
+      "source_name": "France 24",
+      "source_id": "france24",
+      "is_brazilian": false,
+      "image_url": "https://s.france24.com/media/display/137d8a76-d8d9-11f1-a4b1-1beafce15fea/w:1024/p:16x9/2f7f2262d4da4497ef29903a2565b6f31f07f054.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Condenado a 10 años de prisión el activista hongkonés Joshua Wong por conspiración con fuerzas extranjeras",
+      "link": "https://www.europapress.es/internacional/noticia-condenado-10-anos-prision-activista-hongkones-joshua-wong-conspiracion-fuerzas-extranjeras-20261105061223.html",
+      "summary": "El Tribunal Superior de Hong Kong ha condenado este jueves al destacado activista y opositor hongkonés Joshua Wong a una pena de 10 años de prisión tras declararse culpable de conspirar para actuar en connivencia con fuerzas extranjeras, en aplicación de la Ley de Seguridad Nacional impuesta por Pekín.",
+      "published_at": "2026-11-05T05:12:23Z",
+      "region": "Europa",
+      "theme": "Geopolítica e Segurança",
+      "source_name": "Europa Press",
+      "source_id": "europa_press",
+      "is_brazilian": false,
+      "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20261105061223_120.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Zelenskyy hopes Democratic Congress will bring more US help for Ukraine",
+      "link": "https://www.aljazeera.com/news/2026/11/5/zelenskyy-hopes-democratic-congress-will-bring-more-us-help-for-ukraine?traffic_source=rss",
+      "summary": "EU officials also urge new US Congress to step up pressure on Russia to end the four-and-a-half-year war.",
+      "published_at": "2026-11-05T04:49:56Z",
+      "region": "Europa",
+      "theme": "Geopolítica e Segurança",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/11/GettyImages-2287371645-1793853881_ea3875-1793854126.jpg?resize=1200%2C630&quality=80",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Mamdani: ‘it’s morning again in America’ after blue wave",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/5/mamdani-its-morning-again-in-america-after-blue-wave?traffic_source=rss",
+      "summary": "New York City Mayor Zohran Mamdani urged fellow Democrats to ‘fulfill promises’ after sweeping wins.",
+      "published_at": "2026-11-05T04:30:18Z",
+      "region": "América do Norte",
+      "theme": "Outros / Multitemático",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1793853004.jpg?resize=1920%2C1080&quality=80",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Brazilian airport torn apart by violent storm",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/5/brazilian-airport-torn-apart-by-violent-storm?traffic_source=rss",
+      "summary": "Dramatic footage captured the moment a powerful tornado struck Chapecó Airport in Santa Catarina, Brazil",
+      "published_at": "2026-11-05T04:12:11Z",
+      "region": "América do Sul",
+      "theme": "Meio Ambiente e Clima",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1793851907.jpg?resize=1760%2C1080&quality=80",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Paraguay bank collapses with half of population’s savings",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/5/paraguay-bank-collapses-with-half-of-populations-savings?traffic_source=rss",
+      "summary": "Protests have erupted across Paraguay after Ueno Bank was shut down in the middle of the night over a solvency crisis.",
+      "published_at": "2026-11-05T04:11:45Z",
+      "region": "Oriente Médio",
+      "theme": "Economia Internacional",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1793851866.jpg?resize=1620%2C1080&quality=80",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Hong Kong activist Joshua Wong sentenced to ten years in jail",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/5/hong-kong-activist-joshua-wong-sentenced-to-ten-years-in-jail?traffic_source=rss",
+      "summary": "Hong Kong activist Joshua Wong, who became the global face of Hong Kong’s pro-democracy movement has been sentenced.",
+      "published_at": "2026-11-05T04:04:57Z",
+      "region": "Oriente Médio",
+      "theme": "Saúde",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1793851446.jpg?resize=1620%2C1080&quality=80",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1584515901367-f1c2a12a50ea?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1505751172876-fa1923c5c528?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1584036561566-baf2418a7c21?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "World record 53 red cards shown in Brazil football match",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/5/world-record-53-red-cards-shown-in-brazil-football-match?traffic_source=rss",
+      "summary": "Referees have red-carded 53 players and staff after a massive brawl in an under-20s football match in Brazil.",
+      "published_at": "2026-11-05T03:48:19Z",
+      "region": "América do Sul",
+      "theme": "Outros / Multitemático",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1793850456.jpg?resize=1920%2C1079&quality=80",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Vance walks Trump tightrope with scathing election critique blaming Iran war",
+      "link": "https://www.bbc.co.uk/news/articles/crz98zqkz7z0o?at_medium=RSS&at_campaign=rss",
+      "summary": "The vice-president's blunt assessment of Republican election defeat marked one of the sharpest breaks with a sitting president in recent memory.",
+      "published_at": "2026-11-05T03:47:56Z",
+      "region": "América do Norte",
+      "theme": "Política Internacional",
+      "source_name": "BBC World News",
+      "source_id": "bbc_world",
+      "is_brazilian": false,
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3c74/live/1d4cf850-d8e5-11f1-a701-fddedf244c16.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Syria, Saudi Arabia sign defence cooperation deal, agree $403m in loans",
+      "link": "https://www.aljazeera.com/news/2026/11/5/syria-saudi-arabia-sign-defence-cooperation-deal-agree-403m-in-loans?traffic_source=rss",
+      "summary": "Defence cooperation deal signed as Syria's President al-Sharaa visits Riyadh for the second time in less than a month.",
+      "published_at": "2026-11-05T03:46:13Z",
+      "region": "Oriente Médio",
+      "theme": "Política Internacional",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": null,
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Hong Kong activist Joshua Wong gets 10 more years in jail for foreign collusion",
+      "link": "https://www.france24.com/en/asia-pacific/20261105-joshua-wong-hong-kong-10-years-jail-foreign-collusion",
+      "summary": "Hong Kong democracy activist Joshua Wong was sentenced to 10 more years in prison on Thursday for colluding with foreign powers, a court summary said. Wong, 30, pleaded guilty in September to seeking foreign sanctions against Hong Kong and China under Beijing’s national security law, having spent nearly six years imprisoned.",
+      "published_at": "2026-11-05T03:31:53Z",
+      "region": "Ásia",
+      "theme": "Geopolítica e Segurança",
+      "source_name": "France 24",
+      "source_id": "france24",
+      "is_brazilian": false,
+      "image_url": "https://s.france24.com/media/display/bac80546-d89c-11f1-8ab0-1beafce15fea/w:1024/p:16x9/a3febbc244aae5c0e71fa2e37cf9f5a49bf1acb0.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "What’s delaying the US Senate election results in Mississippi and Alaska?",
+      "link": "https://www.aljazeera.com/news/2026/11/5/whats-delaying-us-midterm-election-calls-in-mississippi-and-alaska?traffic_source=rss",
+      "summary": "Ranked-choice voting may decide Alaska's Senate outcome, while Mississippi's race hangs on a knife's edge.",
+      "published_at": "2026-11-05T03:13:08Z",
+      "region": "América do Norte",
+      "theme": "Política Internacional",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": null,
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "IBJR critica proibição de bets e pede segurança jurídica no STF",
+      "link": "https://www.poder360.com.br/poder-justica/ibjr-critica-proibicao-de-bets-e-pede-seguranca-juridica-no-stf/",
+      "summary": "Organização diz que restrição pode ampliar mercado ilegal; audiência no Supremo discutiu efeitos econômicos e sociais da medida",
+      "published_at": "2026-11-05T03:06:55Z",
+      "region": "América do Sul",
+      "theme": "Política Brasileira",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2026/10/bloqueio-plataformas-apostas-bets-6out2026-1200x675.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Former Israeli generals help Palestinian olive farmers",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/5/former-israeli-generals-help-palestinian-olive-farmers?traffic_source=rss",
+      "summary": "A group of former Israeli military generals offered their help to Palestinian olive farmers in the occupied West Bank.",
+      "published_at": "2026-11-05T02:52:30Z",
+      "region": "Oriente Médio",
+      "theme": "Geopolítica e Segurança",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": null,
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Nikolas critica Janja por montagem do Cristo e da Estátua da Liberdade",
+      "link": "https://www.poder360.com.br/poder-congresso/nikolas-critica-janja-por-montagem-do-cristo-e-da-estatua-da-liberdade/",
+      "summary": "Deputado ironizou imagem que mostra monumentos brasileiro e norte-americano fazendo o gesto de “L”, símbolo de Lula",
+      "published_at": "2026-11-05T02:45:11Z",
+      "region": "América do Sul",
+      "theme": "Política Brasileira",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2026/11/Postagem-Nikolas-1200x675.png",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Vote counting underway in critical South Africa elections",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/5/vote-counting-underway-in-critical-south-africa-elections?traffic_source=rss",
+      "summary": "Votes are being counted across South Africa after a record 29.2 million people registered to vote.",
+      "published_at": "2026-11-05T02:43:04Z",
+      "region": "África",
+      "theme": "Política Internacional",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": null,
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Concessionária de nova linha do metrô em SP faz mutirão de contratação",
+      "link": "https://www.poder360.com.br/poder-brasil/concessionaria-de-nova-linha-do-metro-em-sp-faz-mutirao-de-contratacao/",
+      "summary": "Seleção será no sábado (7.nov), na Água Branca, em São Paulo; aprovados poderão fazer exame admissional no mesmo dia",
+      "published_at": "2026-11-05T02:25:52Z",
+      "region": "América do Sul",
+      "theme": "Outros / Multitemático",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2026/07/trens-linha6-metrosp-divulgacao-linhauni-2jul2026-scaled.png",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "South Korea to deploy military mission to keep Strait of Hormuz open",
+      "link": "https://www.france24.com/en/asia-pacific/20261105-south-korea-military-mission-strait-of-hormuz",
+      "summary": "South Korea will deploy maritime patrol aircraft and an explosive ordnance disposal team near the Strait of Hormuz to help keep the waterway open, its defence ministry said Thursday. Seoul said it would protect commercial shipping and energy supplies while ruling out military intervention in the ongoing US-Iran war.",
+      "published_at": "2026-11-05T02:17:44Z",
+      "region": "Ásia",
+      "theme": "Geopolítica e Segurança",
+      "source_name": "France 24",
+      "source_id": "france24",
+      "is_brazilian": false,
+      "image_url": "https://s.france24.com/media/display/d0048f40-c016-11f1-b91d-13420ab900a2/w:1024/p:16x9/99ebe76c25b49d6da267803d0e58260a8db5112b.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Dólar cai a R$ 5,45 e Ibovespa recupera os 167 mil pontos",
+      "link": "https://www.poder360.com.br/poder-economia/dolar-cai-a-r-545-e-ibovespa-recupera-os-167-mil-pontos/",
+      "summary": "Alívio externo após eleições nos EUA impulsiona ativos de risco",
+      "published_at": "2026-11-05T02:10:51Z",
+      "region": "América do Norte",
+      "theme": "Comércio e Finanças",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2026/11/valor-dolar-trajetoria-diaria-4-nov-2026-02-1200x675.png",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1578575437130-527eed3abbec?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1522071820081-009f0129c71c?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "El Salvador’s Bukele touts military intervention in Haiti",
+      "link": "https://www.aljazeera.com/news/2026/11/5/el-salvadors-bukele-touts-military-intervention-in-haiti?traffic_source=rss",
+      "summary": "Haitian police have found a vehicle used by four missing Salvadoran technicians as Salvadoran troops deploy to Haiti.",
+      "published_at": "2026-11-05T02:10:07Z",
+      "region": "América Central",
+      "theme": "Geopolítica e Segurança",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": null,
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Pope Leo hosts Bob Dylan at official residence in Rome",
+      "link": "https://www.bbc.co.uk/news/articles/cm0e035n13ylo?at_medium=RSS&at_campaign=rss",
+      "summary": "Pope Leo had previously quoted Dylan's work in the preface of a book warning against nuclear rearmament.",
+      "published_at": "2026-11-05T02:09:23Z",
+      "region": "Europa",
+      "theme": "Geopolítica e Segurança",
+      "source_name": "BBC World News",
+      "source_id": "bbc_world",
+      "is_brazilian": false,
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dfbd/live/91275ec0-d8b6-11f1-a51b-9f26c18566b3.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Election deniers lose races for governor in key US swing states",
+      "link": "https://www.aljazeera.com/news/2026/11/5/election-deniers-lose-races-for-governor-in-key-us-swing-states?traffic_source=rss",
+      "summary": "State leaders can hold significant sway over election administration, with implications for the 2028 presidential race.",
+      "published_at": "2026-11-05T02:06:07Z",
+      "region": "América do Norte",
+      "theme": "Política Internacional",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": null,
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Governo federal transfere hidrovia do São Francisco para a Bahia",
+      "link": "https://www.poder360.com.br/poder-infra/governo-federal-transfere-hidrovia-do-sao-francisco-para-a-bahia/",
+      "summary": "Companhia das Docas baiana assume a gestão da via, que receberá R$ 300 milhões em aportes federais em 9 anos",
+      "published_at": "2026-11-05T01:58:54Z",
+      "region": "América do Sul",
+      "theme": "Outros / Multitemático",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2026/11/jeronimo-tome-1200x675.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Brasil leva à OEA debate sobre interferência estrangeira na informação",
+      "link": "https://www.poder360.com.br/poder-governo/brasil-leva-a-oea-debate-sobre-interferencia-estrangeira-na-informacao/",
+      "summary": "Governo Lula defende cooperação entre países para identificar manipulações digitais e cita episódios das eleições de 2026",
+      "published_at": "2026-11-05T01:58:20Z",
+      "region": "América do Sul",
+      "theme": "Direito Internacional e Instituições",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2026/10/oea-acompanha-eleicoes-25out2026-1200x675.jpeg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1505664194779-8beaceb93744?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Hallan muerto en un hotel de Berlín al vice primer ministro de Baviera, Hubert Aiwanger",
+      "link": "https://www.europapress.es/internacional/noticia-hallan-muerto-hotel-berlin-viceprimer-ministro-baviera-hubert-aiwanger-20261105025710.html",
+      "summary": "El viceprimer ministro y ministro de Economía del estado alemán de Baviera, Hubert Aiwanger, ha sido hallado muerto a los 55 años en una habitación de hotel en Berlín durante la tarde del miércoles, según ha informado la Fiscalía de la capital alemana.",
+      "published_at": "2026-11-05T01:57:10Z",
+      "region": "Europa",
+      "theme": "Política Internacional",
+      "source_name": "Europa Press",
+      "source_id": "europa_press",
+      "is_brazilian": false,
+      "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20261105025710_120.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Alcolumbre rebate oposição: “No 1º turno a urna prestou e no 2º não?”",
+      "link": "https://www.poder360.com.br/poder-congresso/alcolumbre-rebate-oposicao-no-1o-turno-a-urna-prestou-e-no-2o-nao/",
+      "summary": "Presidente do Senado defendeu sistema eleitoral e criticou políticos que, segundo ele, \"ganharam a eleição ofendendo e agredindo as pessoas”",
+      "published_at": "2026-11-05T01:56:14Z",
+      "region": "América do Sul",
+      "theme": "Política Brasileira",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2026/11/Alcolumbre-durante-sessao-4-nov-2026-1200x675.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Lula faz a 1ª reunião do conselho de minerais críticos na 5ª feira",
+      "link": "https://www.poder360.com.br/poder-governo/lula-faz-a-1a-reuniao-do-conselho-de-minerais-criticos-na-5a-feira/",
+      "summary": "Colegiado vinculado ao Planalto discute lista nacional das substâncias prioritárias e planos para industrializar o setor",
+      "published_at": "2026-11-05T01:44:21Z",
+      "region": "América do Sul",
+      "theme": "Política Brasileira",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2026/09/lula-minerais-1200x675.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Schumer proclama la victoria demócrata en el Senado y avisa a Trump de que el nuevo Congreso \"frenará el caos\"",
+      "link": "https://www.europapress.es/internacional/noticia-schumer-proclama-victoria-democrata-senado-avisa-trump-nuevo-congreso-frenara-caos-20261105020154.html",
+      "summary": "Exige el fin de las operaciones bélicas en Irán y sugiere el uso del poder presupuestario del Congreso como vía para forzar el fin del conflicto",
+      "published_at": "2026-11-05T01:01:54Z",
+      "region": "América do Norte",
+      "theme": "Política Internacional",
+      "source_name": "Europa Press",
+      "source_id": "europa_press",
+      "is_brazilian": false,
+      "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20261105020154_120.jpg",
       "fallback_images": [
         "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
@@ -172,6 +818,23 @@
       ]
     },
     {
+      "title": "Mother and daughter die after suspected grizzly bear attack in Canada",
+      "link": "https://www.bbc.co.uk/news/articles/cqvgry8k5d01o?at_medium=RSS&at_campaign=rss",
+      "summary": "Authorities in British Columbia say evidence suggests an animal may have been involved in the women's deaths.",
+      "published_at": "2026-11-04T23:50:40Z",
+      "region": "América do Norte",
+      "theme": "Geopolítica e Segurança",
+      "source_name": "BBC World News",
+      "source_id": "bbc_world",
+      "is_brazilian": false,
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9e75/live/6fd142d0-d8a3-11f1-b29d-fbcd9d61c58e.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
       "title": "Who gets to vote in the US?",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/11/4/who-gets-to-vote-in-the-us?traffic_source=rss",
       "summary": "Tati Abu King lost his voting rights after felony convictions.",
@@ -325,6 +988,23 @@
       ]
     },
     {
+      "title": "Typhoons batter East Asia as El Niño makes Pacific 'burn with fever'",
+      "link": "https://www.bbc.co.uk/news/articles/cw33kgj7nkemo?at_medium=RSS&at_campaign=rss",
+      "summary": "Even for countries where typhoons are a way of life, the last few months have brought unusually wild weather.",
+      "published_at": "2026-11-04T23:12:47Z",
+      "region": "Ásia",
+      "theme": "Outros / Multitemático",
+      "source_name": "BBC World News",
+      "source_id": "bbc_world",
+      "is_brazilian": false,
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/30ea/live/eaa602a0-d75b-11f1-8f6b-d71817972456.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
       "title": "Zambelli diz que plataforma cancelou vaquinha e pede novas doações",
       "link": "https://www.poder360.com.br/poder-internacional/zambelli-diz-que-plataforma-cancelou-vaquinha-e-pede-novas-doacoes/",
       "summary": "Ex-deputada afirma que assinantes foram reembolsados e busca recursos para custear despesas na Itália, onde aguarda decisão sobre extradição",
@@ -407,6 +1087,23 @@
         "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "'Hopefully things get done': Americans react to historic political shift",
+      "link": "https://www.bbc.co.uk/news/videos/cwj0l61e2927o?at_medium=RSS&at_campaign=rss",
+      "summary": "The BBC spoke to voters from different states for their reaction to Democrats taking control of both the Senate and the House of Representatives.",
+      "published_at": "2026-11-04T22:34:08Z",
+      "region": "Global",
+      "theme": "Política Internacional",
+      "source_name": "BBC World News",
+      "source_id": "bbc_world",
+      "is_brazilian": false,
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/61e6/live/144f7f70-d89f-11f1-a701-fddedf244c16.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
       ]
     },
     {
@@ -1141,6 +1838,23 @@
       ]
     },
     {
+      "title": "What Democrats can and can't do with their new power after taking Congress",
+      "link": "https://www.bbc.co.uk/news/articles/cq1kdgnn2xdeo?at_medium=RSS&at_campaign=rss",
+      "summary": "Democrats can vote legislation through. But Trump still has veto power.",
+      "published_at": "2026-11-04T18:01:27Z",
+      "region": "América do Norte",
+      "theme": "Política Internacional",
+      "source_name": "BBC World News",
+      "source_id": "bbc_world",
+      "is_brazilian": false,
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f863/live/48cc8c40-d889-11f1-8203-5d774478c31c.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
       "title": "Democrats warn Trump camp to ‘lawyer up’ as anger over corruption drives midterms wipeout",
       "link": "https://www.france24.com/en/americas/20261104-democrats-warn-trump-camp-lawyer-up-anger-over-corruption-drives-midterms-wipeout-gop",
       "summary": "Corruption in government was high on the minds of US voters as they dealt US President Donald Trump’s party a chastening defeat in midterm elections, toppling Republican strongholds like dominoes and flipping both chambers of Congress. Triumphant Democrats have warned the Trump administration to “lawyer up”; how they go about tackling alleged graft and abuse of power could shape both their own fortunes and the country’s politics.",
@@ -1835,720 +2549,6 @@
         "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "French blood banks foil new cyberattack targeting refrigerators",
-      "link": "https://www.france24.com/en/france/20261104-french-blood-banks-foil-new-cyberattack-targeting-refrigerators",
-      "summary": "A cyberattack in France targeted three cold stores containing donated blood samples and plasma, authorities said on Wednesday. The incident – which was unsuccessful due to the facilities' alarm systems – is the latest in a series of suspected attacks that have targeted refrigerators in European supermarkets, as well as French cooperative bank, Credit Mutuel Arkea, which was also affected Wednesday.",
-      "published_at": "2026-11-04T15:10:17Z",
-      "region": "Europa",
-      "theme": "Geopolítica e Segurança",
-      "source_name": "France 24",
-      "source_id": "france24",
-      "is_brazilian": false,
-      "image_url": "https://s.france24.com/media/display/539747e8-d85f-11f1-ad37-d18c5759e759/w:1024/p:16x9/000-D3247KH-1.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "US midterm elections: Gen Z gives Democrats their strongest support",
-      "link": "https://www.france24.com/en/video/20261104-us-midterm-elections-gen-z-gives-democrats-their-strongest-support",
-      "summary": "In the US midterm elections, 50 million members of Gen Z were eligible to vote. Young voters gave Democrats the strongest support, with 75% of them voting for the party. This generation will be the biggest voting bloc in the United States in the coming years. FRANCE 24's Ophelie Jacobson has more.",
-      "published_at": "2026-11-04T15:10:13Z",
-      "region": "América do Norte",
-      "theme": "Política Internacional",
-      "source_name": "France 24",
-      "source_id": "france24",
-      "is_brazilian": false,
-      "image_url": "https://s.france24.com/media/display/2d60a47e-d860-11f1-a7d7-bf1914cabd52/w:1024/p:16x9/capture-e3c48e7e.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "What the Democrats' midterms win means for the US economy and Trump",
-      "link": "https://www.dw.com/en/what-the-democrats-midterms-win-means-for-the-us-economy-and-trump/a-79853716?maca=en-rss-en-world-4025-rdf",
-      "summary": "From high oil prices and data centers to tariffs and mounting debt, economic concerns played a key role in the crushing defeat of President Donald Trump's Republicans. So can the Democrats now make a difference?",
-      "published_at": "2026-11-04T15:09:00Z",
-      "region": "América do Norte",
-      "theme": "Política Internacional",
-      "source_name": "DW World News",
-      "source_id": "dw_english",
-      "is_brazilian": false,
-      "image_url": "https://static.dw.com/image/79626408_6.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "How Trump's broken promises on war, inflation handed Democrats the midterms",
-      "link": "https://www.france24.com/en/video/20261104-how-trump-s-broken-promises-on-war-inflation-handed-democrats-the-midterms",
-      "summary": "Speaking to Fox News following the midterm elections, US President Donald Trump admitted that inflation was likely one reason Republicans did poorly. Many Americans have been frustrated with how the Iran war has pushed up prices, including at the gasoline pump, especially given that Trump had campaigned for his second term on a pledge of “no new wars”, as Ellen Gainsford explains.",
-      "published_at": "2026-11-04T15:02:07Z",
-      "region": "América do Norte",
-      "theme": "Política Internacional",
-      "source_name": "France 24",
-      "source_id": "france24",
-      "is_brazilian": false,
-      "image_url": "https://s.france24.com/media/display/bb2a6840-d85f-11f1-a498-a575454bc579/w:1024/p:16x9/EN-20261104-153314-153525-CS.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Trump diz que vai reconhecer resultado da eleição, elogia democratas e critica republicanos",
-      "link": "https://www.bbc.com/portuguese/articles/cw146dj0regko?at_medium=RSS&at_campaign=rss",
-      "summary": "Presidente dos EUA escreveu na plataforma Truth Social que os republicanos teriam vencido 'com uma vitória esmagadora' se seu nome estivesse na cédula eleitoral.",
-      "published_at": "2026-11-04T14:59:53Z",
-      "region": "América do Norte",
-      "theme": "Política Internacional",
-      "source_name": "BBC News Brasil",
-      "source_id": "bbc_brasil",
-      "is_brazilian": true,
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e6e2/live/3deac2d0-d81e-11f1-a9b6-0f4245e849b7.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Paraguai intervém em um dos maiores bancos do país e congela dinheiro de milhões de pessoas",
-      "link": "https://www.bbc.com/portuguese/articles/cjy56zrrnn25o?at_medium=RSS&at_campaign=rss",
-      "summary": "O Ueno é um dos principais bancos do Paraguai e, segundo dados da própria instituição, tem 3 milhões de clientes, o equivalente a 60% da população adulta do país.",
-      "published_at": "2026-11-04T14:49:05Z",
-      "region": "América do Sul",
-      "theme": "Outros / Multitemático",
-      "source_name": "BBC News Brasil",
-      "source_id": "bbc_brasil",
-      "is_brazilian": true,
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b123/live/8c1666c0-d7ca-11f1-a719-bf3dc3a3d5b5.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Líder demócrata Hakeem Jeffries rechaza \"ajustes de cuentas\" y afirma que se centrarán en \"resolver problemas\"",
-      "link": "https://www.europapress.es/internacional/noticia-lider-democrata-hakeem-jeffries-rechaza-ajustes-cuentas-afirma-centraran-resolver-problemas-20261104154523.html",
-      "summary": "El líder demócrata en la Cámara de Representantes, Hakeem Jeffries, ha asegurado este jueves tras el triunfo del Partido Demócrata en las elecciones de medio mandato, que le otorgan el control total del Congreso estadounidense, que su formación no buscará un \"ajustes de cuentas\" con el presidente, Donald Trump, y por contra se centrará en \"resolver problemas\" de la ciudadanía.",
-      "published_at": "2026-11-04T14:45:23Z",
-      "region": "América do Norte",
-      "theme": "Política Internacional",
-      "source_name": "Europa Press",
-      "source_id": "europa_press",
-      "is_brazilian": false,
-      "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20261104154523_120.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Os gráficos e mapas que mostram a magnitude do triunfo democrata",
-      "link": "https://www.bbc.com/portuguese/articles/cvy0rzd2jr7jo?at_medium=RSS&at_campaign=rss",
-      "summary": "Eleições de meio de mandato nos EUA impuseram derrota a Trump, com Partido Democrata assumindo controle do Senado e da Câmara dos Representantes, além de conquistar o governo em vários Estados.",
-      "published_at": "2026-11-04T14:44:23Z",
-      "region": "América do Norte",
-      "theme": "Política Internacional",
-      "source_name": "BBC News Brasil",
-      "source_id": "bbc_brasil",
-      "is_brazilian": true,
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/125b/live/b5cca010-d6e4-11f1-93e1-3b657b665bcf.png",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Guerra, economia, IA e casos de corrupção derrotam Trump nos EUA",
-      "link": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-11/guerra-economia-ia-e-casos-de-corrupcao-derrotam-trump-nos-eua",
-      "summary": "O aumento do custo de vida nos Estados Unidos (EUA), a guerra contra o Irã e os escândalos de corrupção envolvendo a administração de Donald Trump explicam a derrota histórica na eleição de meio de mandato que tirou a maioria dos republicanos tanto na Câmara, quanto no Senado. Os republicanos ainda foram derrotados em estados historicamente vermelhos, que é a cor do partido de Trump, como no Texas, na Carolina do Sul, no Kansas, em Ohio e em Iowa . Notícias relacionadas: Democratas conquistam Congresso em esmagadora rejeição a Trump . Aprovação de Trump fica perto da mínima histórica antes da eleição. Trump e Milei entram para lista de \"predadores da imprensa\", diz ONG. No caso do Texas, fazia 38 anos que um democrata não se elegia pelo estado. Pesquisas de opinião têm apontado que o resultado é uma rejeição à política de Trump na Casa Branca, que se envolveu pessoalmente na campanha nas últimas semanas. A emissora NBC News escutou eleitores na boca da urna que culpam Trump pela piora em indicadores econômicos. “Mais da metade (65%) afirma que as políticas de Trump pioraram a economia; 62% disseram que ele é responsável pelos altos preços”, escreveu a emissora estadunidense . Preocupações com as políticas sobre Inteligência Artificial (IA), em que Trump defende que não haja regulação, também foram apontadas pelos norte-americanos como motivo para decidir o voto. “As preocupações com a IA também estavam entre os principais assuntos dos eleitores: 57% disseram que a IA fará mais mal do que bem à sociedade. Uma grande maioria, 76%, disse ser contra a construção de data centers em suas comunidades”, diz a pesquisa. A guerra contra o Irã foi outro fator que levou os eleitores a rejeitar a política de Trump e dar a maior vitória aos democratas em décadas. “Sessenta e três por cento disseram que os EUA tomaram a decisão errada ao entrar com uma ação militar contra o Irã”, diz o levantamento. A maioria dos eleitores (57%) disse ainda que suas políticas contra a imigração “foram longe demais”, e a corrupção foi outro fator “crucial” na decisão dos eleitores . A professora de relações internacionais Camila Vidal, da Universidade Federal de Santa Catarina (UFSC), explicou à Agência Brasil que as pessoas votaram em Trump esperando uma resposta a questões internas dos EUA, que não foram cumpridas. “As pessoas tinham esperança de que Trump adotasse políticas mais voltadas para dentro dos EUA, voltadas para questões materiais da população que está cada vez mais estagnada financeiramente”, afirmou. Camila acrescentou que as pessoas têm que trabalhar em dois ou três empregos para chegar ao fim do mês, em um país onde a saúde é totalmente privatizada e requer altos gastos. Corrupção O professor de história da Universidade de Brown, nos EUA, James N. Green, destacou à Agência Brasil que o resultado é muito pior para os republicanos do que todos esperavam. “É o começo e o fim do poder do Donald Trump”, disse. Professor da Universidade de Brown, James N. Green, diz que resultado “è o começo e o fim do poder de Donald Trump” - Foto James Green/ Wikipédia Para o especialista, a corrupção, que não estava entre as principais preocupações dos eleitores, ganhou importância nos últimos meses e durante a campanha. “Isso devido à maneira como a família do Trump está, de maneira muito descarada, roubando ou utilizando sua influência e seus poderes, para fazer muito dinheiro. Isso está causando uma grande insatisfação entre pessoas que, no passado, tinham votado nele\", disse. O presidente dos EUA tem sido acusado de favorecer os negócios da família, incluindo suspeitas de manipulação no mercado de ações da bolsa, por meio de acesso a informações privilegiadas para especulação financeira. O The New York Times ganhou o prêmio Pulitzer de 2026, um dos mais importantes prêmios jornalísticos do mundo, revelando “os conflitos de interesse e o enriquecimento ilícito desenfreados que assolam o governo Trump”. Outra reportagem , do The Washington Post, revelou que 15 empresas dos filhos de Trump arrecadaram US$ 3,2 bilhões em contratos federais, a maioria depois que o republicano assumiu a Casa Branca pela segunda vez. O professor James N. Green comentou que, enquanto isso, Trump passava muito tempo falando sobre as reformas da Casa Branca. “As pessoas ficam revoltadas com isso porque o presidente está meio fora da realidade, meio perdido”, disse. Na avaliação do professor de direito internacional da Universidade de São Paulo (USP) Paulo Borba Casella, os abusos cometidos por Trump na Casa Branca, incluindo a guerra contra o Irã, foram decisivos para a derrota republicana. Professor de direito internacional da USP, Paulo Borba Casella, atribui derrota de Trump a abusos cometidos durante gestão - Foto Paulo Borba Casella/Arquivo Pessoal “É essa combinação de desmandos políticos e de má gestão na economia que pode contribuir para explicar a derrota. E também o desgaste da imagem do presidente Trump e da sua administração com todos os erros que tem cometido”. Economia A economia durante o governo do democrata Joe Biden (2020-2024) foi apontada como um dos fatores que levou à vitória de Trump em 2024. Dessa vez, o aumento no custo de vida dos estadunidenses parece ter se voltado contra o republicano. A política de tarifas contra importações encareceu diversos produtos dentro dos EUA. Além disso, o fechamento do Estreito de Ormuz pelo Irã, após o ataque de Trump contra o país persa, contribuiu para elevar os preços da gasolina e do diesel, com impacto em toda a economia. “Eu que sou da classe média, e vivo bem, fiquei surpreendido como aumentaram os preços. As pessoas estão culpando o Trump por causa da política de tarifa e por causa da guerra no Irã”, explicou o professor James Green. Freio à extrema-direita O professor Paulo Borba Casella, da USP, disse ainda à Agência Brasil que a derrota dos republicanos é um recado para os governos de extrema-direita no mundo que têm políticas hostis contra minorias, contra liberdades e direitos fundamentais. “Esse resultado sinaliza um arrefecimento dessa onda de regimes à direita que tem aparecido, como ocorreu em vários países da América Latina. Além do contraponto feito com o resultado da eleição no Brasil, a eleição nos EUA pode significar uma mudança nessa maré de direita autoritária, conservadora e reacionária\", concluiu. Saiba mais no Repórter Brasil Tarde, da TV Brasil",
-      "published_at": "2026-11-04T14:31:00Z",
-      "region": "América do Norte",
-      "theme": "Política Internacional",
-      "source_name": "Agência Brasil",
-      "source_id": "agencia_brasil",
-      "is_brazilian": true,
-      "image_url": null,
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Midterms: How Abdul El-Sayed used 'humour and hope' to rebuff racism",
-      "link": "https://www.france24.com/en/video/20261104-midterms-how-abdul-el-sayed-used-humour-and-hope-to-rebuff-racism",
-      "summary": "Abdul El-Sayed is set to become the first Muslim senator in US history following his midterms victory in Michigan. His victory came despite what he has denounced as racist attacks against him, inlcuding from Donald Trump, which, says FRANCE 24's correspondent Jessica Le Masurier, he rebuffed with a mixture of \"humour and hope\".",
-      "published_at": "2026-11-04T14:25:15Z",
-      "region": "América do Norte",
-      "theme": "Direitos Humanos, Sociedade e Migrações",
-      "source_name": "France 24",
-      "source_id": "france24",
-      "is_brazilian": false,
-      "image_url": "https://s.france24.com/media/display/1647417a-d857-11f1-a8e5-bf1914cabd52/w:1024/p:16x9/capture-69b69940.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1542810634-71277d95dcbb?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1489533119213-66a5cd877091?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1531206715517-5c0ba140e2b8?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Amapá assume papel relevante na rota do tráfico internacional",
-      "link": "https://www.dw.com/pt-br/amapá-assume-papel-relevante-na-rota-do-tráfico-internacional/a-79856004?maca=bra-rss-br-all-1030-rdf",
-      "summary": "Produtores de cocaína escoam droga pela Amazônia brasileira desde a década de 1980, porém, nos últimos anos rota foi redirecionada com aumento da fiscalização e expansão do crime organizado na região.",
-      "published_at": "2026-11-04T14:07:00Z",
-      "region": "América do Sul",
-      "theme": "Meio Ambiente e Clima",
-      "source_name": "DW Brasil",
-      "source_id": "dw_brasil",
-      "is_brazilian": false,
-      "image_url": "https://static.dw.com/image/67780982_6.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Que impacto a derrota nas eleições de meio de mandato terá para Trump",
-      "link": "https://www.dw.com/pt-br/que-impacto-a-derrota-nas-eleições-de-meio-de-mandato-terá-para-trump/a-79853554?maca=bra-rss-br-all-1030-rdf",
-      "summary": "Resultado muda equilíbrio de poder em Washington, e democratas poderão investigar governo e até abrir processos de impeachment. Mas Trump retém muito poder na política externa.",
-      "published_at": "2026-11-04T13:55:00Z",
-      "region": "América do Norte",
-      "theme": "Política Internacional",
-      "source_name": "DW Brasil",
-      "source_id": "dw_brasil",
-      "is_brazilian": false,
-      "image_url": "https://static.dw.com/image/79832258_6.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Abdul El-Sayed welcomes Trump's plan to cut Israel aid, calls for end to arms sales",
-      "link": "https://www.npr.org/2026/11/04/nx-s1-6028702/abdul-el-sayed-michigan-senate-israel-aid",
-      "summary": "Michigan's first Muslim senator-elect, Abdul El-Sayed, discusses his historic victory, an unlikely agreement with Trump on Israel military aid and the political divisions that remain.",
-      "published_at": "2026-11-04T13:38:09Z",
-      "region": "América do Norte",
-      "theme": "Política Internacional",
-      "source_name": "NPR World News",
-      "source_id": "npr",
-      "is_brazilian": false,
-      "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x1688+0+182/resize/1400/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F51%2F4b%2Ffc7b4ff9460d9cd09e9513f98b6f%2Fgettyimages-2303432872.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Partes do avião podem ter se desprendido no ar: quem são as 9 vítimas fatais do acidente aéreo na Flórida",
-      "link": "https://www.bbc.com/portuguese/articles/cmvg7l75y321o?at_medium=RSS&at_campaign=rss",
-      "summary": "Além de Nathalia Filgueiras, copilota e filha de brasileiros, estavam a bordo da aeronave duas famílias de americanos e o piloto.",
-      "published_at": "2026-11-04T13:34:31Z",
-      "region": "América do Norte",
-      "theme": "Outros / Multitemático",
-      "source_name": "BBC News Brasil",
-      "source_id": "bbc_brasil",
-      "is_brazilian": true,
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c7a9/live/7173e670-d7cb-11f1-a701-fddedf244c16.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "'This is a disaster': Angry Republicans blame Trump for midterms defeat",
-      "link": "https://www.bbc.co.uk/news/articles/c6x29rr8djy3o?at_medium=RSS&at_campaign=rss",
-      "summary": "Some Republicans tell the BBC the president's focus on his legacy and indifference to voter concerns cost them.",
-      "published_at": "2026-11-04T13:33:30Z",
-      "region": "América do Norte",
-      "theme": "Política Internacional",
-      "source_name": "BBC World News",
-      "source_id": "bbc_world",
-      "is_brazilian": false,
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5315/live/41e364b0-d854-11f1-94f3-cf7d1e52bb8c.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Nadal set to join Real Madrid board of directors",
-      "link": "https://www.bbc.co.uk/sport/articles/cmy56zekeneqo?at_medium=RSS&at_campaign=rss",
-      "summary": "Tennis great Rafael Nadal is set to join the board of Spanish football giants Real Madrid.",
-      "published_at": "2026-11-04T13:21:01Z",
-      "region": "Europa",
-      "theme": "Outros / Multitemático",
-      "source_name": "BBC World News",
-      "source_id": "bbc_world",
-      "is_brazilian": false,
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c75e/live/2dfb0e80-d84f-11f1-b870-55415e6a9944.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "De fenômeno literário a série: o novo capítulo de Harry Potter",
-      "link": "https://www.dw.com/pt-br/de-fenômeno-literário-a-série-o-novo-capítulo-de-harry-potter/a-79851770?maca=bra-rss-br-all-1030-rdf",
-      "summary": "Há 25 anos estreava no cinema a primeira adaptação do sucesso literário que conquistou o coração de crianças e jovens no mundo tudo. Agora, história ganha nova versão para a televisão.",
-      "published_at": "2026-11-04T12:57:00Z",
-      "region": "Europa",
-      "theme": "Cultura, Mídia e Sociedade",
-      "source_name": "DW Brasil",
-      "source_id": "dw_brasil",
-      "is_brazilian": false,
-      "image_url": "https://static.dw.com/image/79839320_6.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1460661419201-fd4cecdf8a8b?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1508700115892-45ecd05ae2ad?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Indonesia deploys troops to Jakarta after wiretapping allegations",
-      "link": "https://www.dw.com/en/indonesia-deploys-troops-to-jakarta-after-wiretapping-allegations/a-79853779?maca=en-rss-en-world-4025-rdf",
-      "summary": "Indonesian troops are being stationed in Jakarta amid wiretapping allegations implicating the president's chief of staff. Suspects are being accused of illegally tapping the president's phones.",
-      "published_at": "2026-11-04T12:52:00Z",
-      "region": "Ásia",
-      "theme": "Política Internacional",
-      "source_name": "DW World News",
-      "source_id": "dw_english",
-      "is_brazilian": false,
-      "image_url": "https://static.dw.com/image/79350322_6.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "The world is reacting to the Democrats' sweeping midterm elections victory",
-      "link": "https://www.npr.org/2026/11/04/nx-s1-6028664/world-reacts-midterm-elections",
-      "summary": "From Kyiv to Moscow, and Tehran to Tel Aviv, all eyes were on the Democrats' big win as foreign powers weigh how a flipped Congress will affect international relations.",
-      "published_at": "2026-11-04T12:34:35Z",
-      "region": "Europa",
-      "theme": "Política Internacional",
-      "source_name": "NPR World News",
-      "source_id": "npr",
-      "is_brazilian": false,
-      "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7132x4010+0+359/resize/1400/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F83%2Fe7%2F6bf4ec7a43cf9693e3010dbda1c3%2Fap26308464195125.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Sharp objects found in Halloween sweets in three European nations",
-      "link": "https://www.bbc.co.uk/news/articles/cvglw7x239pwo?at_medium=RSS&at_campaign=rss",
-      "summary": "Dozens of cases are reported in Austria, Germany and Hungary, including a nine-year-old girl hurting her tongue while eating chocolate containing a pin.",
-      "published_at": "2026-11-04T12:34:33Z",
-      "region": "Europa",
-      "theme": "Outros / Multitemático",
-      "source_name": "BBC World News",
-      "source_id": "bbc_world",
-      "is_brazilian": false,
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0b20/live/14aead80-d83e-11f1-9a87-07a62b4549a2.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Rusia espera que Trump \"continúe sus esfuerzos de paz\" en Ucrania tras el varapalo republicano en las 'midterms'",
-      "link": "https://www.europapress.es/internacional/noticia-rusia-espera-trump-continue-esfuerzos-paz-ucrania-varapalo-republicano-midterms-20261104132324.html",
-      "summary": "Las autoridades de Rusia han expresado este miércoles su esperanza en que el presidente de Estados Unidos, Donald Trump, \"continúe sus esfuerzos de paz\" en Ucrania tras la derrota del Partido Republicano en las elecciones de medio mandato, que han visto cómo los demócratas se han hecho con el control de las dos cámaras del Congreso.",
-      "published_at": "2026-11-04T12:23:24Z",
-      "region": "América do Norte",
-      "theme": "Política Internacional",
-      "source_name": "Europa Press",
-      "source_id": "europa_press",
-      "is_brazilian": false,
-      "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20261104132324_120.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Economia e democracia foram os temas mais importantes para americanos nas eleições, indica pesquisa",
-      "link": "https://www.bbc.com/portuguese/articles/cmg4795366kdo?at_medium=RSS&at_campaign=rss",
-      "summary": "Ampla pesquisa perguntou a dezenas de milhares de eleitores americanos suas opiniões e motivações, fornecendo uma análise por idade, sexo, escolaridade e outros dados demográficos.",
-      "published_at": "2026-11-04T12:21:07Z",
-      "region": "América do Norte",
-      "theme": "Ciência, Tecnologia e Inovação",
-      "source_name": "BBC News Brasil",
-      "source_id": "bbc_brasil",
-      "is_brazilian": true,
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/cf83/live/f3608b00-d7e1-11f1-89b6-117585343da2.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1518770660439-4636190af475?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1507668077129-56e32842fceb?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Democrats seize full control of Congress. And, which candidates made history last night",
-      "link": "https://www.npr.org/2026/11/04/g-s1-151745/up-first-newsletter-midterms-democrats-congress-control",
-      "summary": "Democrats have won the House and the Senate, taking full control of Congress for the first time since 2023. And history was made in several states. Here's what happened last night.",
-      "published_at": "2026-11-04T12:18:39Z",
-      "region": "Global",
-      "theme": "Política Internacional",
-      "source_name": "NPR World News",
-      "source_id": "npr",
-      "is_brazilian": false,
-      "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3963x2229+0+206/resize/1400/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F4f%2F3a%2Fd3a6147849e7b409f0fe51f5a2f8%2Fgettyimages-2302713434.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "La inflación, la guerra en Irán y el hartazgo con Trump: claves de la ola demócrata que toma el Congreso de EEUU",
-      "link": "https://www.europapress.es/internacional/noticia-inflacion-guerra-iran-hartazgo-trump-claves-ola-democrata-toma-congreso-eeuu-20261104131523.html",
-      "summary": "El triunfo representa una oportunidad para que los demócratas se reconstruyan de cara a 2028 tras una victoria que no responde a un programa concreto",
-      "published_at": "2026-11-04T12:15:23Z",
-      "region": "América do Norte",
-      "theme": "Geopolítica e Segurança",
-      "source_name": "Europa Press",
-      "source_id": "europa_press",
-      "is_brazilian": false,
-      "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20261104131523_120.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Republicanos da Flórida derrotam democratas e Estado elege primeiro governador negro",
-      "link": "https://www.bbc.com/portuguese/articles/cm75p0lp5g1ro?at_medium=RSS&at_campaign=rss",
-      "summary": "O republicano Byron Donalds, apoiado pelo presidente Donald Trump, será o primeiro governador negro da Flórida.",
-      "published_at": "2026-11-04T12:12:19Z",
-      "region": "América do Norte",
-      "theme": "Política Internacional",
-      "source_name": "BBC News Brasil",
-      "source_id": "bbc_brasil",
-      "is_brazilian": true,
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ee47/live/138d4020-d80b-11f1-915d-779ac405bbbc.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Deb Haaland é eleita primeira mulher indígena governadora nos EUA",
-      "link": "https://www.bbc.com/portuguese/articles/c8vgxypwnpezo?at_medium=RSS&at_campaign=rss",
-      "summary": "Democrata venceu disputa pelo governo do Novo México; ela já havia feito história ao se tornar a primeira pessoa indígena a integrar o gabinete presidencial americano.",
-      "published_at": "2026-11-04T12:04:05Z",
-      "region": "América do Norte",
-      "theme": "Outros / Multitemático",
-      "source_name": "BBC News Brasil",
-      "source_id": "bbc_brasil",
-      "is_brazilian": true,
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d3b1/live/9e62d910-d844-11f1-a701-fddedf244c16.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "OMS aponta avanço histórico no combate a doenças tropicais negligenciadas",
-      "link": "https://news.un.org/feed/view/pt/story/2026/11/1854839",
-      "summary": "Relatório cita países lusófonos ao celebrar virada na saúde global; de avanços em Angola, Guiné-Bissau, Cabo Verde, São Tomé e Timor-Leste à cooperação técnica de Portugal e a ciência no Brasil, nações de língua portuguesa se destacam pelo papel estratégico no combate ao tipo de enfermidades.",
-      "published_at": "2026-11-04T12:00:00Z",
-      "region": "Europa",
-      "theme": "Saúde",
-      "source_name": "ONU News",
-      "source_id": "onu_news",
-      "is_brazilian": false,
-      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/16-05-2023-Sightsavers-trachoma.jpg/image560x340cropped.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1584515901367-f1c2a12a50ea?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1505751172876-fa1923c5c528?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1584036561566-baf2418a7c21?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Novos bombardeios em Mianmar atingem civis, postos de saúde e educação",
-      "link": "https://news.un.org/feed/view/pt/story/2026/11/1854834",
-      "summary": "Bombardeios deixaram mortos e feridos em áreas de acolhimento de famílias deslocadas; agências humanitárias cobram respeito ao direito internacional e proteção à população.",
-      "published_at": "2026-11-04T12:00:00Z",
-      "region": "Global",
-      "theme": "Outros / Multitemático",
-      "source_name": "ONU News",
-      "source_id": "onu_news",
-      "is_brazilian": false,
-      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/11/03-11-2026-Adobe-Stock-Myanmar.jpg/image560x340cropped.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Relatório alerta que países não estão preparados para o aquecimento acima de 1,5 °C",
-      "link": "https://news.un.org/feed/view/pt/story/2026/11/1854830",
-      "summary": "Nações em desenvolvimento necessitarão de aproximadamente US$ 305 bilhões anuais até 2035 para aumentar a resiliência e reduzir os riscos; esforços globais para ajudar os países em desenvolvimento a adaptarem-se às alterações climáticas continuam subfinanciados.",
-      "published_at": "2026-11-04T12:00:00Z",
-      "region": "América do Norte",
-      "theme": "Outros / Multitemático",
-      "source_name": "ONU News",
-      "source_id": "onu_news",
-      "is_brazilian": false,
-      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/21-01-2025_IFRC_Russia.jpg/image560x340cropped.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "A jovem engenheira nuclear que saiu da periferia no Brasil para ganhar o mundo",
-      "link": "https://news.un.org/feed/view/pt/story/2026/11/1854825",
-      "summary": "Dandara Araújo da Silva é a entrevistada do Podcast ONU News; nascida em São Gonçalo, nos arredores do Rio de Janeiro, ela investiu nos estudos, venceu barreiras raciais e socioeconômicas para realizar o próprio sonho de se formar; hoje, trabalha na Agência Internacional de Energia Atômica, Aiea, na Áustria, e quer ir além.",
-      "published_at": "2026-11-04T12:00:00Z",
-      "region": "América do Sul",
-      "theme": "Geopolítica e Segurança",
-      "source_name": "ONU News",
-      "source_id": "onu_news",
-      "is_brazilian": false,
-      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/10/30-10-2026-Dandara-IAEA.jpg/image560x340cropped.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Ataques com drones deixam sudaneses sem energia e combustível e afetam doentes",
-      "link": "https://news.un.org/feed/view/pt/story/2026/11/1854833",
-      "summary": "Coordenadora humanitária da ONU no país fala dos impactos em hospitais; ela relatou que a falta de combustível afeta entrega de alimentos, justamente num momento em que secas estão abalando colheitas ao redor do país.",
-      "published_at": "2026-11-04T12:00:00Z",
-      "region": "Global",
-      "theme": "Direito Internacional e Instituições",
-      "source_name": "ONU News",
-      "source_id": "onu_news",
-      "is_brazilian": false,
-      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/10/23-10-2026-UNICEF-Sudan-03.jpg/image560x340cropped.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1505664194779-8beaceb93744?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Eleições nos EUA: em noite histórica, Partido Democrata conquista controle da Câmara e do Senado; veja resultados",
-      "link": "https://www.bbc.co.uk/portuguese/live/c6073r14jp7gt?at_medium=RSS&at_campaign=rss",
-      "summary": "Vitórias em Estados como Texas e Kansas confirmam 'onda azul' que dá comando do Congresso aos democratas durante o tempo restante do mandato de Donald Trump na Presidência",
-      "published_at": "2026-11-04T11:56:09.537005Z",
-      "region": "América do Norte",
-      "theme": "Política Internacional",
-      "source_name": "BBC News Brasil",
-      "source_id": "bbc_brasil",
-      "is_brazilian": true,
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f6c6/live/237c3050-d80a-11f1-915d-779ac405bbbc.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "ANC under pressure to reverse South Africa decline",
-      "link": "https://www.bbc.co.uk/news/articles/cr4g1x6l77xyo?at_medium=RSS&at_campaign=rss",
-      "summary": "As South Africans vote in local elections, residents tell the BBC they are tired of the poor quality of services they get.",
-      "published_at": "2026-11-04T11:47:44Z",
-      "region": "África",
-      "theme": "Política Internacional",
-      "source_name": "BBC World News",
-      "source_id": "bbc_world",
-      "is_brazilian": false,
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb2c/live/fc87dad0-d7aa-11f1-93e1-3b657b665bcf.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Rwanda's army team removed from Africa league after US sanctions, NBA says",
-      "link": "https://www.bbc.co.uk/news/articles/c699zdx9knmpo?at_medium=RSS&at_campaign=rss",
-      "summary": "The US imposed sanctions on Rwanda's army over its role in the conflict in DR Congo.",
-      "published_at": "2026-11-04T11:46:09Z",
-      "region": "América do Norte",
-      "theme": "Geopolítica e Segurança",
-      "source_name": "BBC World News",
-      "source_id": "bbc_world",
-      "is_brazilian": false,
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6062/live/1ba36940-d830-11f1-be97-417dbcdedd32.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Chefe do FMI diz que dívida pública global se aproxima de 100% do PIB",
-      "link": "https://www.poder360.com.br/poder-internacional/chefe-do-fmi-diz-que-divida-publica-global-se-aproxima-de-100-do-pib/",
-      "summary": "Em evento na Espanha, Kristalina Georgieva alertou para riscos do alto nível de endividamento em muitas economias",
-      "published_at": "2026-11-04T11:44:47Z",
-      "region": "Europa",
-      "theme": "Economia Brasileira",
-      "source_name": "Poder360",
-      "source_id": "poder360",
-      "is_brazilian": true,
-      "image_url": "https://static.poder360.com.br/uploads/2026/11/diretora-geral-FMI-Kristalina-Georgieva-3nov2026-1200x675.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1506744038136-46273834b3fb?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Brasileiro é eleito deputado estadual na Flórida",
-      "link": "https://www.poder360.com.br/poder-internacional/brasileiro-e-eleito-deputado-estadual-na-florida/",
-      "summary": "Felipe Sousa-Lazaballet, nascido em Duque de Caxias, é o 1º brasileiro a ocupar uma cadeira na Assembleia Legislativa do Estado",
-      "published_at": "2026-11-04T11:39:55Z",
-      "region": "América do Sul",
-      "theme": "Política Brasileira",
-      "source_name": "Poder360",
-      "source_id": "poder360",
-      "is_brazilian": true,
-      "image_url": "https://static.poder360.com.br/uploads/2026/11/Felipe-Sousa-Lazaballet-1200x675.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Quem é Gina Hinojosa, democrata de ascendência mexicana que será 1ª latina a governar o Texas",
-      "link": "https://www.bbc.com/portuguese/articles/ckm23qjvm888o?at_medium=RSS&at_campaign=rss",
-      "summary": "Deputada estadual derrotou Greg Abbott nas eleições de meio mandato, um dos governadores republicanos mais proeminentes do país e aliado fiel do presidente Donald Trump.",
-      "published_at": "2026-11-04T11:35:54Z",
-      "region": "América do Norte",
-      "theme": "Política Internacional",
-      "source_name": "BBC News Brasil",
-      "source_id": "bbc_brasil",
-      "is_brazilian": true,
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e15b/live/24709d40-d81c-11f1-a9b6-0f4245e849b7.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "What consequences for Israel as Democrats win the US midterm elections?",
-      "link": "https://www.france24.com/en/video/20261104-what-consequences-for-israel-as-democrats-win-the-us-midterm-elections",
-      "summary": "Democrats seized control of the US Congress on Tuesday, capturing the Senate and House of Representatives in a stunning upset. What are the potential consequences for Israel and Benjamin Netanyahu, as Trump announced on Tuesday that the US will halt $3.8 billion in aid to the country? FRANCE 24's correspondent Noga Tarnopolsky has more.",
-      "published_at": "2026-11-04T11:32:43Z",
-      "region": "América do Norte",
-      "theme": "Política Internacional",
-      "source_name": "France 24",
-      "source_id": "france24",
-      "is_brazilian": false,
-      "image_url": "https://s.france24.com/media/display/6b47fad2-d840-11f1-946b-a575454bc579/w:1024/p:16x9/capture-fb7d0638.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Partido Democrata vence governo do Texas após 36 anos",
-      "link": "https://www.poder360.com.br/poder-internacional/partido-democrata-vence-governo-do-texas-apos-36-anos/",
-      "summary": "Gina Hinojosa será a 3ª mulher a governar o Estado; ela encerra hegemonia republicana ao derrotar Greg Abbott, governador desde 2015",
-      "published_at": "2026-11-04T11:26:44Z",
-      "region": "América do Sul",
-      "theme": "Outros / Multitemático",
-      "source_name": "Poder360",
-      "source_id": "poder360",
-      "is_brazilian": true,
-      "image_url": "https://static.poder360.com.br/uploads/2026/11/gina-hinojosa-texas-1nov2026-1-1200x675.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "‘Seismic shift’: World reacts to US midterm election results",
-      "link": "https://www.aljazeera.com/news/2026/11/4/seismic-shift-world-reacts-to-us-midterm-election-results?traffic_source=rss",
-      "summary": "Iran's top negotiator says US voters sent a “NO TO WAR” message, as Trump's Democratic opponents take Congress.",
-      "published_at": "2026-11-04T11:24:50Z",
-      "region": "América do Norte",
-      "theme": "Política Internacional",
-      "source_name": "Al Jazeera",
-      "source_id": "aljazeera_english",
-      "is_brazilian": false,
-      "image_url": null,
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "US midterms: Trump reacts to the Democrats’ sweeping victory",
-      "link": "https://www.france24.com/en/video/20261104-us-midterms-trump-reacts-to-the-democrats-sweeping-victory",
-      "summary": "US President Donald Trump had rare praise for rival Democrats Tuesday after their stunning US midterm elections victory and admitted the Iran war may have played a part in the defeat of his Republican Party. But the 80-year-old refused to take any personal responsibility for the result.",
-      "published_at": "2026-11-04T11:24:24Z",
-      "region": "América do Norte",
-      "theme": "Política Internacional",
-      "source_name": "France 24",
-      "source_id": "france24",
-      "is_brazilian": false,
-      "image_url": "https://s.france24.com/media/display/6fd0ce66-d841-11f1-9a33-a575454bc579/w:1024/p:16x9/mini1-3.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Entenda a PEC da Segurança Pública, aprovada no Senado",
-      "link": "https://www.dw.com/pt-br/entenda-a-pec-da-segurança-pública-aprovada-no-senado/a-76232387?maca=bra-rss-br-all-1030-rdf",
-      "summary": "Texto que constitucionaliza o combate ao crime organizado e a cooperação entre União, estados e municípios. Nova regra ainda abre caminho para a criação do Ministério da Segurança Pública.",
-      "published_at": "2026-11-04T11:24:00Z",
-      "region": "Europa",
-      "theme": "Política Internacional",
-      "source_name": "DW Brasil",
-      "source_id": "dw_brasil",
-      "is_brazilian": false,
-      "image_url": "https://static.dw.com/image/74849072_6.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
       ]
     }
   ]
