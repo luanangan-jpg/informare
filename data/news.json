@@ -1,6 +1,737 @@
 {
-  "updated_at": "2026-11-25T23:55:01.445183Z",
+  "updated_at": "2026-11-26T06:02:17.204808Z",
   "news": [
+    {
+      "title": "South Korea’s central bank hikes interest rates, raises GDP growth forecast",
+      "link": "https://www.aljazeera.com/economy/2026/11/26/south-koreas-central-bank-hikes-interest-rates-raises-gdp-growth-forecast?traffic_source=rss",
+      "summary": "Bank of Korea raises key rate by 0.25 percent amid booming exports of AI chips.",
+      "published_at": "2026-11-26T05:49:40Z",
+      "region": "Ásia",
+      "theme": "Economia Internacional",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/11/AP26330120352635-1795665787.jpg?resize=1920%2C1440",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Can Rassvet, 'Russia's Starlink' change the course of the war in Ukraine?",
+      "link": "https://www.dw.com/en/can-rassvet-russia-s-starlink-change-the-course-of-the-war-in-ukraine/a-80052579?maca=en-rss-en-world-4025-rdf",
+      "summary": "SpaceX's US Starlink satellite system has played a key role in countering the Russian military in Ukraine, but now a Russian counterpart is under development. What could this mean for Ukraine in future?",
+      "published_at": "2026-11-26T05:45:00Z",
+      "region": "Europa",
+      "theme": "Geopolítica e Segurança",
+      "source_name": "DW World News",
+      "source_id": "dw_english",
+      "is_brazilian": false,
+      "image_url": "https://static.dw.com/image/71856660_6.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Live: EU leaders face showdown over Ukraine funding as divisions deepen",
+      "link": "https://www.france24.com/en/europe/20261126-live-eu-leaders-face-showdown-over-ukraine-funding-as-divisions-deepen",
+      "summary": "European Union leaders are set to clash in Brussels on Thursday over a proposed €45 billion loan to keep Ukraine funded through 2027, with Germany pressing all 27 member states to contribute and several countries demanding exemptions. Follow our liveblog for all the latest updates.",
+      "published_at": "2026-11-26T05:44:57Z",
+      "region": "Europa",
+      "theme": "Outros / Multitemático",
+      "source_name": "France 24",
+      "source_id": "france24",
+      "is_brazilian": false,
+      "image_url": "https://s.france24.com/media/display/981f9684-e43c-11f1-b116-6b451f569414/w:1024/p:16x9/union-europeenne.jpeg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Puerto Rico’s Supreme Court cancels major power contract",
+      "link": "https://www.aljazeera.com/news/2026/11/26/puerto-ricos-supreme-court-cancels-major-power-contract?traffic_source=rss",
+      "summary": "The court's five-to-four ruling ends Luma Energy's operations after a contentious legal battle.",
+      "published_at": "2026-11-26T05:09:55Z",
+      "region": "Oriente Médio",
+      "theme": "Outros / Multitemático",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/11/2025-04-17T033321Z_1916242618_RC2BZDAI9Z0U_RTRMADP_3_PUERTO-RICO-POWER-1795665479.jpg?resize=1920%2C1440",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Rutte y Trump destacan desde Florida \"la importancia\" de que Rusia no amplíe la guerra de Ucrania",
+      "link": "https://www.europapress.es/internacional/noticia-rutte-trump-destacan-florida-importancia-rusia-no-amplie-guerra-ucrania-20261126060236.html",
+      "summary": "El secretario general de la OTAN, Mark Rutte, y el presidente de Estados Unidos, Donald Trump, han asegurado haber mantenido \"una reunión excepcional\" en la residencia particular del inquilino de la Casa Blanca en Florida, Mar-a-Lago, en la que han abordado \"la importancia de que Rusia evite cualquier acción\" que haga crecer la guerra de Ucrania, después de que Rutte haya defendido la gestión de Trump en torno al conflicto.",
+      "published_at": "2026-11-26T05:02:36Z",
+      "region": "América do Norte",
+      "theme": "Geopolítica e Segurança",
+      "source_name": "Europa Press",
+      "source_id": "europa_press",
+      "is_brazilian": false,
+      "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20261126060236_120.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Al menos diez muertos y siete heridos en un ataque armado contra un mercado en el sur de Puerto Príncipe",
+      "link": "https://www.europapress.es/internacional/noticia-menos-diez-muertos-siete-heridos-ataque-armado-contra-mercado-sur-puerto-principe-20261126060108.html",
+      "summary": "Al menos diez personas han muerto y otras siete han resultado heridas por disparos y ataques con machete tras una incursión armada registrada este miércoles contra un mercado informal en la comuna de Kenscoff, situada en las inmediaciones de la capital de Haití, Puerto Príncipe.",
+      "published_at": "2026-11-26T05:01:08Z",
+      "region": "Europa",
+      "theme": "Direito Internacional e Instituições",
+      "source_name": "Europa Press",
+      "source_id": "europa_press",
+      "is_brazilian": false,
+      "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20261126060108_120.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1505664194779-8beaceb93744?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Six killed, including children, in plane crash off Mississippi coast",
+      "link": "https://www.aljazeera.com/news/2026/11/26/six-killed-including-children-in-plane-crash-off-mississippi-coast?traffic_source=rss",
+      "summary": "US authorities are investigating the reason behind the crash that killed members of the Stokes and Knox families.",
+      "published_at": "2026-11-26T04:48:42Z",
+      "region": "América do Norte",
+      "theme": "Outros / Multitemático",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6b078c9edba4c-1795656862.jpg?resize=1920%2C1440",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Brazil blasts ‘unacceptable’ new US tariff proposals",
+      "link": "https://www.aljazeera.com/news/2026/11/26/brazil-blasts-unacceptable-new-us-tariff-proposals?traffic_source=rss",
+      "summary": "President Lula’s office says Brazil will not yield to threats and aims for a negotiated resolution.",
+      "published_at": "2026-11-26T04:47:47Z",
+      "region": "América do Sul",
+      "theme": "Política Internacional",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6b07a268-1795662440.jpg?resize=1920%2C1440",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Racecourse office blown away in Brazil",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/26/racecourse-office-blown-away-in-brazil?traffic_source=rss",
+      "summary": "A powerful storm shattered windows and sent debris flying inside a racetrack office in Brazil.",
+      "published_at": "2026-11-26T04:17:31Z",
+      "region": "América do Sul",
+      "theme": "Meio Ambiente e Clima",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795666645.jpg?resize=1920%2C1080&quality=80",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "US announces new tariffs on host of countries including China",
+      "link": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
+      "summary": "The new levies would hit many of America's biggest trading partners, including China and the EU.",
+      "published_at": "2026-11-26T04:10:58Z",
+      "region": "Ásia",
+      "theme": "Comércio e Finanças",
+      "source_name": "BBC World News",
+      "source_id": "bbc_world",
+      "is_brazilian": false,
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cdd4/live/6fdb6db0-e946-11f1-8b2f-671485cea0be.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1578575437130-527eed3abbec?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1522071820081-009f0129c71c?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Macy's postpones Thanksgiving parade due to severe weather",
+      "link": "https://www.bbc.co.uk/news/articles/cwkgr38l2g9yo?at_medium=RSS&at_campaign=rss",
+      "summary": "The was the first time ever that the iconic celebration was delayed because of storms. New York expects damaging winds and heavy rainfall over the Thanksgiving holiday.",
+      "published_at": "2026-11-26T04:04:14Z",
+      "region": "América do Norte",
+      "theme": "Outros / Multitemático",
+      "source_name": "BBC World News",
+      "source_id": "bbc_world",
+      "is_brazilian": false,
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2d43/live/3a3ebde0-e94d-11f1-bfb6-fd0f1685abfb.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Marinho reúne Tereza e senadores do PP em festa de aniversário",
+      "link": "https://www.poder360.com.br/poder-congresso/marinho-reune-tereza-e-senadores-do-pp-em-festa-de-aniversario/",
+      "summary": "Comemoração dos 63 anos do líder da Oposição teve cerca de 80 participantes em chalana de Wilder Morais, em Brasília",
+      "published_at": "2026-11-26T04:03:00Z",
+      "region": "América do Sul",
+      "theme": "Política Brasileira",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2026/11/PL-RogerioMarinho-ValdemarCostaNeto-04Nov2026-4-1200x675.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "FedEx plane overshoots Miami runway, with flights briefly suspended at airport",
+      "link": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o?at_medium=RSS&at_campaign=rss",
+      "summary": "The brief ground stop comes on the day before the US Thanksgiving holiday, one of the busiest travel days of the year.",
+      "published_at": "2026-11-26T03:27:33Z",
+      "region": "América do Norte",
+      "theme": "Outros / Multitemático",
+      "source_name": "BBC World News",
+      "source_id": "bbc_world",
+      "is_brazilian": false,
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a780/live/1db9c0f0-e959-11f1-99b6-a35a62fa4264.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Colombian president taunts arrested supermarket hostage-takers",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/26/colombian-president-taunts-arrested-supermarket-hostage-takers?traffic_source=rss",
+      "summary": "Colombia’s president has confronted the men who held 76 people hostage at a Cartagena supermarket.",
+      "published_at": "2026-11-26T03:23:24Z",
+      "region": "América do Sul",
+      "theme": "Política Internacional",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795663381.jpg?resize=1920%2C1080&quality=80",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Anthropic CEO Amodei denies wanting humanity to ‘surrender’ free will to AI",
+      "link": "https://www.aljazeera.com/economy/2026/11/26/anthropic-ceo-amodei-denies-wanting-humanity-to-surrender-free-will-to-ai?traffic_source=rss",
+      "summary": "Dario Amodei's remarks come amid predictions that AI may soon match or surpass human intelligence.",
+      "published_at": "2026-11-26T03:20:23Z",
+      "region": "Oriente Médio",
+      "theme": "Ciência, Tecnologia e Inovação",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20261119__D7ZG87L__v1__MidRes__UsEconomyMarketsTechnologyAiAnthropic-1795654200_6aabb5-1795660770.jpg?resize=1200%2C630&quality=80",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1518770660439-4636190af475?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1507668077129-56e32842fceb?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Governo lança campanha para a Copa do Mundo feminina de 2027",
+      "link": "https://www.poder360.com.br/poder-governo/governo-lanca-campanha-para-a-copa-do-mundo-feminina-de-2027/",
+      "summary": "Ação inclui jingle, identidade visual para perfis de ministérios e ativação na Alexa, assistente virtual da Amazon",
+      "published_at": "2026-11-26T03:14:18Z",
+      "region": "América do Sul",
+      "theme": "Cultura, Mídia e Sociedade",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2026/06/Livia-Villas-BoasCBF.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1460661419201-fd4cecdf8a8b?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1508700115892-45ecd05ae2ad?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Las Fuerzas Armadas del Gobierno reconocido de Yemen reivindican más de 100 hutíes muertos o heridos",
+      "link": "https://www.europapress.es/internacional/noticia-fuerzas-armadas-gobierno-reconocido-yemen-reivindican-mas-100-huties-muertos-heridos-20261126040523.html",
+      "summary": "Las Fuerzas Armadas del Gobierno internacionalmente reconocido de Yemen han asegurado haber dejado 109 muertos o heridos entre las filas y mandos de la insurgencia hutí este miércoles, en el que han reivindicado \"21 ataques aéreos, 577 ataques de artillería de campaña, 36 ataques con drones y 20 ataques con cohetes\".",
+      "published_at": "2026-11-26T03:05:23Z",
+      "region": "Oriente Médio",
+      "theme": "Geopolítica e Segurança",
+      "source_name": "Europa Press",
+      "source_id": "europa_press",
+      "is_brazilian": false,
+      "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20261126040523_120.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "US authorizes SpaceX to launch up to one million satellites for orbital data centers",
+      "link": "https://www.france24.com/en/technology/20261126-us-authorizes-spacex-to-launch-up-to-one-million-satellites-for-orbital-data-centers",
+      "summary": "The US Federal Communications Commission has approved SpaceX's plan to deploy up to one million satellites to build data centers in orbit, giving Elon Musk's company a major foothold in the industry. The authorization runs through 2040, as tech firms race to move computing infrastructure into space despite significant technical hurdles.",
+      "published_at": "2026-11-26T03:02:37Z",
+      "region": "América do Norte",
+      "theme": "Ciência, Tecnologia e Inovação",
+      "source_name": "France 24",
+      "source_id": "france24",
+      "is_brazilian": false,
+      "image_url": "https://s.france24.com/media/display/c24be946-bb40-11f1-b551-852b23529bb9/w:1024/p:16x9/2026-09-28T131913Z-1185617274-RC2CSNAEMW2N-RTRMADP-3-SPACE-SPACEX-STARSHIP.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1518770660439-4636190af475?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1507668077129-56e32842fceb?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Cleitinho se reúne com Pedro Rousseff e propõe união entre partidos",
+      "link": "https://www.poder360.com.br/poder-brasil/cleitinho-se-reune-com-pedro-rousseff-e-propoe-uniao-entre-partidos/",
+      "summary": "O governador eleito de MG apareceu nesta 4ª feira (25.nov) com os deputados federais eleitos Gleidson Azevedo (Republicanos) e Pedro Rousseff (PT), sobrinho-neto da ex-presidente Dilma Rousseff (PT)",
+      "published_at": "2026-11-26T03:01:49Z",
+      "region": "América do Sul",
+      "theme": "Política Brasileira",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2026/11/video-cleitinho-1200x675.png",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "FIFA turns to influencers to promote U17 World Cup",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/26/fifa-turns-to-influencers-to-promote-u17-world-cup?traffic_source=rss",
+      "summary": "FIFA has enlisted social media influencers to promote the Under-17 World Cup in Qatar.",
+      "published_at": "2026-11-26T03:00:51Z",
+      "region": "Oriente Médio",
+      "theme": "Cultura, Mídia e Sociedade",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795662042.jpg?resize=1920%2C1080&quality=80",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1460661419201-fd4cecdf8a8b?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1508700115892-45ecd05ae2ad?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Só 34 municípios têm sistema contra enchentes no país, diz IBGE",
+      "link": "https://www.poder360.com.br/poder-infra/so-34-municipios-tem-sistema-contra-enchentes-no-pais-diz-ibge/",
+      "summary": "Dado foi revelado na PNSB 2024 divulgada pelo IBGE; São Paulo lidera o ranking estadual, com 10 cidades",
+      "published_at": "2026-11-26T02:59:42Z",
+      "region": "América do Sul",
+      "theme": "Meio Ambiente e Clima",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2026/11/chuvas-enchentes-Nova-Esperanca-do-Sudoeste-24nov2026-1200x675.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "EEUU esboza nuevos aranceles contra Brasil, que advierte que \"no cederá ante este tipo de amenazas\"",
+      "link": "https://www.europapress.es/internacional/noticia-eeuu-esboza-nuevos-aranceles-contra-brasil-advierte-no-cedera-tipo-amenazas-20261126034356.html",
+      "summary": "El Representante Comercial de Estados Unidos (USTR, por sus siglas en inglés), Jamieson Greer, ha propuesto este miércoles un endurecimiento de las medidas aduaneras contra Brasil, con la imposición de \"un arancel adicional específico sobre las importaciones de azúcar\" y de otro extra del 10% sobre las exportaciones de aeronaves terminadas, reavivando así la guerra comercial con el país latinoamericano, que ha advertido que \"no cederá ante este tipo de amenazas\".",
+      "published_at": "2026-11-26T02:43:56Z",
+      "region": "América do Sul",
+      "theme": "Comércio e Finanças",
+      "source_name": "Europa Press",
+      "source_id": "europa_press",
+      "is_brazilian": false,
+      "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20261126034356_120.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1578575437130-527eed3abbec?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1522071820081-009f0129c71c?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Jantar de Alckmin tem petistas e visita rápida de Gilmar Mendes",
+      "link": "https://www.poder360.com.br/poder-governo/jantar-de-alckmin-tem-petistas-e-visita-rapida-de-gilmar-mendes/",
+      "summary": "Evento foi organizado por advogados da campanha de Lula; ministro do STF permaneceu por 20 minutos no local",
+      "published_at": "2026-11-26T02:31:16Z",
+      "region": "América do Sul",
+      "theme": "Política Brasileira",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2026/11/Jantar-para-Alckmin-25-nov-2026-2-1200x675.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Comissão eleva estimativa de receita do Orçamento de 2027 em R$ 37,1 bi",
+      "link": "https://www.poder360.com.br/poder-congresso/comissao-eleva-estimativa-de-receita-do-orcamento-de-2027-em-r-371-bi/",
+      "summary": "Texto incorpora impacto de royalties do petróleo, estreia da reforma tributária e queda na previsão do PIB de 2,5% para 1,8%",
+      "published_at": "2026-11-26T02:15:49Z",
+      "region": "América do Sul",
+      "theme": "Economia Brasileira",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2026/11/reuniao-cmo-25-nov-2026-1200x675.png",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1506744038136-46273834b3fb?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Kim Jong Un says North Korea should widen deployment of tactical nukes",
+      "link": "https://www.aljazeera.com/news/2026/11/26/kim-jong-un-says-north-korea-should-widen-deployment-of-tactical-nukes?traffic_source=rss",
+      "summary": "North Korean leader warns attempts to deny country's nuclear status will be seen as \"an open declaration of war\".",
+      "published_at": "2026-11-26T02:03:03Z",
+      "region": "Ásia",
+      "theme": "Direito Internacional e Instituições",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b0788bbb53d-1795655867.jpg?resize=1920%2C1440",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1505664194779-8beaceb93744?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Campopiano ironiza feministas ao ganhar medalha Chiquinha Gonzaga",
+      "link": "https://www.poder360.com.br/poder-brasil/eduarda-campopiano-ironiza-feministas-ao-ganhar-medalha-chiquinha-gonzaga/",
+      "summary": "Prêmio foi proposto por vereadores da Câmara do Rio pela “representatividade feminina nos espaços de decisão” da deputada eleita",
+      "published_at": "2026-11-26T01:56:11Z",
+      "region": "América do Sul",
+      "theme": "Outros / Multitemático",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2026/11/campopiano-medalha-chiquinha-gonzaga-24-nov-2026-1200x675.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Tarifas de Trump visam a “proteger produtores” dos EUA, diz secretária",
+      "link": "https://www.poder360.com.br/poder-internacional/tarifas-de-trump-visam-a-proteger-produtores-dos-eua-diz-secretaria/",
+      "summary": "Governo norte-americano propôs nesta 4ª feira (25.nov.2026) elevar as tarifas sobre o açúcar e as aeronaves brasileiras",
+      "published_at": "2026-11-26T01:46:42Z",
+      "region": "América do Norte",
+      "theme": "Comércio e Finanças",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2026/11/secretaria-de-agricultura-dos-estados-unidos-brooke-rollins-1200x675.png",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1578575437130-527eed3abbec?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1522071820081-009f0129c71c?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Photos: Storms and an El Nino-charged king tide batter California’s coast",
+      "link": "https://www.aljazeera.com/gallery/2026/11/26/photos-storms-and-an-el-nino-charged-king-tide-batter-californias-coast?traffic_source=rss",
+      "summary": "Meteorologists have warned that the king tide could pair with high surf to bring historic surges to parts of the state.",
+      "published_at": "2026-11-26T01:40:13Z",
+      "region": "Oriente Médio",
+      "theme": "Outros / Multitemático",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-25T212701Z_242027520_RC24VOAPXVX3_RTRMADP_3_USA-WEATHER-CALIFORNIA-1795647953.jpg?resize=1920%2C1440",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Ukraine attacks Russian military base, says five planes struck",
+      "link": "https://www.aljazeera.com/news/2026/11/26/ukraine-attacks-russian-military-base-says-five-planes-struck?traffic_source=rss",
+      "summary": "The Ukrainian General Staff says its forces struck an airbase in the Nizhny Novgorod region east of Moscow.",
+      "published_at": "2026-11-26T01:39:46Z",
+      "region": "Europa",
+      "theme": "Geopolítica e Segurança",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-06-15T152617Z_1851412768_RC2CQ49SS6FD_RTRMADP_3_RUSSIA-AIRPLANE-CRASH-1795653630.jpg?resize=1920%2C1440",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "ICE officers smash car window, pepper spray bystanders",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/26/ice-officers-smash-car-window-pepper-spray-bystanders?traffic_source=rss",
+      "summary": "Masked ICE agents smashed a car window and forcibly opened its door to arrest a man in California.",
+      "published_at": "2026-11-26T01:33:50Z",
+      "region": "Oriente Médio",
+      "theme": "Outros / Multitemático",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/11/WIDE-THUMB-ICE-2511-1795656771.png?resize=1920%2C1080&quality=80",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Defesa de Vorcaro pede que Gilmar assuma relatoria de ação contra Fachin",
+      "link": "https://www.poder360.com.br/poder-justica/defesa-de-vorcaro-pede-que-gilmar-assuma-relatoria-de-acao-contra-fachin/",
+      "summary": "Relatoria foi sorteada ao ministro Kassio Nunes Marques; caso está sob segredo de Justiça",
+      "published_at": "2026-11-26T01:29:12Z",
+      "region": "América do Sul",
+      "theme": "Geopolítica e Segurança",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2026/10/Gilmar-Mendes-ministro-STF-1200x675.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "At least 31 killed in Cairo fire after fuel truck overturns on busy highway",
+      "link": "https://www.france24.com/en/africa/20261126-at-least-31-killed-in-cairo-fire-after-fuel-truck-overturns-on-busy-highway",
+      "summary": "At least 31 people were killed and 15 injured when a fuel truck overturned and burst into flames on a busy highway in Cairo on Wednesday, engulfing nearby vehicles, Egyptian authorities said.",
+      "published_at": "2026-11-26T01:25:54Z",
+      "region": "África",
+      "theme": "Outros / Multitemático",
+      "source_name": "France 24",
+      "source_id": "france24",
+      "is_brazilian": false,
+      "image_url": "https://s.france24.com/media/display/ac48570e-e937-11f1-b861-1991d4929b54/w:1024/p:16x9/AP26329710858344.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "California warns of flooding as King Tides peak over Thanksgiving",
+      "link": "https://www.bbc.co.uk/news/articles/ckn806qq760po?at_medium=RSS&at_campaign=rss",
+      "summary": "Parts of the Canadian province of British Columbia may also be affected by the storms and flooding, which come as millions of people travel for the holiday.",
+      "published_at": "2026-11-26T01:22:55Z",
+      "region": "América do Norte",
+      "theme": "Outros / Multitemático",
+      "source_name": "BBC World News",
+      "source_id": "bbc_world",
+      "is_brazilian": false,
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6396/live/c71ce590-e919-11f1-8383-53f283141713.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Powerful US storm forces historic postponement of New York's Thanksgiving Day Parade",
+      "link": "https://www.france24.com/en/americas/20261126-powerful-us-storm-forces-historic-postponement-of-thanksgiving-day-parade-in-new-york",
+      "summary": "A powerful storm forecast to bring fierce winds and heavy rain to the northeastern United States has forced the unprecedented postponement of the city's 100th annual Thanksgiving Day Parade, with the event rescheduled for Saturday. Officials warned that Thursday's conditions could bring down tree limbs and power lines, while posing a safety risk to the parade's giant balloons and the crowds below.",
+      "published_at": "2026-11-26T01:11:05Z",
+      "region": "América do Norte",
+      "theme": "Meio Ambiente e Clima",
+      "source_name": "France 24",
+      "source_id": "france24",
+      "is_brazilian": false,
+      "image_url": "https://s.france24.com/media/display/c1a0cb74-e935-11f1-813e-c131ae9bfe9c/w:1024/p:16x9/AP26329715905101.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Judges recommend prosecutors end corruption case against Netanyahu",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/26/judges-recommend-prosecutors-end-corruption-case-against-netanyahu?traffic_source=rss",
+      "summary": "Israeli judges have ruled there is little prospect Benjamin Netanyahu will be convicted of corruption.",
+      "published_at": "2026-11-26T01:08:43Z",
+      "region": "Oriente Médio",
+      "theme": "Outros / Multitemático",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": null,
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Storms push Macy’s Thanksgiving Day Parade in New York City to Saturday",
+      "link": "https://www.aljazeera.com/news/2026/11/26/storms-push-macys-thanksgiving-day-parade-in-new-york-city-to-saturday?traffic_source=rss",
+      "summary": "The parade, which marks its 100th edition, got a last-minute rain check ahead of heavy gusts on Thursday.",
+      "published_at": "2026-11-26T00:52:56Z",
+      "region": "América do Norte",
+      "theme": "Outros / Multitemático",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": null,
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "ISIL blamed for multiple suicide attacks in Syria",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/26/isil-blamed-for-multiple-suicide-attacks-in-syria?traffic_source=rss",
+      "summary": "ISIL suicide attack kills two in an assault on a security post in northeastern Syria.",
+      "published_at": "2026-11-26T00:51:17Z",
+      "region": "Oriente Médio",
+      "theme": "Geopolítica e Segurança",
+      "source_name": "Al Jazeera",
+      "source_id": "aljazeera_english",
+      "is_brazilian": false,
+      "image_url": null,
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Padre Kelmon celebra missa em hospital onde Bolsonaro está internado",
+      "link": "https://www.poder360.com.br/poder-brasil/padre-kelmon-celebra-missa-em-hospital-onde-bolsonaro-esta-internado/",
+      "summary": "Cerimônia religiosa reuniu congressistas e apoiadores do ex-presidente, que segue na UTI sem previsão de alta",
+      "published_at": "2026-11-26T00:46:39Z",
+      "region": "América do Sul",
+      "theme": "Política Brasileira",
+      "source_name": "Poder360",
+      "source_id": "poder360",
+      "is_brazilian": true,
+      "image_url": "https://static.poder360.com.br/uploads/2026/11/padre-kelmon-celebra-missa-25.nov_.2026-1200x675.png",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Los hutíes de Yemen atacan los puertos saudíes de Yeda y Yizán en represalia por el bombardeo del puerto de Hodeida",
+      "link": "https://www.europapress.es/internacional/noticia-huties-yemen-atacan-puertos-saudies-yeda-yizan-represalia-bombardeo-puerto-hodeida-20261126014512.html",
+      "summary": "La coalición que lidera Arabia Saudí reconoce \"daños menores\" en Yizán e informa de interceptaciones de proyectiles en varios puntos del país, incluida Riad",
+      "published_at": "2026-11-26T00:45:12Z",
+      "region": "Oriente Médio",
+      "theme": "Geopolítica e Segurança",
+      "source_name": "Europa Press",
+      "source_id": "europa_press",
+      "is_brazilian": false,
+      "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20261126014512_120.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Gana é eleita na ONU Turismo e Brasil assume vice-presidência",
+      "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-11/gana-e-eleita-na-onu-turismo-e-brasil-assume-vice-presidencia",
+      "summary": "Gana foi eleita para presidir o Conselho Executivo da ONU Turismo em 2027. A escolha ocorreu durante a 127ª reunião do colegiado nesta quarta-feira (25), nos Emirados Árabes Unidos. O país africano recebeu 19 votos, vencendo a Argentina, que teve 14 votos. O Brasil, que deixa a presidência do conselho no biênio 2025-2026, permanecerá na vice-presidência ao longo do próximo ano, junto com a Bulgária. Notícias relacionadas: ONU aprova proposta do Brasil de turismo amigável para muçulmanos. Ao presidir a organização, Gana pretende defender as prioridades do turismo na África, aprofundar a cooperação internacional e promover o desenvolvimento turístico sustentável e inclusivo em escala global, bandeiras compartilhadas com o Brasil. “Encerramos a presidência do Conselho Executivo da ONU Turismo com a certeza do dever cumprido e celebramos a eleição de Gana, desejando sucesso na gestão. Seguir na vice-presidência em 2027, ao lado da Bulgária, reflete o prestígio da política externa do presidente Lula, fortalece o multilateralismo e garante que o Brasil continuará na linha de frente das decisões que moldam o futuro do turismo mundial”, afirmou o ministro do Turismo, Gustavo Feliciano. Durante o biênio 2025-2026, a liderança brasileira priorizou temas alinhados à Agenda 2030 da ONU, sustentabilidade, agenda climática, integração do turismo com metas ambientais e o fortalecimento do ecoturismo e do turismo de base comunitária. No período 2026-2027, o Brasil conduzirá o Grupo de Trabalho Interinstitucional sobre Turismo e Ação Climática da ONU Turismo, criado a partir de uma proposta brasileira em 2025 e que trouxe o debate da agenda climática para dentro do Conselho da ONU Turismo. Copa do Mundo Na 127ª Reunião do Conselho Executivo da ONU Turismo em Abu Dhabi, a ministra substituta do Turismo, Fernanda Norat, representando o ministro, convidou os países-membros para acompanharem a Copa do Mundo de Futebol Feminino, que será realizada no Brasil em 2027. “Saímos de Abu Dhabi honrados pelos avanços conquistados pelo Brasil à frente do Conselho Executivo da ONU Turismo e com um convite especial a cada delegação aqui presente: em junho de 2027, esperamos vocês no Brasil para a Copa do Mundo Feminina. Será uma oportunidade única para o mundo vivenciar a força da nossa cultura, da nossa natureza e da nossa hospitalidade\", declarou Fernanda Norat. O Brasil ainda firmou um memorando de entendimento em turismo com Angola, que prevê o fomento ao turismo sustentável e regenerativo, criação de um prêmio bilateral, estruturação de roteiros de memória, ancestralidade e cultura afro-atlântica e a participação recíproca em feiras e eventos de negócios, além do lançamento de pacotes promocionais de stopover (escala) em Angola para turistas brasileiros em rotas com destino à Ásia. * Com informações do Ministério do Turismo",
+      "published_at": "2026-11-26T00:36:00Z",
+      "region": "América do Sul",
+      "theme": "Direito Internacional e Instituições",
+      "source_name": "Agência Brasil",
+      "source_id": "agencia_brasil",
+      "is_brazilian": true,
+      "image_url": null,
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1505664194779-8beaceb93744?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Un petrolero denuncia una explosión causada por un proyectil no identificado a 92 kilómetros al oeste de Dubái",
+      "link": "https://www.europapress.es/internacional/noticia-petrolero-denuncia-explosion-causada-proyectil-no-identificado-92-kilometros-oeste-dubai-20261126013537.html",
+      "summary": "La entidad de Operaciones de Comercio Marítimo de Reino Unido (UKMTO, por sus siglas en inglés) ha informado de un incidente ocurrido a 50 millas náuticas (unos 92 kilómetros) al oeste de Dubái, en Emiratos Árabes Unidos (EAU), donde el capitán de un petrolero ha denunciado una explosión provocada por un proyectil no identificado en las inmediaciones de la embarcación.",
+      "published_at": "2026-11-26T00:35:37Z",
+      "region": "Europa",
+      "theme": "Direito Internacional e Instituições",
+      "source_name": "Europa Press",
+      "source_id": "europa_press",
+      "is_brazilian": false,
+      "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20261126013537_120.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1505664194779-8beaceb93744?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "US Army says controlled blast of explosives in Iowa was 'huge success'",
+      "link": "https://www.bbc.co.uk/news/articles/cwg7l5ve251ko?at_medium=RSS&at_campaign=rss",
+      "summary": "Despite widespread concern from residents ahead of the blast, officials say that lead readings in the area so far have been promising.",
+      "published_at": "2026-11-26T00:23:05Z",
+      "region": "América do Norte",
+      "theme": "Geopolítica e Segurança",
+      "source_name": "BBC World News",
+      "source_id": "bbc_world",
+      "is_brazilian": false,
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9049/live/be474ac0-e8f9-11f1-b8b0-a95064d74c5f.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Has global jihadism failed, or is it simply changing shape?",
+      "link": "https://www.bbc.co.uk/news/articles/cmx2x4e0n5jro?at_medium=RSS&at_campaign=rss",
+      "summary": "Jihadist groups appear to be focusing on local issues rather than global terror. Does it signify a real change?",
+      "published_at": "2026-11-26T00:22:18Z",
+      "region": "Global",
+      "theme": "Geopolítica e Segurança",
+      "source_name": "BBC World News",
+      "source_id": "bbc_world",
+      "is_brazilian": false,
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ae31/live/2d66b8d0-e8d9-11f1-99a1-253766e7ad8b.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
     {
       "title": "MST critica reforma agrária e questiona dados do governo",
       "link": "https://www.poder360.com.br/poder-brasil/mst-critica-reforma-agraria-e-questiona-dados-do-governo/",
@@ -33,6 +764,23 @@
         "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Trump culpa a Obama de los explosivos de plomo detonados en Iowa y ataca al gobernador electo del estado",
+      "link": "https://www.europapress.es/internacional/noticia-trump-culpa-obama-explosivos-plomo-detonados-iowa-ataca-gobernador-electo-estado-20261126004207.html",
+      "summary": "El presidente estadounidense asegura que el material fue almacenado de forma indebida en 2009 y reprocha al demócrata Rob Sand sus quejas sobre falta de transparencia",
+      "published_at": "2026-11-25T23:42:07Z",
+      "region": "América do Norte",
+      "theme": "Política Internacional",
+      "source_name": "Europa Press",
+      "source_id": "europa_press",
+      "is_brazilian": false,
+      "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20261126004207_120.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
       ]
     },
     {
@@ -114,6 +862,23 @@
       "source_id": "aljazeera_english",
       "is_brazilian": false,
       "image_url": null,
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "title": "Angelina Jolie and Brad Pitt settle legal battle over French winery",
+      "link": "https://www.bbc.co.uk/news/articles/cmvg2989wv74o?at_medium=RSS&at_campaign=rss",
+      "summary": "The Hollywood A-listers' legal battle focused on the vineyard they bought in 2008 and where they wed six years later.",
+      "published_at": "2026-11-25T23:18:27Z",
+      "region": "Europa",
+      "theme": "Outros / Multitemático",
+      "source_name": "BBC World News",
+      "source_id": "bbc_world",
+      "is_brazilian": false,
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/32bb/live/4d5bc080-e920-11f1-9108-c5b270b0703d.jpg",
       "fallback_images": [
         "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
@@ -240,20 +1005,20 @@
       ]
     },
     {
-      "title": "A influenciadora que ficou 2 meses internada em clínica psiquiátrica por um erro: 'Fui rotulada como psicótica por ser mulher'",
+      "title": "A doença rara que levou influenciadora a clínica psiquiátrica por 2 meses: 'Fui rotulada como psicótica por ser mulher'",
       "link": "https://www.bbc.com/portuguese/articles/ck879j789y1zo?at_medium=RSS&at_campaign=rss",
       "summary": "Criadora de conteúdo que faz vídeos no metrô de Londres recebeu o diagnóstico de encefalite anti-receptor NMDA.",
       "published_at": "2026-11-25T22:36:59Z",
       "region": "Europa",
-      "theme": "Outros / Multitemático",
+      "theme": "Saúde",
       "source_name": "BBC News Brasil",
       "source_id": "bbc_brasil",
       "is_brazilian": true,
       "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4a09/live/61ab5300-e76f-11f1-99a1-253766e7ad8b.jpg",
       "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
+        "https://images.unsplash.com/photo-1584515901367-f1c2a12a50ea?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1505751172876-fa1923c5c528?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1584036561566-baf2418a7c21?q=80&w=800&auto=format&fit=crop"
       ]
     },
     {
@@ -759,7 +1524,7 @@
       "source_name": "DW Brasil",
       "source_id": "dw_brasil",
       "is_brazilian": false,
-      "image_url": null,
+      "image_url": "https://static.dw.com/image/80053300_6.jpg",
       "fallback_images": [
         "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
@@ -781,23 +1546,6 @@
         "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "US Army says controlled blast of explosives in Iowa was 'huge success'",
-      "link": "https://www.bbc.co.uk/news/articles/cwg7l5ve251ko?at_medium=RSS&at_campaign=rss",
-      "summary": "Despite widespread concern from residents ahead of the blast, officials say that lead readings in the area so far have been promising.",
-      "published_at": "2026-11-25T19:54:52Z",
-      "region": "América do Norte",
-      "theme": "Geopolítica e Segurança",
-      "source_name": "BBC World News",
-      "source_id": "bbc_world",
-      "is_brazilian": false,
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9049/live/be474ac0-e8f9-11f1-b8b0-a95064d74c5f.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
       ]
     },
     {
@@ -1226,6 +1974,23 @@
       ]
     },
     {
+      "title": "Trump's accounts traded Nvidia shares 44 times this year, records show",
+      "link": "https://www.bbc.co.uk/news/articles/cq772vk664yvo?at_medium=RSS&at_campaign=rss",
+      "summary": "A review of the US president's financial disclosures shows Donald Trump's investment portfolios have regularly traded shares in the tech giant.",
+      "published_at": "2026-11-25T16:42:11Z",
+      "region": "América do Norte",
+      "theme": "Política Internacional",
+      "source_name": "BBC World News",
+      "source_id": "bbc_world",
+      "is_brazilian": false,
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9436/live/251a8890-e8d5-11f1-99b6-a35a62fa4264.jpg",
+      "fallback_images": [
+        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
       "title": "Temporais provocam mortes e estragos no Paraná e São Paulo",
       "link": "https://www.dw.com/pt-br/temporais-provocam-mortes-e-estragos-no-paraná-e-são-paulo/a-80052740?maca=bra-rss-br-all-1030-rdf",
       "summary": "Seis vítimas morreram em cidades paranaenses. Estados do Sul e Sudeste têm alerta de mau tempo, com risco de transtornos para os próximos dias.",
@@ -1240,23 +2005,6 @@
         "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "US announces new tariffs on host of countries including China",
-      "link": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
-      "summary": "The new levies would hit many of America's biggest trading partners, including China and the EU.",
-      "published_at": "2026-11-25T16:21:34Z",
-      "region": "Ásia",
-      "theme": "Comércio e Finanças",
-      "source_name": "BBC World News",
-      "source_id": "bbc_world",
-      "is_brazilian": false,
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/91fc/live/6d9c5c50-e908-11f1-99b6-a35a62fa4264.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1578575437130-527eed3abbec?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1522071820081-009f0129c71c?q=80&w=800&auto=format&fit=crop"
       ]
     },
     {
@@ -1801,754 +2549,6 @@
         "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Why Indian nationals are still ending up in Russia's war on Ukraine",
-      "link": "https://www.dw.com/en/why-indian-nationals-are-still-ending-up-in-russia-s-war-on-ukraine/a-80048537?maca=en-rss-en-world-4025-rdf",
-      "summary": "Whether through deception or desperation, Indians continue to be drawn into Russia's war in Ukraine. What can New Delhi do to protect its citizens from ending up fighting in Ukraine?",
-      "published_at": "2026-11-25T13:17:00Z",
-      "region": "Europa",
-      "theme": "Geopolítica e Segurança",
-      "source_name": "DW World News",
-      "source_id": "dw_english",
-      "is_brazilian": false,
-      "image_url": "https://static.dw.com/image/69612381_6.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "US army to detonate stockpile of unstable bomb-making chemicals in Iowa",
-      "link": "https://www.france24.com/en/video/20261125-us-army-to-detonate-stockpile-of-unstable-bomb-making-chemicals-in-iowa",
-      "summary": "The US military will on Wednesday detonate some 10,000 pounds of unstable and degraded explosive material in Iowa, where local residents were urged to evacuate amid concerns over possible toxic lead contamination. US officials say the 68 drums of lead azide are at risk of spontaneous explosion. A series of safety measures are being taken to curb potential contamination from the blast, but the Army has encouraged residents of a small town and other nearby areas to leave \"out of an abundance of caution.\"",
-      "published_at": "2026-11-25T13:16:49Z",
-      "region": "América do Norte",
-      "theme": "Geopolítica e Segurança",
-      "source_name": "France 24",
-      "source_id": "france24",
-      "is_brazilian": false,
-      "image_url": "https://s.france24.com/media/display/3eb0ab90-e8c1-11f1-bc6d-c131ae9bfe9c/w:1024/p:16x9/EN-20261125-110343-110536-CS.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "The forgotten victims of femicide: Children orphaned by violence in Italy",
-      "link": "https://www.france24.com/en/video/20261125-the-forgotten-victims-of-femicide-children-orphaned-by-violence-in-italy",
-      "summary": "November 25th is International Day for the Elimination of Violence Against Women. The forgotten victims of femicide are the children who find themselves motherless, often because their mother was killed by their own father. Italy recorded 97 female homicides in 2025 – 62 of them were committed by a partner. These crimes leave whole families devastated and children who have to grow up without their parents. FRANCE 24’s correspondent in Italy, Natalia Mendoza, reports.",
-      "published_at": "2026-11-25T13:15:14Z",
-      "region": "Europa",
-      "theme": "Saúde",
-      "source_name": "France 24",
-      "source_id": "france24",
-      "is_brazilian": false,
-      "image_url": "https://s.france24.com/media/display/ec672210-e8c0-11f1-a386-95e072ff0a91/w:1024/p:16x9/EN-20261125-110750-111010-CS.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1584515901367-f1c2a12a50ea?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1505751172876-fa1923c5c528?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1584036561566-baf2418a7c21?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "‘Second home’: Why Israel is celebrating Jensen Huang’s return to Nvidia",
-      "link": "https://www.aljazeera.com/features/2026/11/25/second-home-why-israel-is-celebrating-jensen-huangs-return-to-nvidia?traffic_source=rss",
-      "summary": "Israel's tech sector and economy have strong ties to chip giant Nvidia, which invests billions of dollars.",
-      "published_at": "2026-11-25T13:04:17Z",
-      "region": "Oriente Médio",
-      "theme": "Outros / Multitemático",
-      "source_name": "Al Jazeera",
-      "source_id": "aljazeera_english",
-      "is_brazilian": false,
-      "image_url": null,
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Solomon Islands signs security deal with Australia",
-      "link": "https://www.aljazeera.com/news/2026/11/25/solomon-islands-signs-security-deal-with-australia?traffic_source=rss",
-      "summary": "Solomon Islands will have to consult Canberra before making new security or infrastructure deals under new pact.",
-      "published_at": "2026-11-25T13:02:45Z",
-      "region": "Oceania",
-      "theme": "Outros / Multitemático",
-      "source_name": "Al Jazeera",
-      "source_id": "aljazeera_english",
-      "is_brazilian": false,
-      "image_url": null,
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Como o PCC e o Comando Vermelho se espalharam pelo Brasil",
-      "link": "https://www.dw.com/pt-br/como-o-pcc-e-o-comando-vermelho-se-espalharam-pelo-brasil/a-80045430?maca=bra-rss-br-all-1030-rdf",
-      "summary": "Nascidas nas prisões de São Paulo e do Rio de Janeiro, as duas maiores facções do país ampliaram sua atuação e hoje influenciam mercados ilegais em praticamente todas as regiões brasileiras e em rotas internacionais.",
-      "published_at": "2026-11-25T12:59:00Z",
-      "region": "América do Sul",
-      "theme": "Outros / Multitemático",
-      "source_name": "DW Brasil",
-      "source_id": "dw_brasil",
-      "is_brazilian": false,
-      "image_url": "https://static.dw.com/image/77344651_6.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Israeli MPs advance bill for inquiry into security failings that led to October 7 Hamas attack",
-      "link": "https://www.france24.com/en/middle-east/20261125-israeli-mps-advance-bill-for-inquiry-into-security-failings-that-led-to-october-7-hamas-attack",
-      "summary": "Israeli MPs on Wednesday gave their initial approval for the creation of a commission to investigate the security failures that led to the October 7, 2023 attack by Hamas. Caretaker Prime Minister Benjamin Netanyahu, who was in power when the attack happened, has repeatedly rejected calls to set up such a probe.",
-      "published_at": "2026-11-25T12:55:47Z",
-      "region": "Oriente Médio",
-      "theme": "Geopolítica e Segurança",
-      "source_name": "France 24",
-      "source_id": "france24",
-      "is_brazilian": false,
-      "image_url": "https://s.france24.com/media/display/2b73ba14-e8cf-11f1-aebf-c131ae9bfe9c/w:1024/p:16x9/000-D8KK3YA.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Producer and guitarist Ginton on jazz, remixing big hits and collaborating on a track for Drake",
-      "link": "https://www.france24.com/en/tv-shows/perspective/20261125-producer-and-guitarist-ginton-on-jazz-remixing-big-hits-and-collaborating-on-a-track-for-drake",
-      "summary": "Amsterdam-based guitarist, DJ and music producer Ginton is known for blending reggae, Afro, Caribbean and electronic music. He told FRANCE 24 that his background in jazz was \"the reason I can make the music I make today\". He also told us of his \"surprise\" in collaborating on a track for Drake's album \"Honestly, Nevermind\". He spoke to us in Perspective.",
-      "published_at": "2026-11-25T12:54:19Z",
-      "region": "América do Norte",
-      "theme": "Cultura, Mídia e Sociedade",
-      "source_name": "France 24",
-      "source_id": "france24",
-      "is_brazilian": false,
-      "image_url": "https://s.france24.com/media/display/956ac446-e8cd-11f1-95e7-95e072ff0a91/w:1024/p:16x9/capture-fb2e6e3e.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1460661419201-fd4cecdf8a8b?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1508700115892-45ecd05ae2ad?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "La Casa Blanca afirma que Ábrego García \"se autodeporta\" a España, \"devastada por la política de puertas abiertas\"",
-      "link": "https://www.europapress.es/internacional/noticia-casa-blanca-afirma-abrego-garcia-autodeporta-espana-devastada-politica-puertas-abiertas-20261125134523.html",
-      "summary": "La Casa Blanca ha afirmado este miércoles que el salvadoreño Kilmar Ábrego García \"se ha autodeportado\" a España tras coger un vuelo desde Estados Unidos con destino a Madrid, antes de subrayar que \"la política de puertas abiertas\" del Gobierno de Pedro Sánchez ha supuesto la \"devastación\" del país europeo.",
-      "published_at": "2026-11-25T12:45:23Z",
-      "region": "Europa",
-      "theme": "Política Internacional",
-      "source_name": "Europa Press",
-      "source_id": "europa_press",
-      "is_brazilian": false,
-      "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20261125134523_120.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Trump to meet Abdul El-Sayed: Will he agree to a renamed Medicare-for-all?",
-      "link": "https://www.aljazeera.com/news/2026/11/25/trump-to-meet-abdul-el-sayed-will-he-agree-to-a-renamed-medicare-for-all?traffic_source=rss",
-      "summary": "Weeks after a bitter Senate race in Michigan, US president calls Democratic victor ‘a smart guy’.",
-      "published_at": "2026-11-25T12:45:16Z",
-      "region": "América do Norte",
-      "theme": "Política Internacional",
-      "source_name": "Al Jazeera",
-      "source_id": "aljazeera_english",
-      "is_brazilian": false,
-      "image_url": null,
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Trinity Rodman out of USWNT’s World Cup qualifier due to shoulder injury",
-      "link": "https://www.aljazeera.com/sports/2026/11/25/trinity-rodman-out-of-uswnts-world-cup-qualifier-due-to-shoulder-injury?traffic_source=rss",
-      "summary": "Star forward Trinity Rodman sustained a minor shoulder injury during Washington Spirit's 2-1 loss to Kansas City.",
-      "published_at": "2026-11-25T12:43:25Z",
-      "region": "América do Norte",
-      "theme": "Cultura, Mídia e Sociedade",
-      "source_name": "Al Jazeera",
-      "source_id": "aljazeera_english",
-      "is_brazilian": false,
-      "image_url": null,
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1460661419201-fd4cecdf8a8b?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1508700115892-45ecd05ae2ad?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Bayern Munich’s Musiala checked for neurological symptoms in April 2025",
-      "link": "https://www.aljazeera.com/sports/2026/11/25/bayern-munichs-musiala-checked-for-neurological-symptoms-in-april-2025?traffic_source=rss",
-      "summary": "Musiala was examined by the German club for neurological dysfunction after the initial onset of symptoms in 2025.",
-      "published_at": "2026-11-25T12:42:56Z",
-      "region": "Europa",
-      "theme": "Outros / Multitemático",
-      "source_name": "Al Jazeera",
-      "source_id": "aljazeera_english",
-      "is_brazilian": false,
-      "image_url": null,
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Kilmar Ábrego García arrives in Spain, ending Trump deportation battle",
-      "link": "https://www.bbc.co.uk/news/articles/c6808pyy5dl9o?at_medium=RSS&at_campaign=rss",
-      "summary": "His deportation to and return from El Salvador became a flashpoint in the debate the US president's immigration agenda.",
-      "published_at": "2026-11-25T12:42:11Z",
-      "region": "América do Norte",
-      "theme": "Política Internacional",
-      "source_name": "BBC World News",
-      "source_id": "bbc_world",
-      "is_brazilian": false,
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/92f9/live/30ceb970-e8cd-11f1-a094-5fdc692f3e33.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "O sequestro em supermercado que paralisou a Colômbia e mobilizou até o presidente",
-      "link": "https://www.dw.com/pt-br/o-sequestro-em-supermercado-que-paralisou-a-colômbia-e-mobilizou-até-o-presidente/a-80048298?maca=bra-rss-br-all-1030-rdf",
-      "summary": "Após um assalto frustrado, grupo de criminosos manteve dezenas de pessoas reféns dentro de um supermercado por cerca de 17 horas.",
-      "published_at": "2026-11-25T12:34:00Z",
-      "region": "América do Sul",
-      "theme": "Política Internacional",
-      "source_name": "DW Brasil",
-      "source_id": "dw_brasil",
-      "is_brazilian": false,
-      "image_url": "https://static.dw.com/image/80042461_6.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "In Afghanistan, no female doctor often means no treatment for women",
-      "link": "https://www.dw.com/en/in-afghanistan-no-female-doctor-often-means-no-treatment-for-women/a-80047053?maca=en-rss-en-world-4025-rdf",
-      "summary": "Millions of women in Afghanistan, particularly pregnant women, are suffering under Taliban restrictions and are increasingly losing access to life-saving medical care.",
-      "published_at": "2026-11-25T12:31:00Z",
-      "region": "Europa",
-      "theme": "Outros / Multitemático",
-      "source_name": "DW World News",
-      "source_id": "dw_english",
-      "is_brazilian": false,
-      "image_url": "https://static.dw.com/image/65006485_6.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "The rising cost of Thanksgiving",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/25/the-rising-cost-of-thanksgiving?traffic_source=rss",
-      "summary": "In the US, consumers are shelling out more money for food this Thanksgiving holiday.",
-      "published_at": "2026-11-25T12:29:09Z",
-      "region": "América do Norte",
-      "theme": "Outros / Multitemático",
-      "source_name": "Al Jazeera",
-      "source_id": "aljazeera_english",
-      "is_brazilian": false,
-      "image_url": null,
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Catalan separatist Puigdemont to return to Spain on December 12",
-      "link": "https://www.aljazeera.com/news/2026/11/25/catalan-separatist-puigdemont-to-return-to-spain-on-december?traffic_source=rss",
-      "summary": "Former regional leader says he will unveil his proposal for a renewed Catalan independence push on December 17.",
-      "published_at": "2026-11-25T12:25:46Z",
-      "region": "Europa",
-      "theme": "Outros / Multitemático",
-      "source_name": "Al Jazeera",
-      "source_id": "aljazeera_english",
-      "is_brazilian": false,
-      "image_url": null,
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Veteran Nigerian Nollywood actor Pete Edochie dies aged 79",
-      "link": "https://www.bbc.co.uk/news/articles/cqwy0rr4rr4yo?at_medium=RSS&at_campaign=rss",
-      "summary": "Odochie rose to prominence in 1987 after starring in a television adaptation of Chinua Achebe's acclaimed novel Things Fall Apart.",
-      "published_at": "2026-11-25T12:24:12Z",
-      "region": "África",
-      "theme": "Outros / Multitemático",
-      "source_name": "BBC World News",
-      "source_id": "bbc_world",
-      "is_brazilian": false,
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/62c6/live/0b9efbb0-e88c-11f1-b10e-f37861cef9d5.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Bangladesh garment workers protest over new wages",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/25/bangladesh-garment-workers-protest-over-new-wages?traffic_source=rss",
-      "summary": "Bangladesh has raised the minimum monthly wage for garment workers by 36% to 17,000 taka, about $138.",
-      "published_at": "2026-11-25T12:23:41Z",
-      "region": "Oriente Médio",
-      "theme": "Direitos Humanos, Sociedade e Migrações",
-      "source_name": "Al Jazeera",
-      "source_id": "aljazeera_english",
-      "is_brazilian": false,
-      "image_url": null,
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1542810634-71277d95dcbb?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1489533119213-66a5cd877091?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1531206715517-5c0ba140e2b8?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Russia's own figures show it has lost nearly 500,000 people in Ukraine war",
-      "link": "https://www.bbc.co.uk/news/articles/cmx27g533zwyo?at_medium=RSS&at_campaign=rss",
-      "summary": "Leaked data reveal how the full-scale invasion of Ukraine has fundamentally changed mortality patterns in Russia.",
-      "published_at": "2026-11-25T12:21:49Z",
-      "region": "Europa",
-      "theme": "Geopolítica e Segurança",
-      "source_name": "BBC World News",
-      "source_id": "bbc_world",
-      "is_brazilian": false,
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e4e/live/dce0d700-e8c5-11f1-99b6-a35a62fa4264.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "South Africa's Ramaphosa wins court battle over impeachment threat",
-      "link": "https://www.bbc.co.uk/news/articles/cq4gn6gj3z37o?at_medium=RSS&at_campaign=rss",
-      "summary": "The break-in happened in 2020, when thieves allegedly stole bundles of US dollar bills hidden inside a sofa at the farm.",
-      "published_at": "2026-11-25T12:20:17Z",
-      "region": "África",
-      "theme": "Comércio e Finanças",
-      "source_name": "BBC World News",
-      "source_id": "bbc_world",
-      "is_brazilian": false,
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f4f9/live/01698130-e808-11f1-95bb-3f37d3e026b0.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1578575437130-527eed3abbec?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1522071820081-009f0129c71c?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Russian strikes on Ukraine kill five, cause power outages in five regions",
-      "link": "https://www.aljazeera.com/news/2026/11/25/russian-strikes-on-ukraine-cause-power-outages-in-five-regions?traffic_source=rss",
-      "summary": "A Ukrainian official says attacks on Zaporizhia and Dnipropetrovsk regions damaged a number of energy sites.",
-      "published_at": "2026-11-25T12:19:17Z",
-      "region": "Europa",
-      "theme": "Outros / Multitemático",
-      "source_name": "Al Jazeera",
-      "source_id": "aljazeera_english",
-      "is_brazilian": false,
-      "image_url": null,
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Army to detonate tons of lead azide after delays. And, Abrego Garcia leaves U.S.",
-      "link": "https://www.npr.org/2026/11/25/g-s1-155493/up-first-newsletter-iowa-detonation-kilmar-abrego-garcia-nvidia-jensen-huang",
-      "summary": "Authorities have evacuated a 5-mile radius to prepare to dispose of thousands of pounds of lead azide. And, after a nearly two-year legal battle, Kilmar Abrego Garcia's has voluntarily left the U.S.",
-      "published_at": "2026-11-25T12:18:09Z",
-      "region": "Global",
-      "theme": "Geopolítica e Segurança",
-      "source_name": "NPR World News",
-      "source_id": "npr",
-      "is_brazilian": false,
-      "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8667x4875+0+446/resize/1400/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2Ff5%2F14%2Fc41a211243cca4495a4be2641da4%2Fgettyimages-2306544716.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Tentando entrar na Europa, jovens do Afeganistão se endividam pelo caminho",
-      "link": "https://news.un.org/feed/view/pt/story/2026/11/1855013",
-      "summary": "Algumas travessias duram até sete meses pela região dos Bálcãs; custo médio da jornada chega a € 7,5 mil; Itália, Alemanha e França são os destinos preferidos; agência da ONU entrevistou 1.045 migrantes afegãos.",
-      "published_at": "2026-11-25T12:00:00Z",
-      "region": "Europa",
-      "theme": "Direito Internacional e Instituições",
-      "source_name": "ONU News",
-      "source_id": "onu_news",
-      "is_brazilian": false,
-      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/18-03-2026_UNICEF_Afghanistan.jpg/image560x340cropped.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1505664194779-8beaceb93744?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Iêmen: chefe humanitário da ONU busca formas de salvar civis presos no conflito",
-      "link": "https://news.un.org/feed/view/pt/story/2026/11/1855006",
-      "summary": "Em visita ao país, Tom Fletcher quer negociar envio seguro de ajuda; milhares de pessoas estão sofrendo com falta de abastecimento de alimentos e medicamentos, especialmente na província de Taiz; mais de 350 mil crianças ficaram sem acesso a vacinas para sarampo e rubéola por causa da insegurança.",
-      "published_at": "2026-11-25T12:00:00Z",
-      "region": "Oriente Médio",
-      "theme": "Geopolítica e Segurança",
-      "source_name": "ONU News",
-      "source_id": "onu_news",
-      "is_brazilian": false,
-      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/11/05-11-2026-UNICEF-Yemen.jpg/image560x340cropped.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "129 mulheres e meninas são mortas todos os dias por parceiros ou familiares",
-      "link": "https://news.un.org/feed/view/pt/story/2026/11/1855003",
-      "summary": "Agências da ONU revelam que cerca de 47 mil mulheres foram assassinadas nessas circunstâncias em 2025; Escritório das Nações Unidas sobre Drogas e Crime e ONU Mulheres apontam o lar como o lugar mais perigoso para muitas delas.",
-      "published_at": "2026-11-25T12:00:00Z",
-      "region": "Global",
-      "theme": "Direito Internacional e Instituições",
-      "source_name": "ONU News",
-      "source_id": "onu_news",
-      "is_brazilian": false,
-      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/11/24-11-2026-UN-Women-GBV-04.jpg/image560x340cropped.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1505664194779-8beaceb93744?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Ebola: Fogo cruzado e mau tempo travam ajuda a equipes de saúde na RD Congo",
-      "link": "https://news.un.org/feed/view/pt/story/2026/11/1854998",
-      "summary": "Cercados por tiros e tempestades, pessoal de auxílio está ilhado em uma maternidade no leste congolês enquanto combate surto com mais de 5,6 mil mortes; até seis em cada 10 mulheres relatam aumento da violência na região.",
-      "published_at": "2026-11-25T12:00:00Z",
-      "region": "África",
-      "theme": "Saúde",
-      "source_name": "ONU News",
-      "source_id": "onu_news",
-      "is_brazilian": false,
-      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/09/10-09-2026-WFP_DRC_Ebola_Hotmeals_Preparation.jpg/image560x340cropped.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1584515901367-f1c2a12a50ea?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1505751172876-fa1923c5c528?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1584036561566-baf2418a7c21?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Guterres diz que violência a mulheres e meninas é “vergonha universal”",
-      "link": "https://news.un.org/feed/view/pt/story/2026/11/1854999",
-      "summary": "Em mensagem sobre o Dia Internacional para Eliminação da Violência contra Mulheres, líder da ONU falar em desmantelar “normas patriarcais”; modelo e ativista brasileira Luiza Brunet que sobreviveu violência de gênero fala à ONU News sobre o tema.",
-      "published_at": "2026-11-25T12:00:00Z",
-      "region": "América do Sul",
-      "theme": "Direito Internacional e Instituições",
-      "source_name": "ONU News",
-      "source_id": "onu_news",
-      "is_brazilian": false,
-      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/11/23-11-2026-UN-Women-Bangladesh.jpg/image560x340cropped.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1505664194779-8beaceb93744?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Sudan’s RSF kills at least 19 in drone attacks on Blue Nile state",
-      "link": "https://www.aljazeera.com/news/2026/11/25/overnight-rsf-drone-attacks-kill-19-in-sudan?traffic_source=rss",
-      "summary": "The attacks on Blue Nile state also wounded at least 20 people – in a drone war that is quickly escalating.",
-      "published_at": "2026-11-25T11:58:15Z",
-      "region": "África",
-      "theme": "Geopolítica e Segurança",
-      "source_name": "Al Jazeera",
-      "source_id": "aljazeera_english",
-      "is_brazilian": false,
-      "image_url": null,
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Rusia confirma \"contactos\" con representantes europeos sobre participación de la UE en el diálogo sobre Ucrania",
-      "link": "https://www.europapress.es/internacional/noticia-rusia-confirma-contactos-representantes-europeos-participacion-ue-dialogo-ucrania-20261125125356.html",
-      "summary": "El Kremlin ha confirmado este miércoles la existencia de \"contactos de trabajo\" con representantes europeos sobre la posible participación de la Unión Europea (UE) en el diálogo de paz en Ucrania, si bien ha remarcado que los mismos no han dado resultados por ahora, en medio del escepticismo de Moscú sobre el papel que pueda jugar el bloque en el proceso.",
-      "published_at": "2026-11-25T11:53:56Z",
-      "region": "Europa",
-      "theme": "Outros / Multitemático",
-      "source_name": "Europa Press",
-      "source_id": "europa_press",
-      "is_brazilian": false,
-      "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20261125125356_120.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Zelenski rechaza la \"frívola\" propuesta de Lukashenko de volar juntos a Rusia para un diálogo con Putin",
-      "link": "https://www.europapress.es/internacional/noticia-zelenski-rechaza-frivola-propuesta-lukashenko-volar-juntos-rusia-dialogo-putin-20261125125133.html",
-      "summary": "El presidente de Ucrania, Volodimir Zelenski, ha rechazado este miércoles la \"frívola\" propuesta de su homólogo de Bielorrusia, Alexander Lukashenko, para volar juntos a Rusia para un diálogo con el mandatario ruso, Vladimir Putin, sobre la guerra desatada en febrero de 2022 por la invasión de Ucrania.",
-      "published_at": "2026-11-25T11:51:33Z",
-      "region": "Europa",
-      "theme": "Política Internacional",
-      "source_name": "Europa Press",
-      "source_id": "europa_press",
-      "is_brazilian": false,
-      "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20261125125133_120.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Ex-England star Sterling given suspended sentence for dangerous driving",
-      "link": "https://www.aljazeera.com/sports/2026/11/25/ex-england-star-sterling-given-suspended-sentence-for-dangerous-driving?traffic_source=rss",
-      "summary": "Raheem Sterling admitted inhaling 'laughing ⁠gas' and driving erratically before ​crashing his car.",
-      "published_at": "2026-11-25T11:50:52Z",
-      "region": "Europa",
-      "theme": "Outros / Multitemático",
-      "source_name": "Al Jazeera",
-      "source_id": "aljazeera_english",
-      "is_brazilian": false,
-      "image_url": null,
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Republican wants FBI and CIA answers before questioning Nvidia chief",
-      "link": "https://www.npr.org/2026/11/25/nx-s1-6052417/nvidia-jensen-huang-reaction-republicans-congress-investigation",
-      "summary": "\"The public is rightly concerned,\" says the Republican lawmaker, who wants to know what the FBI and CIA knew about potential national security threats and whether Jensen Huang was warned.",
-      "published_at": "2026-11-25T11:50:05Z",
-      "region": "Global",
-      "theme": "Saúde",
-      "source_name": "NPR World News",
-      "source_id": "npr",
-      "is_brazilian": false,
-      "image_url": null,
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1584515901367-f1c2a12a50ea?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1505751172876-fa1923c5c528?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1584036561566-baf2418a7c21?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "‘A symbol of hope’: Pakistan celebrates as astronaut enters orbit",
-      "link": "https://www.france24.com/en/video/20261125-a-symbol-of-hope-pakistan-celebrates-as-astronaut-enters-orbit",
-      "summary": "Muhammad Zeeshan Ali has become the first Pakistani to reach orbit after blasting off on board a Chinese mission to the country’s Tiangong space station on Tuesday. The Pakistan Air Force pilot and payload specialist’s feat was celebrated by cheers and rapturous applause by those watching in his homeland.",
-      "published_at": "2026-11-25T11:48:37Z",
-      "region": "Ásia",
-      "theme": "Ciência, Tecnologia e Inovação",
-      "source_name": "France 24",
-      "source_id": "france24",
-      "is_brazilian": false,
-      "image_url": "https://s.france24.com/media/display/77194542-e8c5-11f1-ac34-29d00e23de9a/w:1024/p:16x9/Pakistan-astronaut-thumbnail.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1518770660439-4636190af475?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1507668077129-56e32842fceb?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Violence against women: Its many forms and the paths to justice",
-      "link": "https://www.france24.com/en/tv-shows/press-review/20261125-violence-against-women-its-many-forms-and-the-paths-to-justice",
-      "summary": "PRESS REVIEW – Wednesday, November 25: Some 21 percent of women say they have suffered \"economic violence\", while others are exploring new types of justice for their abusers. In other news, recent leaks on Russian troop losses show 349 deaths in Mali, Russia's biggest military deployment in Africa. As Spain prepares to head to the polls, Prime Minister Pedro Sanchez announces a raft of social measures. Finally, a plucky young cat from Essex has taken a train to London.",
-      "published_at": "2026-11-25T11:16:24Z",
-      "region": "Europa",
-      "theme": "Cultura, Mídia e Sociedade",
-      "source_name": "France 24",
-      "source_id": "france24",
-      "is_brazilian": false,
-      "image_url": "https://s.france24.com/media/display/39cb6dfe-e8b2-11f1-9f8b-29d00e23de9a/w:1024/p:16x9/capture-8d0eb86f.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1460661419201-fd4cecdf8a8b?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1508700115892-45ecd05ae2ad?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "A iraniana acusada de 'declarar guerra a Deus' após denunciar morte da filha",
-      "link": "https://www.bbc.com/portuguese/articles/c94gnk80med2o?at_medium=RSS&at_campaign=rss",
-      "summary": "Acusada de crimes que podem levar à pena de morte, Samira vive no exílio e divulga nomes de agentes que considera responsáveis pela repressão aos protestos que mataram sua filha, Sevda.",
-      "published_at": "2026-11-25T11:15:08Z",
-      "region": "Oriente Médio",
-      "theme": "Geopolítica e Segurança",
-      "source_name": "BBC News Brasil",
-      "source_id": "bbc_brasil",
-      "is_brazilian": true,
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/81df/live/6c995b00-d45e-11f1-93e1-3b657b665bcf.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Yemen's Houthis claim attacks on Riyadh financial district, Saudi refinery",
-      "link": "https://www.france24.com/en/video/20261125-yemen-s-houthis-claim-attacks-on-riyadh-financial-district-saudi-refinery",
-      "summary": "Yemen's Houthis on Wednesday claimed attacks targeting the financial district in the Saudi capital and the sprawling Ras Tanura refinery in the kingdom's oil-rich east, in retaliation for strikes on their territory. Houthi military spokesman Yahya Saree described the attack targeting the refinery as \"accurate and direct\", saying it \"caused fires to break out at the facility\". He said the attack on Riyadh was \"carried out in three phases, with strikes hitting their targets accurately\".",
-      "published_at": "2026-11-25T11:09:43Z",
-      "region": "Oriente Médio",
-      "theme": "Geopolítica e Segurança",
-      "source_name": "France 24",
-      "source_id": "france24",
-      "is_brazilian": false,
-      "image_url": "https://s.france24.com/media/display/641f92ec-e8b7-11f1-9625-29d00e23de9a/w:1024/p:16x9/EN-20261125-100213-100348-CS.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Greetings from Mount Kilimanjaro, Africa's highest point in all its splendor",
-      "link": "https://www.npr.org/2026/11/25/nx-s1-6051429/mount-kilimanjaro-africa-tanzania",
-      "summary": "Climbing tall mountains like Kilimanjaro is a study in contrasts — from beating sun to freezing nights, fire and snow.",
-      "published_at": "2026-11-25T11:00:00Z",
-      "region": "África",
-      "theme": "Outros / Multitemático",
-      "source_name": "NPR World News",
-      "source_id": "npr",
-      "is_brazilian": false,
-      "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1920x1080+0+0/resize/1400/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F98%2F31%2F6520f9574826bfd5bcbffd103b34%2Ffarflungpostcard-ef1.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Um ano após feminicídios no Cefet/RJ, denúncias de assédio seguem sem resposta",
-      "link": "https://www.dw.com/pt-br/um-ano-após-feminicídios-no-cefet-rj-denúncias-de-assédio-seguem-sem-resposta/a-80032239?maca=bra-rss-br-all-1030-rdf",
-      "summary": "Integrantes da comunidade do Cefet/RJ ouvidos pela DW denunciam que, desde os feminicídios cometidos dentro da instituição, pouco foi feito para prevenir assédios e investigar denúncias.",
-      "published_at": "2026-11-25T11:00:00Z",
-      "region": "Europa",
-      "theme": "Outros / Multitemático",
-      "source_name": "DW Brasil",
-      "source_id": "dw_brasil",
-      "is_brazilian": false,
-      "image_url": "https://static.dw.com/image/80036560_6.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Huawei found guilty of stealing US trade secrets but acquitted of racketeering",
-      "link": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss",
-      "summary": "The verdict follows a months-long trial in New York.",
-      "published_at": "2026-11-25T10:52:09Z",
-      "region": "América do Norte",
-      "theme": "Comércio e Finanças",
-      "source_name": "BBC World News",
-      "source_id": "bbc_world",
-      "is_brazilian": false,
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c0cb/live/da83bf80-e849-11f1-aa88-031e8213533d.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1578575437130-527eed3abbec?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1522071820081-009f0129c71c?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "O 'modelo Bukele' pode acabar com as gangues do Haiti?",
-      "link": "https://www.bbc.com/portuguese/watch/ck0jx47477g6o?at_medium=RSS&at_campaign=rss",
-      "summary": "Entenda neste vídeo quem são as gangues mais poderosas do Haiti e por que especialistas duvidam que atuação do presidente de El Salvador, Nayib Bukele, funcione no país.",
-      "published_at": "2026-11-25T10:48:34Z",
-      "region": "América Central",
-      "theme": "Política Brasileira",
-      "source_name": "BBC News Brasil",
-      "source_id": "bbc_brasil",
-      "is_brazilian": true,
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3d2c/live/5a0d47f0-e87a-11f1-aaa1-3d86cc5ffe7d.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Cyberattack exposes unclassified information from CIA system, US media reports",
-      "link": "https://www.france24.com/en/americas/20261125-cyberattack-exposes-unclassified-information-from-cia-system-us-media-reports",
-      "summary": "A recently discovered hack on a CIA analysis system exposed some unclassified information, US media reported on Tuesday. The breach is the latest in a series of cyber attacks that have targeted US government departments and major companies in recent weeks.",
-      "published_at": "2026-11-25T10:48:10Z",
-      "region": "América do Norte",
-      "theme": "Geopolítica e Segurança",
-      "source_name": "France 24",
-      "source_id": "france24",
-      "is_brazilian": false,
-      "image_url": "https://s.france24.com/media/display/2a246fea-e8bc-11f1-9c05-29d00e23de9a/w:1024/p:16x9/2026-11-24T215637Z-1247257564-RC2ONW92JHR0-RTRMADP-3-CYBERSECURITY-USA-BREACH.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1508847154043-be12a62861c1?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Como age o novo medicamento aprovado pela Anvisa para tratar câncer de mama",
-      "link": "https://www.dw.com/pt-br/como-age-o-novo-medicamento-aprovado-pela-anvisa-para-tratar-câncer-de-mama/a-80045897?maca=bra-rss-br-all-1030-rdf",
-      "summary": "Hertuzo tem como princípio ativo o pertuzumabe, que já está em uso no país. Chegada de novo medicamento, porém, pode reduzir o preço do tratamento e tornar terapia mais acessível.",
-      "published_at": "2026-11-25T10:48:00Z",
-      "region": "Europa",
-      "theme": "Saúde",
-      "source_name": "DW Brasil",
-      "source_id": "dw_brasil",
-      "is_brazilian": false,
-      "image_url": "https://static.dw.com/image/68610143_6.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1584515901367-f1c2a12a50ea?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1505751172876-fa1923c5c528?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1584036561566-baf2418a7c21?q=80&w=800&auto=format&fit=crop"
-      ]
-    },
-    {
-      "title": "Fact check: Deepfakes and 'US abandons Taiwan' claims spread ahead of vote",
-      "link": "https://www.dw.com/en/fact-check-deepfakes-and-us-abandons-taiwan-claims-spread-ahead-of-vote/a-80004834?maca=en-rss-en-world-4025-rdf",
-      "summary": "Ahead of local elections, Taiwan is seeing a surge in AI-generated attacks on mayoral candidate Puma Shen, alongside disinformation portraying the US as abandoning the island.",
-      "published_at": "2026-11-25T10:35:00Z",
-      "region": "América do Norte",
-      "theme": "Política Internacional",
-      "source_name": "DW World News",
-      "source_id": "dw_english",
-      "is_brazilian": false,
-      "image_url": "https://static.dw.com/image/80033774_6.jpg",
-      "fallback_images": [
-        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800&auto=format&fit=crop"
       ]
     }
   ]
